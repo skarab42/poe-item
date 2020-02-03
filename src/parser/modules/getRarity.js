@@ -2,11 +2,11 @@ module.exports = function getRarity() {
   const rarity = this.blocks
     .block(1)
     .line(1)
-    .prop("Rarity").value;
+    .prop("Rarity");
 
-  if (!rarity) {
+  if (!rarity.value) {
     this.unableToFindItemProp("Rarity");
   }
 
-  this.item.rarity = rarity;
+  this.item.rarity = rarity.value;
 };
