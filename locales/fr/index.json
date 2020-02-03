@@ -1,0 +1,16 @@
+{
+  "Rarity": "Rareté",
+
+  "Normal": "Normal",
+  "Magic": "Magique",
+  "Rare": "Rare",
+  "Unique": "Unique",
+
+  "Superior": "Supérieure",
+
+  "Name": "Nom",
+  "Base name": "Nom de base",
+
+  "Unable to find item \"{{propName}}\".": "Impossible de trouver l'élément \"{{propName}}\" de l'objet.",
+  "You have to implement the method \"parse\"!": "Vous devez implémenter la méthode \"parse\"!"
+}
