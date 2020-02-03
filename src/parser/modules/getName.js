@@ -12,7 +12,7 @@ module.exports = function getName() {
   const baseName = this.blocks.block(1).line(3);
   this.item.baseName = (baseName && baseName.toString()) || this.item.name;
 
-  if (this.item.rarity === this.i18n("Normal") || !this.item.identified) {
+  if (this.item.rarity === this.i18n("Normal") || !this.item.isIdentified) {
     const superior = this.i18n("Superior");
     const regexp = new RegExp(`${superior}`, "i");
     this.item.baseName = this.item.name.replace(regexp, "").trim();
