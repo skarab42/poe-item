@@ -5,6 +5,7 @@ const ItemBlocks = require("./ItemBlocks");
 class ItemParserBase {
   constructor(raw) {
     this.modules = {};
+    this.modulesQueue = [];
     this.i18n = i18n.__;
     this.init();
     this.item = new Item();
@@ -14,7 +15,14 @@ class ItemParserBase {
   init() {}
 
   bindModule(name, callback) {
+    this.modulesQueue.push(name);
     this.modules[name] = callback.bind(this);
+  }
+
+  runAllModules() {
+    this.modulesQueue.forEach(moduleName => {
+      this.modules[moduleName]();
+    });
   }
 
   unableToFindItemProp(propName) {
