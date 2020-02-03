@@ -46,9 +46,33 @@ async function getTradeDataFile(url, type) {
   return await getFile(`https://${url}/trade/data/${type}`);
 }
 
+function uniqueFilter(value, index, self) {
+  return self.indexOf(value) === index;
+}
+
 async function writeTradeDataFile(lang, url, type) {
   const data = await getTradeDataFile(url, type);
-  writeFile(lang, `${type}.json`, format(data.result));
+  let output = data.result;
+
+  if (type === "items") {
+    output = {};
+    data.result.forEach((item, i) => {
+      let label = item.label || "Uncategorized";
+      output[label] = [];
+
+      item.entries.forEach((entry, j) => {
+        if (entry.name) {
+          output[label].push(entry.name);
+        }
+
+        output[label].push(entry.type);
+      });
+
+      output[label] = output[label].filter(uniqueFilter);
+    });
+  }
+
+  writeFile(lang, `${type}.json`, format(output));
 }
 
 locales.forEach(async item => {
