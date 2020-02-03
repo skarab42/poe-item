@@ -1,0 +1,35 @@
+html,
+body,
+main {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.5rem;
+  background-color: #eee;
+}
+
+header {
+  color: #333;
+  padding: 1rem;
+  background-color: #ccc;
+}
+
+.flex {
+  flex: 1;
+  display: flex;
+}
+
+.flex.grow-0 {
+  flex-grow: 0;
+}
+
+.flex.row {
+  flex-direction: row;
+}
+
+.flex.col {
+  flex-direction: column;
+}

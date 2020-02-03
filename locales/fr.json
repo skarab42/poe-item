@@ -1,0 +1,7 @@
+{
+  "Corrupted": "Corrompu",
+  "Unidentified": "Non identifié",
+
+  "Unable to find item \"{{propName}}\".": "Impossible de trouver l'élément \"{{propName}}\" de l'objet.",
+  "You have to implement the method \"parse\"!": "Vous devez implémenter la méthode \"parse\"!"
+}

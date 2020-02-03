@@ -1,0 +1,14 @@
+{
+  "name": "poe-item",
+  "version": "0.1.0",
+  "description": "Path of Exile Item Parser",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "budo ./src/index.js --dir ./dist --live --open"
+  },
+  "author": "Sébastien Mischler (skarab|Lautr3k)",
+  "license": "MIT",
+  "dependencies": {
+    "budo": "^11.6.3"
+  }
+}
