@@ -64,30 +64,3 @@ locales.forEach(async item => {
     await writeTradeDataFile(lang, apiUrl, "static");
   }
 });
-
-// function getFile(lang, apiUrl, uri, output) {
-//   const url = `https://${apiUrl}/${uri}`;
-//   console.log("GET:", url);
-//   axios
-//     .get(url)
-//     .then(response => {
-//       const path = `./locales/${lang}`;
-//       const file = `${path}/${output}.json`;
-//       const data = format(response.data.result);
-//       !fs.existsSync(path) && fs.mkdirSync(path);
-//       fs.writeFileSync(file, data);
-//       console.log("WRITED:", file);
-//     })
-//     .catch(error => {
-//       console.log("ERROR:", error);
-//     });
-// }
-//
-// locales.forEach(locale => {
-//   // getFile(locale[0], locale[3], "trade/data/items", "items");
-//   // getFile(locale[0], locale[3], "trade/data/stats", "stats");
-//   // getFile(locale[0], locale[3], "trade/data/static", "static");
-//   if (locale[0] !== "us") {
-//     getFile(locale[0], translateUrl, `translate.${locale[1]}.js`, "sentences");
-//   }
-// });
