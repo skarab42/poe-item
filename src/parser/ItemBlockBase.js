@@ -15,18 +15,18 @@ class ItemBlockBase {
 
   prop(name) {
     const propName = i18n.__(name);
-    const pattern = `${propName} ?(.+)?: (.+)`;
+    const pattern = `${propName}([^:]+)?:(.+)`;
     const matches = this.lineMatch(pattern, "mi");
 
-    if (!matches) {
-      return null;
+    let value = null;
+    let extra = null;
+
+    if (matches) {
+      value = (matches[2] + "").trim();
+      extra = (matches[1] + "").trim().replace(/^\(|\)$/g, "");
     }
 
-    if (!matches[1]) {
-      return matches[2];
-    }
-
-    return [matches[1].replace(/^\(|\)$/g, ""), matches[2]];
+    return { name, propName, value, extra };
   }
 
   toString() {
