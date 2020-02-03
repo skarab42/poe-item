@@ -1058,13 +1058,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3604946673",
-        "text": "장착된 소환수 스킬 젬 레벨 #",
+        "id": "explicit.stat_2915988346",
+        "text": "화염 및 냉기 저항 #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2915988346",
-        "text": "화염 및 냉기 저항 #%",
+        "id": "explicit.stat_3604946673",
+        "text": "장착된 소환수 스킬 젬 레벨 #",
         "type": "explicit"
       },
       {
@@ -2298,6 +2298,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_219391121",
+        "text": "물리 피해의 #%를 추가 번개 피해로 획득",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3964634628",
         "text": "주문 및 공격 시 #~#의 화염 피해 추가",
         "type": "explicit"
@@ -2413,11 +2418,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_219391121",
-        "text": "물리 피해의 #%를 추가 번개 피해로 획득",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_4262448838",
         "text": "#%의 확률로 기절 회피",
         "type": "explicit"
@@ -2523,6 +2523,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3811191316",
+        "text": "소환수의 효과 범위 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_828179689",
         "text": "냉각 효과 #% 증가",
         "type": "explicit"
@@ -2615,11 +2620,6 @@
       {
         "id": "explicit.stat_1089165168",
         "text": "태고의",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3811191316",
-        "text": "소환수의 효과 범위 #% 증가",
         "type": "explicit"
       },
       {
@@ -3128,6 +3128,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_438778966",
+        "text": "장착된 젬에 #레벨 주문 메아리 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_392168009",
         "text": "모든 플라스크 효과를 받는 동안 카오스 저항 #%",
         "type": "explicit"
@@ -3483,13 +3488,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2387423236",
-        "text": "#~#의 냉기 피해 추가",
+        "id": "explicit.stat_2808735733",
+        "text": "지역에 대형 상자 등장",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2808735733",
-        "text": "지역에 대형 상자 등장",
+        "id": "explicit.stat_2387423236",
+        "text": "#~#의 냉기 피해 추가",
         "type": "explicit"
       },
       {
@@ -3783,13 +3788,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1248507170",
-        "text": "반경 내 힘이 40 이상인 경우, 회전베기로 명중 시 방어 상승 적용",
+        "id": "explicit.stat_2431643207",
+        "text": "소환수의 공격 명중 시 #%의 확률로 실명",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2431643207",
-        "text": "소환수의 공격 명중 시 #%의 확률로 실명",
+        "id": "explicit.stat_1248507170",
+        "text": "반경 내 힘이 40 이상인 경우, 회전베기로 명중 시 방어 상승 적용",
         "type": "explicit"
       },
       {
@@ -3865,11 +3870,6 @@
       {
         "id": "explicit.stat_133683091",
         "text": "마법봉 공격 시 #~#의 물리 피해 추가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_438778966",
-        "text": "장착된 젬에 #레벨 주문 메아리 보조 효과 적용",
         "type": "explicit"
       },
       {
@@ -4348,13 +4348,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4082111882",
-        "text": "생명력이 최대일 때 회피 #",
+        "id": "explicit.stat_2466604008",
+        "text": "주 무기 사용 시 연쇄 공격 1회 추가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2466604008",
-        "text": "주 무기 사용 시 연쇄 공격 1회 추가",
+        "id": "explicit.stat_4082111882",
+        "text": "생명력이 최대일 때 회피 #",
         "type": "explicit"
       },
       {
@@ -4898,13 +4898,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1169502663",
-        "text": "#레벨 동상 스킬 사용 가능",
+        "id": "explicit.stat_749770518",
+        "text": "장착된 젬에 #레벨 영감 보조 효과 적용",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_749770518",
-        "text": "장착된 젬에 #레벨 영감 보조 효과 적용",
+        "id": "explicit.stat_1169502663",
+        "text": "#레벨 동상 스킬 사용 가능",
         "type": "explicit"
       },
       {
@@ -5518,13 +5518,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2687254633",
-        "text": "플라스크 효과를 받는 동안 번개 피해의 #%를 생명력으로 흡수",
+        "id": "explicit.stat_974757096",
+        "text": "광란 시 #레벨 춤추는 수도승 출현 발동",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_974757096",
-        "text": "광란 시 #레벨 춤추는 수도승 출현 발동",
+        "id": "explicit.stat_2687254633",
+        "text": "플라스크 효과를 받는 동안 번개 피해의 #%를 생명력으로 흡수",
         "type": "explicit"
       },
       {
@@ -5638,13 +5638,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_308396001",
-        "text": "최근 4초 이내 피격되지 않은 경우 이동 속도 #% 증가",
+        "id": "explicit.stat_3769854701",
+        "text": "생명력 흡수 불가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3769854701",
-        "text": "생명력 흡수 불가",
+        "id": "explicit.stat_308396001",
+        "text": "최근 4초 이내 피격되지 않은 경우 이동 속도 #% 증가",
         "type": "explicit"
       },
       {
@@ -5838,13 +5838,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_630867098",
-        "text": "반경 내 민첩이 40 이상이면 연발 사격의 첫 번째와 마지막 공격 시 추가 투사체를 동시에 발사",
+        "id": "explicit.stat_98977150",
+        "text": "고통의 조율",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_98977150",
-        "text": "고통의 조율",
+        "id": "explicit.stat_630867098",
+        "text": "반경 내 민첩이 40 이상이면 연발 사격의 첫 번째와 마지막 공격 시 추가 투사체를 동시에 발사",
         "type": "explicit"
       },
       {
@@ -5903,13 +5903,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3653191834",
-        "text": "얼음 지대에 영향받지 않음",
+        "id": "explicit.stat_2921373173",
+        "text": "자신의 다른 반지가 엘더 아이템인 경우 주문 피해 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2921373173",
-        "text": "자신의 다른 반지가 엘더 아이템인 경우 주문 피해 #% 증가",
+        "id": "explicit.stat_3653191834",
+        "text": "얼음 지대에 영향받지 않음",
         "type": "explicit"
       },
       {
@@ -6008,13 +6008,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2415398184",
-        "text": "힘이 200 이상인 상태에서 모든 원소 저항 #%",
+        "id": "explicit.stat_215346464",
+        "text": "감전된 후 #초 동안 감전 면역",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_215346464",
-        "text": "감전된 후 #초 동안 감전 면역",
+        "id": "explicit.stat_2415398184",
+        "text": "힘이 200 이상인 상태에서 모든 원소 저항 #%",
         "type": "explicit"
       },
       {
@@ -6303,13 +6303,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1243237244",
-        "text": "근접 공격자에게 #~#의 번개 피해 반사",
+        "id": "explicit.stat_1488891279",
+        "text": "보조 장비로 착용하고 적 명중 시 #초 동안 적 냉각",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1488891279",
-        "text": "보조 장비로 착용하고 적 명중 시 #초 동안 적 냉각",
+        "id": "explicit.stat_1243237244",
+        "text": "근접 공격자에게 #~#의 번개 피해 반사",
         "type": "explicit"
       },
       {
@@ -6843,13 +6843,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3413085237",
-        "text": "해골의 공격 속도 #% 증가",
+        "id": "explicit.stat_715256302",
+        "text": "장착된 젬에 #레벨 포악함 보조 효과 적용",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_715256302",
-        "text": "장착된 젬에 #레벨 포악함 보조 효과 적용",
+        "id": "explicit.stat_3413085237",
+        "text": "해골의 공격 속도 #% 증가",
         "type": "explicit"
       },
       {
@@ -6998,6 +6998,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_1175213674",
+        "text": "피격 시 원소 피해의 #%를 카오스 피해로 받음",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1958210928",
         "text": "소환된 해골이 불의 화신 획득",
         "type": "explicit"
@@ -7010,11 +7015,6 @@
       {
         "id": "explicit.stat_254728692",
         "text": "장착된 젬에 #레벨 관통 보조 효과 적용",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1175213674",
-        "text": "피격 시 원소 피해의 #%를 카오스 피해로 받음",
         "type": "explicit"
       },
       {
@@ -7198,23 +7198,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3206381437",
-        "text": "근접 피해로 적 기절 시 #%의 확률로 방어 상승 획득",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1436284579",
         "text": "실명 면역",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_825352061",
-        "text": "#레벨 죽음의 오라 스킬 사용 가능",
+        "id": "explicit.stat_3206381437",
+        "text": "근접 피해로 적 기절 시 #%의 확률로 방어 상승 획득",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_1950806024",
         "text": "지속 냉기 피해 배율 #%",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_825352061",
+        "text": "#레벨 죽음의 오라 스킬 사용 가능",
         "type": "explicit"
       },
       {
@@ -7678,13 +7678,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_93696421",
-        "text": "회피 450당 공격 피해 #% 증가",
+        "id": "explicit.stat_3408048164",
+        "text": "권능 충전 하나당 주문 시전 시 최소 #의 냉기 피해 추가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3408048164",
-        "text": "권능 충전 하나당 주문 시전 시 최소 #의 냉기 피해 추가",
+        "id": "explicit.stat_93696421",
+        "text": "회피 450당 공격 피해 #% 증가",
         "type": "explicit"
       },
       {
@@ -7728,13 +7728,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3880462354",
-        "text": "#레벨 재의 전령 스킬 사용 가능",
+        "id": "explicit.stat_2262007777",
+        "text": "즉시 회복 이외의 플라스크 마나 회복이 생명력도 함께 회복",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2262007777",
-        "text": "즉시 회복 이외의 플라스크 마나 회복이 생명력도 함께 회복",
+        "id": "explicit.stat_3880462354",
+        "text": "#레벨 재의 전령 스킬 사용 가능",
         "type": "explicit"
       },
       {
@@ -7798,13 +7798,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1920234902",
-        "text": "최근 4초 이내 피격 시 인내 충전 하나당 1초마다 #의 화염 피해를 받음",
+        "id": "explicit.stat_2538694749",
+        "text": "클로를 쌍수로 사용 시 공격 피해를 막아낼 확률 #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2538694749",
-        "text": "클로를 쌍수로 사용 시 공격 피해를 막아낼 확률 #%",
+        "id": "explicit.stat_1920234902",
+        "text": "최근 4초 이내 피격 시 인내 충전 하나당 1초마다 #의 화염 피해를 받음",
         "type": "explicit"
       },
       {
@@ -8173,13 +8173,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_899293871",
-        "text": "치명타 공격 시 #레벨 신성 발동",
+        "id": "explicit.stat_347328113",
+        "text": "감전된 적 처치 시 에너지 보호막 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_347328113",
-        "text": "감전된 적 처치 시 에너지 보호막 #",
+        "id": "explicit.stat_899293871",
+        "text": "치명타 공격 시 #레벨 신성 발동",
         "type": "explicit"
       },
       {
@@ -8643,6 +8643,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_710105516",
+        "text": "얼음 지대에서 초당 생명력의 #% 재생",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_777246604",
         "text": "소환한 좀비 1마리당 소환수 지속시간 #% 증가",
         "type": "explicit"
@@ -8678,6 +8683,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3678841229",
+        "text": "감전 지대에서 이동 속도 #% 증가",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1345113611",
         "text": "#% 증폭된 피해를 주고 피해를 주지 않는 상태 이상 효과 부여",
         "type": "explicit"
@@ -8685,11 +8695,6 @@
       {
         "id": "explicit.stat_99487834",
         "text": "스킬 사용 시 마나 소모의 #%를 물리 피해로 받음",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3678841229",
-        "text": "감전 지대에서 이동 속도 #% 증가",
         "type": "explicit"
       },
       {
@@ -9010,11 +9015,6 @@
       {
         "id": "explicit.stat_3433724931",
         "text": "명중 시 적이 #레벨 시간의 사슬 저주에 걸림",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_710105516",
-        "text": "얼음 지대에서 초당 생명력의 #% 재생",
         "type": "explicit"
       },
       {
@@ -9883,13 +9883,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1872128565",
-        "text": "장착한 엘더 또는 쉐이퍼 아이템 하나당 착취 충전 최대치 #",
+        "id": "explicit.stat_708913352",
+        "text": "16초마다 8초 동안 원소 과부하 획득",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_708913352",
-        "text": "16초마다 8초 동안 원소 과부하 획득",
+        "id": "explicit.stat_1872128565",
+        "text": "장착한 엘더 또는 쉐이퍼 아이템 하나당 착취 충전 최대치 #",
         "type": "explicit"
       },
       {
@@ -10069,13 +10069,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1745952865",
-        "text": "원소 상태 이상 지속시간 #% 감소",
+        "id": "explicit.stat_1258679667",
+        "text": "확고한 기술이 지속되는 동안 물리 피해 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1258679667",
-        "text": "확고한 기술이 지속되는 동안 물리 피해 #% 증가",
+        "id": "explicit.stat_1745952865",
+        "text": "원소 상태 이상 지속시간 #% 감소",
         "type": "explicit"
       },
       {
@@ -10139,13 +10139,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4089969970",
-        "text": "최근 4초 이내 시신을 소모한 경우 자신 및 주변 동료들이 초당 생명력의 #% 재생",
+        "id": "explicit.stat_328131617",
+        "text": "1초마다 혼백 충전 획득",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_328131617",
-        "text": "1초마다 혼백 충전 획득",
+        "id": "explicit.stat_4089969970",
+        "text": "최근 4초 이내 시신을 소모한 경우 자신 및 주변 동료들이 초당 생명력의 #% 재생",
         "type": "explicit"
       },
       {
@@ -10454,13 +10454,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4250009622",
-        "text": "중독될 확률 #%",
+        "id": "explicit.stat_1746347097",
+        "text": "새의 위상 버프 효과 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1746347097",
-        "text": "새의 위상 버프 효과 #% 증가",
+        "id": "explicit.stat_4250009622",
+        "text": "중독될 확률 #%",
         "type": "explicit"
       },
       {
@@ -10479,13 +10479,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2319127046",
-        "text": "몬스터의 화염 저항 +#%",
+        "id": "explicit.stat_2629366488",
+        "text": "장착된 붉은 젬으로 물리 피해의 #%를 추가 화염 피해로 획득",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2629366488",
-        "text": "장착된 붉은 젬으로 물리 피해의 #%를 추가 화염 피해로 획득",
+        "id": "explicit.stat_2319127046",
+        "text": "몬스터의 화염 저항 +#%",
         "type": "explicit"
       },
       {
@@ -10849,13 +10849,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_608963131",
-        "text": "적 점화 시 #초 동안 여신의 포옹 획득",
+        "id": "explicit.stat_2584264074",
+        "text": "최근 4초 이내 공격 피해를 막지 못한 경우 최대 확률로 공격 피해를 막아냄",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2584264074",
-        "text": "최근 4초 이내 공격 피해를 막지 못한 경우 최대 확률로 공격 피해를 막아냄",
+        "id": "explicit.stat_608963131",
+        "text": "적 점화 시 #초 동안 여신의 포옹 획득",
         "type": "explicit"
       },
       {
@@ -10879,13 +10879,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_207573834",
-        "text": "플라스크 효과를 받는 동안 불경한 힘 획득",
+        "id": "explicit.stat_2054257693",
+        "text": "치명타 공격 시 #%의 확률로 적 출혈 유발",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2054257693",
-        "text": "치명타 공격 시 #%의 확률로 적 출혈 유발",
+        "id": "explicit.stat_207573834",
+        "text": "플라스크 효과를 받는 동안 불경한 힘 획득",
         "type": "explicit"
       },
       {
@@ -10964,13 +10964,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4259701244",
-        "text": "활력의 영향을 받는 동안 명중한 적 하나당 생명력 #",
+        "id": "explicit.stat_2137878565",
+        "text": "희귀 몬스터 명중 시 피해 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2137878565",
-        "text": "희귀 몬스터 명중 시 피해 #% 증가",
+        "id": "explicit.stat_4259701244",
+        "text": "활력의 영향을 받는 동안 명중한 적 하나당 생명력 #",
         "type": "explicit"
       },
       {
@@ -11104,13 +11104,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2723101291",
-        "text": "최근 4초 이내 치명타 공격 시 #~#의 물리 피해 추가",
+        "id": "explicit.stat_3205239847",
+        "text": "피격 시 화염 피해의 #%를 물리 피해로 받음",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3205239847",
-        "text": "피격 시 화염 피해의 #%를 물리 피해로 받음",
+        "id": "explicit.stat_2723101291",
+        "text": "최근 4초 이내 치명타 공격 시 #~#의 물리 피해 추가",
         "type": "explicit"
       },
       {
@@ -11274,13 +11274,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1560880986",
-        "text": "이 무기로 유발한 출혈 피해 #%의 확률로 100% 증폭",
+        "id": "explicit.stat_996483959",
+        "text": "치명타 공격 시 #%의 확률로 적 힘줄 절단",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_996483959",
-        "text": "치명타 공격 시 #%의 확률로 적 힘줄 절단",
+        "id": "explicit.stat_1560880986",
+        "text": "이 무기로 유발한 출혈 피해 #%의 확률로 100% 증폭",
         "type": "explicit"
       },
       {
@@ -11304,13 +11304,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4265906483",
-        "text": "명중 시 #%의 확률로 번개 노출 유발",
+        "id": "explicit.stat_2280488002",
+        "text": "기절 한계치는 자신의 생명력 대신 마나의 #%를 기반으로 적용",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2280488002",
-        "text": "기절 한계치는 자신의 생명력 대신 마나의 #%를 기반으로 적용",
+        "id": "explicit.stat_4265906483",
+        "text": "명중 시 #%의 확률로 번개 노출 유발",
         "type": "explicit"
       },
       {
@@ -11389,13 +11389,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3350228283",
-        "text": "중독 상태의 적 처치 시 산산조각남",
+        "id": "explicit.stat_150668988",
+        "text": "장착된 덫 또는 지뢰 스킬 젬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_150668988",
-        "text": "장착된 덫 또는 지뢰 스킬 젬 레벨 #",
+        "id": "explicit.stat_3350228283",
+        "text": "중독 상태의 적 처치 시 산산조각남",
         "type": "explicit"
       },
       {
@@ -11459,13 +11459,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2970902024",
-        "text": "명중한 적이 사망 시 폭발",
+        "id": "explicit.stat_2308278768",
+        "text": "여정 스킬의 재사용 대기시간 회복 속도 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2308278768",
-        "text": "여정 스킬의 재사용 대기시간 회복 속도 #% 증가",
+        "id": "explicit.stat_2970902024",
+        "text": "명중한 적이 사망 시 폭발",
         "type": "explicit"
       },
       {
@@ -11549,13 +11549,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_273206351",
-        "text": "거미줄의 영향을 받는 적 명중 시 #%의 확률로 권능 충전 획득",
+        "id": "explicit.stat_1827657795",
+        "text": "모든 플라스크 효과를 받는 동안 에너지 보호막 재충전 속도 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1827657795",
-        "text": "모든 플라스크 효과를 받는 동안 에너지 보호막 재충전 속도 #% 증가",
+        "id": "explicit.stat_273206351",
+        "text": "거미줄의 영향을 받는 적 명중 시 #%의 확률로 권능 충전 획득",
         "type": "explicit"
       },
       {
@@ -11624,13 +11624,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4234677275",
-        "text": "장착한 아이템이 모두 쉐이퍼 아이템일 경우, 명중 시 적 몬스터의 카오스 저항을 무시함",
+        "id": "explicit.stat_2896192589",
+        "text": "치명타 공격 시 #% 확률로 도피 획득",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2896192589",
-        "text": "치명타 공격 시 #% 확률로 도피 획득",
+        "id": "explicit.stat_4234677275",
+        "text": "장착한 아이템이 모두 쉐이퍼 아이템일 경우, 명중 시 적 몬스터의 카오스 저항을 무시함",
         "type": "explicit"
       },
       {
@@ -11654,13 +11654,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3337107517",
-        "text": "분노의 영향을 받는 동안 화염 피해 #% 증가",
+        "id": "explicit.stat_1829869055",
+        "text": "게의 보호막 획득 시\n#%의 확률로 게의 보호막 최대치 획득",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1829869055",
-        "text": "게의 보호막 획득 시\n#%의 확률로 게의 보호막 최대치 획득",
+        "id": "explicit.stat_3337107517",
+        "text": "분노의 영향을 받는 동안 화염 피해 #% 증가",
         "type": "explicit"
       },
       {
@@ -12639,13 +12639,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_949718413",
-        "text": "번개 스킬 명중 시 #%의 확률로 적 중독",
+        "id": "explicit.stat_16924183",
+        "text": "시신 없이도 좀비 소환 가능",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_16924183",
-        "text": "시신 없이도 좀비 소환 가능",
+        "id": "explicit.stat_949718413",
+        "text": "번개 스킬 명중 시 #%의 확률로 적 중독",
         "type": "explicit"
       },
       {
@@ -12754,13 +12754,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1681904129",
-        "text": "장착된 젬의 치명타 확률 +3.5%",
+        "id": "explicit.stat_1827636152",
+        "text": "소환될 때 소환수가 플레이어의 플라스크 사용",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1827636152",
-        "text": "소환될 때 소환수가 플레이어의 플라스크 사용",
+        "id": "explicit.stat_1681904129",
+        "text": "장착된 젬의 치명타 확률 +3.5%",
         "type": "explicit"
       },
       {
@@ -13034,13 +13034,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3835483564",
-        "text": "증오의 마나 점유 #% 감소",
+        "id": "explicit.stat_763611529",
+        "text": "명중 시 #%의 확률로 4초 동안 적 낙담",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_763611529",
-        "text": "명중 시 #%의 확률로 4초 동안 적 낙담",
+        "id": "explicit.stat_3835483564",
+        "text": "증오의 마나 점유 #% 감소",
         "type": "explicit"
       },
       {
@@ -13159,11 +13159,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2955966707",
-        "text": "자신에게 걸린 냉각 효과 반전",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_897996059",
         "text": "생명력이 점유되지 않은 상태에서 주문 시전 시 #~#의 냉기 피해 추가",
         "type": "explicit"
@@ -13171,6 +13166,11 @@
       {
         "id": "explicit.stat_3470457445",
         "text": "카오스 피해로 점화, 냉각 및 감전 유발",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2955966707",
+        "text": "자신에게 걸린 냉각 효과 반전",
         "type": "explicit"
       },
       {
@@ -13249,13 +13249,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3097206473",
-        "text": "희귀 균열 몬스터가 균열 파편을 추가로 떨어뜨림",
+        "id": "explicit.stat_1726444796",
+        "text": "명중 시 저주에 걸리지 않은 적이 #%의 확률로 무작위 저주에 걸림",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1726444796",
-        "text": "명중 시 저주에 걸리지 않은 적이 #%의 확률로 무작위 저주에 걸림",
+        "id": "explicit.stat_3097206473",
+        "text": "희귀 균열 몬스터가 균열 파편을 추가로 떨어뜨림",
         "type": "explicit"
       },
       {
@@ -13304,13 +13304,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2071120096",
-        "text": "자신의 공물이 자신에게 미치는 효과 #% 증가",
+        "id": "explicit.stat_354080151",
+        "text": "내면의 신념(Inner Conviction)",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_354080151",
-        "text": "내면의 신념(Inner Conviction)",
+        "id": "explicit.stat_2071120096",
+        "text": "자신의 공물이 자신에게 미치는 효과 #% 증가",
         "type": "explicit"
       },
       {
@@ -13344,13 +13344,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2788729902",
-        "text": "장착된 젬 연쇄 #회 추가",
+        "id": "explicit.stat_1037449707",
+        "text": "금고가 마법 금고",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1037449707",
-        "text": "금고가 마법 금고",
+        "id": "explicit.stat_2788729902",
+        "text": "장착된 젬 연쇄 #회 추가",
         "type": "explicit"
       },
       {
@@ -13439,13 +13439,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3387914367",
-        "text": "지역에 수호자의 운반자들 혈맹 무리 등장",
+        "id": "explicit.stat_4169430079",
+        "text": "장착한 타락 아이템 하나당 최대 생명력 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4169430079",
-        "text": "장착한 타락 아이템 하나당 최대 생명력 #% 증가",
+        "id": "explicit.stat_3387914367",
+        "text": "지역에 수호자의 운반자들 혈맹 무리 등장",
         "type": "explicit"
       },
       {
@@ -13484,13 +13484,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3095345438",
-        "text": "이 무기로 적 명중 시 점화된 적에게 주는 피해 #% 증가",
+        "id": "explicit.stat_2936435999",
+        "text": "초당 마나의 #% 손실",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2936435999",
-        "text": "초당 마나의 #% 손실",
+        "id": "explicit.stat_3095345438",
+        "text": "이 무기로 적 명중 시 점화된 적에게 주는 피해 #% 증가",
         "type": "explicit"
       },
       {
@@ -13539,13 +13539,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3563824294",
-        "text": "처치 시 #%의 확률로 4초 동안 맹공 획득",
+        "id": "explicit.stat_3171958921",
+        "text": "활로 공격 시 #%의 확률로 장착된 활 스킬 발동",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3171958921",
-        "text": "활로 공격 시 #%의 확률로 장착된 활 스킬 발동",
+        "id": "explicit.stat_3563824294",
+        "text": "처치 시 #%의 확률로 4초 동안 맹공 획득",
         "type": "explicit"
       },
       {
@@ -13564,13 +13564,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1282689888",
-        "text": "#%의 확률로 주문 적중 완벽회피",
+        "id": "explicit.stat_600723636",
+        "text": "탈주 유배자가 화폐 아이템 #개를 추가로 떨어뜨림",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_600723636",
-        "text": "탈주 유배자가 화폐 아이템 #개를 추가로 떨어뜨림",
+        "id": "explicit.stat_1282689888",
+        "text": "#%의 확률로 주문 적중 완벽회피",
         "type": "explicit"
       },
       {
@@ -13579,13 +13579,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3545269928",
-        "text": "권능 충전 하나당 자신의 도피 효과 범위 #% 증가",
+        "id": "explicit.stat_2238831336",
+        "text": "격분 충전 최대치가 권능 충전 최대치와 동일",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2238831336",
-        "text": "격분 충전 최대치가 권능 충전 최대치와 동일",
+        "id": "explicit.stat_3545269928",
+        "text": "권능 충전 하나당 자신의 도피 효과 범위 #% 증가",
         "type": "explicit"
       },
       {
@@ -13599,13 +13599,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4284915962",
-        "text": "지능 2당 생명력 최대치 #",
+        "id": "explicit.stat_1960833438",
+        "text": "에너지 보호막 최대치 500당 초당 생명력의 #% 재생",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1960833438",
-        "text": "에너지 보호막 최대치 500당 초당 생명력의 #% 재생",
+        "id": "explicit.stat_4284915962",
+        "text": "지능 2당 생명력 최대치 #",
         "type": "explicit"
       },
       {
@@ -13649,13 +13649,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1509756274",
-        "text": "자신이 건 저주에 영향을 받는 시신 근처의 적 실명\n자신이 건 저주에 영향을 받는 시신 근처에 있는 적 사망 시 폭발하여 \n생명력의 #%를 물리 피해로 줌",
+        "id": "explicit.stat_2189382346",
+        "text": "권능 충전 하나당 에너지 보호막 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2189382346",
-        "text": "권능 충전 하나당 에너지 보호막 #% 증가",
+        "id": "explicit.stat_1509756274",
+        "text": "자신이 건 저주에 영향을 받는 시신 근처의 적 실명\n자신이 건 저주에 영향을 받는 시신 근처에 있는 적 사망 시 폭발하여 \n생명력의 #%를 물리 피해로 줌",
         "type": "explicit"
       },
       {
@@ -13709,13 +13709,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_592020238",
-        "text": "생명력이 최대일 때 피해 #% 증가",
+        "id": "explicit.stat_3100523498",
+        "text": "장착한 타락한 아이템 하나당 모든 저항 #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3100523498",
-        "text": "장착한 타락한 아이템 하나당 모든 저항 #%",
+        "id": "explicit.stat_592020238",
+        "text": "생명력이 최대일 때 피해 #% 증가",
         "type": "explicit"
       },
       {
@@ -13744,13 +13744,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2420786978",
-        "text": "덫 투척 스킬에 혈마법 추가",
+        "id": "explicit.stat_4040152475",
+        "text": "플레이어가 점화 효과에 걸린 동안 적 화염 저항 무시",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4040152475",
-        "text": "플레이어가 점화 효과에 걸린 동안 적 화염 저항 무시",
+        "id": "explicit.stat_2420786978",
+        "text": "덫 투척 스킬에 혈마법 추가",
         "type": "explicit"
       },
       {
@@ -13774,13 +13774,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_995332031",
-        "text": "장착된 젬에 #레벨 소환수 속도 보조 효과 적용",
+        "id": "explicit.stat_3551025193",
+        "text": "주문 피해를 막아낼 시 불운일 확률",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3551025193",
-        "text": "주문 피해를 막아낼 시 불운일 확률",
+        "id": "explicit.stat_995332031",
+        "text": "장착된 젬에 #레벨 소환수 속도 보조 효과 적용",
         "type": "explicit"
       },
       {
@@ -13789,13 +13789,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_200299748",
-        "text": "혈맹 무리 처치 시 화폐 아이템을 떨어뜨림",
+        "id": "explicit.stat_2305944553",
+        "text": "사용 시 성소에서 화폐 아이템이 추가로 떨어짐",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2305944553",
-        "text": "사용 시 성소에서 화폐 아이템이 추가로 떨어짐",
+        "id": "explicit.stat_200299748",
+        "text": "혈맹 무리 처치 시 화폐 아이템을 떨어뜨림",
         "type": "explicit"
       },
       {
@@ -13844,18 +13844,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_195090426",
-        "text": "왼쪽 반지 슬롯: 마나 재생 속도 #%",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1550221644",
         "text": "어장 소비 #% 감소",
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_195090426",
+        "text": "왼쪽 반지 슬롯: 마나 재생 속도 #%",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2290031712",
         "text": "힘에 따른 생명력 최대치 보너스 없음",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2119664154",
+        "text": "격분 충전 획득 시 #%의 확률로 격분 충전 최대치 획득",
         "type": "explicit"
       },
       {
@@ -13869,13 +13874,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2119664154",
-        "text": "격분 충전 획득 시 #%의 확률로 격분 충전 최대치 획득",
+        "id": "explicit.stat_2713233613",
+        "text": "인내 충전 획득 시 #%의 확률로 인내 충전 최대치 획득",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2713233613",
-        "text": "인내 충전 획득 시 #%의 확률로 인내 충전 최대치 획득",
+        "id": "explicit.stat_1092546321",
+        "text": "생명력 및 에너지 보호막 회복 속도 #% 증가",
         "type": "explicit"
       },
       {
@@ -13886,11 +13891,6 @@
       {
         "id": "explicit.stat_1224928411",
         "text": "반경 내 번개 저항 또는 모든 원소 저항을 제공하는 패시브 스킬이\n해당 수치의 #%만큼을 주문 피해 막기 확률로 제공",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1092546321",
-        "text": "생명력 및 에너지 보호막 회복 속도 #% 증가",
         "type": "explicit"
       },
       {
@@ -13919,13 +13919,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_660404777",
-        "text": "격분 충전 하나당 회피 #% 증가",
+        "id": "explicit.stat_3726536628",
+        "text": "적 도발 시 생명력 # 획득",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3726536628",
-        "text": "적 도발 시 생명력 # 획득",
+        "id": "explicit.stat_660404777",
+        "text": "격분 충전 하나당 회피 #% 증가",
         "type": "explicit"
       },
       {
@@ -14004,13 +14004,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3600749521",
-        "text": "진노의 마나 점유 #% 감소",
+        "id": "explicit.stat_1550015622",
+        "text": "최근 4초 이내 치명타 공격 시 주문 피해 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1550015622",
-        "text": "최근 4초 이내 치명타 공격 시 주문 피해 #% 증가",
+        "id": "explicit.stat_3600749521",
+        "text": "진노의 마나 점유 #% 감소",
         "type": "explicit"
       },
       {
@@ -14049,13 +14049,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_470688636",
-        "text": "장착 시 20레벨 영체 혼백 발동",
+        "id": "explicit.stat_3083201633",
+        "text": "격분 충전 하나당 여정 스킬의 재사용 대기시간 회복 속도 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3083201633",
-        "text": "격분 충전 하나당 여정 스킬의 재사용 대기시간 회복 속도 #% 증가",
+        "id": "explicit.stat_470688636",
+        "text": "장착 시 20레벨 영체 혼백 발동",
         "type": "explicit"
       },
       {
@@ -14064,13 +14064,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_898094766",
-        "text": "탈주 유배자가 완전히 연결된 아이템을 떨어뜨림",
+        "id": "explicit.stat_637101875",
+        "text": "몬스터 분쇄",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_637101875",
-        "text": "몬스터 분쇄",
+        "id": "explicit.stat_898094766",
+        "text": "탈주 유배자가 완전히 연결된 아이템을 떨어뜨림",
         "type": "explicit"
       },
       {
@@ -14254,13 +14254,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_495713612",
-        "text": "플레이어에게 적용되는 성소 효과 지속시간 #% 증가",
+        "id": "explicit.stat_787958710",
+        "text": "악의의 영향을 받는 동안 지속 냉기 피해 배율 #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_787958710",
-        "text": "악의의 영향을 받는 동안 지속 냉기 피해 배율 #%",
+        "id": "explicit.stat_495713612",
+        "text": "플레이어에게 적용되는 성소 효과 지속시간 #% 증가",
         "type": "explicit"
       },
       {
@@ -14269,13 +14269,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2881124988",
-        "text": "장착된 스킬의 공격 속도 #% 증가",
+        "id": "explicit.stat_261224780",
+        "text": "고통받는 혼백에 사로잡힌 몬스터가 받는 피해 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_261224780",
-        "text": "고통받는 혼백에 사로잡힌 몬스터가 받는 피해 #% 증가",
+        "id": "explicit.stat_2881124988",
+        "text": "장착된 스킬의 공격 속도 #% 증가",
         "type": "explicit"
       },
       {
@@ -14339,13 +14339,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1105638781",
-        "text": "지역에 추가 페란두스 장신구함 존재",
+        "id": "explicit.stat_3072066782",
+        "text": "플레이어가 광란 처치 25회당 1초마다 생명력의 #% 재생",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3072066782",
-        "text": "플레이어가 광란 처치 25회당 1초마다 생명력의 #% 재생",
+        "id": "explicit.stat_1105638781",
+        "text": "지역에 추가 페란두스 장신구함 존재",
         "type": "explicit"
       },
       {
@@ -14359,13 +14359,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1093704472",
-        "text": "#%의 확률로 여신의 축복을 통해 동결, 냉각 또는 점화 회피",
+        "id": "explicit.stat_2327728343",
+        "text": "여신의 축복 획득 시 #%의 확률로 주변의 적을 실명시킴",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2327728343",
-        "text": "여신의 축복 획득 시 #%의 확률로 주변의 적을 실명시킴",
+        "id": "explicit.stat_1093704472",
+        "text": "#%의 확률로 여신의 축복을 통해 동결, 냉각 또는 점화 회피",
         "type": "explicit"
       },
       {
@@ -14429,13 +14429,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2250543633",
-        "text": "명상의 마나 점유가 없어짐",
+        "id": "explicit.stat_2856326982",
+        "text": "권능 충전 하나당 공격 피해를 막아낼 확률 #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2856326982",
-        "text": "권능 충전 하나당 공격 피해를 막아낼 확률 #%",
+        "id": "explicit.stat_2250543633",
+        "text": "명상의 마나 점유가 없어짐",
         "type": "explicit"
       },
       {
@@ -14504,13 +14504,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2308225900",
-        "text": "번개의 순수함의 마나 점유가 없어짐",
+        "id": "explicit.stat_3115319277",
+        "text": "권능 충전 하나당 번개 피해의 #%를 추가 카오스 피해로 획득",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3115319277",
-        "text": "권능 충전 하나당 번개 피해의 #%를 추가 카오스 피해로 획득",
+        "id": "explicit.stat_2308225900",
+        "text": "번개의 순수함의 마나 점유가 없어짐",
         "type": "explicit"
       },
       {
@@ -14529,13 +14529,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_433293234",
-        "text": "소환수 불안정",
+        "id": "explicit.stat_593279674",
+        "text": "동결된 적에게 주는 피해의 #%를 생명력으로 흡수",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_593279674",
-        "text": "동결된 적에게 주는 피해의 #%를 생명력으로 흡수",
+        "id": "explicit.stat_433293234",
+        "text": "소환수 불안정",
         "type": "explicit"
       },
       {
@@ -14549,13 +14549,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2935548106",
-        "text": "최근 4초 이내 적 명중 시 회피 #",
+        "id": "explicit.stat_3941271999",
+        "text": "서리점멸 지속시간 #% 증가",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3941271999",
-        "text": "서리점멸 지속시간 #% 증가",
+        "id": "explicit.stat_2935548106",
+        "text": "최근 4초 이내 적 명중 시 회피 #",
         "type": "explicit"
       },
       {
@@ -14609,13 +14609,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3943945975",
-        "text": "확고한 기술",
+        "id": "explicit.stat_1622979279",
+        "text": "얼음의 순수함의 마나 점유가 없어짐",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1622979279",
-        "text": "얼음의 순수함의 마나 점유가 없어짐",
+        "id": "explicit.stat_3943945975",
+        "text": "확고한 기술",
         "type": "explicit"
       },
       {
@@ -14634,13 +14634,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3884934810",
-        "text": "완벽한 고통",
+        "id": "explicit.stat_1109343199",
+        "text": "사악한 수호(Wicked Ward)",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1109343199",
-        "text": "사악한 수호(Wicked Ward)",
+        "id": "explicit.stat_3884934810",
+        "text": "완벽한 고통",
         "type": "explicit"
       },
       {
@@ -14664,13 +14664,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2355741828",
-        "text": "인내 충전 하나당 공격 피해를 막아낼 확률 #%",
+        "id": "explicit.stat_279246355",
+        "text": "지역에 침략 보스 한 마리 추가 서식",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_279246355",
-        "text": "지역에 침략 보스 한 마리 추가 서식",
+        "id": "explicit.stat_2355741828",
+        "text": "인내 충전 하나당 공격 피해를 막아낼 확률 #%",
         "type": "explicit"
       },
       {
@@ -14684,13 +14684,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1865987277",
-        "text": "진노의 마나 점유가 없어짐",
+        "id": "explicit.stat_341698555",
+        "text": "한 개 이상의 페란두스 상자를 고유 몬스터가 방어",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_341698555",
-        "text": "한 개 이상의 페란두스 상자를 고유 몬스터가 방어",
+        "id": "explicit.stat_1865987277",
+        "text": "진노의 마나 점유가 없어짐",
         "type": "explicit"
       },
       {
@@ -14734,13 +14734,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2911866787",
-        "text": "#레벨 서리점멸 스킬 사용 가능",
+        "id": "explicit.stat_3355479537",
+        "text": "피격 시 #%의 확률로 감전 지대 생성",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3355479537",
-        "text": "피격 시 #%의 확률로 감전 지대 생성",
+        "id": "explicit.stat_2911866787",
+        "text": "#레벨 서리점멸 스킬 사용 가능",
         "type": "explicit"
       },
       {
@@ -14864,13 +14864,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_88817332",
-        "text": "최대 생명력인 경우 일반 회피 #% 증가",
+        "id": "explicit.stat_1990354706",
+        "text": "최대 격분 충전 상태에서 철의 반사신경 획득",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1990354706",
-        "text": "최대 격분 충전 상태에서 철의 반사신경 획득",
+        "id": "explicit.stat_88817332",
+        "text": "최대 생명력인 경우 일반 회피 #% 증가",
         "type": "explicit"
       },
       {
@@ -14914,13 +14914,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2693266036",
-        "text": "모든 플라스크 효과를 받는 동안 받는 물리 피해 #% 추가 감소",
+        "id": "explicit.stat_761598374",
+        "text": "최대 권능 충전 상태에서 저주 1회 추가 적용 가능",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_761598374",
-        "text": "최대 권능 충전 상태에서 저주 1회 추가 적용 가능",
+        "id": "explicit.stat_2693266036",
+        "text": "모든 플라스크 효과를 받는 동안 받는 물리 피해 #% 추가 감소",
         "type": "explicit"
       },
       {
@@ -15019,13 +15019,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1669870438",
-        "text": "이 지역의 몬스터 한 마리 처치 시 아바소스 소환",
+        "id": "explicit.stat_3581578643",
+        "text": "장착된 젬에 #레벨 강화 보조 효과 적용",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3581578643",
-        "text": "장착된 젬에 #레벨 강화 보조 효과 적용",
+        "id": "explicit.stat_1669870438",
+        "text": "이 지역의 몬스터 한 마리 처치 시 아바소스 소환",
         "type": "explicit"
       },
       {
@@ -15059,11 +15059,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_807186595",
-        "text": "장착된 젬에 #레벨 다중 토템 보조 효과 적용",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_2201102274",
         "text": "장착된 젬에 #레벨 지옥불 군단 보조 효과 적용",
         "type": "explicit"
@@ -15074,8 +15069,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2710898947",
-        "text": "몬스터의 생명력 #% 증폭",
+        "id": "explicit.stat_807186595",
+        "text": "장착된 젬에 #레벨 다중 토템 보조 효과 적용",
         "type": "explicit"
       },
       {
@@ -15089,6 +15084,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2710898947",
+        "text": "몬스터의 생명력 #% 증폭",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3294034100",
         "text": "지역에 추가 페란두스 서고 등장",
         "type": "explicit"
@@ -15099,13 +15099,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_411810300",
-        "text": "지역에 추가 페란두스 사물함 등장",
+        "id": "explicit.stat_4197398087",
+        "text": "지역에 지도제작자의 금고 등장",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4197398087",
-        "text": "지역에 지도제작자의 금고 등장",
+        "id": "explicit.stat_411810300",
+        "text": "지역에 추가 페란두스 사물함 등장",
         "type": "explicit"
       },
       {
@@ -15129,18 +15129,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2697741965",
-        "text": "장착된 젬에 #레벨 명중 시 저주 보조 효과 적용",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1900098804",
         "text": "장착된 젬에 #레벨 꿰뚫기 보조 효과 적용",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3827538724",
-        "text": "장착된 젬에 #레벨 연발 사격 보조 효과 적용",
+        "id": "explicit.stat_2697741965",
+        "text": "장착된 젬에 #레벨 명중 시 저주 보조 효과 적용",
         "type": "explicit"
       },
       {
@@ -15149,8 +15144,18 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3827538724",
+        "text": "장착된 젬에 #레벨 연발 사격 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2065361612",
         "text": "장착된 젬에 #레벨 계몽 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3356013982",
+        "text": "장착된 젬에 #레벨 촉발 보조 젬 효과 적용",
         "type": "explicit"
       },
       {
@@ -15159,18 +15164,28 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_1876637240",
+        "text": "장착된 젬에 #레벨 격화 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3287477747",
+        "text": "장착된 젬에 #레벨 위축의 손길 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2556436882",
         "text": "장착된 젬에 #레벨 향상 보조 효과 적용",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3215042347",
-        "text": "불의 순수함의 마나 점유 #% 감소",
+        "id": "explicit.stat_2306002879",
+        "text": "#% increased Rarity of Items found in this Area",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1876637240",
-        "text": "장착된 젬에 #레벨 격화 보조 효과 적용",
+        "id": "explicit.stat_1263311755",
+        "text": "몬스터 피해 #% 증폭",
         "type": "explicit"
       },
       {
@@ -15184,48 +15199,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3356013982",
-        "text": "장착된 젬에 #레벨 촉발 보조 젬 효과 적용",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1263311755",
-        "text": "몬스터 피해 #% 증폭",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2306002879",
-        "text": "#% increased Rarity of Items found in this Area",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3287477747",
-        "text": "장착된 젬에 #레벨 위축의 손길 보조 효과 적용",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3738001379",
-        "text": "치명타 공격 시 #%의 확률로 플라스크 충전 획득",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_4273356746",
-        "text": "주변의 적들의 화염 및 냉기 저항 #% 증가",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2003753577",
-        "text": "분노의 마나 점유 #% 감소",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_599749213",
-        "text": "모든 화염 스킬 젬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_493812998",
-        "text": "모든 지능 스킬 젬 레벨 #",
+        "id": "explicit.stat_3215042347",
+        "text": "불의 순수함의 마나 점유 #% 감소",
         "type": "explicit"
       },
       {
@@ -15234,8 +15209,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_103909236",
-        "text": "장착된 젬에 #레벨 치명적인 상태 이상 보조 효과 적용",
+        "id": "explicit.stat_1859244771",
+        "text": "장착된 젬에 #레벨 사무치는 한기 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_4273356746",
+        "text": "주변의 적들의 화염 및 냉기 저항 #% 증가",
         "type": "explicit"
       },
       {
@@ -15244,23 +15224,28 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2173069393",
-        "text": "장착된 젬에 #레벨 각성한 근접 물리 피해 보조 효과 적용",
+        "id": "explicit.stat_493812998",
+        "text": "모든 지능 스킬 젬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_479453859",
-        "text": "장착된 젬에 #레벨 충전된 덫 보조 효과 적용",
+        "id": "explicit.stat_3239503729",
+        "text": "장착된 젬에 #레벨 신기루 궁수 보조 효과 적용",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1859244771",
-        "text": "장착된 젬에 #레벨 사무치는 한기 보조 효과 적용",
+        "id": "explicit.stat_2003753577",
+        "text": "분노의 마나 점유 #% 감소",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_146924886",
-        "text": "모든 민첩 스킬 젬 레벨 #",
+        "id": "explicit.stat_103909236",
+        "text": "장착된 젬에 #레벨 치명적인 상태 이상 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3640956958",
+        "text": "투사체가 대상 2개 추가 관통",
         "type": "explicit"
       },
       {
@@ -15274,53 +15259,28 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3239503729",
-        "text": "장착된 젬에 #레벨 신기루 궁수 보조 효과 적용",
+        "id": "explicit.stat_599749213",
+        "text": "모든 화염 스킬 젬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3640956958",
-        "text": "투사체가 대상 2개 추가 관통",
+        "id": "explicit.stat_146924886",
+        "text": "모든 민첩 스킬 젬 레벨 #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4021476585",
-        "text": "장착된 젬에 #레벨 재빠른 조립 보조 효과 적용",
+        "id": "explicit.stat_479453859",
+        "text": "장착된 젬에 #레벨 충전된 덫 보조 효과 적용",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3988349707",
-        "text": "지속 피해 배율 #%",
+        "id": "explicit.stat_3738001379",
+        "text": "치명타 공격 시 #%의 확률로 플라스크 충전 획득",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3016436615",
-        "text": "장착된 젬에 #레벨 다중 덫 보조 효과 적용",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2861649515",
-        "text": "장착된 젬에 #레벨 밤의 칼날 보조 효과 적용",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_369650395",
-        "text": "장착된 젬에 #레벨 격노 보조 효과 적용",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1078455967",
-        "text": "모든 냉기 스킬 젬 레벨 #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2062753054",
-        "text": "장착된 젬에 #레벨 갈래 보조 효과 적용",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_694651314",
-        "text": "장착된 젬에 #레벨 근접 전투 보조 효과 적용",
+        "id": "explicit.stat_2173069393",
+        "text": "장착된 젬에 #레벨 각성한 근접 물리 피해 보조 효과 적용",
         "type": "explicit"
       },
       {
@@ -15329,13 +15289,53 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_799443127",
-        "text": "장착된 젬에 #레벨 에너지 흡수 보조 효과 적용",
+        "id": "explicit.stat_369650395",
+        "text": "장착된 젬에 #레벨 격노 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3016436615",
+        "text": "장착된 젬에 #레벨 다중 덫 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_694651314",
+        "text": "장착된 젬에 #레벨 근접 전투 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1078455967",
+        "text": "모든 냉기 스킬 젬 레벨 #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2861649515",
+        "text": "장착된 젬에 #레벨 밤의 칼날 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_4021476585",
+        "text": "장착된 젬에 #레벨 재빠른 조립 보조 효과 적용",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_728246008",
         "text": "폭발 주문을 시전자 주변 대신 목표 지점에 시전",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2062753054",
+        "text": "장착된 젬에 #레벨 갈래 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_799443127",
+        "text": "장착된 젬에 #레벨 에너지 흡수 보조 효과 적용",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3988349707",
+        "text": "지속 피해 배율 #%",
         "type": "explicit"
       }
     ]
@@ -16476,13 +16476,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2866361420",
-        "text": "방어도 #% 증가",
+        "id": "implicit.stat_99927264",
+        "text": "감전 지속시간 #% 감소",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_99927264",
-        "text": "감전 지속시간 #% 감소",
+        "id": "implicit.stat_2866361420",
+        "text": "방어도 #% 증가",
         "type": "implicit"
       },
       {
@@ -16516,13 +16516,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2339757871",
-        "text": "에너지 보호막 재충전 속도 #% 증가",
+        "id": "implicit.stat_2265307453",
+        "text": "#레벨 진노 스킬 사용 가능",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2265307453",
-        "text": "#레벨 진노 스킬 사용 가능",
+        "id": "implicit.stat_2339757871",
+        "text": "에너지 보호막 재충전 속도 #% 증가",
         "type": "implicit"
       },
       {
@@ -16826,6 +16826,11 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_1567462963",
+        "text": "장착된 젬에 #레벨 정확도 추가 보조 효과 적용",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_1170174456",
         "text": "인내 충전 지속시간 #% 증가",
         "type": "implicit"
@@ -16903,11 +16908,6 @@
       {
         "id": "implicit.stat_614758785",
         "text": "피격 시 받는 화염 피해 #",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_1567462963",
-        "text": "장착된 젬에 #레벨 정확도 추가 보조 효과 적용",
         "type": "implicit"
       },
       {
@@ -17171,13 +17171,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1065580342",
-        "text": "장착된 번개 스킬 젬 퀄리티 #%",
+        "id": "implicit.stat_3067892458",
+        "text": "발동형 주문으로 주는 주문 피해 #% 증가",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3067892458",
-        "text": "발동형 주문으로 주는 주문 피해 #% 증가",
+        "id": "implicit.stat_1065580342",
+        "text": "장착된 번개 스킬 젬 퀄리티 #%",
         "type": "implicit"
       },
       {
@@ -17276,13 +17276,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2276941637",
-        "text": "장착된 오라 스킬 젬 퀄리티 #%",
+        "id": "implicit.stat_2387423236",
+        "text": "#~#의 냉기 피해 추가",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2387423236",
-        "text": "#~#의 냉기 피해 추가",
+        "id": "implicit.stat_2276941637",
+        "text": "장착된 오라 스킬 젬 퀄리티 #%",
         "type": "implicit"
       },
       {
@@ -17311,13 +17311,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_762600725",
-        "text": "막아낼 시 생명력 #",
+        "id": "implicit.stat_3666934677",
+        "text": "경험치 획득 #% 증가",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3666934677",
-        "text": "경험치 획득 #% 증가",
+        "id": "implicit.stat_762600725",
+        "text": "막아낼 시 생명력 #",
         "type": "implicit"
       },
       {
@@ -17336,23 +17336,23 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1030153674",
-        "text": "처치 시 마나의 #% 회복",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_2027269580",
         "text": "장착된 활 스킬 젬 레벨 #",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_4095671657",
-        "text": "화염 저항 최대치 #%",
+        "id": "implicit.stat_1030153674",
+        "text": "처치 시 마나의 #% 회복",
         "type": "implicit"
       },
       {
         "id": "implicit.stat_3764265320",
         "text": "물리 피해의 #%를 생명력으로 흡수",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_4095671657",
+        "text": "화염 저항 최대치 #%",
         "type": "implicit"
       },
       {
@@ -17411,23 +17411,23 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3005472710",
-        "text": "#%의 확률로 원소 상태 이상 회피",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_689720069",
         "text": "장착된 젬에 #레벨 기절 보조 효과 적용",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3676141501",
-        "text": "냉기 저항 최대치 #%",
+        "id": "implicit.stat_3005472710",
+        "text": "#%의 확률로 원소 상태 이상 회피",
         "type": "implicit"
       },
       {
         "id": "implicit.stat_426847518",
         "text": "명중 시 적이 #레벨 동상 저주에 걸림",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_3676141501",
+        "text": "냉기 저항 최대치 #%",
         "type": "implicit"
       },
       {
@@ -17501,13 +17501,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2320884914",
-        "text": "맹공 상태에서 공격 및 시전 속도 #% 증가",
+        "id": "implicit.stat_149574107",
+        "text": "민첩 10당 이 무기 공격 시 #~#의 냉기 피해 추가",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_149574107",
-        "text": "민첩 10당 이 무기 공격 시 #~#의 냉기 피해 추가",
+        "id": "implicit.stat_2320884914",
+        "text": "맹공 상태에서 공격 및 시전 속도 #% 증가",
         "type": "implicit"
       },
       {
@@ -17521,6 +17521,11 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_2468413380",
+        "text": "공격 스킬의 화염 피해 #% 증가",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_2479683456",
         "text": "소환수가 초당 생명력의 #% 재생",
         "type": "implicit"
@@ -17528,11 +17533,6 @@
       {
         "id": "implicit.stat_1901158930",
         "text": "출혈 면역",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_2468413380",
-        "text": "공격 스킬의 화염 피해 #% 증가",
         "type": "implicit"
       },
       {
@@ -17546,13 +17546,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2011656677",
-        "text": "중독 지속시간 #% 증가",
+        "id": "implicit.stat_26867112",
+        "text": "타락 시 공격 및 시전 속도 #% 증가",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_26867112",
-        "text": "타락 시 공격 및 시전 속도 #% 증가",
+        "id": "implicit.stat_2011656677",
+        "text": "중독 지속시간 #% 증가",
         "type": "implicit"
       },
       {
@@ -17596,13 +17596,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3390848861",
-        "text": "이 무기로 공격 시 지능 10당 #~#의 번개 피해 추가",
+        "id": "implicit.stat_644456512",
+        "text": "플라스크 충전 사용 #% 감소",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_644456512",
-        "text": "플라스크 충전 사용 #% 감소",
+        "id": "implicit.stat_3390848861",
+        "text": "이 무기로 공격 시 지능 10당 #~#의 번개 피해 추가",
         "type": "implicit"
       },
       {
@@ -17621,8 +17621,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1683578560",
-        "text": "변함없는 자세",
+        "id": "implicit.stat_4055307827",
+        "text": "지속 카오스 피해 배율 #%",
         "type": "implicit"
       },
       {
@@ -17631,8 +17631,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_4055307827",
-        "text": "지속 카오스 피해 배율 #%",
+        "id": "implicit.stat_1683578560",
+        "text": "변함없는 자세",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_1452809865",
+        "text": "플라스크 충전 획득 #% 증가",
         "type": "implicit"
       },
       {
@@ -17641,8 +17646,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1452809865",
-        "text": "플라스크 충전 획득 #% 증가",
+        "id": "implicit.stat_1443215722",
+        "text": "동상 저주 효과 #% 증가",
         "type": "implicit"
       },
       {
@@ -17656,23 +17661,18 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1443215722",
-        "text": "동상 저주 효과 #% 증가",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_658456881",
         "text": "최소 격분 충전 #",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3761858151",
-        "text": "주문 스킬로 주는 카오스 피해 #% 증가",
+        "id": "implicit.stat_3515686789",
+        "text": "인내 충전 하나당 피해 #% 증가",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3515686789",
-        "text": "인내 충전 하나당 피해 #% 증가",
+        "id": "implicit.stat_3761858151",
+        "text": "주문 스킬로 주는 카오스 피해 #% 증가",
         "type": "implicit"
       },
       {
@@ -17706,18 +17706,23 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3293699237",
-        "text": "검 사용 시 공격 속도 #% 증가",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_169946467",
         "text": "활 사용 시 정확도 #% 증가",
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_3293699237",
+        "text": "검 사용 시 공격 속도 #% 증가",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_3935031607",
         "text": "주문 스킬로 주는 번개 피해 #% 증가",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_3731630482",
+        "text": "타락 시 모든 원소 저항력 #%",
         "type": "implicit"
       },
       {
@@ -17728,11 +17733,6 @@
       {
         "id": "implicit.stat_2266750692",
         "text": "공격 스킬의 물리 피해 #% 증가",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_3731630482",
-        "text": "타락 시 모든 원소 저항력 #%",
         "type": "implicit"
       },
       {
@@ -17786,13 +17786,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3289633055",
-        "text": "장착된 젬의 마나 점유 #% 감소",
+        "id": "implicit.stat_3192966873",
+        "text": "얼음의 순수함의 마나 점유 #% 감소",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3192966873",
-        "text": "얼음의 순수함의 마나 점유 #% 감소",
+        "id": "implicit.stat_3289633055",
+        "text": "장착된 젬의 마나 점유 #% 감소",
         "type": "implicit"
       },
       {
@@ -17826,13 +17826,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1421645223",
-        "text": "클로 사용 시 공격 속도 #% 증가",
+        "id": "implicit.stat_3739863694",
+        "text": "공격 명중 시 #%의 확률로 적 꿰뚫음",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3739863694",
-        "text": "공격 명중 시 #%의 확률로 적 꿰뚫음",
+        "id": "implicit.stat_1421645223",
+        "text": "클로 사용 시 공격 속도 #% 증가",
         "type": "implicit"
       },
       {
@@ -17841,13 +17841,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2451060005",
-        "text": "타락한 물고기 포획 가능",
+        "id": "implicit.stat_2915373966",
+        "text": "냉기 피해의 #%를 추가 카오스 피해로 획득",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2915373966",
-        "text": "냉기 피해의 #%를 추가 카오스 피해로 획득",
+        "id": "implicit.stat_2451060005",
+        "text": "타락한 물고기 포획 가능",
         "type": "implicit"
       },
       {
@@ -17861,8 +17861,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2538566497",
-        "text": "단검 사용 시 공격 속도 #% 증가",
+        "id": "implicit.stat_1678690824",
+        "text": "쌍수 사용 시 주문 피해 #% 증가",
         "type": "implicit"
       },
       {
@@ -17871,8 +17871,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1678690824",
-        "text": "쌍수 사용 시 주문 피해 #% 증가",
+        "id": "implicit.stat_2538566497",
+        "text": "단검 사용 시 공격 속도 #% 증가",
         "type": "implicit"
       },
       {
@@ -17886,13 +17886,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2813626504",
-        "text": "#%의 확률로 주문이 2배의 피해를 줌",
+        "id": "implicit.stat_2228518621",
+        "text": "소환한 좀비의 피해량 #% 증가",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2228518621",
-        "text": "소환한 좀비의 피해량 #% 증가",
+        "id": "implicit.stat_2813626504",
+        "text": "#%의 확률로 주문이 2배의 피해를 줌",
         "type": "implicit"
       },
       {
@@ -17911,11 +17911,6 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3814560373",
-        "text": "검 사용 시 물리 피해 #% 증가",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_1065909420",
         "text": "취약성 저주 효과 #% 증가",
         "type": "implicit"
@@ -17926,13 +17921,18 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3375935924",
-        "text": "소환수의 공격 속도 #% 증가",
+        "id": "implicit.stat_3814560373",
+        "text": "검 사용 시 물리 피해 #% 증가",
         "type": "implicit"
       },
       {
         "id": "implicit.stat_2880601380",
         "text": "타락 시 이동 속도 #% 증가",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_3375935924",
+        "text": "소환수의 공격 속도 #% 증가",
         "type": "implicit"
       },
       {
@@ -17956,8 +17956,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1612163368",
-        "text": "방패를 들고 있는 동안 시전 속도 #% 증가",
+        "id": "implicit.stat_635761691",
+        "text": "클로 사용 시 물리 피해 #% 증가",
         "type": "implicit"
       },
       {
@@ -17966,13 +17966,18 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_3802667447",
+        "text": "포획하는 물고기 수 #% 증가",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_3629080637",
         "text": "지팡이 장착 시 주문 치명타 피해 배율 #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_635761691",
-        "text": "클로 사용 시 물리 피해 #% 증가",
+        "id": "implicit.stat_1612163368",
+        "text": "방패를 들고 있는 동안 시전 속도 #% 증가",
         "type": "implicit"
       },
       {
@@ -17981,8 +17986,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3802667447",
-        "text": "포획하는 물고기 수 #% 증가",
+        "id": "implicit.stat_4000101551",
+        "text": "소환수의 시전 속도 #% 증가",
         "type": "implicit"
       },
       {
@@ -17991,18 +17996,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_11106713",
-        "text": "주문 피해의 #%를 에너지 보호막으로 흡수",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_3882531569",
         "text": "단검 사용 시 물리 피해 #% 증가",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_4000101551",
-        "text": "소환수의 시전 속도 #% 증가",
+        "id": "implicit.stat_11106713",
+        "text": "주문 피해의 #%를 에너지 보호막으로 흡수",
         "type": "implicit"
       },
       {
@@ -18021,8 +18021,18 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_2515515064",
+        "text": "철퇴 및 셉터 사용 시 공격 속도 #% 증가",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_2538120572",
         "text": "도끼 사용 시 정확도 #% 증가",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2090868905",
+        "text": "검 사용 시 정확도 #% 증가",
         "type": "implicit"
       },
       {
@@ -18036,33 +18046,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2515515064",
-        "text": "철퇴 및 셉터 사용 시 공격 속도 #% 증가",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_2090868905",
-        "text": "검 사용 시 정확도 #% 증가",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_2311200892",
-        "text": "방패를 들고 있는 동안 주문 치명타 피해 배율 #%",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_1474913037",
-        "text": "지팡이 사용 시 치명타 피해 배율 #%",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_1809006367",
-        "text": "토템이 모든 원소 저항 #% 획득",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_310246444",
-        "text": "흡수하는 동안 피해 #% 증가",
+        "id": "implicit.stat_3743375737",
+        "text": "피격 시 #% 확률로 냉기 피해 회피",
         "type": "implicit"
       },
       {
@@ -18071,23 +18056,23 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3743375737",
-        "text": "피격 시 #% 확률로 냉기 피해 회피",
+        "id": "implicit.stat_2311200892",
+        "text": "방패를 들고 있는 동안 주문 치명타 피해 배율 #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2811834828",
-        "text": "클로 사용 시 치명타 피해 배율 #%",
+        "id": "implicit.stat_310246444",
+        "text": "흡수하는 동안 피해 #% 증가",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2349237916",
-        "text": "쌍수 사용 시 주문 치명타 피해 배율 #%",
+        "id": "implicit.stat_1809006367",
+        "text": "토템이 모든 원소 저항 #% 획득",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_458899422",
-        "text": "철퇴 및 셉터 사용 시 치명타 피해 배율 #%",
+        "id": "implicit.stat_1474913037",
+        "text": "지팡이 사용 시 치명타 피해 배율 #%",
         "type": "implicit"
       },
       {
@@ -18096,8 +18081,33 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_2811834828",
+        "text": "클로 사용 시 치명타 피해 배율 #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_458899422",
+        "text": "철퇴 및 셉터 사용 시 치명타 피해 배율 #%",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_4219746989",
         "text": "도끼 사용 시 치명타 피해 배율 #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2349237916",
+        "text": "쌍수 사용 시 주문 치명타 피해 배율 #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2062174346",
+        "text": "민첩 15당 피해 #% 증가",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2054715690",
+        "text": "단검 사용 시 정확도 #% 증가",
         "type": "implicit"
       },
       {
@@ -18111,23 +18121,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2054715690",
-        "text": "단검 사용 시 정확도 #% 증가",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_2062174346",
-        "text": "민첩 15당 피해 #% 증가",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_3774831856",
-        "text": "철퇴 및 셉터 사용 시 물리 피해 #% 증가",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_158779585",
         "text": "자신의 방어 상승 효과 #% 증가",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_3485067555",
+        "text": "적 냉각 지속시간 #% 증가",
         "type": "implicit"
       },
       {
@@ -18136,8 +18136,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3485067555",
-        "text": "적 냉각 지속시간 #% 증가",
+        "id": "implicit.stat_3774831856",
+        "text": "철퇴 및 셉터 사용 시 물리 피해 #% 증가",
         "type": "implicit"
       },
       {
@@ -18151,11 +18151,6 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2612056840",
-        "text": "민첩 16당 주문 피해 #% 증가",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_1443108510",
         "text": "힘 250당 받는 피해 #% 증가",
         "type": "implicit"
@@ -18163,6 +18158,11 @@
       {
         "id": "implicit.stat_4118987751",
         "text": "생명력 흡수 시 초당 총 회복량 최대치 #% 증가",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2612056840",
+        "text": "민첩 16당 주문 피해 #% 증가",
         "type": "implicit"
       },
       {
@@ -18176,6 +18176,11 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_42242677",
+        "text": "피격 시 #% 확률로 화염 피해 회피",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_2390685262",
         "text": "지역에서 발견한 아이템 수량 #% 증가",
         "type": "implicit"
@@ -18183,11 +18188,6 @@
       {
         "id": "implicit.stat_2402136583",
         "text": "번개 피해의 #%를 추가 카오스 피해로 획득",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_42242677",
-        "text": "피격 시 #% 확률로 화염 피해 회피",
         "type": "implicit"
       },
       {
@@ -18216,8 +18216,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3909846940",
-        "text": "움직이는 수호자에 장착된 아이템이 사망 시 떨어짐",
+        "id": "implicit.stat_3208450870",
+        "text": "철퇴 및 셉터 정확도 #% 증가",
         "type": "implicit"
       },
       {
@@ -18226,13 +18226,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3208450870",
-        "text": "철퇴 및 셉터 정확도 #% 증가",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_3002506763",
-        "text": "주문 명중 시 #%의 확률로 적을 이동 방해하여 적 이동 속도 30% 감소",
+        "id": "implicit.stat_3909846940",
+        "text": "움직이는 수호자에 장착된 아이템이 사망 시 떨어짐",
         "type": "implicit"
       },
       {
@@ -18243,6 +18238,11 @@
       {
         "id": "implicit.stat_96977651",
         "text": "마나 흡수 시 초당 총 회복량 최대치 #% 증가",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_3002506763",
+        "text": "주문 명중 시 #%의 확률로 적을 이동 방해하여 적 이동 속도 30% 감소",
         "type": "implicit"
       },
       {
@@ -18276,6 +18276,11 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_287491423",
+        "text": "심연 몬스터에게 받는 물리 피해 #% 추가 감소",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_3309607228",
         "text": "타락 시 받는 피해 #% 감소",
         "type": "implicit"
@@ -18286,18 +18291,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_287491423",
-        "text": "심연 몬스터에게 받는 물리 피해 #% 추가 감소",
+        "id": "implicit.stat_3871212304",
+        "text": "바알 스킬 피해의 증가 및 감소가 비 바알 스킬에도 적용",
         "type": "implicit"
       },
       {
         "id": "implicit.stat_1086147743",
         "text": "적 점화 지속시간 #% 증가",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_3871212304",
-        "text": "바알 스킬 피해의 증가 및 감소가 비 바알 스킬에도 적용",
         "type": "implicit"
       },
       {
@@ -18311,11 +18311,6 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_374116820",
-        "text": "타락 시 주문 피해 #% 증가",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_3645693773",
         "text": "망령의 피해 #% 증가",
         "type": "implicit"
@@ -18323,6 +18318,11 @@
       {
         "id": "implicit.stat_3240073117",
         "text": "생명력 회복 속도 #% 증가",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_374116820",
+        "text": "타락 시 주문 피해 #% 증가",
         "type": "implicit"
       },
       {
@@ -18336,8 +18336,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_818778753",
-        "text": "피해가 #%의 번개 저항 관통",
+        "id": "implicit.stat_2094281311",
+        "text": "움직이는 수호자 원소 저항 #%",
         "type": "implicit"
       },
       {
@@ -18346,23 +18346,18 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2094281311",
-        "text": "움직이는 수호자 원소 저항 #%",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_969576725",
         "text": "은총의 영향을 받는 동안 공격을 회피할 확률 #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2653955271",
-        "text": "피해가 #%의 화염 저항 관통",
+        "id": "implicit.stat_818778753",
+        "text": "피해가 #%의 번개 저항 관통",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2353576063",
-        "text": "플레이어가 시전하는 저주 효과 #% 증가",
+        "id": "implicit.stat_4251717817",
+        "text": "범위 피해 #% 증가",
         "type": "implicit"
       },
       {
@@ -18376,8 +18371,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_67280387",
-        "text": "최대 생명력의 #%를 에너지 보호막 최대치로 추가 획득",
+        "id": "implicit.stat_2353576063",
+        "text": "플레이어가 시전하는 저주 효과 #% 증가",
         "type": "implicit"
       },
       {
@@ -18386,28 +18381,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_4251717817",
-        "text": "범위 피해 #% 증가",
+        "id": "implicit.stat_67280387",
+        "text": "최대 생명력의 #%를 에너지 보호막 최대치로 추가 획득",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_4023723828",
-        "text": "타락 시 일반 치명타 확률 #% 증가",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_2818518881",
-        "text": "지능 10당 주문 피해 #% 증가",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_1211769158",
-        "text": "무기 사용 시 피해가 #%의 냉기 저항 관통",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_211381198",
-        "text": "공격 명중 시 에너지 보호막 #",
+        "id": "implicit.stat_2653955271",
+        "text": "피해가 #%의 화염 저항 관통",
         "type": "implicit"
       },
       {
@@ -18416,13 +18396,33 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1162425204",
-        "text": "플라스크 사용 시 점화 및 화상 제거",
+        "id": "implicit.stat_1211769158",
+        "text": "무기 사용 시 피해가 #%의 냉기 저항 관통",
         "type": "implicit"
       },
       {
         "id": "implicit.stat_2388574377",
         "text": "주문 피해 막기 확률 최대치 #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_211381198",
+        "text": "공격 명중 시 에너지 보호막 #",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_1162425204",
+        "text": "플라스크 사용 시 점화 및 화상 제거",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2818518881",
+        "text": "지능 10당 주문 피해 #% 증가",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_4023723828",
+        "text": "타락 시 일반 치명타 확률 #% 증가",
         "type": "implicit"
       },
       {
@@ -18831,13 +18831,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_339179093",
-        "text": "장착된 화염 속성 젬 레벨 #",
+        "id": "fractured.stat_967627487",
+        "text": "지속 피해 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_967627487",
-        "text": "지속 피해 #% 증가",
+        "id": "fractured.stat_339179093",
+        "text": "장착된 화염 속성 젬 레벨 #",
         "type": "fractured"
       },
       {
@@ -18906,13 +18906,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3416410609",
-        "text": "투사체 공격 피해 막기 확률 #%",
+        "id": "fractured.stat_2915373966",
+        "text": "냉기 피해의 #%를 추가 카오스 피해로 획득",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2915373966",
-        "text": "냉기 피해의 #%를 추가 카오스 피해로 획득",
+        "id": "fractured.stat_3416410609",
+        "text": "투사체 공격 피해 막기 확률 #%",
         "type": "fractured"
       },
       {
@@ -18956,13 +18956,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1335054179",
-        "text": "#%의 확률로 점화 유발",
+        "id": "fractured.stat_2402136583",
+        "text": "번개 피해의 #%를 추가 카오스 피해로 획득",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2402136583",
-        "text": "번개 피해의 #%를 추가 카오스 피해로 획득",
+        "id": "fractured.stat_1335054179",
+        "text": "#%의 확률로 점화 유발",
         "type": "fractured"
       },
       {
@@ -19016,13 +19016,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3319896421",
-        "text": "물리 피해의 #%를 추가 카오스 피해로 획득",
+        "id": "fractured.stat_1172029298",
+        "text": "소환수가 주는 추가 물리 피해 #~#",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1172029298",
-        "text": "소환수가 주는 추가 물리 피해 #~#",
+        "id": "fractured.stat_3319896421",
+        "text": "물리 피해의 #%를 추가 카오스 피해로 획득",
         "type": "fractured"
       },
       {
@@ -19096,13 +19096,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1585344030",
-        "text": "최근 4초 이내 치명타 공격 시 공격 속도 #% 증가",
+        "id": "fractured.stat_1813451228",
+        "text": "한손 근접 무기 사용 시 공격 속도 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1813451228",
-        "text": "한손 근접 무기 사용 시 공격 속도 #% 증가",
+        "id": "fractured.stat_1585344030",
+        "text": "최근 4초 이내 치명타 공격 시 공격 속도 #% 증가",
         "type": "fractured"
       },
       {
@@ -19126,13 +19126,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3351784991",
-        "text": "소환수가 주는 추가 화염 피해 #~#",
+        "id": "fractured.stat_3550868361",
+        "text": "도끼 사용 시 공격 속도 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3550868361",
-        "text": "도끼 사용 시 공격 속도 #% 증가",
+        "id": "fractured.stat_3351784991",
+        "text": "소환수가 주는 추가 화염 피해 #~#",
         "type": "fractured"
       },
       {
@@ -19166,13 +19166,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_4291461939",
-        "text": "초당 마나 # 재생",
+        "id": "fractured.stat_674553446",
+        "text": "공격 시 #~#의 카오스 피해 추가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_674553446",
-        "text": "공격 시 #~#의 카오스 피해 추가",
+        "id": "fractured.stat_4291461939",
+        "text": "초당 마나 # 재생",
         "type": "fractured"
       },
       {
@@ -19191,13 +19191,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3293699237",
-        "text": "검 사용 시 공격 속도 #% 증가",
+        "id": "fractured.stat_2307547323",
+        "text": "화염 스킬 치명타 피해 배율 #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2307547323",
-        "text": "화염 스킬 치명타 피해 배율 #%",
+        "id": "fractured.stat_3293699237",
+        "text": "검 사용 시 공격 속도 #% 증가",
         "type": "fractured"
       },
       {
@@ -19246,13 +19246,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2546185479",
-        "text": "쌍수 사용 시 치명타 피해 배율 #%",
+        "id": "fractured.stat_770672621",
+        "text": "소환수의 최대 생명력 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_770672621",
-        "text": "소환수의 최대 생명력 #% 증가",
+        "id": "fractured.stat_2546185479",
+        "text": "쌍수 사용 시 치명타 피해 배율 #%",
         "type": "fractured"
       },
       {
@@ -19296,18 +19296,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2137912951",
-        "text": "지뢰 피해 #% 증가",
-        "type": "fractured"
-      },
-      {
         "id": "fractured.stat_1766142294",
         "text": "방패를 들고 있는 동안 주문 피해 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1237708713",
-        "text": "검 공격 시 #~#의 번개 피해 추가",
+        "id": "fractured.stat_2137912951",
+        "text": "지뢰 피해 #% 증가",
         "type": "fractured"
       },
       {
@@ -19316,13 +19311,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_734823525",
-        "text": "이동 중 회피 #% 증가",
+        "id": "fractured.stat_1237708713",
+        "text": "검 공격 시 #~#의 번개 피해 추가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1950806024",
-        "text": "지속 냉기 피해 배율 #%",
+        "id": "fractured.stat_734823525",
+        "text": "이동 중 회피 #% 증가",
         "type": "fractured"
       },
       {
@@ -19331,18 +19326,23 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_1950806024",
+        "text": "지속 냉기 피해 배율 #%",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_138741818",
         "text": "쌍수 사용 시 주문 피해를 막아낼 확률 #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1101206134",
-        "text": "최근 4초 이내 피격 피해를 받은 경우 주문 피해를 막아낼 확률 #%",
+        "id": "fractured.stat_1174076861",
+        "text": "최근 4초 이내 치명타 공격 시 시전 속도 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1174076861",
-        "text": "최근 4초 이내 치명타 공격 시 시전 속도 #% 증가",
+        "id": "fractured.stat_1101206134",
+        "text": "최근 4초 이내 피격 피해를 받은 경우 주문 피해를 막아낼 확률 #%",
         "type": "fractured"
       },
       {
@@ -19371,6 +19371,21 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_2856328513",
+        "text": "최근 4초 이내 치명타를 주지 않은 경우 치명타 확률 #% 증가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_4193088553",
+        "text": "양손 무기 사용 시 지속 피해 #% 증가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_4237442815",
+        "text": "근접 치명타 피해 배율 #%",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_318953428",
         "text": "공격 명중 시 #%의 확률로 적 실명",
         "type": "fractured"
@@ -19381,23 +19396,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_4193088553",
-        "text": "양손 무기 사용 시 지속 피해 #% 증가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_2856328513",
-        "text": "최근 4초 이내 치명타를 주지 않은 경우 치명타 확률 #% 증가",
-        "type": "fractured"
-      },
-      {
         "id": "fractured.stat_1104796138",
         "text": "화염 스킬 치명타 확률 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_4237442815",
-        "text": "근접 치명타 피해 배율 #%",
+        "id": "fractured.stat_1569407745",
+        "text": "원소 스킬 치명타 피해 배율 #%",
         "type": "fractured"
       },
       {
@@ -19408,11 +19413,6 @@
       {
         "id": "fractured.stat_795138349",
         "text": "명중 시 #%의 확률로 적 중독",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1569407745",
-        "text": "원소 스킬 치명타 피해 배율 #%",
         "type": "fractured"
       },
       {
@@ -19436,18 +19436,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2383797932",
-        "text": "마법봉 공격 시 #~#의 냉기 피해 추가",
-        "type": "fractured"
-      },
-      {
         "id": "fractured.stat_736967255",
         "text": "카오스 피해 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_686254215",
-        "text": "토템 생명력 #% 증가",
+        "id": "fractured.stat_2383797932",
+        "text": "마법봉 공격 시 #~#의 냉기 피해 추가",
         "type": "fractured"
       },
       {
@@ -19456,13 +19451,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3603666270",
-        "text": "최근 4초 이내 피격 피해를 받지 않은 경우 받는 물리 피해 #% 추가 감소",
+        "id": "fractured.stat_686254215",
+        "text": "토템 생명력 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1589917703",
-        "text": "소환수가 주는 피해 #% 증가",
+        "id": "fractured.stat_3603666270",
+        "text": "최근 4초 이내 피격 피해를 받지 않은 경우 받는 물리 피해 #% 추가 감소",
         "type": "fractured"
       },
       {
@@ -19471,8 +19466,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_279227559",
-        "text": "최근 4초 이내 적을 처치한 경우 이동 속도 #% 증가",
+        "id": "fractured.stat_1589917703",
+        "text": "소환수가 주는 피해 #% 증가",
         "type": "fractured"
       },
       {
@@ -19481,8 +19476,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_252507949",
-        "text": "양손 근접 무기 사용 시 치명타 피해 배율 #%",
+        "id": "fractured.stat_279227559",
+        "text": "최근 4초 이내 적을 처치한 경우 이동 속도 #% 증가",
         "type": "fractured"
       },
       {
@@ -19496,23 +19491,13 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_252507949",
+        "text": "양손 근접 무기 사용 시 치명타 피해 배율 #%",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_2464689927",
         "text": "양손 무기 사용 시 주문 시전 시 #~#의 냉기 피해 추가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1782176131",
-        "text": "도끼 공격 시 #~#의 냉기 피해 추가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_214001793",
-        "text": "쌍수 사용 시 지속 피해 #% 증가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_2323739383",
-        "text": "소환수의 주문 명중 시 #%의 확률로 적을 이동 방해하여 이동 속도 30% 감소",
         "type": "fractured"
       },
       {
@@ -19521,18 +19506,23 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_214001793",
+        "text": "쌍수 사용 시 지속 피해 #% 증가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1782176131",
+        "text": "도끼 공격 시 #~#의 냉기 피해 추가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_2323739383",
+        "text": "소환수의 주문 명중 시 #%의 확률로 적을 이동 방해하여 이동 속도 30% 감소",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_87098247",
         "text": "마법봉 공격 시 #~#의 화염 피해 추가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3337344042",
-        "text": "냉기 스킬 치명타 확률 #% 증가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_2515515064",
-        "text": "철퇴 및 셉터 사용 시 공격 속도 #% 증가",
         "type": "fractured"
       },
       {
@@ -19541,18 +19531,23 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_2515515064",
+        "text": "철퇴 및 셉터 사용 시 공격 속도 #% 증가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_3337344042",
+        "text": "냉기 스킬 치명타 확률 #% 증가",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_1244360317",
         "text": "방패를 들고 있는 동안 지속 피해 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1423639565",
-        "text": "소환수의 모든 원소 저항 #%",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3479683016",
-        "text": "단검 공격 시 #~#의 번개 피해 추가",
+        "id": "fractured.stat_3702513529",
+        "text": "쌍수 사용 시 무기 치명타 확률 #% 증가",
         "type": "fractured"
       },
       {
@@ -19561,8 +19556,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3702513529",
-        "text": "쌍수 사용 시 무기 치명타 확률 #% 증가",
+        "id": "fractured.stat_3479683016",
+        "text": "단검 공격 시 #~#의 번개 피해 추가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1423639565",
+        "text": "소환수의 모든 원소 저항 #%",
         "type": "fractured"
       },
       {
@@ -19581,13 +19581,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1334465904",
-        "text": "한손 근접 무기 사용 시 물리 피해 #% 증가",
+        "id": "fractured.stat_3146788701",
+        "text": "철퇴 및 셉터 공격 시 #~#의 화염 피해 추가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3146788701",
-        "text": "철퇴 및 셉터 공격 시 #~#의 화염 피해 추가",
+        "id": "fractured.stat_1334465904",
+        "text": "한손 근접 무기 사용 시 물리 피해 #% 증가",
         "type": "fractured"
       },
       {
@@ -19606,23 +19606,28 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3062329212",
-        "text": "소환수가 초당 # 생명력 재생",
-        "type": "fractured"
-      },
-      {
         "id": "fractured.stat_3314142259",
         "text": "도끼 사용 시 피해 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1782086450",
-        "text": "에너지 보호막 재충전 시작 속도 #% 가속",
+        "id": "fractured.stat_3062329212",
+        "text": "소환수가 초당 # 생명력 재생",
         "type": "fractured"
       },
       {
         "id": "fractured.stat_3220927448",
         "text": "지팡이 공격 시 #~#의 화염 피해 추가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1783006896",
+        "text": "#%의 확률로 점화 회피",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1782086450",
+        "text": "에너지 보호막 재충전 시작 속도 #% 가속",
         "type": "fractured"
       },
       {
@@ -19636,23 +19641,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1783006896",
-        "text": "#%의 확률로 점화 회피",
+        "id": "fractured.stat_44182350",
+        "text": "방패를 들고 있는 동안 주문 시전 시 #~#의 화염 피해 추가",
         "type": "fractured"
       },
       {
         "id": "fractured.stat_1263342750",
         "text": "단검 공격 시 #~#의 냉기 피해 추가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1476643878",
-        "text": "화염 스킬 사용 시 시전 속도 #% 증가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_44182350",
-        "text": "방패를 들고 있는 동안 주문 시전 시 #~#의 화염 피해 추가",
         "type": "fractured"
       },
       {
@@ -19663,6 +19658,11 @@
       {
         "id": "fractured.stat_3501769159",
         "text": "방패를 들고 있는 동안 근접 물리 피해 #% 증가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1476643878",
+        "text": "화염 스킬 사용 시 시전 속도 #% 증가",
         "type": "fractured"
       },
       {
@@ -19681,8 +19681,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3375935924",
-        "text": "소환수의 공격 속도 #% 증가",
+        "id": "fractured.stat_4000101551",
+        "text": "소환수의 시전 속도 #% 증가",
         "type": "fractured"
       },
       {
@@ -19691,18 +19691,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_4000101551",
-        "text": "소환수의 시전 속도 #% 증가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_274716455",
-        "text": "주문 치명타 피해 배율 #%",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_601249293",
-        "text": "검 공격 시 #~#의 화염 피해 추가",
+        "id": "fractured.stat_3375935924",
+        "text": "소환수의 공격 속도 #% 증가",
         "type": "fractured"
       },
       {
@@ -19711,8 +19701,18 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1871765599",
-        "text": "#%의 확률로 감전 회피",
+        "id": "fractured.stat_601249293",
+        "text": "검 공격 시 #~#의 화염 피해 추가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_274716455",
+        "text": "주문 치명타 피해 배율 #%",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_2538566497",
+        "text": "단검 사용 시 공격 속도 #% 증가",
         "type": "fractured"
       },
       {
@@ -19721,8 +19721,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2538566497",
-        "text": "단검 사용 시 공격 속도 #% 증가",
+        "id": "fractured.stat_1871765599",
+        "text": "#%의 확률로 감전 회피",
         "type": "fractured"
       },
       {
@@ -19741,13 +19741,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1394963553",
-        "text": "지팡이 사용 시 공격 속도 #% 증가",
+        "id": "fractured.stat_2120297997",
+        "text": "지팡이 장착 시 주문 피해를 막아낼 확률 #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2120297997",
-        "text": "지팡이 장착 시 주문 피해를 막아낼 확률 #%",
+        "id": "fractured.stat_1394963553",
+        "text": "지팡이 사용 시 공격 속도 #% 증가",
         "type": "fractured"
       },
       {
@@ -19756,13 +19756,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1514829491",
-        "text": "#%의 확률로 동결 회피",
+        "id": "fractured.stat_2381842786",
+        "text": "한손 근접 무기 사용 시 치명타 확률 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2381842786",
-        "text": "한손 근접 무기 사용 시 치명타 확률 #% 증가",
+        "id": "fractured.stat_1514829491",
+        "text": "#%의 확률로 동결 회피",
         "type": "fractured"
       },
       {
@@ -19786,6 +19786,21 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_3720627346",
+        "text": "마법봉 사용 시 공격 속도 #% 증가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1836374041",
+        "text": "양손 무기 피해 #% 증가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_3814560373",
+        "text": "검 사용 시 물리 피해 #% 증가",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_2424133568",
         "text": "최근 4초 이내 적을 처치하지 않은 경우 방어도 #% 증가",
         "type": "fractured"
@@ -19796,23 +19811,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1836374041",
-        "text": "양손 무기 피해 #% 증가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3720627346",
-        "text": "마법봉 사용 시 공격 속도 #% 증가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3814560373",
-        "text": "검 사용 시 물리 피해 #% 증가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1778298516",
-        "text": "지팡이 장착 시 공격 피해를 막아낼 확률 #%",
+        "id": "fractured.stat_1801889979",
+        "text": "방패를 들고 있는 동안 주문 시전 시 #~#의 번개 피해 추가",
         "type": "fractured"
       },
       {
@@ -19826,18 +19826,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3212481075",
-        "text": "지팡이 공격 시 #~#의 번개 피해 추가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1801889979",
-        "text": "방패를 들고 있는 동안 주문 시전 시 #~#의 번개 피해 추가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1086057912",
-        "text": "소환수가 심연 몬스터에게 주는 피해 #% 증가",
+        "id": "fractured.stat_1778298516",
+        "text": "지팡이 장착 시 공격 피해를 막아낼 확률 #%",
         "type": "fractured"
       },
       {
@@ -19846,13 +19836,23 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3954157711",
-        "text": "방패를 들고 있는 동안 주문 시전 시 #~#의 물리 피해 추가",
+        "id": "fractured.stat_1086057912",
+        "text": "소환수가 심연 몬스터에게 주는 피해 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2461965653",
-        "text": "도끼 공격 시 #~#의 화염 피해 추가",
+        "id": "fractured.stat_3212481075",
+        "text": "지팡이 공격 시 #~#의 번개 피해 추가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1896971621",
+        "text": "지뢰 투척 속도 #% 증가",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_3954157711",
+        "text": "방패를 들고 있는 동안 주문 시전 시 #~#의 물리 피해 추가",
         "type": "fractured"
       },
       {
@@ -19861,8 +19861,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1896971621",
-        "text": "지뢰 투척 속도 #% 증가",
+        "id": "fractured.stat_2461965653",
+        "text": "도끼 공격 시 #~#의 화염 피해 추가",
         "type": "fractured"
       },
       {
@@ -19891,8 +19891,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_444174528",
-        "text": "쌍수 사용 시 무기 피해 #% 증가",
+        "id": "fractured.stat_1040189894",
+        "text": "검 공격 시 #~#의 물리 피해 추가",
         "type": "fractured"
       },
       {
@@ -19901,13 +19901,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1040189894",
-        "text": "검 공격 시 #~#의 물리 피해 추가",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3166317791",
-        "text": "근접 처치 시 #%의 확률로 4초 동안 불경한 힘 획득",
+        "id": "fractured.stat_444174528",
+        "text": "쌍수 사용 시 무기 피해 #% 증가",
         "type": "fractured"
       },
       {
@@ -19926,13 +19921,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2806435316",
-        "text": "최근 4초 이내 적을 처치하지 않은 경우 정확도 #% 증가",
+        "id": "fractured.stat_3166317791",
+        "text": "근접 처치 시 #%의 확률로 4초 동안 불경한 힘 획득",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_820939409",
-        "text": "공격 명중 시 마나 #",
+        "id": "fractured.stat_2806435316",
+        "text": "최근 4초 이내 적을 처치하지 않은 경우 정확도 #% 증가",
         "type": "fractured"
       },
       {
@@ -19941,13 +19936,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2810434465",
-        "text": "최근 4초 이내 치명타 공격 시 물리 피해의 #%를 추가 화염 피해로 획득",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3002506763",
-        "text": "주문 명중 시 #%의 확률로 적을 이동 방해하여 적 이동 속도 30% 감소",
+        "id": "fractured.stat_820939409",
+        "text": "공격 명중 시 마나 #",
         "type": "fractured"
       },
       {
@@ -19956,8 +19946,18 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_69898010",
-        "text": "지팡이 공격 시 #~#의 물리 피해 추가",
+        "id": "fractured.stat_3002506763",
+        "text": "주문 명중 시 #%의 확률로 적을 이동 방해하여 적 이동 속도 30% 감소",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_2810434465",
+        "text": "최근 4초 이내 치명타 공격 시 물리 피해의 #%를 추가 화염 피해로 획득",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1393393937",
+        "text": "방패를 들고 있는 동안 공격 피해 #% 증가",
         "type": "fractured"
       },
       {
@@ -19971,8 +19971,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1393393937",
-        "text": "방패를 들고 있는 동안 공격 피해 #% 증가",
+        "id": "fractured.stat_69898010",
+        "text": "지팡이 공격 시 #~#의 물리 피해 추가",
         "type": "fractured"
       },
       {
@@ -20001,6 +20001,11 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_280213220",
+        "text": "공격 명중 시 #%의 확률로 적 도발",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_3586984690",
         "text": "단검 사용 시 피해 #% 증가",
         "type": "fractured"
@@ -20011,23 +20016,18 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_280213220",
-        "text": "공격 명중 시 #%의 확률로 적 도발",
-        "type": "fractured"
-      },
-      {
         "id": "fractured.stat_828179689",
         "text": "냉각 효과 #% 증가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_635761691",
-        "text": "클로 사용 시 물리 피해 #% 증가",
+        "id": "fractured.stat_1181129483",
+        "text": "방패를 들고 있는 동안 주문 시전 시 #~#의 카오스 피해 추가",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1181129483",
-        "text": "방패를 들고 있는 동안 주문 시전 시 #~#의 카오스 피해 추가",
+        "id": "fractured.stat_635761691",
+        "text": "클로 사용 시 물리 피해 #% 증가",
         "type": "fractured"
       },
       {
@@ -22653,13 +22653,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1151217691",
-        "text": "원소의 일격 공격 속도 #% 증가",
+        "id": "enchant.stat_3655654928",
+        "text": "모독이 시신 1개를 추가 생성",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3655654928",
-        "text": "모독이 시신 1개를 추가 생성",
+        "id": "enchant.stat_1151217691",
+        "text": "원소의 일격 공격 속도 #% 증가",
         "type": "enchant"
       },
       {
@@ -22748,13 +22748,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3229580299",
-        "text": "불타는 화살 물리 피해의 #%를 추가 화염 피해로 획득",
+        "id": "enchant.stat_1697080607",
+        "text": "지진 피해 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1697080607",
-        "text": "지진 피해 #% 증가",
+        "id": "enchant.stat_3229580299",
+        "text": "불타는 화살 물리 피해의 #%를 추가 화염 피해로 획득",
         "type": "enchant"
       },
       {
@@ -22823,13 +22823,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2284801675",
-        "text": "돌 골렘이 제공하는 버프 효과 #% 증가",
+        "id": "enchant.stat_2583039202",
+        "text": "칼날당 칼날 소용돌이의 치명타 피해 배율 #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2583039202",
-        "text": "칼날당 칼날 소용돌이의 치명타 피해 배율 #%",
+        "id": "enchant.stat_2284801675",
+        "text": "돌 골렘이 제공하는 버프 효과 #% 증가",
         "type": "enchant"
       },
       {
@@ -23063,6 +23063,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_3948894096",
+        "text": "충격 폭발 피해 #% 증가",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_494477497",
         "text": "처치 시 #%의 확률로 전쟁의 율령 발동",
         "type": "enchant"
@@ -23123,13 +23128,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1106926438",
-        "text": "처치 시 #%의 확률로 전쟁의 법령 발동",
+        "id": "enchant.stat_3359777583",
+        "text": "폭풍 부름의 피해 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3359777583",
-        "text": "폭풍 부름의 피해 #% 증가",
+        "id": "enchant.stat_1106926438",
+        "text": "처치 시 #%의 확률로 전쟁의 법령 발동",
         "type": "enchant"
       },
       {
@@ -23148,13 +23153,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3053448465",
-        "text": "화염파 치명타 확률 #% 증가",
+        "id": "enchant.stat_4033078288",
+        "text": "산산조각의 피해 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_4033078288",
-        "text": "산산조각의 피해 #% 증가",
+        "id": "enchant.stat_3053448465",
+        "text": "화염파 치명타 확률 #% 증가",
         "type": "enchant"
       },
       {
@@ -23408,13 +23413,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1268512925",
-        "text": "처치 시 #%의 확률로 서리의 법령 발동",
+        "id": "enchant.stat_68809719",
+        "text": "얼음 폭발 효과 범위 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_68809719",
-        "text": "얼음 폭발 효과 범위 #% 증가",
+        "id": "enchant.stat_1268512925",
+        "text": "처치 시 #%의 확률로 서리의 법령 발동",
         "type": "enchant"
       },
       {
@@ -23438,13 +23443,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_478612089",
-        "text": "열광 마나 점유 #% 감소",
+        "id": "enchant.stat_3078026860",
+        "text": "폭발 덫이 소규모 폭발을 1회 추가 유발",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3078026860",
-        "text": "폭발 덫이 소규모 폭발을 1회 추가 유발",
+        "id": "enchant.stat_478612089",
+        "text": "열광 마나 점유 #% 감소",
         "type": "enchant"
       },
       {
@@ -23738,13 +23743,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1007135105",
-        "text": "역학 폭발 피해 #% 증가",
+        "id": "enchant.stat_345703394",
+        "text": "화염 덫 화상 피해 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_345703394",
-        "text": "화염 덫 화상 피해 #% 증가",
+        "id": "enchant.stat_1007135105",
+        "text": "역학 폭발 피해 #% 증가",
         "type": "enchant"
       },
       {
@@ -23768,13 +23773,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1171483499",
-        "text": "돌 골렘이 주는 피해 #% 증가",
+        "id": "enchant.stat_944311193",
+        "text": "정화의 불길로 주는 피해 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_944311193",
-        "text": "정화의 불길로 주는 피해 #% 증가",
+        "id": "enchant.stat_1171483499",
+        "text": "돌 골렘이 주는 피해 #% 증가",
         "type": "enchant"
       },
       {
@@ -23788,13 +23793,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2070247068",
-        "text": "폭풍 부름의 효과 범위 #% 증가",
+        "id": "enchant.stat_3490662882",
+        "text": "방패 돌진 피해 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3490662882",
-        "text": "방패 돌진 피해 #% 증가",
+        "id": "enchant.stat_2070247068",
+        "text": "폭풍 부름의 효과 범위 #% 증가",
         "type": "enchant"
       },
       {
@@ -23863,8 +23868,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_340193547",
-        "text": "지층 강타 효과 범위 #% 증가",
+        "id": "enchant.stat_3734339018",
+        "text": "겨울 보주 최대 단계 +#",
         "type": "enchant"
       },
       {
@@ -23873,8 +23878,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3734339018",
-        "text": "겨울 보주 최대 단계 +#",
+        "id": "enchant.stat_340193547",
+        "text": "지층 강타 효과 범위 #% 증가",
         "type": "enchant"
       },
       {
@@ -23898,11 +23903,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2834109076",
-        "text": "동결탄 탑이 주는 피해 #% 증가",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_780453137",
         "text": "심연의 함성 피해 #% 증가",
         "type": "enchant"
@@ -23910,6 +23910,11 @@
       {
         "id": "enchant.stat_2054059315",
         "text": "소집 버프 효과 #% 증가",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2834109076",
+        "text": "동결탄 탑이 주는 피해 #% 증가",
         "type": "enchant"
       },
       {
@@ -24008,13 +24013,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3698446010",
-        "text": "얼음 덫 피해가 #%의 냉기 저항 관통",
+        "id": "enchant.stat_3901016205",
+        "text": "강타로 주는 피해 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3901016205",
-        "text": "강타로 주는 피해 #% 증가",
+        "id": "enchant.stat_3698446010",
+        "text": "얼음 덫 피해가 #%의 냉기 저항 관통",
         "type": "enchant"
       },
       {
@@ -24133,13 +24138,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_303359279",
-        "text": "영혼 분리가 적을 이동 방해하여 이동 속도 #% 감소",
+        "id": "enchant.stat_1447427508",
+        "text": "복수 재사용 대기시간 회복 속도 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1447427508",
-        "text": "복수 재사용 대기시간 회복 속도 #% 증가",
+        "id": "enchant.stat_303359279",
+        "text": "영혼 분리가 적을 이동 방해하여 이동 속도 #% 감소",
         "type": "enchant"
       },
       {
@@ -24208,13 +24213,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2844206732",
-        "text": "응징 저주 효과 #% 증가",
+        "id": "enchant.stat_1152784934",
+        "text": "소환된 신성한 유물이 주는 피해 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1152784934",
-        "text": "소환된 신성한 유물이 주는 피해 #% 증가",
+        "id": "enchant.stat_2844206732",
+        "text": "응징 저주 효과 #% 증가",
         "type": "enchant"
       },
       {
@@ -24308,13 +24313,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1255310381",
-        "text": "격분 충전 하나당 격분 피해 #% 증가",
+        "id": "enchant.stat_4031295671",
+        "text": "지옥불 강타 효과 범위 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_4031295671",
-        "text": "지옥불 강타 효과 범위 #% 증가",
+        "id": "enchant.stat_1255310381",
+        "text": "격분 충전 하나당 격분 피해 #% 증가",
         "type": "enchant"
       },
       {
@@ -24328,13 +24333,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3738339949",
-        "text": "불타는 화살의 디버프 효과 #% 증가",
+        "id": "enchant.stat_147952811",
+        "text": "명중 시 #%의 확률로 칼날의 율령 발동",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_147952811",
-        "text": "명중 시 #%의 확률로 칼날의 율령 발동",
+        "id": "enchant.stat_3738339949",
+        "text": "불타는 화살의 디버프 효과 #% 증가",
         "type": "enchant"
       },
       {
@@ -24378,8 +24383,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1537296847",
-        "text": "육체와 돌의 마나 점유 #% 감소",
+        "id": "enchant.stat_2295263113",
+        "text": "서리 구체 시전 시 소용돌이의 효과 범위 #% 증가",
         "type": "enchant"
       },
       {
@@ -24388,8 +24393,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2295263113",
-        "text": "서리 구체 시전 시 소용돌이의 효과 범위 #% 증가",
+        "id": "enchant.stat_1537296847",
+        "text": "육체와 돌의 마나 점유 #% 감소",
         "type": "enchant"
       },
       {
@@ -24398,8 +24403,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2666843091",
-        "text": "명중 시 #%의 확률로 힘의 율령 발동",
+        "id": "enchant.stat_2774873427",
+        "text": "서리 구체의 동결 확률 #%",
         "type": "enchant"
       },
       {
@@ -24408,18 +24413,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2774873427",
-        "text": "서리 구체의 동결 확률 #%",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_1575282859",
-        "text": "화염 골렘이 주는 피해 #% 증가",
+        "id": "enchant.stat_2666843091",
+        "text": "명중 시 #%의 확률로 힘의 율령 발동",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_1694915226",
         "text": "폭발 덫 효과 범위 #% 증가",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_1575282859",
+        "text": "화염 골렘이 주는 피해 #% 증가",
         "type": "enchant"
       },
       {
@@ -24513,8 +24518,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1601558321",
-        "text": "돌 골렘 원소 저항 #%",
+        "id": "enchant.stat_1213017413",
+        "text": "파편 쇠뇌의 투사체 속도 #% 증가",
         "type": "enchant"
       },
       {
@@ -24523,8 +24528,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1213017413",
-        "text": "파편 쇠뇌의 투사체 속도 #% 증가",
+        "id": "enchant.stat_1601558321",
+        "text": "돌 골렘 원소 저항 #%",
         "type": "enchant"
       },
       {
@@ -24543,13 +24548,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1298820272",
-        "text": "화염 골렘 원소 저항 #%",
+        "id": "enchant.stat_2520825974",
+        "text": "얼음 골렘 원소 저항 #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2520825974",
-        "text": "얼음 골렘 원소 저항 #%",
+        "id": "enchant.stat_1298820272",
+        "text": "화염 골렘 원소 저항 #%",
         "type": "enchant"
       },
       {
@@ -24570,11 +24575,6 @@
       {
         "id": "enchant.stat_3317752680",
         "text": "초당 포식 토템 흡수 #% 증가",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3948894096",
-        "text": "충격 폭발 피해 #% 증가",
         "type": "enchant"
       },
       {
@@ -24603,13 +24603,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2556095677",
-        "text": "위상 질주 지속시간 #% 증가",
+        "id": "enchant.stat_2287986752",
+        "text": "반격 재사용 대기시간 회복 속도 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2287986752",
-        "text": "반격 재사용 대기시간 회복 속도 #% 증가",
+        "id": "enchant.stat_2556095677",
+        "text": "위상 질주 지속시간 #% 증가",
         "type": "enchant"
       },
       {
@@ -24778,13 +24778,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3367800526",
-        "text": "도약 강타 효과 범위 #% 증가",
+        "id": "enchant.stat_2731606134",
+        "text": "천공이 주는 피해 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2731606134",
-        "text": "천공이 주는 피해 #% 증가",
+        "id": "enchant.stat_3367800526",
+        "text": "도약 강타 효과 범위 #% 증가",
         "type": "enchant"
       },
       {
@@ -24998,13 +24998,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1877863115",
-        "text": "곰 덫 피해 #% 증가",
+        "id": "enchant.stat_2511915418",
+        "text": "황폐 효과 범위 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2511915418",
-        "text": "황폐 효과 범위 #% 증가",
+        "id": "enchant.stat_1877863115",
+        "text": "곰 덫 피해 #% 증가",
         "type": "enchant"
       },
       {
@@ -25188,13 +25188,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3953599026",
-        "text": "발굴 피해 #% 증가",
+        "id": "enchant.stat_1631824124",
+        "text": "미끼 토템 생명력 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1631824124",
-        "text": "미끼 토템 생명력 #% 증가",
+        "id": "enchant.stat_3953599026",
+        "text": "발굴 피해 #% 증가",
         "type": "enchant"
       },
       {
@@ -25383,6 +25383,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2454791895",
+        "text": "빙하 창살 탑의 사거리 #% 증가",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2423221070",
         "text": "얼음 창 피해 #% 증가",
         "type": "enchant"
@@ -25458,11 +25463,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2454791895",
-        "text": "빙하 창살 탑의 사거리 #% 증가",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_4040760803",
         "text": "소환된 지배의 파수꾼이 주는 피해 #% 증가",
         "type": "enchant"
@@ -25508,13 +25508,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2013536039",
-        "text": "파수꾼 탑이 소환한 소환수가 주는 피해 #% 증가",
+        "id": "enchant.stat_1572544406",
+        "text": "연쇄 번개 탑의 사거리 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1572544406",
-        "text": "연쇄 번개 탑의 사거리 #% 증가",
+        "id": "enchant.stat_2013536039",
+        "text": "파수꾼 탑이 소환한 소환수가 주는 피해 #% 증가",
         "type": "enchant"
       },
       {
@@ -27715,13 +27715,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2366645974",
-        "text": "지역에 화염 피해를 주는 몬스터 무리 #개 추가 등장",
+        "id": "enchant.stat_3522828354",
+        "text": "지역에 있는 금고 희귀도가 마법 이상",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3522828354",
-        "text": "지역에 있는 금고 희귀도가 마법 이상",
+        "id": "enchant.stat_2366645974",
+        "text": "지역에 화염 피해를 주는 몬스터 무리 #개 추가 등장",
         "type": "enchant"
       },
       {
@@ -27755,13 +27755,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2718657160",
-        "text": "태풍 파열 지뢰의 오라 효과 #% 증가",
+        "id": "enchant.stat_2180286756",
+        "text": "지역에 균열 등장 가능",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2180286756",
-        "text": "지역에 균열 등장 가능",
+        "id": "enchant.stat_2718657160",
+        "text": "태풍 파열 지뢰의 오라 효과 #% 증가",
         "type": "enchant"
       },
       {
@@ -27805,18 +27805,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1274634881",
-        "text": "지역에 호응하는 성소 1개 추가 등장",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_1789548201",
         "text": "번개 태풍 탑의 사거리 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2166020726",
-        "text": "강화의 탑이 피해 #% 증가 효과 부여",
+        "id": "enchant.stat_1274634881",
+        "text": "지역에 호응하는 성소 1개 추가 등장",
         "type": "enchant"
       },
       {
@@ -27825,8 +27820,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2166020726",
+        "text": "강화의 탑이 피해 #% 증가 효과 부여",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2329255938",
         "text": "네메시스 몬스터가 화폐 아이템 #개를 추가로 떨어뜨림",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_4008016019",
+        "text": "#%의 확률로 이계 포탈이 이계 악마 하나를 추가로 불러옴",
         "type": "enchant"
       },
       {
@@ -27837,11 +27842,6 @@
       {
         "id": "enchant.stat_2410117075",
         "text": "지진의 탑 사거리 #% 증가",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_4008016019",
-        "text": "#%의 확률로 이계 포탈이 이계 악마 하나를 추가로 불러옴",
         "type": "enchant"
       },
       {
@@ -27950,11 +27950,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1207515735",
-        "text": "지역에 수수께끼의 통 무더기 #개 추가 등장",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2685482716",
         "text": "화염구 탑이 원형으로 투사체 발사",
         "type": "enchant"
@@ -27965,13 +27960,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_1207515735",
+        "text": "지역에 수수께끼의 통 무더기 #개 추가 등장",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2242331554",
         "text": "충격 폭발 탑이 번개 속성 적한테도 고스란히 피해를 줌",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_4006050359",
-        "text": "시체 불덩이가 최대 1개의 시신을 추가 소모",
+        "id": "enchant.stat_1508220097",
+        "text": "고유 보스가 화폐 파편을 추가로 떨어뜨림",
         "type": "enchant"
       },
       {
@@ -27980,8 +27980,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1508220097",
-        "text": "고유 보스가 화폐 파편을 추가로 떨어뜨림",
+        "id": "enchant.stat_4006050359",
+        "text": "시체 불덩이가 최대 1개의 시신을 추가 소모",
         "type": "enchant"
       },
       {
@@ -27995,13 +27995,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_75100665",
-        "text": "식별된 지도에서 발견한 아이템이 식별된 상태로 떨어짐",
+        "id": "enchant.stat_2911217910",
+        "text": "돌의 응시 창살 탑 사거리 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2911217910",
-        "text": "돌의 응시 창살 탑 사거리 #% 증가",
+        "id": "enchant.stat_75100665",
+        "text": "식별된 지도에서 발견한 아이템이 식별된 상태로 떨어짐",
         "type": "enchant"
       },
       {
@@ -28010,23 +28010,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3651039490",
-        "text": "소환의 탑이 소환한 소환수의 생명력 #% 증가",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_3340686967",
         "text": "처음 사로잡힌 3마리의 몬스터가 #%의 확률로 지도를 추가로 떨어뜨림",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3760667977",
-        "text": "고유 보스가 고유 아이템 #개를 추가로 떨어뜨림",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3006815533",
-        "text": "지진의 탑이 부여하는 기절 지속시간 #% 증가",
+        "id": "enchant.stat_3651039490",
+        "text": "소환의 탑이 소환한 소환수의 생명력 #% 증가",
         "type": "enchant"
       },
       {
@@ -28035,8 +28025,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_118036057",
-        "text": "질식의 탑이 이동 속도 #% 증가 효과 부여",
+        "id": "enchant.stat_3006815533",
+        "text": "지진의 탑이 부여하는 기절 지속시간 #% 증가",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3760667977",
+        "text": "고유 보스가 고유 아이템 #개를 추가로 떨어뜨림",
         "type": "enchant"
       },
       {
@@ -28045,8 +28040,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_118036057",
+        "text": "질식의 탑이 이동 속도 #% 증가 효과 부여",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_1378482149",
         "text": "소환의 탑이 소환한 소환수의 이동 속도 #% 증가",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_124877078",
+        "text": "고유 보스가 주는 피해 #% 증가",
         "type": "enchant"
       },
       {
@@ -28065,18 +28070,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_124877078",
-        "text": "고유 보스가 주는 피해 #% 증가",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_6032025",
         "text": "연쇄 번개 탑이 추가 연쇄 반응을 #회 발생시킴",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_279246355",
-        "text": "지역에 침략 보스 한 마리 추가 서식",
         "type": "enchant"
       },
       {
@@ -28085,18 +28080,23 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_279246355",
+        "text": "지역에 침략 보스 한 마리 추가 서식",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_1959522666",
         "text": "강화의 탑의 사거리 내에 위치한 모든 탑이 #% 확률로 2배의 피해를 줌",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3747734818",
-        "text": "지역에 쫓기는 배신자 등장",
+        "id": "enchant.stat_1282857477",
+        "text": "정찰병 탑이 소환한 소환수의 생명력 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1282857477",
-        "text": "정찰병 탑이 소환한 소환수의 생명력 #% 증가",
+        "id": "enchant.stat_3747734818",
+        "text": "지역에 쫓기는 배신자 등장",
         "type": "enchant"
       },
       {
@@ -28110,18 +28110,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1480568810",
-        "text": "처음 사로잡힌 3마리의 몬스터가 #%의 확률로 도금된 갑충석을 추가로 떨어뜨림",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_3798342608",
         "text": "지역에 수수께끼의 통 무더기 #개 추가 등장",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3208939528",
-        "text": "명중한 적 하나당 방패 돌진 피해 #% 증가",
         "type": "enchant"
       },
       {
@@ -28130,13 +28120,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_373209496",
-        "text": "지역에 고통받는 이단자 1명 추가 등장",
+        "id": "enchant.stat_3208939528",
+        "text": "명중한 적 하나당 방패 돌진 피해 #% 증가",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_4143730600",
-        "text": "탈주 유배자가 주얼을 추가로 떨어뜨림",
+        "id": "enchant.stat_1480568810",
+        "text": "처음 사로잡힌 3마리의 몬스터가 #%의 확률로 도금된 갑충석을 추가로 떨어뜨림",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_373209496",
+        "text": "지역에 고통받는 이단자 1명 추가 등장",
         "type": "enchant"
       },
       {
@@ -28150,8 +28145,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_906446422",
-        "text": "선구자들이 화폐 파편을 추가로 떨어뜨림",
+        "id": "enchant.stat_3550168289",
+        "text": "지역에 탈주 유배자 추가 #명이 서식",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_4143730600",
+        "text": "탈주 유배자가 주얼을 추가로 떨어뜨림",
         "type": "enchant"
       },
       {
@@ -28160,8 +28160,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3550168289",
-        "text": "지역에 탈주 유배자 추가 #명이 서식",
+        "id": "enchant.stat_906446422",
+        "text": "선구자들이 화폐 파편을 추가로 떨어뜨림",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_4024383498",
+        "text": "시간의 탑이 부패 속도 #% 증가시킴",
         "type": "enchant"
       },
       {
@@ -28175,18 +28180,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_4024383498",
-        "text": "시간의 탑이 부패 속도 #% 증가시킴",
+        "id": "enchant.stat_21144785",
+        "text": "충격 폭발 탑이 반복할 때마다 효과 범위 #% 증가",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_3830917556",
         "text": "지진의 탑이 생성한 지진파의 너비와 사거리 #% 증가",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_21144785",
-        "text": "충격 폭발 탑이 반복할 때마다 효과 범위 #% 증가",
         "type": "enchant"
       },
       {
@@ -28205,18 +28205,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3352207460",
-        "text": "돌의 응시 탑이 부여하는 석화 지연시간 #% 증가",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_307092526",
-        "text": "충격 폭발 탑 #회 추가 반복",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_3564826949",
         "text": "지역에 심연 등장 가능",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3352207460",
+        "text": "돌의 응시 탑이 부여하는 석화 지연시간 #% 증가",
         "type": "enchant"
       },
       {
@@ -28230,6 +28225,16 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_307092526",
+        "text": "충격 폭발 탑 #회 추가 반복",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2563159607",
+        "text": "질식의 탑이 피해 #% 증가 효과 부여",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_3094610721",
         "text": "지진의 탑이 지진파 1개 추가 생성",
         "type": "enchant"
@@ -28240,83 +28245,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2563159607",
-        "text": "질식의 탑이 피해 #% 증가 효과 부여",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3728052911",
-        "text": "지역에 카오스 피해를 주는 몬스터 무리 #개 추가 등장",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_1463704577",
-        "text": "지역에 고통받는 도굴꾼 1명 추가 등장",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2392278281",
-        "text": "처음 사로잡힌 3마리의 몬스터가 #%의 확률로 고유 아이템을 추가로 떨어뜨림",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2862290356",
-        "text": "매혹적인 지역",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_395808938",
-        "text": "지역에 에센스 추가 등장",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3094365680",
-        "text": "지역에 독성 몬스터 무리 #개 추가 등장",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3481854423",
-        "text": "고유 보스가 호위병 대동",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3137138073",
-        "text": "플레이어의 생명력 및 마나가 플라스크로 즉시 회복",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3045497140",
-        "text": "타락한 바알 몬스터가 아이템을 떨어뜨릴 때 #%의 확률로 타락한 아이템을 떨어뜨림",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3151377452",
-        "text": "플레이어가 반사 피해를 받을 수 없음",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3416709884",
-        "text": "처치 시 플레이어가 추가 바알 영혼 획득",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_1076056376",
-        "text": "사용한 필멸의 조각 하나당 #%의 확률로 지역에 붉은 여왕의 선물이 등장",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2400448724",
         "text": "플레이어와 몬스터가 받는 번개 피해 #% 증가",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_728267040",
-        "text": "지역 내에서 발견한 아이템이 #% 확률로 타락",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_471027242",
-        "text": "탈주 유배자의 최대 생명력 #% 증가",
         "type": "enchant"
       },
       {
@@ -28330,8 +28260,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1080855680",
-        "text": "탈주 유배자가 주는 피해 #% 증가",
+        "id": "enchant.stat_3849821286",
+        "text": "번개 태풍 탑의 폭발 효과 범위 #% 증가",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3094365680",
+        "text": "지역에 독성 몬스터 무리 #개 추가 등장",
         "type": "enchant"
       },
       {
@@ -28340,8 +28275,73 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3849821286",
-        "text": "번개 태풍 탑의 폭발 효과 범위 #% 증가",
+        "id": "enchant.stat_471027242",
+        "text": "탈주 유배자의 최대 생명력 #% 증가",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3045497140",
+        "text": "타락한 바알 몬스터가 아이템을 떨어뜨릴 때 #%의 확률로 타락한 아이템을 떨어뜨림",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_395808938",
+        "text": "지역에 에센스 추가 등장",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3151377452",
+        "text": "플레이어가 반사 피해를 받을 수 없음",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3137138073",
+        "text": "플레이어의 생명력 및 마나가 플라스크로 즉시 회복",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_1463704577",
+        "text": "지역에 고통받는 도굴꾼 1명 추가 등장",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3416709884",
+        "text": "처치 시 플레이어가 추가 바알 영혼 획득",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2862290356",
+        "text": "매혹적인 지역",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_728267040",
+        "text": "지역 내에서 발견한 아이템이 #% 확률로 타락",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3728052911",
+        "text": "지역에 카오스 피해를 주는 몬스터 무리 #개 추가 등장",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_1080855680",
+        "text": "탈주 유배자가 주는 피해 #% 증가",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_1076056376",
+        "text": "사용한 필멸의 조각 하나당 #%의 확률로 지역에 붉은 여왕의 선물이 등장",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2392278281",
+        "text": "처음 사로잡힌 3마리의 몬스터가 #%의 확률로 고유 아이템을 추가로 떨어뜨림",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3481854423",
+        "text": "고유 보스가 호위병 대동",
         "type": "enchant"
       }
     ]
@@ -29550,13 +29550,13 @@
         "type": "crafted"
       },
       {
-        "id": "crafted.stat_2362265695",
-        "text": "#%의 확률로 밀어내기 회피",
+        "id": "crafted.stat_238314698",
+        "text": "# 초과 필수 레벨 속성 부여를 붙일 수 없음",
         "type": "crafted"
       },
       {
-        "id": "crafted.stat_238314698",
-        "text": "# 초과 필수 레벨 속성 부여를 붙일 수 없음",
+        "id": "crafted.stat_2362265695",
+        "text": "#%의 확률로 밀어내기 회피",
         "type": "crafted"
       }
     ]
@@ -29880,13 +29880,13 @@
         "type": "monster"
       },
       {
-        "id": "monster.metamorph_reward_map",
-        "text": "Drops a Map Item (×#)",
+        "id": "monster.metamorph_reward_divination_cards",
+        "text": "Drops additional Divination Cards (×#)",
         "type": "monster"
       },
       {
-        "id": "monster.metamorph_reward_divination_cards",
-        "text": "Drops additional Divination Cards (×#)",
+        "id": "monster.metamorph_reward_map",
+        "text": "Drops a Map Item (×#)",
         "type": "monster"
       },
       {
@@ -29965,13 +29965,13 @@
         "type": "monster"
       },
       {
-        "id": "monster.metamorph_reward_elder_weapon",
-        "text": "Drops an Elder Weapon (×#)",
+        "id": "monster.metamorph_reward_breach_splinters",
+        "text": "Drops additional Breach Splinters (×#)",
         "type": "monster"
       },
       {
-        "id": "monster.metamorph_reward_breach_splinters",
-        "text": "Drops additional Breach Splinters (×#)",
+        "id": "monster.metamorph_reward_elder_weapon",
+        "text": "Drops an Elder Weapon (×#)",
         "type": "monster"
       },
       {

@@ -1058,13 +1058,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3604946673",
-        "text": "เลเวลเจม มิเนียน ที่ใส่ #",
+        "id": "explicit.stat_2915988346",
+        "text": "ต้านทาน ไฟ และ น้ำแข็ง #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2915988346",
-        "text": "ต้านทาน ไฟ และ น้ำแข็ง #%",
+        "id": "explicit.stat_3604946673",
+        "text": "เลเวลเจม มิเนียน ที่ใส่ #",
         "type": "explicit"
       },
       {
@@ -2298,6 +2298,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_219391121",
+        "text": "นำ #% ของความเสียหาย กายภาพ ไปเสริมเป็น ไฟฟ้า",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3964634628",
         "text": "เสริมความเสียหาย ไฟ # ถึง # ให้กับการโจมตีและเวทย์",
         "type": "explicit"
@@ -2413,11 +2418,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_219391121",
-        "text": "นำ #% ของความเสียหาย กายภาพ ไปเสริมเป็น ไฟฟ้า",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_4262448838",
         "text": "มีโอกาสหลีกเลี่ยง สถานะมึนงง #%",
         "type": "explicit"
@@ -2523,6 +2523,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3811191316",
+        "text": "เพิ่มพื้นที่ส่งผล ของมิเนียน #%",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_828179689",
         "text": "เพิ่มผลสถานะ หนาวเย็น #%",
         "type": "explicit"
@@ -2615,11 +2620,6 @@
       {
         "id": "explicit.stat_1089165168",
         "text": "ไพรมอร์เดียล",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3811191316",
-        "text": "เพิ่มพื้นที่ส่งผล ของมิเนียน #%",
         "type": "explicit"
       },
       {
@@ -3128,6 +3128,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_438778966",
+        "text": "สนับสนุน Spell Echo เลเวล # กับเจ็มที่ใส่",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_392168009",
         "text": "ต้านทาน เคออส #% ขณะได้รับผลจากยา",
         "type": "explicit"
@@ -3483,13 +3488,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2387423236",
-        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง #",
+        "id": "explicit.stat_2808735733",
+        "text": "พื้นที่มีหีบขนาดใหญ่",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2808735733",
-        "text": "พื้นที่มีหีบขนาดใหญ่",
+        "id": "explicit.stat_2387423236",
+        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง #",
         "type": "explicit"
       },
       {
@@ -3783,13 +3788,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1248507170",
-        "text": "ถ้ามี Strength ในรัศมีครบ 40 หน่วย: จะทำให้ Cleave มอบบัฟ Fortify ตอนปะทะ",
+        "id": "explicit.stat_2431643207",
+        "text": "มิเนียนมีโอกาสทำศัตรูตาบอด  #% หากตีโดน",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2431643207",
-        "text": "มิเนียนมีโอกาสทำศัตรูตาบอด  #% หากตีโดน",
+        "id": "explicit.stat_1248507170",
+        "text": "ถ้ามี Strength ในรัศมีครบ 40 หน่วย: จะทำให้ Cleave มอบบัฟ Fortify ตอนปะทะ",
         "type": "explicit"
       },
       {
@@ -3865,11 +3870,6 @@
       {
         "id": "explicit.stat_133683091",
         "text": "เสริมความเสียหาย กายภาพ # ถึง # ให้การโจมตีด้วย ไม้กายสิทธิ์",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_438778966",
-        "text": "สนับสนุน Spell Echo เลเวล # กับเจ็มที่ใส่",
         "type": "explicit"
       },
       {
@@ -4348,13 +4348,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4082111882",
-        "text": "ค่า หลบหลีก # หากพลังชีวิตเต็ม",
+        "id": "explicit.stat_2466604008",
+        "text": "การโจมตีชิ่งเพิ่ม # ครั้ง ขณะอยู่ในมือหลัก",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2466604008",
-        "text": "การโจมตีชิ่งเพิ่ม # ครั้ง ขณะอยู่ในมือหลัก",
+        "id": "explicit.stat_4082111882",
+        "text": "ค่า หลบหลีก # หากพลังชีวิตเต็ม",
         "type": "explicit"
       },
       {
@@ -4898,13 +4898,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1169502663",
-        "text": "ได้รับสกิล Frostbite เลเวล #",
+        "id": "explicit.stat_749770518",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Inspiration เลเวล #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_749770518",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Inspiration เลเวล #",
+        "id": "explicit.stat_1169502663",
+        "text": "ได้รับสกิล Frostbite เลเวล #",
         "type": "explicit"
       },
       {
@@ -5518,13 +5518,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2687254633",
-        "text": "ดูด #% ของความเสียหาย ไฟฟ้า ไปเป็น พลังชีวิต ขณะอยู่ในผลของยา",
+        "id": "explicit.stat_974757096",
+        "text": "ติด Manifest Dancing Dervish เลเวล # ถ้าติดสถานะ Rampage",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_974757096",
-        "text": "ติด Manifest Dancing Dervish เลเวล # ถ้าติดสถานะ Rampage",
+        "id": "explicit.stat_2687254633",
+        "text": "ดูด #% ของความเสียหาย ไฟฟ้า ไปเป็น พลังชีวิต ขณะอยู่ในผลของยา",
         "type": "explicit"
       },
       {
@@ -5638,13 +5638,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_308396001",
-        "text": "เพิ่มความเร็วในการเคลื่อนที่ในขณะที่คุณไม่ได้ถูกการโจมตี #%",
+        "id": "explicit.stat_3769854701",
+        "text": "ไม่สามารถดูดพลังชีวิต",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3769854701",
-        "text": "ไม่สามารถดูดพลังชีวิต",
+        "id": "explicit.stat_308396001",
+        "text": "เพิ่มความเร็วในการเคลื่อนที่ในขณะที่คุณไม่ได้ถูกการโจมตี #%",
         "type": "explicit"
       },
       {
@@ -5838,13 +5838,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_630867098",
-        "text": "ด้วย Dexterity อย่างน้อย 40 ในรัศมี Barrage ยิงกระสุนเพิ่มขึ้น # ลูก ในกระสุนชุดแรก และชุดสุดท้าย",
+        "id": "explicit.stat_98977150",
+        "text": "Pain Attunement",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_98977150",
-        "text": "Pain Attunement",
+        "id": "explicit.stat_630867098",
+        "text": "ด้วย Dexterity อย่างน้อย 40 ในรัศมี Barrage ยิงกระสุนเพิ่มขึ้น # ลูก ในกระสุนชุดแรก และชุดสุดท้าย",
         "type": "explicit"
       },
       {
@@ -5903,13 +5903,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3653191834",
-        "text": "ไม่ได้รับผลจาก พื้นหนาวเย็น",
+        "id": "explicit.stat_2921373173",
+        "text": "โจมตีด้วยคาถาแรงขึ้น #% หากแหวนอีกวงเป็นไอเท็ม Elder",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2921373173",
-        "text": "โจมตีด้วยคาถาแรงขึ้น #% หากแหวนอีกวงเป็นไอเท็ม Elder",
+        "id": "explicit.stat_3653191834",
+        "text": "ไม่ได้รับผลจาก พื้นหนาวเย็น",
         "type": "explicit"
       },
       {
@@ -6008,13 +6008,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2415398184",
-        "text": "ต้านทาน ทุกธาตุ #% เมื่อมีค่า Strength เกิน 200 แต้ม",
+        "id": "explicit.stat_215346464",
+        "text": "คุณจะไม่ติดสถานะช็อตเป็นเวลา # วินาทีหลังจากติดสภาพช็อต",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_215346464",
-        "text": "คุณจะไม่ติดสถานะช็อตเป็นเวลา # วินาทีหลังจากติดสภาพช็อต",
+        "id": "explicit.stat_2415398184",
+        "text": "ต้านทาน ทุกธาตุ #% เมื่อมีค่า Strength เกิน 200 แต้ม",
         "type": "explicit"
       },
       {
@@ -6303,13 +6303,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1243237244",
-        "text": "สะท้อนความเสียหายสายฟ้าเมื่อโจมตีระยะประชิด  # ถึง #",
+        "id": "explicit.stat_1488891279",
+        "text": "ทำศัตรู หนาวเย็น เป็นเวลา # วินาที ปะทะ ด้วยอาวุธนี้ในมือรอง",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1488891279",
-        "text": "ทำศัตรู หนาวเย็น เป็นเวลา # วินาที ปะทะ ด้วยอาวุธนี้ในมือรอง",
+        "id": "explicit.stat_1243237244",
+        "text": "สะท้อนความเสียหายสายฟ้าเมื่อโจมตีระยะประชิด  # ถึง #",
         "type": "explicit"
       },
       {
@@ -6843,13 +6843,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3413085237",
-        "text": "โครงกระดูกตีเร็วขึ้น #%",
+        "id": "explicit.stat_715256302",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Brutality เลเวล #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_715256302",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Brutality เลเวล #",
+        "id": "explicit.stat_3413085237",
+        "text": "โครงกระดูกตีเร็วขึ้น #%",
         "type": "explicit"
       },
       {
@@ -6998,6 +6998,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_1175213674",
+        "text": "แปลง #% ของความเสียหายธาตุที่ได้รับเป็นธาตุเคออส",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1958210928",
         "text": "Skeleton ที่เสกมาจะมี Avatar of Fire",
         "type": "explicit"
@@ -7010,11 +7015,6 @@
       {
         "id": "explicit.stat_254728692",
         "text": "สนับสนุน Pierce เลเวล # กับเจ็มที่ใส่",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1175213674",
-        "text": "แปลง #% ของความเสียหายธาตุที่ได้รับเป็นธาตุเคออส",
         "type": "explicit"
       },
       {
@@ -7198,23 +7198,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3206381437",
-        "text": "มีโอกาสได้ Fortify #% เมื่อคุณทำศัตรูติดมึนได้ด้วยการโจมตีระยะประชิด",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1436284579",
         "text": "ไม่สามารถติดสถานะตาบอด",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_825352061",
-        "text": "ได้รับสกิล Death Aura เลเวล #",
+        "id": "explicit.stat_3206381437",
+        "text": "มีโอกาสได้ Fortify #% เมื่อคุณทำศัตรูติดมึนได้ด้วยการโจมตีระยะประชิด",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_1950806024",
         "text": "ตัวคูณความเสียหาย น้ำแข็ง ต่อเนื่อง #%",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_825352061",
+        "text": "ได้รับสกิล Death Aura เลเวล #",
         "type": "explicit"
       },
       {
@@ -7678,13 +7678,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_93696421",
-        "text": "เพิ่มความเสียหายขึ้น #% ต่ออัตราหลบหลีก 450",
+        "id": "explicit.stat_3408048164",
+        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง # ต่อ Power Charge หนึ่งลูก ให้กับเวทย์",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3408048164",
-        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง # ต่อ Power Charge หนึ่งลูก ให้กับเวทย์",
+        "id": "explicit.stat_93696421",
+        "text": "เพิ่มความเสียหายขึ้น #% ต่ออัตราหลบหลีก 450",
         "type": "explicit"
       },
       {
@@ -7728,13 +7728,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3880462354",
-        "text": "ได้รับสกิล Herald of Ash เลเวล #",
+        "id": "explicit.stat_2262007777",
+        "text": "ถ้าขวดยาเป็นแบบค่อยๆ เติมมานาให้จะเติมชีวิตให้ด้วย",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2262007777",
-        "text": "ถ้าขวดยาเป็นแบบค่อยๆ เติมมานาให้จะเติมชีวิตให้ด้วย",
+        "id": "explicit.stat_3880462354",
+        "text": "ได้รับสกิล Herald of Ash เลเวล #",
         "type": "explicit"
       },
       {
@@ -7798,13 +7798,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1920234902",
-        "text": "รับความเสียหายไฟ # ต่อวินาที ต่อ Endurance Charge หนึ่งลูกหากเพิ่งโดนปะทะเร็วๆ นี้",
+        "id": "explicit.stat_2538694749",
+        "text": "โอกาสบล็อค การโจมตี #% ขณะถือ กรงเล็บคู่",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2538694749",
-        "text": "โอกาสบล็อค การโจมตี #% ขณะถือ กรงเล็บคู่",
+        "id": "explicit.stat_1920234902",
+        "text": "รับความเสียหายไฟ # ต่อวินาที ต่อ Endurance Charge หนึ่งลูกหากเพิ่งโดนปะทะเร็วๆ นี้",
         "type": "explicit"
       },
       {
@@ -8173,13 +8173,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_899293871",
-        "text": "ใช้งานสกิล Consecrate เลเวล # เมื่อคุณทำคริติคอล",
+        "id": "explicit.stat_347328113",
+        "text": "ได้รับ โล่พลังงาน # เมื่อสังหารศัตรูที่ติดช็อค",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_347328113",
-        "text": "ได้รับ โล่พลังงาน # เมื่อสังหารศัตรูที่ติดช็อค",
+        "id": "explicit.stat_899293871",
+        "text": "ใช้งานสกิล Consecrate เลเวล # เมื่อคุณทำคริติคอล",
         "type": "explicit"
       },
       {
@@ -8643,6 +8643,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_710105516",
+        "text": "#% ของค่าฟื้นฟูพลังชีวิตต่อวินาทีเมื่อแช่แข็งในพื้นที่",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_777246604",
         "text": "เพิ่มระยะเวลาส่งผลของ มิเนียน #% ต่อจำนวน Zombie ที่มี",
         "type": "explicit"
@@ -8678,6 +8683,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3678841229",
+        "text": "เพิ่มความเร็วในการเคลื่อนที่ขึ้น #% บนพื้นที่ช็อต",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_1345113611",
         "text": "สร้างสถานะ เจ็บป่วยที่ไม่มีความเสียหาย เหมือนดั่งสร้างความเสียหายเพิ่ม อีก #%",
         "type": "explicit"
@@ -8685,11 +8695,6 @@
       {
         "id": "explicit.stat_99487834",
         "text": "เมื่อใช้สกิล คุณจะได้รับความเสียหาย กายภาพ #% ของมานาที่ใช้ในการร่ายสกิลนั้น",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3678841229",
-        "text": "เพิ่มความเร็วในการเคลื่อนที่ขึ้น #% บนพื้นที่ช็อต",
         "type": "explicit"
       },
       {
@@ -9010,11 +9015,6 @@
       {
         "id": "explicit.stat_3433724931",
         "text": "ศัตรูติดคำสาป Temporal Chains เลเวล # เมื่อโจมตี",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_710105516",
-        "text": "#% ของค่าฟื้นฟูพลังชีวิตต่อวินาทีเมื่อแช่แข็งในพื้นที่",
         "type": "explicit"
       },
       {
@@ -9883,13 +9883,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1872128565",
-        "text": "จำนวน Siphoning Charge สูงสุด # ต่อไอเท็ม Elder หรือ Shaper ที่ใส่",
+        "id": "explicit.stat_708913352",
+        "text": "ทุกๆ 16 วินาทีจะได้ Elemental Overload เป็นเวลา 8 วินาที",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_708913352",
-        "text": "ทุกๆ 16 วินาทีจะได้ Elemental Overload เป็นเวลา 8 วินาที",
+        "id": "explicit.stat_1872128565",
+        "text": "จำนวน Siphoning Charge สูงสุด # ต่อไอเท็ม Elder หรือ Shaper ที่ใส่",
         "type": "explicit"
       },
       {
@@ -10069,13 +10069,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1745952865",
-        "text": "ร่นเวลาติดสถานะเจ็บป่วยของผู้เล่นลง #%",
+        "id": "explicit.stat_1258679667",
+        "text": "เพิ่มความเสียหาย กายภาพ #% ขณะมี Resolute Technique",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1258679667",
-        "text": "เพิ่มความเสียหาย กายภาพ #% ขณะมี Resolute Technique",
+        "id": "explicit.stat_1745952865",
+        "text": "ร่นเวลาติดสถานะเจ็บป่วยของผู้เล่นลง #%",
         "type": "explicit"
       },
       {
@@ -10139,13 +10139,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4089969970",
-        "text": "คุณและเพื่อนที่อยู่ใกล้ได้รับฟื้นฟูพลังชีวิต #% ต่อวินาที ถ้าคุณดูดกลืนศพเร็วๆ นี้",
+        "id": "explicit.stat_328131617",
+        "text": "ได้รับ Spirit Charge ทุกๆ # วินาที",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_328131617",
-        "text": "ได้รับ Spirit Charge ทุกๆ # วินาที",
+        "id": "explicit.stat_4089969970",
+        "text": "คุณและเพื่อนที่อยู่ใกล้ได้รับฟื้นฟูพลังชีวิต #% ต่อวินาที ถ้าคุณดูดกลืนศพเร็วๆ นี้",
         "type": "explicit"
       },
       {
@@ -10454,13 +10454,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4250009622",
-        "text": "มีโอกาสติดพิษ #%",
+        "id": "explicit.stat_1746347097",
+        "text": "เพิ่มผลบัฟ Aspect of the Avian #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1746347097",
-        "text": "เพิ่มผลบัฟ Aspect of the Avian #%",
+        "id": "explicit.stat_4250009622",
+        "text": "มีโอกาสติดพิษ #%",
         "type": "explicit"
       },
       {
@@ -10479,13 +10479,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2319127046",
-        "text": "ต้านทาน ไฟ ของมอนสเตอร์ +#%",
+        "id": "explicit.stat_2629366488",
+        "text": "เจ็มสีแดงที่ใส่ไว้จะนำ #% ของความเสียหาย กายภาพ ไปเสริมเป็น ไฟ",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2629366488",
-        "text": "เจ็มสีแดงที่ใส่ไว้จะนำ #% ของความเสียหาย กายภาพ ไปเสริมเป็น ไฟ",
+        "id": "explicit.stat_2319127046",
+        "text": "ต้านทาน ไฟ ของมอนสเตอร์ +#%",
         "type": "explicit"
       },
       {
@@ -10849,13 +10849,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_608963131",
-        "text": "ได้ Her Embrace เป็นเวลา # วินาทีถ้าทำศัตรูติดไฟ",
+        "id": "explicit.stat_2584264074",
+        "text": "โอกาสในการบล็อคการโจมตีของคุณจะกลายเป็นค่าสูงสุด ถ้าคุณไม่ได้บล็อคมาเร็วๆนี้",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2584264074",
-        "text": "โอกาสในการบล็อคการโจมตีของคุณจะกลายเป็นค่าสูงสุด ถ้าคุณไม่ได้บล็อคมาเร็วๆนี้",
+        "id": "explicit.stat_608963131",
+        "text": "ได้ Her Embrace เป็นเวลา # วินาทีถ้าทำศัตรูติดไฟ",
         "type": "explicit"
       },
       {
@@ -10879,13 +10879,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_207573834",
-        "text": "ได้รับพลัง Unholyในขณะที่ผลของขวดทำงาน",
+        "id": "explicit.stat_2054257693",
+        "text": "มีโอกาสทำให้ศัตรูเลือดไหล #% เมื่อทำการคริติคอลด้วยการโจมตี",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2054257693",
-        "text": "มีโอกาสทำให้ศัตรูเลือดไหล #% เมื่อทำการคริติคอลด้วยการโจมตี",
+        "id": "explicit.stat_207573834",
+        "text": "ได้รับพลัง Unholyในขณะที่ผลของขวดทำงาน",
         "type": "explicit"
       },
       {
@@ -10964,13 +10964,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4259701244",
-        "text": "ได้พลังชีวิต # ต่อทุกๆ การโจมตีที่โดนศัตรูขณะรับผลจาก Vitality",
+        "id": "explicit.stat_2137878565",
+        "text": "#% เพิ่มดาเมจเมื่อโจมตีศัตรูประเภท Rare",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2137878565",
-        "text": "#% เพิ่มดาเมจเมื่อโจมตีศัตรูประเภท Rare",
+        "id": "explicit.stat_4259701244",
+        "text": "ได้พลังชีวิต # ต่อทุกๆ การโจมตีที่โดนศัตรูขณะรับผลจาก Vitality",
         "type": "explicit"
       },
       {
@@ -11104,13 +11104,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2723101291",
-        "text": "เสริมความเสียหาย กายภาพ # ถึง # ถ้าคุณทำคริติคอล เร็วๆ นี้",
+        "id": "explicit.stat_3205239847",
+        "text": "รับความเสียหาย ไฟ จากการปะทะ #% เป็น กายภาพ แทน",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3205239847",
-        "text": "รับความเสียหาย ไฟ จากการปะทะ #% เป็น กายภาพ แทน",
+        "id": "explicit.stat_2723101291",
+        "text": "เสริมความเสียหาย กายภาพ # ถึง # ถ้าคุณทำคริติคอล เร็วๆ นี้",
         "type": "explicit"
       },
       {
@@ -11274,13 +11274,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1560880986",
-        "text": "เลือดออกจากอาวุธนี้มีโอกาส #% ที่จะทำความเสียหายเพิ่มขึ้นอีก 100%",
+        "id": "explicit.stat_996483959",
+        "text": "การโจมตี มีโอกาส #% ที่จะทำให้ ขาหัก เมื่อทำการคริติคอล",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_996483959",
-        "text": "การโจมตี มีโอกาส #% ที่จะทำให้ ขาหัก เมื่อทำการคริติคอล",
+        "id": "explicit.stat_1560880986",
+        "text": "เลือดออกจากอาวุธนี้มีโอกาส #% ที่จะทำความเสียหายเพิ่มขึ้นอีก 100%",
         "type": "explicit"
       },
       {
@@ -11304,13 +11304,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4265906483",
-        "text": "มีโอกาส #% ที่จะสร้างสถานะ Lightning Exposure เมื่อปะทะศัตรู",
+        "id": "explicit.stat_2280488002",
+        "text": "โอกาสการ Stun ขึ้นอยู่กับ #% ของมานาแทนพลังชีวิต",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2280488002",
-        "text": "โอกาสการ Stun ขึ้นอยู่กับ #% ของมานาแทนพลังชีวิต",
+        "id": "explicit.stat_4265906483",
+        "text": "มีโอกาส #% ที่จะสร้างสถานะ Lightning Exposure เมื่อปะทะศัตรู",
         "type": "explicit"
       },
       {
@@ -11389,13 +11389,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3350228283",
-        "text": "เมื่อคุณสังหารศัตรูที่ติดพิษด้วยการปะทะ พวกมันจะแตกเป็นเสี่ยงๆ",
+        "id": "explicit.stat_150668988",
+        "text": "เลเวลเจม กับดัก หรือ ทุ่นละเบิด ที่ใส่ #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_150668988",
-        "text": "เลเวลเจม กับดัก หรือ ทุ่นละเบิด ที่ใส่ #",
+        "id": "explicit.stat_3350228283",
+        "text": "เมื่อคุณสังหารศัตรูที่ติดพิษด้วยการปะทะ พวกมันจะแตกเป็นเสี่ยงๆ",
         "type": "explicit"
       },
       {
@@ -11459,13 +11459,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2970902024",
-        "text": "ศัตรูที่คุณโจมตีโดนจะถูกทำลายเมื่อสังหาร",
+        "id": "explicit.stat_2308278768",
+        "text": "เพิ่มความเร็วในการฟื้นฟูคูลดาวน์ ของสกิลเดินทาง #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2308278768",
-        "text": "เพิ่มความเร็วในการฟื้นฟูคูลดาวน์ ของสกิลเดินทาง #%",
+        "id": "explicit.stat_2970902024",
+        "text": "ศัตรูที่คุณโจมตีโดนจะถูกทำลายเมื่อสังหาร",
         "type": "explicit"
       },
       {
@@ -11549,13 +11549,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_273206351",
-        "text": "มีโอกาส #% ที่จะได้ Power Charge หากผู้เล่นโจมตีศัตรูที่ติดผลจาก Spider's Web",
+        "id": "explicit.stat_1827657795",
+        "text": "อัตราฟื้นฟูเกราะพลังงานสูงขึ้น #% ระหว่างรับผลจากขวดยา",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1827657795",
-        "text": "อัตราฟื้นฟูเกราะพลังงานสูงขึ้น #% ระหว่างรับผลจากขวดยา",
+        "id": "explicit.stat_273206351",
+        "text": "มีโอกาส #% ที่จะได้ Power Charge หากผู้เล่นโจมตีศัตรูที่ติดผลจาก Spider's Web",
         "type": "explicit"
       },
       {
@@ -11624,13 +11624,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4234677275",
-        "text": "เจาะต้านทาน เคออส ทั้งหมด ของมอนสเตอร์ ถ้าไอเทมที่ใส่ทุกชิ้นเป็นไอเทม Shaper",
+        "id": "explicit.stat_2896192589",
+        "text": "มีโอกาส #% ที่จะได้รับสถานะ ลื่นไหล เมื่อทำคริติคอล",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2896192589",
-        "text": "มีโอกาส #% ที่จะได้รับสถานะ ลื่นไหล เมื่อทำคริติคอล",
+        "id": "explicit.stat_4234677275",
+        "text": "เจาะต้านทาน เคออส ทั้งหมด ของมอนสเตอร์ ถ้าไอเทมที่ใส่ทุกชิ้นเป็นไอเทม Shaper",
         "type": "explicit"
       },
       {
@@ -11654,13 +11654,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3337107517",
-        "text": "เพิ่มความเสียหาย ไฟ #% ขณะได้รับผลของ Anger",
+        "id": "explicit.stat_1829869055",
+        "text": "มีโอกาส #% ที่หากได้ Crab Barrier \n แล้วจะได้แบบเต็มจำนวนที่มีได้",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1829869055",
-        "text": "มีโอกาส #% ที่หากได้ Crab Barrier \n แล้วจะได้แบบเต็มจำนวนที่มีได้",
+        "id": "explicit.stat_3337107517",
+        "text": "เพิ่มความเสียหาย ไฟ #% ขณะได้รับผลของ Anger",
         "type": "explicit"
       },
       {
@@ -12639,13 +12639,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_949718413",
-        "text": "สกิลสายฟ้ามีโอกาส #% ที่ได้รับพิษจากการโจมตี",
+        "id": "explicit.stat_16924183",
+        "text": "สกิล Raise Zombie ไม่ต้องใช้ศพ",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_16924183",
-        "text": "สกิล Raise Zombie ไม่ต้องใช้ศพ",
+        "id": "explicit.stat_949718413",
+        "text": "สกิลสายฟ้ามีโอกาส #% ที่ได้รับพิษจากการโจมตี",
         "type": "explicit"
       },
       {
@@ -12754,13 +12754,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1681904129",
-        "text": "โอกาส คริติคอล ของเจมที่ใส่ไว้ +3.5%",
+        "id": "explicit.stat_1827636152",
+        "text": "มิเนียนของคุณจะใช้ขวดยาทุกขวดของคุณเมื่อมันถูกเสกออกมา",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1827636152",
-        "text": "มิเนียนของคุณจะใช้ขวดยาทุกขวดของคุณเมื่อมันถูกเสกออกมา",
+        "id": "explicit.stat_1681904129",
+        "text": "โอกาส คริติคอล ของเจมที่ใส่ไว้ +3.5%",
         "type": "explicit"
       },
       {
@@ -13034,13 +13034,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3835483564",
-        "text": "ลดมานาสำรอง ของ Hatred #%",
+        "id": "explicit.stat_763611529",
+        "text": "มีโอกาส #% ที่จะทำให้ศัตรู เสียขวัญ เป็นเวลา 4 วินาที เมื่อปะทะ",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_763611529",
-        "text": "มีโอกาส #% ที่จะทำให้ศัตรู เสียขวัญ เป็นเวลา 4 วินาที เมื่อปะทะ",
+        "id": "explicit.stat_3835483564",
+        "text": "ลดมานาสำรอง ของ Hatred #%",
         "type": "explicit"
       },
       {
@@ -13159,11 +13159,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2955966707",
-        "text": "ผลจากสถานะ หนาวเย็น ต่อผู้เล่น มีผลตรงกันข้าม",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_897996059",
         "text": "เสริมความเสียหาย น้ำแข็ง # ถึง # ให้กับเวทย์ ขณะที่ไม่ได้สำรองพลังชีวิต",
         "type": "explicit"
@@ -13171,6 +13166,11 @@
       {
         "id": "explicit.stat_3470457445",
         "text": "ความเสียหายธาตุเคออสสามารถทำให้ติดไฟ แช่แข็งและช็อคได้",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2955966707",
+        "text": "ผลจากสถานะ หนาวเย็น ต่อผู้เล่น มีผลตรงกันข้าม",
         "type": "explicit"
       },
       {
@@ -13249,13 +13249,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3097206473",
-        "text": "มอนสเตอร์แรร์จาก Breach จะดรอป Splinter เพิ่มอีกชิ้น",
+        "id": "explicit.stat_1726444796",
+        "text": "มีโอกาสสาปศัตรูที่ยังไม่ถูกสาปอยู่ก่อนแบบสุ่มเมื่อโจมตีโดน #% ",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1726444796",
-        "text": "มีโอกาสสาปศัตรูที่ยังไม่ถูกสาปอยู่ก่อนแบบสุ่มเมื่อโจมตีโดน #% ",
+        "id": "explicit.stat_3097206473",
+        "text": "มอนสเตอร์แรร์จาก Breach จะดรอป Splinter เพิ่มอีกชิ้น",
         "type": "explicit"
       },
       {
@@ -13304,13 +13304,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2071120096",
-        "text": "เพิ่มผลของ สกิล Offering #% ที่มีผลกับผู้เล่น",
+        "id": "explicit.stat_354080151",
+        "text": "Inner Conviction",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_354080151",
-        "text": "Inner Conviction",
+        "id": "explicit.stat_2071120096",
+        "text": "เพิ่มผลของ สกิล Offering #% ที่มีผลกับผู้เล่น",
         "type": "explicit"
       },
       {
@@ -13344,13 +13344,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2788729902",
-        "text": "หินสกิลชิ่งเพิ่ม # ครั้ง",
+        "id": "explicit.stat_1037449707",
+        "text": "Strongboxes เป็นระดับแมจิก",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1037449707",
-        "text": "Strongboxes เป็นระดับแมจิก",
+        "id": "explicit.stat_2788729902",
+        "text": "หินสกิลชิ่งเพิ่ม # ครั้ง",
         "type": "explicit"
       },
       {
@@ -13439,13 +13439,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3387914367",
-        "text": "ที่นี่มี Bearer of the Guardian Bloodline Pack หนึ่งตัว",
+        "id": "explicit.stat_4169430079",
+        "text": "เพิ่มพลังชีวิตสูงสุด #% ต่อไอเท็ม Corrupted ที่ใช้",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4169430079",
-        "text": "เพิ่มพลังชีวิตสูงสุด #% ต่อไอเท็ม Corrupted ที่ใช้",
+        "id": "explicit.stat_3387914367",
+        "text": "ที่นี่มี Bearer of the Guardian Bloodline Pack หนึ่งตัว",
         "type": "explicit"
       },
       {
@@ -13484,13 +13484,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3095345438",
-        "text": "อาวุธชิ้นนี้จะโจมตีศัตรูที่ติดไฟอยู่ได้แรงขึ้น #%",
+        "id": "explicit.stat_2936435999",
+        "text": "สูญเสีย มานา #% ต่อวินาที",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2936435999",
-        "text": "สูญเสีย มานา #% ต่อวินาที",
+        "id": "explicit.stat_3095345438",
+        "text": "อาวุธชิ้นนี้จะโจมตีศัตรูที่ติดไฟอยู่ได้แรงขึ้น #%",
         "type": "explicit"
       },
       {
@@ -13539,13 +13539,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3563824294",
-        "text": "ผู้เล่นมีโอกาสได้ Onslaught #% เมื่อฆ่าได้เป็นเวลา 4 วินาที",
+        "id": "explicit.stat_3171958921",
+        "text": "มีโอกาส #% ที่จะใช้งานสกิลธนูที่ใส่ไว้ เมื่อโจมตีด้วยธนู",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3171958921",
-        "text": "มีโอกาส #% ที่จะใช้งานสกิลธนูที่ใส่ไว้ เมื่อโจมตีด้วยธนู",
+        "id": "explicit.stat_3563824294",
+        "text": "ผู้เล่นมีโอกาสได้ Onslaught #% เมื่อฆ่าได้เป็นเวลา 4 วินาที",
         "type": "explicit"
       },
       {
@@ -13564,13 +13564,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1282689888",
-        "text": "เหล่าผู้เล่นจะมีโอกาสหลบคาถา #%",
+        "id": "explicit.stat_600723636",
+        "text": "Rogue Exiles ดรอปไอเท็มเงินเพิ่มอีก # ชิ้น",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_600723636",
-        "text": "Rogue Exiles ดรอปไอเท็มเงินเพิ่มอีก # ชิ้น",
+        "id": "explicit.stat_1282689888",
+        "text": "เหล่าผู้เล่นจะมีโอกาสหลบคาถา #%",
         "type": "explicit"
       },
       {
@@ -13579,13 +13579,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3545269928",
-        "text": "เพิ่มผลของสถานะ ลื่นไหล ที่คุณได้รับ #% ต่อหนึ่ง Power Charge",
+        "id": "explicit.stat_2238831336",
+        "text": "จำนวน Frenzy Charge สูงสุดของคุณจะถูกทำให้เท่ากับจำนวน Power Charge สูงสุด",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2238831336",
-        "text": "จำนวน Frenzy Charge สูงสุดของคุณจะถูกทำให้เท่ากับจำนวน Power Charge สูงสุด",
+        "id": "explicit.stat_3545269928",
+        "text": "เพิ่มผลของสถานะ ลื่นไหล ที่คุณได้รับ #% ต่อหนึ่ง Power Charge",
         "type": "explicit"
       },
       {
@@ -13599,13 +13599,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4284915962",
-        "text": "ค่า พลังชีวิตสูงสุด # ต่อ Intelligence 2 แต้ม",
+        "id": "explicit.stat_1960833438",
+        "text": "ฟื้นฟู #% ของพลังชีวิตทุกๆ วินาที ต่อค่าเกราะพลังงานทุกๆ 500 แต้ม",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1960833438",
-        "text": "ฟื้นฟู #% ของพลังชีวิตทุกๆ วินาที ต่อค่าเกราะพลังงานทุกๆ 500 แต้ม",
+        "id": "explicit.stat_4284915962",
+        "text": "ค่า พลังชีวิตสูงสุด # ต่อ Intelligence 2 แต้ม",
         "type": "explicit"
       },
       {
@@ -13649,13 +13649,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1509756274",
-        "text": "ศัตรูที่อยู่ใกล้ศพที่ได้รับผลคำสาปของคุณจะติดสถานะ ตาบอด\nศัตรูที่ถูกสังหารใกล้ศพที่ได้รับผลคำสาปของคุณจะระเบิด สร้างความเสียหาย\n#% ของพลังชีวิตสูงสุดของพวกมัน เป็นความเสียหาย กายภาพ",
+        "id": "explicit.stat_2189382346",
+        "text": "เพิ่มโล่พลังงานขึ้น #% ต่อ Power Charge หนึ่งลูก",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2189382346",
-        "text": "เพิ่มโล่พลังงานขึ้น #% ต่อ Power Charge หนึ่งลูก",
+        "id": "explicit.stat_1509756274",
+        "text": "ศัตรูที่อยู่ใกล้ศพที่ได้รับผลคำสาปของคุณจะติดสถานะ ตาบอด\nศัตรูที่ถูกสังหารใกล้ศพที่ได้รับผลคำสาปของคุณจะระเบิด สร้างความเสียหาย\n#% ของพลังชีวิตสูงสุดของพวกมัน เป็นความเสียหาย กายภาพ",
         "type": "explicit"
       },
       {
@@ -13709,13 +13709,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_592020238",
-        "text": "เพิ่มความเสียหายขึ้น #% ขณะพลังชีวิตเต็ม",
+        "id": "explicit.stat_3100523498",
+        "text": "#% ให้ค่าป้องกันธาตุทุกชนิดต่อไอเท็ม Corrupted ที่ใส่",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3100523498",
-        "text": "#% ให้ค่าป้องกันธาตุทุกชนิดต่อไอเท็ม Corrupted ที่ใส่",
+        "id": "explicit.stat_592020238",
+        "text": "เพิ่มความเสียหายขึ้น #% ขณะพลังชีวิตเต็ม",
         "type": "explicit"
       },
       {
@@ -13744,13 +13744,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2420786978",
-        "text": "สกิลที่วางกับดักได้จะมี Blood Magic",
+        "id": "explicit.stat_4040152475",
+        "text": "หากผู้เล่นติดไฟอยู่การโจมตีของผู้เล่นจะทะลุผ่านค่าป้องกันธาตุไฟของศัตรู",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4040152475",
-        "text": "หากผู้เล่นติดไฟอยู่การโจมตีของผู้เล่นจะทะลุผ่านค่าป้องกันธาตุไฟของศัตรู",
+        "id": "explicit.stat_2420786978",
+        "text": "สกิลที่วางกับดักได้จะมี Blood Magic",
         "type": "explicit"
       },
       {
@@ -13774,13 +13774,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_995332031",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Minion Speed เลเวล #",
+        "id": "explicit.stat_3551025193",
+        "text": "คุณ โชคร้าย ในการคำนวณ โอกาสบล็อคเวทย์",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3551025193",
-        "text": "คุณ โชคร้าย ในการคำนวณ โอกาสบล็อคเวทย์",
+        "id": "explicit.stat_995332031",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Minion Speed เลเวล #",
         "type": "explicit"
       },
       {
@@ -13789,13 +13789,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_200299748",
-        "text": "ถ้า Bloodline Pack ถูกฆ่าจะดรอปไอเท็มเงินหนึ่งชิ้น",
+        "id": "explicit.stat_2305944553",
+        "text": "Shrines จะดรอปไอเท็มเงินหนึ่งชิ้นเมื่อเข้าไปใช้",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2305944553",
-        "text": "Shrines จะดรอปไอเท็มเงินหนึ่งชิ้นเมื่อเข้าไปใช้",
+        "id": "explicit.stat_200299748",
+        "text": "ถ้า Bloodline Pack ถูกฆ่าจะดรอปไอเท็มเงินหนึ่งชิ้น",
         "type": "explicit"
       },
       {
@@ -13844,18 +13844,23 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_195090426",
-        "text": "ช่องแหวนซ้าย: เพิ่มอัตราการฟื้นฟูมานา #%",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1550221644",
         "text": "ลดบ่อปลาที่ใช้ลง #%",
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_195090426",
+        "text": "ช่องแหวนซ้าย: เพิ่มอัตราการฟื้นฟูมานา #%",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2290031712",
         "text": "ค่า Strength ไม่เพิ่มค่าชีวิตสูงสุด",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2119664154",
+        "text": "เมื่อใดที่คุณได้รับ Frenzy Charge มีโอกาส #% ที่จะได้รับจำนวนสูงสุดทันที",
         "type": "explicit"
       },
       {
@@ -13869,13 +13874,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2119664154",
-        "text": "เมื่อใดที่คุณได้รับ Frenzy Charge มีโอกาส #% ที่จะได้รับจำนวนสูงสุดทันที",
+        "id": "explicit.stat_2713233613",
+        "text": "เมื่อใดที่คุณได้รับ Endurance Charge มีโอกาส #% ที่จะได้รับจำนวนสูงสุดทันที",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2713233613",
-        "text": "เมื่อใดที่คุณได้รับ Endurance Charge มีโอกาส #% ที่จะได้รับจำนวนสูงสุดทันที",
+        "id": "explicit.stat_1092546321",
+        "text": "เพิ่มอัตราการฟื้นฟูพลังชีวิต และ โล่พลังงาน #%",
         "type": "explicit"
       },
       {
@@ -13886,11 +13891,6 @@
       {
         "id": "explicit.stat_1224928411",
         "text": "#% ของพาสซีฟเพิ่มต้านทานไฟฟ้าและต้านทานทุกธาตุในรัศมี\nส่งผลเพิ่มโอกาสบล็อคเวทด้วย",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1092546321",
-        "text": "เพิ่มอัตราการฟื้นฟูพลังชีวิต และ โล่พลังงาน #%",
         "type": "explicit"
       },
       {
@@ -13919,13 +13919,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_660404777",
-        "text": "เพิ่มอัตราการหลบหลีกต่อ Frenzy Charge ขึ้น #%",
+        "id": "explicit.stat_3726536628",
+        "text": "ได้รับพลังชีวิต # เมื่อคุณยั่วยุศัตรู",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3726536628",
-        "text": "ได้รับพลังชีวิต # เมื่อคุณยั่วยุศัตรู",
+        "id": "explicit.stat_660404777",
+        "text": "เพิ่มอัตราการหลบหลีกต่อ Frenzy Charge ขึ้น #%",
         "type": "explicit"
       },
       {
@@ -14004,13 +14004,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3600749521",
-        "text": "ลดมานาสำรอง ของ Wrath #%",
+        "id": "explicit.stat_1550015622",
+        "text": "เพิ่มความเสียหายของเวทขึ้น #% ถ้าคุณโจมตีติดคริดิคอลเมื่อเร็วๆ ก่อนหน้านั้น",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1550015622",
-        "text": "เพิ่มความเสียหายของเวทขึ้น #% ถ้าคุณโจมตีติดคริดิคอลเมื่อเร็วๆ ก่อนหน้านั้น",
+        "id": "explicit.stat_3600749521",
+        "text": "ลดมานาสำรอง ของ Wrath #%",
         "type": "explicit"
       },
       {
@@ -14049,13 +14049,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_470688636",
-        "text": "ใช้งาน Spectral Spirits เลเวล 20 อัตโนมัติเมื่อสวมใส่",
+        "id": "explicit.stat_3083201633",
+        "text": "เพิ่มความเร็วในการฟื้นฟูคูลดาวน์ ของสกิลเดินทาง #% ต่อ Frenzy Charge หนึ่งลูก",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3083201633",
-        "text": "เพิ่มความเร็วในการฟื้นฟูคูลดาวน์ ของสกิลเดินทาง #% ต่อ Frenzy Charge หนึ่งลูก",
+        "id": "explicit.stat_470688636",
+        "text": "ใช้งาน Spectral Spirits เลเวล 20 อัตโนมัติเมื่อสวมใส่",
         "type": "explicit"
       },
       {
@@ -14064,13 +14064,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_898094766",
-        "text": "ไอเทมดรอปจาก Rogue Exiles จะมีลิงค์เต็ม",
+        "id": "explicit.stat_637101875",
+        "text": "ชิ้นส่วนของมอนสเตอร์",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_637101875",
-        "text": "ชิ้นส่วนของมอนสเตอร์",
+        "id": "explicit.stat_898094766",
+        "text": "ไอเทมดรอปจาก Rogue Exiles จะมีลิงค์เต็ม",
         "type": "explicit"
       },
       {
@@ -14254,13 +14254,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_495713612",
-        "text": "เพิ่มเวลาเอฟเฟคจาก Shrine ต่อผู้เล่นอีก #%",
+        "id": "explicit.stat_787958710",
+        "text": "ตัวคูณความเสียหาย น้ำแข็ง ต่อเนื่อง #% ขณะได้รับผลของ Malevolence",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_787958710",
-        "text": "ตัวคูณความเสียหาย น้ำแข็ง ต่อเนื่อง #% ขณะได้รับผลของ Malevolence",
+        "id": "explicit.stat_495713612",
+        "text": "เพิ่มเวลาเอฟเฟคจาก Shrine ต่อผู้เล่นอีก #%",
         "type": "explicit"
       },
       {
@@ -14269,13 +14269,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2881124988",
-        "text": "สกิลโจมตีที่ใส่ไว้เพิ่มความเร็วในการโจมตีขึ้นอีก #%",
+        "id": "explicit.stat_261224780",
+        "text": "Monsters ที่ถูก Tormented Spirits สิง จะสร้างความเสียหายได้ เพิ่มขึ้น #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_261224780",
-        "text": "Monsters ที่ถูก Tormented Spirits สิง จะสร้างความเสียหายได้ เพิ่มขึ้น #%",
+        "id": "explicit.stat_2881124988",
+        "text": "สกิลโจมตีที่ใส่ไว้เพิ่มความเร็วในการโจมตีขึ้นอีก #%",
         "type": "explicit"
       },
       {
@@ -14339,13 +14339,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1105638781",
-        "text": "ที่นี่มี Perandus Jewellery Box เพิ่ม",
+        "id": "explicit.stat_3072066782",
+        "text": "ผู้เล่น ฟื้นฟูพลังชีวิต #% ต่อวินาที ต่อการฆ่าต่อเนื่องของ Rampage 25 ตัว",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3072066782",
-        "text": "ผู้เล่น ฟื้นฟูพลังชีวิต #% ต่อวินาที ต่อการฆ่าต่อเนื่องของ Rampage 25 ตัว",
+        "id": "explicit.stat_1105638781",
+        "text": "ที่นี่มี Perandus Jewellery Box เพิ่ม",
         "type": "explicit"
       },
       {
@@ -14359,13 +14359,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1093704472",
-        "text": "โอกาส #% ที่จะไม่ถูกแช่แข็ง, หนาวสั่นหรือลุกไหม้เมื่อมี Her Blessing",
+        "id": "explicit.stat_2327728343",
+        "text": "โอกาส #% ที่จะทำให้ศัตรูที่อยู่ใกล้ๆตาบอดเมื่อมี Her Blessing",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2327728343",
-        "text": "โอกาส #% ที่จะทำให้ศัตรูที่อยู่ใกล้ๆตาบอดเมื่อมี Her Blessing",
+        "id": "explicit.stat_1093704472",
+        "text": "โอกาส #% ที่จะไม่ถูกแช่แข็ง, หนาวสั่นหรือลุกไหม้เมื่อมี Her Blessing",
         "type": "explicit"
       },
       {
@@ -14429,13 +14429,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2250543633",
-        "text": "Clarity จะไม่สำรองมานา",
+        "id": "explicit.stat_2856326982",
+        "text": "โอกาสบล็อคการโจมตี #% ต่อ Power Charge หนึ่งลูก",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2856326982",
-        "text": "โอกาสบล็อคการโจมตี #% ต่อ Power Charge หนึ่งลูก",
+        "id": "explicit.stat_2250543633",
+        "text": "Clarity จะไม่สำรองมานา",
         "type": "explicit"
       },
       {
@@ -14504,13 +14504,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2308225900",
-        "text": "Purity of Lightning จะไม่สำรองมานา",
+        "id": "explicit.stat_3115319277",
+        "text": "นำ #% ของความเสียหาย ไฟฟ้า ไปเสริมเป็น เคออส ต่อ Power Charge หนึ่งลูก",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3115319277",
-        "text": "นำ #% ของความเสียหาย ไฟฟ้า ไปเสริมเป็น เคออส ต่อ Power Charge หนึ่งลูก",
+        "id": "explicit.stat_2308225900",
+        "text": "Purity of Lightning จะไม่สำรองมานา",
         "type": "explicit"
       },
       {
@@ -14529,13 +14529,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_433293234",
-        "text": "Minion Instability",
+        "id": "explicit.stat_593279674",
+        "text": "ดูดความเสียหาย #% เมื่อสู้กับศัตรูที่ถูกแช่แข็งไปเป็นพลังชีวิต",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_593279674",
-        "text": "ดูดความเสียหาย #% เมื่อสู้กับศัตรูที่ถูกแช่แข็งไปเป็นพลังชีวิต",
+        "id": "explicit.stat_433293234",
+        "text": "Minion Instability",
         "type": "explicit"
       },
       {
@@ -14549,13 +14549,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2935548106",
-        "text": "ค่า หลบหลีก # ถ้าคุณปะทะศัตรูเร็วๆ นี้",
+        "id": "explicit.stat_3941271999",
+        "text": "เพิ่มระยะเวลาส่งผลของ Frostblink #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3941271999",
-        "text": "เพิ่มระยะเวลาส่งผลของ Frostblink #%",
+        "id": "explicit.stat_2935548106",
+        "text": "ค่า หลบหลีก # ถ้าคุณปะทะศัตรูเร็วๆ นี้",
         "type": "explicit"
       },
       {
@@ -14609,13 +14609,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3943945975",
-        "text": "Resolute Technique",
+        "id": "explicit.stat_1622979279",
+        "text": "Purity of Ice จะไม่สำรองมานา",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1622979279",
-        "text": "Purity of Ice จะไม่สำรองมานา",
+        "id": "explicit.stat_3943945975",
+        "text": "Resolute Technique",
         "type": "explicit"
       },
       {
@@ -14634,13 +14634,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3884934810",
-        "text": "Perfect Agony",
+        "id": "explicit.stat_1109343199",
+        "text": "Wicked Ward",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1109343199",
-        "text": "Wicked Ward",
+        "id": "explicit.stat_3884934810",
+        "text": "Perfect Agony",
         "type": "explicit"
       },
       {
@@ -14664,13 +14664,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2355741828",
-        "text": "โอกาสบล็อคการโจมตี #% ต่อ Endurance Charge หนึ่งลูก",
+        "id": "explicit.stat_279246355",
+        "text": "พื้นที่ถูกครอบครองโดย Invasion Boss เพิ่ม # ตัว",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_279246355",
-        "text": "พื้นที่ถูกครอบครองโดย Invasion Boss เพิ่ม # ตัว",
+        "id": "explicit.stat_2355741828",
+        "text": "โอกาสบล็อคการโจมตี #% ต่อ Endurance Charge หนึ่งลูก",
         "type": "explicit"
       },
       {
@@ -14684,13 +14684,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1865987277",
-        "text": "Wrath จะไม่สำรองมานา",
+        "id": "explicit.stat_341698555",
+        "text": "Perandus Chest อย่างน้อยกล่องหนึ่งจะมีมอนสเตอร์ระดับยูนิคเฝ้า",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_341698555",
-        "text": "Perandus Chest อย่างน้อยกล่องหนึ่งจะมีมอนสเตอร์ระดับยูนิคเฝ้า",
+        "id": "explicit.stat_1865987277",
+        "text": "Wrath จะไม่สำรองมานา",
         "type": "explicit"
       },
       {
@@ -14734,13 +14734,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2911866787",
-        "text": "ได้รับสกิล Frostblink เลเวล #",
+        "id": "explicit.stat_3355479537",
+        "text": "โอกาสในการสร้างพื้นที่ช็อตเมื่อโจมตี #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3355479537",
-        "text": "โอกาสในการสร้างพื้นที่ช็อตเมื่อโจมตี #%",
+        "id": "explicit.stat_2911866787",
+        "text": "ได้รับสกิล Frostblink เลเวล #",
         "type": "explicit"
       },
       {
@@ -14864,13 +14864,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_88817332",
-        "text": "เพิ่มหลบหลีกโดยรวม #% ขณะพลังชีวิตเต็ม",
+        "id": "explicit.stat_1990354706",
+        "text": "คุณได้รับผลของ Iron Reflexes ขณะที่ Frenzy Charge เต็ม",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1990354706",
-        "text": "คุณได้รับผลของ Iron Reflexes ขณะที่ Frenzy Charge เต็ม",
+        "id": "explicit.stat_88817332",
+        "text": "เพิ่มหลบหลีกโดยรวม #% ขณะพลังชีวิตเต็ม",
         "type": "explicit"
       },
       {
@@ -14914,13 +14914,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2693266036",
-        "text": "เสริมป้องกันกายภาพ #% ขณะได้รับผลของยาทุกชนิด",
+        "id": "explicit.stat_761598374",
+        "text": "คุณสามารถสาปได้เพิ่มอีก # สาป ขณะ Power Charge เต็ม",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_761598374",
-        "text": "คุณสามารถสาปได้เพิ่มอีก # สาป ขณะ Power Charge เต็ม",
+        "id": "explicit.stat_2693266036",
+        "text": "เสริมป้องกันกายภาพ #% ขณะได้รับผลของยาทุกชนิด",
         "type": "explicit"
       },
       {
@@ -15019,13 +15019,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1669870438",
-        "text": "มอนสเตอร์ตัวหนึ่งในนี้หากถูกฆ่าจะเรียก Abaxoth ออกมา",
+        "id": "explicit.stat_3581578643",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Empower เลเวล #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3581578643",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Empower เลเวล #",
+        "id": "explicit.stat_1669870438",
+        "text": "มอนสเตอร์ตัวหนึ่งในนี้หากถูกฆ่าจะเรียก Abaxoth ออกมา",
         "type": "explicit"
       },
       {
@@ -15059,11 +15059,6 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_807186595",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Multiple Totems เลเวล #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_2201102274",
         "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Infernal Legion เลเวล #",
         "type": "explicit"
@@ -15074,8 +15069,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2710898947",
-        "text": "เพิ่มพลังชีวิต ของมอนสเตอร์ อีก #%",
+        "id": "explicit.stat_807186595",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Multiple Totems เลเวล #",
         "type": "explicit"
       },
       {
@@ -15089,6 +15084,11 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_2710898947",
+        "text": "เพิ่มพลังชีวิต ของมอนสเตอร์ อีก #%",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_3294034100",
         "text": "ที่นี่มี Perandus Archive เพิ่ม",
         "type": "explicit"
@@ -15099,13 +15099,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_411810300",
-        "text": "ที่นี่มี Perandus Locker เพิ่่ม",
+        "id": "explicit.stat_4197398087",
+        "text": "ที่นี่มี Cartographer's Strongbox",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4197398087",
-        "text": "ที่นี่มี Cartographer's Strongbox",
+        "id": "explicit.stat_411810300",
+        "text": "ที่นี่มี Perandus Locker เพิ่่ม",
         "type": "explicit"
       },
       {
@@ -15129,18 +15129,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2697741965",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Curse On Hit เลเวล #",
-        "type": "explicit"
-      },
-      {
         "id": "explicit.stat_1900098804",
         "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Impale เลเวล #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3827538724",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Barrage เลเวล #",
+        "id": "explicit.stat_2697741965",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Curse On Hit เลเวล #",
         "type": "explicit"
       },
       {
@@ -15149,8 +15144,18 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_3827538724",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Barrage เลเวล #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2065361612",
         "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Enlighten เลเวล #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3356013982",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Unleash เลเวล #",
         "type": "explicit"
       },
       {
@@ -15159,18 +15164,28 @@
         "type": "explicit"
       },
       {
+        "id": "explicit.stat_1876637240",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Intensify เลเวล #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3287477747",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Withering Touch เลเวล #",
+        "type": "explicit"
+      },
+      {
         "id": "explicit.stat_2556436882",
         "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Enhance เลเวล #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3215042347",
-        "text": "ลดมานาสำรอง ของ Purity of Fire #%",
+        "id": "explicit.stat_2306002879",
+        "text": "#% increased Rarity of Items found in this Area",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1876637240",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Intensify เลเวล #",
+        "id": "explicit.stat_1263311755",
+        "text": "เพิ่มความเสียหาย ของมอนสเตอร์ อีก #%",
         "type": "explicit"
       },
       {
@@ -15184,48 +15199,8 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3356013982",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Unleash เลเวล #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1263311755",
-        "text": "เพิ่มความเสียหาย ของมอนสเตอร์ อีก #%",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2306002879",
-        "text": "#% increased Rarity of Items found in this Area",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3287477747",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Withering Touch เลเวล #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_3738001379",
-        "text": "โอกาส #% ในการได้รับแฟลสก์ชาร์จเมื่อคุณโจมตีแบบ Crit",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_4273356746",
-        "text": "ศัตรูที่อยู่ใกล้มี ต้านทาน ไฟ และ น้ำแข็ง เพิ่มขึ้น #%",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2003753577",
-        "text": "ลดมานาสำรอง ของ Anger #%",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_599749213",
-        "text": "เลเวลของหิน ไฟ ทุกเม็ด #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_493812998",
-        "text": "เลเวลของหิน Intelligence ทุกเม็ด #",
+        "id": "explicit.stat_3215042347",
+        "text": "ลดมานาสำรอง ของ Purity of Fire #%",
         "type": "explicit"
       },
       {
@@ -15234,8 +15209,13 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_103909236",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Deadly Ailments เลเวล #",
+        "id": "explicit.stat_1859244771",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Bonechill เลเวล #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_4273356746",
+        "text": "ศัตรูที่อยู่ใกล้มี ต้านทาน ไฟ และ น้ำแข็ง เพิ่มขึ้น #%",
         "type": "explicit"
       },
       {
@@ -15244,23 +15224,28 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_2173069393",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Awakened Melee Physical Damage เลเวล #",
+        "id": "explicit.stat_493812998",
+        "text": "เลเวลของหิน Intelligence ทุกเม็ด #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_479453859",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Charged Traps เลเวล #",
+        "id": "explicit.stat_3239503729",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Mirage Archer เลเวล #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_1859244771",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Bonechill เลเวล #",
+        "id": "explicit.stat_2003753577",
+        "text": "ลดมานาสำรอง ของ Anger #%",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_146924886",
-        "text": "เลเวลของหิน Dexterity ทุกเม็ด #",
+        "id": "explicit.stat_103909236",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Deadly Ailments เลเวล #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3640956958",
+        "text": "Projectiles ทะลุทะลวงเป้าหมายเพิ่มเติม 2",
         "type": "explicit"
       },
       {
@@ -15274,53 +15259,28 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3239503729",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Mirage Archer เลเวล #",
+        "id": "explicit.stat_599749213",
+        "text": "เลเวลของหิน ไฟ ทุกเม็ด #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3640956958",
-        "text": "Projectiles ทะลุทะลวงเป้าหมายเพิ่มเติม 2",
+        "id": "explicit.stat_146924886",
+        "text": "เลเวลของหิน Dexterity ทุกเม็ด #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_4021476585",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Swift Assembly เลเวล #",
+        "id": "explicit.stat_479453859",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Charged Traps เลเวล #",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3988349707",
-        "text": "ตัวคูณความเสียหายต่อเนื่อง #%",
+        "id": "explicit.stat_3738001379",
+        "text": "โอกาส #% ในการได้รับแฟลสก์ชาร์จเมื่อคุณโจมตีแบบ Crit",
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_3016436615",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Multiple Traps เลเวล #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2861649515",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Nightblade เลเวล #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_369650395",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Rage เลเวล #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_1078455967",
-        "text": "เลเวลของหิน น้ำแข็ง ทุกเม็ด #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_2062753054",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Fork เลเวล #",
-        "type": "explicit"
-      },
-      {
-        "id": "explicit.stat_694651314",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Close Combat เลเวล #",
+        "id": "explicit.stat_2173069393",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Awakened Melee Physical Damage เลเวล #",
         "type": "explicit"
       },
       {
@@ -15329,13 +15289,53 @@
         "type": "explicit"
       },
       {
-        "id": "explicit.stat_799443127",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Energy Leech เลเวล #",
+        "id": "explicit.stat_369650395",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Rage เลเวล #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3016436615",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Multiple Traps เลเวล #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_694651314",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Close Combat เลเวล #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_1078455967",
+        "text": "เลเวลของหิน น้ำแข็ง ทุกเม็ด #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2861649515",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Nightblade เลเวล #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_4021476585",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Swift Assembly เลเวล #",
         "type": "explicit"
       },
       {
         "id": "explicit.stat_728246008",
         "text": "สกิลประเภท กระจาย จะร่ายที่พื้นที่เป้าหมายแทนร่ายจากตำแหน่งของผู้เล่น",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_2062753054",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Fork เลเวล #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_799443127",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Energy Leech เลเวล #",
+        "type": "explicit"
+      },
+      {
+        "id": "explicit.stat_3988349707",
+        "text": "ตัวคูณความเสียหายต่อเนื่อง #%",
         "type": "explicit"
       }
     ]
@@ -16476,13 +16476,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2866361420",
-        "text": "เพิ่มค่า เกราะ #%",
+        "id": "implicit.stat_99927264",
+        "text": "ลดระยะเวลาในการช็อตของคุณลง #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_99927264",
-        "text": "ลดระยะเวลาในการช็อตของคุณลง #%",
+        "id": "implicit.stat_2866361420",
+        "text": "เพิ่มค่า เกราะ #%",
         "type": "implicit"
       },
       {
@@ -16516,13 +16516,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2339757871",
-        "text": "เพิ่มอัตราฟื้นฟูโล่พลังงานขึ้น #%",
+        "id": "implicit.stat_2265307453",
+        "text": "ได้รับสกิล Wrath เลเวล #",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2265307453",
-        "text": "ได้รับสกิล Wrath เลเวล #",
+        "id": "implicit.stat_2339757871",
+        "text": "เพิ่มอัตราฟื้นฟูโล่พลังงานขึ้น #%",
         "type": "implicit"
       },
       {
@@ -16826,6 +16826,11 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_1567462963",
+        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Additional Accuracy เลเวล #",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_1170174456",
         "text": "เพิ่มระยะเวลาของ Endurance Charge #%",
         "type": "implicit"
@@ -16903,11 +16908,6 @@
       {
         "id": "implicit.stat_614758785",
         "text": "ได้รับความเสียหาย ไฟ # เมื่อโดนปะทะ",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_1567462963",
-        "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Additional Accuracy เลเวล #",
         "type": "implicit"
       },
       {
@@ -17171,13 +17171,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1065580342",
-        "text": "คุณภาพของเจ็ม ไฟฟ้า ที่ใส่ไว้ #%",
+        "id": "implicit.stat_3067892458",
+        "text": "เพิ่มความเสียหาย เวทย์ ของสกิลที่ถูกใช้งานเอง #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3067892458",
-        "text": "เพิ่มความเสียหาย เวทย์ ของสกิลที่ถูกใช้งานเอง #%",
+        "id": "implicit.stat_1065580342",
+        "text": "คุณภาพของเจ็ม ไฟฟ้า ที่ใส่ไว้ #%",
         "type": "implicit"
       },
       {
@@ -17276,13 +17276,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2276941637",
-        "text": "คุณภาพของเจ็ม ออร่า ที่ใส่ไว้ #%",
+        "id": "implicit.stat_2387423236",
+        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง #",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2387423236",
-        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง #",
+        "id": "implicit.stat_2276941637",
+        "text": "คุณภาพของเจ็ม ออร่า ที่ใส่ไว้ #%",
         "type": "implicit"
       },
       {
@@ -17311,13 +17311,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_762600725",
-        "text": "ได้รับพลังชีวิต # เมื่อบล็อค",
+        "id": "implicit.stat_3666934677",
+        "text": "เพิ่มประสบการณ์ที่ได้รับขึ้น #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3666934677",
-        "text": "เพิ่มประสบการณ์ที่ได้รับขึ้น #%",
+        "id": "implicit.stat_762600725",
+        "text": "ได้รับพลังชีวิต # เมื่อบล็อค",
         "type": "implicit"
       },
       {
@@ -17336,23 +17336,23 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1030153674",
-        "text": "ฟื้นฟู มานา #% เมื่อสังหาร",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_2027269580",
         "text": "เลเวลเจม ธนู ที่ใส่ #",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_4095671657",
-        "text": "ต้านทาน ไฟ สูงสุด #%",
+        "id": "implicit.stat_1030153674",
+        "text": "ฟื้นฟู มานา #% เมื่อสังหาร",
         "type": "implicit"
       },
       {
         "id": "implicit.stat_3764265320",
         "text": "ดูด #% ของความเสียหาย กายภาพ ไปเป็น พลังชีวิต",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_4095671657",
+        "text": "ต้านทาน ไฟ สูงสุด #%",
         "type": "implicit"
       },
       {
@@ -17411,23 +17411,23 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3005472710",
-        "text": "โอกาสรอดจากการติดสถานะเจ็บป่วย #%",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_689720069",
         "text": "หินที่ใส่ไว้จะถูกเสริมด้วย Stun เลเวล #",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3676141501",
-        "text": "ต้านทาน น้ำแข็ง สูงสุด #%",
+        "id": "implicit.stat_3005472710",
+        "text": "โอกาสรอดจากการติดสถานะเจ็บป่วย #%",
         "type": "implicit"
       },
       {
         "id": "implicit.stat_426847518",
         "text": "ทำให้ศัตรูติดคำสาป Frostbite ระดับ # เมื่อปะทะ",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_3676141501",
+        "text": "ต้านทาน น้ำแข็ง สูงสุด #%",
         "type": "implicit"
       },
       {
@@ -17501,13 +17501,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2320884914",
-        "text": "เพิ่มความเร็วในการโจมตีและร่าย #% ขณะมี Onslaught",
+        "id": "implicit.stat_149574107",
+        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง # ต่อค่า Dexterity 10 แต้ม ให้การโจมตีด้วยอาวุธนี้",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_149574107",
-        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง # ต่อค่า Dexterity 10 แต้ม ให้การโจมตีด้วยอาวุธนี้",
+        "id": "implicit.stat_2320884914",
+        "text": "เพิ่มความเร็วในการโจมตีและร่าย #% ขณะมี Onslaught",
         "type": "implicit"
       },
       {
@@ -17521,6 +17521,11 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_2468413380",
+        "text": "เพิ่มความเสียหาย ไฟ ด้วย สกิลโจมตี #%",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_2479683456",
         "text": "ฟื้นฟูพลังชีวิตของมิเนียน #% ต่อวินาที",
         "type": "implicit"
@@ -17528,11 +17533,6 @@
       {
         "id": "implicit.stat_1901158930",
         "text": "ผู้เล่นจะไม่ติดสถานะเลือดไหล",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_2468413380",
-        "text": "เพิ่มความเสียหาย ไฟ ด้วย สกิลโจมตี #%",
         "type": "implicit"
       },
       {
@@ -17546,13 +17546,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2011656677",
-        "text": "เพิ่มระยะเวลาของ พิษ #%",
+        "id": "implicit.stat_26867112",
+        "text": "เพิ่มความเร็วในการโจมตีและร่าย #% ถ้ามีมลทิน",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_26867112",
-        "text": "เพิ่มความเร็วในการโจมตีและร่าย #% ถ้ามีมลทิน",
+        "id": "implicit.stat_2011656677",
+        "text": "เพิ่มระยะเวลาของ พิษ #%",
         "type": "implicit"
       },
       {
@@ -17596,13 +17596,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3390848861",
-        "text": "เสริมความเสียหาย ไฟฟ้า # ถึง # ต่อค่า Intelligence 10 แต้ม ให้การโจมตีด้วยอาวุธนี้",
+        "id": "implicit.stat_644456512",
+        "text": "ลดการชาร์จของขวดที่ใช้ลง #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_644456512",
-        "text": "ลดการชาร์จของขวดที่ใช้ลง #%",
+        "id": "implicit.stat_3390848861",
+        "text": "เสริมความเสียหาย ไฟฟ้า # ถึง # ต่อค่า Intelligence 10 แต้ม ให้การโจมตีด้วยอาวุธนี้",
         "type": "implicit"
       },
       {
@@ -17621,8 +17621,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1683578560",
-        "text": "Unwavering Stance",
+        "id": "implicit.stat_4055307827",
+        "text": "ตัวคูณความเสียหาย เคออส ต่อเนื่อง #%",
         "type": "implicit"
       },
       {
@@ -17631,8 +17631,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_4055307827",
-        "text": "ตัวคูณความเสียหาย เคออส ต่อเนื่อง #%",
+        "id": "implicit.stat_1683578560",
+        "text": "Unwavering Stance",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_1452809865",
+        "text": "เพิ่มการชาร์จของขวดที่ได้รับขึ้น #%",
         "type": "implicit"
       },
       {
@@ -17641,8 +17646,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1452809865",
-        "text": "เพิ่มการชาร์จของขวดที่ได้รับขึ้น #%",
+        "id": "implicit.stat_1443215722",
+        "text": "เพิ่มการแสดงผลคำสาบ Frostbite #%",
         "type": "implicit"
       },
       {
@@ -17656,23 +17661,18 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1443215722",
-        "text": "เพิ่มการแสดงผลคำสาบ Frostbite #%",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_658456881",
         "text": "จำนวน Frenzy Charge ต่ำสุด #",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3761858151",
-        "text": "เพิ่มความเสียหาย เคออส ด้วย สกิลเวทย์ #%",
+        "id": "implicit.stat_3515686789",
+        "text": "เพิ่มความเสียหายขึ้น #% ต่อ Endurance Charge",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3515686789",
-        "text": "เพิ่มความเสียหายขึ้น #% ต่อ Endurance Charge",
+        "id": "implicit.stat_3761858151",
+        "text": "เพิ่มความเสียหาย เคออส ด้วย สกิลเวทย์ #%",
         "type": "implicit"
       },
       {
@@ -17706,18 +17706,23 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3293699237",
-        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือดาบขึ้น #%",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_169946467",
         "text": "เพิ่มค่า ความแม่นยำ ด้วย ธนู #%",
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_3293699237",
+        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือดาบขึ้น #%",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_3935031607",
         "text": "เพิ่มความเสียหาย ไฟฟ้า ด้วย สกิลเวทย์ #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_3731630482",
+        "text": "ค่าต้านทาน ทุกธาตุ #% ถ้ามีมลทิน",
         "type": "implicit"
       },
       {
@@ -17728,11 +17733,6 @@
       {
         "id": "implicit.stat_2266750692",
         "text": "เพิ่มความเสียหาย กายภาพ ด้วย สกิลโจมตี #%",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_3731630482",
-        "text": "ค่าต้านทาน ทุกธาตุ #% ถ้ามีมลทิน",
         "type": "implicit"
       },
       {
@@ -17786,13 +17786,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3289633055",
-        "text": "เจ็มที่ใส่มีการสำรองมานาลดลง #%",
+        "id": "implicit.stat_3192966873",
+        "text": "ลดมานาสำรอง ของ Purity of Ice #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3192966873",
-        "text": "ลดมานาสำรอง ของ Purity of Ice #%",
+        "id": "implicit.stat_3289633055",
+        "text": "เจ็มที่ใส่มีการสำรองมานาลดลง #%",
         "type": "implicit"
       },
       {
@@ -17826,13 +17826,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1421645223",
-        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือกรงเล็บขึ้น #%",
+        "id": "implicit.stat_3739863694",
+        "text": "มีโอกาส #% ที่จะ ทิ่มแทง ศัตรูเมื่อโจมตี",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3739863694",
-        "text": "มีโอกาส #% ที่จะ ทิ่มแทง ศัตรูเมื่อโจมตี",
+        "id": "implicit.stat_1421645223",
+        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือกรงเล็บขึ้น #%",
         "type": "implicit"
       },
       {
@@ -17841,13 +17841,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2451060005",
-        "text": "สามารถจับปลา Corrupted",
+        "id": "implicit.stat_2915373966",
+        "text": "นำ #% ของความเสียหาย น้ำแข็ง ไปเสริมเป็น เคออส",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2915373966",
-        "text": "นำ #% ของความเสียหาย น้ำแข็ง ไปเสริมเป็น เคออส",
+        "id": "implicit.stat_2451060005",
+        "text": "สามารถจับปลา Corrupted",
         "type": "implicit"
       },
       {
@@ -17861,8 +17861,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2538566497",
-        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือมีดขึ้น #%",
+        "id": "implicit.stat_1678690824",
+        "text": "เพิ่มความเสียหาย เวทย์ #% ขณะถือ อาวุธคู่",
         "type": "implicit"
       },
       {
@@ -17871,8 +17871,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1678690824",
-        "text": "เพิ่มความเสียหาย เวทย์ #% ขณะถือ อาวุธคู่",
+        "id": "implicit.stat_2538566497",
+        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือมีดขึ้น #%",
         "type": "implicit"
       },
       {
@@ -17886,13 +17886,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2813626504",
-        "text": "เวทย์ มีโอกาส #% ที่จะสร้างความเสียหายสองเท่า",
+        "id": "implicit.stat_2228518621",
+        "text": "เพิ่มความเสียหายของ ซอมบี้ #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2228518621",
-        "text": "เพิ่มความเสียหายของ ซอมบี้ #%",
+        "id": "implicit.stat_2813626504",
+        "text": "เวทย์ มีโอกาส #% ที่จะสร้างความเสียหายสองเท่า",
         "type": "implicit"
       },
       {
@@ -17911,11 +17911,6 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3814560373",
-        "text": "เพิ่มความเสียหาย กายภาพ ด้วย ดาบ #%",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_1065909420",
         "text": "เพิ่มการแสดงผลคำสาบ Vulnerability #%",
         "type": "implicit"
@@ -17926,13 +17921,18 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3375935924",
-        "text": "เพิ่มความเร็วในการโจมตี ของมิเนียน #%",
+        "id": "implicit.stat_3814560373",
+        "text": "เพิ่มความเสียหาย กายภาพ ด้วย ดาบ #%",
         "type": "implicit"
       },
       {
         "id": "implicit.stat_2880601380",
         "text": "เพิ่มความเร็วในการเคลื่อนที่ #% ถ้ามีมลทิน",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_3375935924",
+        "text": "เพิ่มความเร็วในการโจมตี ของมิเนียน #%",
         "type": "implicit"
       },
       {
@@ -17956,8 +17956,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1612163368",
-        "text": "เพิ่มความเร็วในการร่ายเมื่อถือโล่ขึ้น #%",
+        "id": "implicit.stat_635761691",
+        "text": "เพิ่มความเสียหาย กายภาพ ด้วย กรงเล็บ #%",
         "type": "implicit"
       },
       {
@@ -17966,13 +17966,18 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_3802667447",
+        "text": "เพิ่มจำนวนปลาที่จับได้ขึ้น #%",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_3629080637",
         "text": "ตัวคูณคริติคอล เวทย์ #% ขณะถือไม้พลอง",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_635761691",
-        "text": "เพิ่มความเสียหาย กายภาพ ด้วย กรงเล็บ #%",
+        "id": "implicit.stat_1612163368",
+        "text": "เพิ่มความเร็วในการร่ายเมื่อถือโล่ขึ้น #%",
         "type": "implicit"
       },
       {
@@ -17981,8 +17986,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3802667447",
-        "text": "เพิ่มจำนวนปลาที่จับได้ขึ้น #%",
+        "id": "implicit.stat_4000101551",
+        "text": "เพิ่มความเร็วในการร่าย ของมิเนียน #%",
         "type": "implicit"
       },
       {
@@ -17991,18 +17996,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_11106713",
-        "text": "ดูด #% ของความเสียหาย เวทย์ ไปเป็น โล่พลังงาน",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_3882531569",
         "text": "เพิ่มความเสียหาย กายภาพ ด้วย มีด #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_4000101551",
-        "text": "เพิ่มความเร็วในการร่าย ของมิเนียน #%",
+        "id": "implicit.stat_11106713",
+        "text": "ดูด #% ของความเสียหาย เวทย์ ไปเป็น โล่พลังงาน",
         "type": "implicit"
       },
       {
@@ -18021,8 +18021,18 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_2515515064",
+        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือกระบองและคทาขึ้น #%",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_2538120572",
         "text": "เพิ่มค่า ความแม่นยำ ด้วย ขวาน #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2090868905",
+        "text": "เพิ่มค่า ความแม่นยำ ด้วย ดาบ #%",
         "type": "implicit"
       },
       {
@@ -18036,33 +18046,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2515515064",
-        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือกระบองและคทาขึ้น #%",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_2090868905",
-        "text": "เพิ่มค่า ความแม่นยำ ด้วย ดาบ #%",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_2311200892",
-        "text": "ตัวคูณคริติคอล เวทย์ #% ขณะถือโล่",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_1474913037",
-        "text": "ตัวคูณคริติคอล ด้วย ไม้พลอง #%",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_1809006367",
-        "text": "ต้านทาน ทุกธาตุ ของโทเทม #%",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_310246444",
-        "text": "เพิ่มความเสียหายขึ้น #% ขณะดูดพลัง",
+        "id": "implicit.stat_3743375737",
+        "text": "มีโอกาส #% ที่จะลีกเลี่ยงความเสียหาย น้ำแข็ง จากการปะทะ",
         "type": "implicit"
       },
       {
@@ -18071,23 +18056,23 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3743375737",
-        "text": "มีโอกาส #% ที่จะลีกเลี่ยงความเสียหาย น้ำแข็ง จากการปะทะ",
+        "id": "implicit.stat_2311200892",
+        "text": "ตัวคูณคริติคอล เวทย์ #% ขณะถือโล่",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2811834828",
-        "text": "ตัวคูณคริติคอล ด้วย กรงเล็บ #%",
+        "id": "implicit.stat_310246444",
+        "text": "เพิ่มความเสียหายขึ้น #% ขณะดูดพลัง",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2349237916",
-        "text": "ตัวคูณคริติคอล เวทย์ #% ขณะถืออาวุธคู่",
+        "id": "implicit.stat_1809006367",
+        "text": "ต้านทาน ทุกธาตุ ของโทเทม #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_458899422",
-        "text": "ตัวคูณคริติคอล ด้วย กระบองและคทา #%",
+        "id": "implicit.stat_1474913037",
+        "text": "ตัวคูณคริติคอล ด้วย ไม้พลอง #%",
         "type": "implicit"
       },
       {
@@ -18096,8 +18081,33 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_2811834828",
+        "text": "ตัวคูณคริติคอล ด้วย กรงเล็บ #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_458899422",
+        "text": "ตัวคูณคริติคอล ด้วย กระบองและคทา #%",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_4219746989",
         "text": "ตัวคูณคริติคอล ด้วย ขวาน #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2349237916",
+        "text": "ตัวคูณคริติคอล เวทย์ #% ขณะถืออาวุธคู่",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2062174346",
+        "text": "โจมตีแรงขึ้น #% ต่อ 15 Dexterity",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2054715690",
+        "text": "เพิ่มค่า ความแม่นยำ ด้วย มีด #%",
         "type": "implicit"
       },
       {
@@ -18111,23 +18121,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2054715690",
-        "text": "เพิ่มค่า ความแม่นยำ ด้วย มีด #%",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_2062174346",
-        "text": "โจมตีแรงขึ้น #% ต่อ 15 Dexterity",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_3774831856",
-        "text": "เพิ่มความเสียหาย กายภาพ ด้วย กระบองและคทา #%",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_158779585",
         "text": "เพิ่มผลของบัฟ Fortify ที่มีต่อคุณ #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_3485067555",
+        "text": "เพิ่มระยะเวลาในการหนาวสั่นของศัตรูขึ้น #%",
         "type": "implicit"
       },
       {
@@ -18136,8 +18136,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3485067555",
-        "text": "เพิ่มระยะเวลาในการหนาวสั่นของศัตรูขึ้น #%",
+        "id": "implicit.stat_3774831856",
+        "text": "เพิ่มความเสียหาย กายภาพ ด้วย กระบองและคทา #%",
         "type": "implicit"
       },
       {
@@ -18151,11 +18151,6 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2612056840",
-        "text": "คาถาแรงขึ้น #% ต่อทุกๆ 10 Dexterity",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_1443108510",
         "text": "เพิ่มความเสียหาย ที่ได้รับ #% ต่อค่า Strength 250 หน่วย",
         "type": "implicit"
@@ -18163,6 +18158,11 @@
       {
         "id": "implicit.stat_4118987751",
         "text": "เพิ่มขีดจำกัดของการฟื้นฟู พลังชีวิต ต่อวินาทีจากการดูด #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2612056840",
+        "text": "คาถาแรงขึ้น #% ต่อทุกๆ 10 Dexterity",
         "type": "implicit"
       },
       {
@@ -18176,6 +18176,11 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_42242677",
+        "text": "มีโอกาส #% ที่จะลีกเลี่ยงความเสียหาย ไฟ จากการปะทะ",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_2390685262",
         "text": "เพิ่มคุณภาพให้กับการเจอไอเทมในพื้นที่นี้ #%",
         "type": "implicit"
@@ -18183,11 +18188,6 @@
       {
         "id": "implicit.stat_2402136583",
         "text": "นำ #% ของความเสียหาย ไฟฟ้า ไปเสริมเป็น เคออส",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_42242677",
-        "text": "มีโอกาส #% ที่จะลีกเลี่ยงความเสียหาย ไฟ จากการปะทะ",
         "type": "implicit"
       },
       {
@@ -18216,8 +18216,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3909846940",
-        "text": "ดร็อปไอเทมเมื่อถูกสังหาร ถ้าติดตั้ง Animated Guardian",
+        "id": "implicit.stat_3208450870",
+        "text": "เพิ่มค่า ความแม่นยำ ด้วย กระบองและคทา #%",
         "type": "implicit"
       },
       {
@@ -18226,13 +18226,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_3208450870",
-        "text": "เพิ่มค่า ความแม่นยำ ด้วย กระบองและคทา #%",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_3002506763",
-        "text": "มีโอกาสขัดขวางศัตรู #% หากใช้คาถาโจมตีโดน โดยจะทำให้ศัตรูเดินช้าลง 30%",
+        "id": "implicit.stat_3909846940",
+        "text": "ดร็อปไอเทมเมื่อถูกสังหาร ถ้าติดตั้ง Animated Guardian",
         "type": "implicit"
       },
       {
@@ -18243,6 +18238,11 @@
       {
         "id": "implicit.stat_96977651",
         "text": "เพิ่มขีดจำกัดของการฟื้นฟู มานา ต่อวินาทีจากการดูด #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_3002506763",
+        "text": "มีโอกาสขัดขวางศัตรู #% หากใช้คาถาโจมตีโดน โดยจะทำให้ศัตรูเดินช้าลง 30%",
         "type": "implicit"
       },
       {
@@ -18276,6 +18276,11 @@
         "type": "implicit"
       },
       {
+        "id": "implicit.stat_287491423",
+        "text": "เสริมป้องกันกายภาพ จากมอนสเตอร์ Abyss #%",
+        "type": "implicit"
+      },
+      {
         "id": "implicit.stat_3309607228",
         "text": "เพิ่มความเสียหาย ที่ได้รับ #% ถ้ามีมลทิน",
         "type": "implicit"
@@ -18286,18 +18291,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_287491423",
-        "text": "เสริมป้องกันกายภาพ จากมอนสเตอร์ Abyss #%",
+        "id": "implicit.stat_3871212304",
+        "text": "ม็อดที่ส่งผลเพิ่มและลด ความเสียหายสกิลวาล์ จะส่งผลต่อ สกิลที่ไม่ใช่วาล์ ด้วย",
         "type": "implicit"
       },
       {
         "id": "implicit.stat_1086147743",
         "text": "เพิ่มระยะเวลาในการลุกไหม้ของศัตรูขึ้น #%",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_3871212304",
-        "text": "ม็อดที่ส่งผลเพิ่มและลด ความเสียหายสกิลวาล์ จะส่งผลต่อ สกิลที่ไม่ใช่วาล์ ด้วย",
         "type": "implicit"
       },
       {
@@ -18311,11 +18311,6 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_374116820",
-        "text": "เพิ่มความเสียหาย เวทย์ #% ถ้ามีมลทิน",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_3645693773",
         "text": "สเปคเตอร์สร้างความเสียหายเพิ่มขึ้น #%",
         "type": "implicit"
@@ -18323,6 +18318,11 @@
       {
         "id": "implicit.stat_3240073117",
         "text": "เพิ่มอัตราการฟื้นฟูพลังชีวิต #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_374116820",
+        "text": "เพิ่มความเสียหาย เวทย์ #% ถ้ามีมลทิน",
         "type": "implicit"
       },
       {
@@ -18336,8 +18336,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_818778753",
-        "text": "เจาะต้านทาน ไฟฟ้า #%",
+        "id": "implicit.stat_2094281311",
+        "text": "ที่จะ Animated Guardian ป้องกันทุกธาตุ #%",
         "type": "implicit"
       },
       {
@@ -18346,23 +18346,18 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2094281311",
-        "text": "ที่จะ Animated Guardian ป้องกันทุกธาตุ #%",
-        "type": "implicit"
-      },
-      {
         "id": "implicit.stat_969576725",
         "text": "มีโอกาสหลบการโจมตีเพิ่ม #% ขณะรับผลจาก Grace",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2653955271",
-        "text": "เจาะต้านทาน ไฟ #%",
+        "id": "implicit.stat_818778753",
+        "text": "เจาะต้านทาน ไฟฟ้า #%",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_2353576063",
-        "text": "เพิ่มผลของคำสาปที่คุณใช้ #%",
+        "id": "implicit.stat_4251717817",
+        "text": "เพิ่มความเสียหาย พื้นที่ #%",
         "type": "implicit"
       },
       {
@@ -18376,8 +18371,8 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_67280387",
-        "text": "นำ #% ของ พลังชีวิตสูงสุด ไปเสริมเป็น โล่พลังงานสูงสุด",
+        "id": "implicit.stat_2353576063",
+        "text": "เพิ่มผลของคำสาปที่คุณใช้ #%",
         "type": "implicit"
       },
       {
@@ -18386,28 +18381,13 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_4251717817",
-        "text": "เพิ่มความเสียหาย พื้นที่ #%",
+        "id": "implicit.stat_67280387",
+        "text": "นำ #% ของ พลังชีวิตสูงสุด ไปเสริมเป็น โล่พลังงานสูงสุด",
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_4023723828",
-        "text": "เพิ่มโอกาสคริติคอล ทุกอย่าง #% ถ้ามีมลทิน",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_2818518881",
-        "text": "เพิ่มความเสียหายเวทขึ้น #% ต่อค่า Intelligence 10 หน่วย",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_1211769158",
-        "text": "ความเสียหายจากอาวุธ เจาะต้านทาน น้ำแข็ง #%",
-        "type": "implicit"
-      },
-      {
-        "id": "implicit.stat_211381198",
-        "text": "ได้รับโล่พลังงาน # ต่อศัตรูที่โดนคุณโจมตี",
+        "id": "implicit.stat_2653955271",
+        "text": "เจาะต้านทาน ไฟ #%",
         "type": "implicit"
       },
       {
@@ -18416,13 +18396,33 @@
         "type": "implicit"
       },
       {
-        "id": "implicit.stat_1162425204",
-        "text": "ไฟที่ติดตัวผู้เล่นจะดับหากใช้ขวดยา",
+        "id": "implicit.stat_1211769158",
+        "text": "ความเสียหายจากอาวุธ เจาะต้านทาน น้ำแข็ง #%",
         "type": "implicit"
       },
       {
         "id": "implicit.stat_2388574377",
         "text": "โอกาสในการบล็อคเวทสูงสุด #%",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_211381198",
+        "text": "ได้รับโล่พลังงาน # ต่อศัตรูที่โดนคุณโจมตี",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_1162425204",
+        "text": "ไฟที่ติดตัวผู้เล่นจะดับหากใช้ขวดยา",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_2818518881",
+        "text": "เพิ่มความเสียหายเวทขึ้น #% ต่อค่า Intelligence 10 หน่วย",
+        "type": "implicit"
+      },
+      {
+        "id": "implicit.stat_4023723828",
+        "text": "เพิ่มโอกาสคริติคอล ทุกอย่าง #% ถ้ามีมลทิน",
         "type": "implicit"
       },
       {
@@ -18831,13 +18831,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_339179093",
-        "text": "เลเวลเจม ไฟ ที่ใส่ #",
+        "id": "fractured.stat_967627487",
+        "text": "เพิ่มความเสียหาย ต่อเนื่อง #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_967627487",
-        "text": "เพิ่มความเสียหาย ต่อเนื่อง #%",
+        "id": "fractured.stat_339179093",
+        "text": "เลเวลเจม ไฟ ที่ใส่ #",
         "type": "fractured"
       },
       {
@@ -18906,13 +18906,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3416410609",
-        "text": "โอกาสบล็อคการโจมตีแบบกระสุน #%",
+        "id": "fractured.stat_2915373966",
+        "text": "นำ #% ของความเสียหาย น้ำแข็ง ไปเสริมเป็น เคออส",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2915373966",
-        "text": "นำ #% ของความเสียหาย น้ำแข็ง ไปเสริมเป็น เคออส",
+        "id": "fractured.stat_3416410609",
+        "text": "โอกาสบล็อคการโจมตีแบบกระสุน #%",
         "type": "fractured"
       },
       {
@@ -18956,13 +18956,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1335054179",
-        "text": "โอกาส #% ที่จะลุกไหม้",
+        "id": "fractured.stat_2402136583",
+        "text": "นำ #% ของความเสียหาย ไฟฟ้า ไปเสริมเป็น เคออส",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2402136583",
-        "text": "นำ #% ของความเสียหาย ไฟฟ้า ไปเสริมเป็น เคออส",
+        "id": "fractured.stat_1335054179",
+        "text": "โอกาส #% ที่จะลุกไหม้",
         "type": "fractured"
       },
       {
@@ -19016,13 +19016,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3319896421",
-        "text": "นำ #% ของความเสียหาย กายภาพ ไปเสริมเป็น เคออส",
+        "id": "fractured.stat_1172029298",
+        "text": "เสริมความเสียหาย กายภาพ # ถึง # ให้มิเนียน",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1172029298",
-        "text": "เสริมความเสียหาย กายภาพ # ถึง # ให้มิเนียน",
+        "id": "fractured.stat_3319896421",
+        "text": "นำ #% ของความเสียหาย กายภาพ ไปเสริมเป็น เคออส",
         "type": "fractured"
       },
       {
@@ -19096,13 +19096,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1585344030",
-        "text": "โจมตีเร็วขึ้น #% ถ้าเพิ่งทำคริติคอลได้",
+        "id": "fractured.stat_1813451228",
+        "text": "เพิ่มความเร็วในการโจมตีเมื่อถืออาวุธมือเดียวประชิดขึ้น #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1813451228",
-        "text": "เพิ่มความเร็วในการโจมตีเมื่อถืออาวุธมือเดียวประชิดขึ้น #%",
+        "id": "fractured.stat_1585344030",
+        "text": "โจมตีเร็วขึ้น #% ถ้าเพิ่งทำคริติคอลได้",
         "type": "fractured"
       },
       {
@@ -19126,13 +19126,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3351784991",
-        "text": "เสริมความเสียหาย ไฟ # ถึง # ให้มิเนียน",
+        "id": "fractured.stat_3550868361",
+        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือขวานขึ้น #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3550868361",
-        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือขวานขึ้น #%",
+        "id": "fractured.stat_3351784991",
+        "text": "เสริมความเสียหาย ไฟ # ถึง # ให้มิเนียน",
         "type": "fractured"
       },
       {
@@ -19166,13 +19166,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_4291461939",
-        "text": "ฟื้นฟูมานา # ต่อวินาที",
+        "id": "fractured.stat_674553446",
+        "text": "เสริมความเสียหาย เคออส # ถึง # ให้กับการโจมตี",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_674553446",
-        "text": "เสริมความเสียหาย เคออส # ถึง # ให้กับการโจมตี",
+        "id": "fractured.stat_4291461939",
+        "text": "ฟื้นฟูมานา # ต่อวินาที",
         "type": "fractured"
       },
       {
@@ -19191,13 +19191,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3293699237",
-        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือดาบขึ้น #%",
+        "id": "fractured.stat_2307547323",
+        "text": "ตัวคูณคริติคอล ด้วย สกิลไฟ #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2307547323",
-        "text": "ตัวคูณคริติคอล ด้วย สกิลไฟ #%",
+        "id": "fractured.stat_3293699237",
+        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือดาบขึ้น #%",
         "type": "fractured"
       },
       {
@@ -19246,13 +19246,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2546185479",
-        "text": "ตัวคูณคริติคอล #% ขณะถือ อาวุธคู่",
+        "id": "fractured.stat_770672621",
+        "text": "เพิ่มพลังชีวิตสูงสุด ของมิเนียน #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_770672621",
-        "text": "เพิ่มพลังชีวิตสูงสุด ของมิเนียน #%",
+        "id": "fractured.stat_2546185479",
+        "text": "ตัวคูณคริติคอล #% ขณะถือ อาวุธคู่",
         "type": "fractured"
       },
       {
@@ -19296,18 +19296,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2137912951",
-        "text": "เพิ่มความเสียหาย ทุ่นระเบิด #%",
-        "type": "fractured"
-      },
-      {
         "id": "fractured.stat_1766142294",
         "text": "เพิ่มความเสียหาย เวทย์ #% ขณะถือ โล่",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1237708713",
-        "text": "เสริมความเสียหาย ไฟฟ้า # ถึง # ให้การโจมตีด้วย ดาบ",
+        "id": "fractured.stat_2137912951",
+        "text": "เพิ่มความเสียหาย ทุ่นระเบิด #%",
         "type": "fractured"
       },
       {
@@ -19316,13 +19311,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_734823525",
-        "text": "เพิ่มค่าหลบหลีก # ขณะเคลื่อนที่",
+        "id": "fractured.stat_1237708713",
+        "text": "เสริมความเสียหาย ไฟฟ้า # ถึง # ให้การโจมตีด้วย ดาบ",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1950806024",
-        "text": "ตัวคูณความเสียหาย น้ำแข็ง ต่อเนื่อง #%",
+        "id": "fractured.stat_734823525",
+        "text": "เพิ่มค่าหลบหลีก # ขณะเคลื่อนที่",
         "type": "fractured"
       },
       {
@@ -19331,18 +19326,23 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_1950806024",
+        "text": "ตัวคูณความเสียหาย น้ำแข็ง ต่อเนื่อง #%",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_138741818",
         "text": "มีโอกาสบล็อคเวท #% ขณะถืออาวุธคู่",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1101206134",
-        "text": "โอกาสบล็อคเวท #% ถ้าคุณได้รับความเสียหายจากการปะทะเร็วๆ นี้",
+        "id": "fractured.stat_1174076861",
+        "text": "ร่ายคาถาเร็วขึ้น #% ถ้าเพิ่งทำคริติคอลได้",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1174076861",
-        "text": "ร่ายคาถาเร็วขึ้น #% ถ้าเพิ่งทำคริติคอลได้",
+        "id": "fractured.stat_1101206134",
+        "text": "โอกาสบล็อคเวท #% ถ้าคุณได้รับความเสียหายจากการปะทะเร็วๆ นี้",
         "type": "fractured"
       },
       {
@@ -19371,6 +19371,21 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_2856328513",
+        "text": "มีโอกาสติดคริติคอลมากขึ้น #% ถ้ายังไม่ได้คริติคอลใดๆ มาเร็วๆ นี้",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_4193088553",
+        "text": "เพิ่มค่าโจมตีตามเวลา #% ขณะใช้อาวุธสองมือ",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_4237442815",
+        "text": "ตัวคูณคริติคอล ประชิด #%",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_318953428",
         "text": "มีโอกาสทำศัตรูตาบอด #%",
         "type": "fractured"
@@ -19381,23 +19396,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_4193088553",
-        "text": "เพิ่มค่าโจมตีตามเวลา #% ขณะใช้อาวุธสองมือ",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_2856328513",
-        "text": "มีโอกาสติดคริติคอลมากขึ้น #% ถ้ายังไม่ได้คริติคอลใดๆ มาเร็วๆ นี้",
-        "type": "fractured"
-      },
-      {
         "id": "fractured.stat_1104796138",
         "text": "เพิ่มโอกาส คริติคอล ด้วย สกิลไฟ #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_4237442815",
-        "text": "ตัวคูณคริติคอล ประชิด #%",
+        "id": "fractured.stat_1569407745",
+        "text": "ตัวคูณคริติคอล ด้วย สกิลธาตุ #%",
         "type": "fractured"
       },
       {
@@ -19408,11 +19413,6 @@
       {
         "id": "fractured.stat_795138349",
         "text": "โอกาส #% ที่จะติดสภาพพิษเมื่อโจมตี",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1569407745",
-        "text": "ตัวคูณคริติคอล ด้วย สกิลธาตุ #%",
         "type": "fractured"
       },
       {
@@ -19436,18 +19436,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2383797932",
-        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง # ให้การโจมตีด้วย ไม้กายสิทธิ์",
-        "type": "fractured"
-      },
-      {
         "id": "fractured.stat_736967255",
         "text": "เพิ่มความเสียหาย เคออส #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_686254215",
-        "text": "เพิ่มพลังชีวิต โทเทม #%",
+        "id": "fractured.stat_2383797932",
+        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง # ให้การโจมตีด้วย ไม้กายสิทธิ์",
         "type": "fractured"
       },
       {
@@ -19456,13 +19451,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3603666270",
-        "text": "เสริมป้องกันกายภาพ #% ถ้าถูกปะทะแต่ไม่ได้รับความเสียหาย เร็วๆนี้",
+        "id": "fractured.stat_686254215",
+        "text": "เพิ่มพลังชีวิต โทเทม #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1589917703",
-        "text": "เพิ่มความเสียหายของ มิเนียน #%",
+        "id": "fractured.stat_3603666270",
+        "text": "เสริมป้องกันกายภาพ #% ถ้าถูกปะทะแต่ไม่ได้รับความเสียหาย เร็วๆนี้",
         "type": "fractured"
       },
       {
@@ -19471,8 +19466,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_279227559",
-        "text": "#% เพิ่มความเร็วเคลื่อนที่ถ้าคุณได้สังหารเร็วๆ นี้",
+        "id": "fractured.stat_1589917703",
+        "text": "เพิ่มความเสียหายของ มิเนียน #%",
         "type": "fractured"
       },
       {
@@ -19481,8 +19476,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_252507949",
-        "text": "ตัวคูณคริติคอล ด้วย อาวุธประชิดสองมือ #%",
+        "id": "fractured.stat_279227559",
+        "text": "#% เพิ่มความเร็วเคลื่อนที่ถ้าคุณได้สังหารเร็วๆ นี้",
         "type": "fractured"
       },
       {
@@ -19496,23 +19491,13 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_252507949",
+        "text": "ตัวคูณคริติคอล ด้วย อาวุธประชิดสองมือ #%",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_2464689927",
         "text": "เสริมความเสียหาย น้ำแข็ง # ถึง # ให้กับเวทย์ ขณะถืออาวุธสองมือ",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1782176131",
-        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง # ให้การโจมตีด้วย ขวาน",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_214001793",
-        "text": "เพิ่มค่าโจมตีตามเวลา #% ขณะใช้อาวุธคู่",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_2323739383",
-        "text": "มิเนียนมีโอกาสขัดขวางศัตรู #% หากใช้คาถาโจมตีโดน โดยจะทำให้ศัตรูเดินช้าลง 30%",
         "type": "fractured"
       },
       {
@@ -19521,18 +19506,23 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_214001793",
+        "text": "เพิ่มค่าโจมตีตามเวลา #% ขณะใช้อาวุธคู่",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1782176131",
+        "text": "เสริมความเสียหาย น้ำแข็ง # ถึง # ให้การโจมตีด้วย ขวาน",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_2323739383",
+        "text": "มิเนียนมีโอกาสขัดขวางศัตรู #% หากใช้คาถาโจมตีโดน โดยจะทำให้ศัตรูเดินช้าลง 30%",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_87098247",
         "text": "เสริมความเสียหาย ไฟ # ถึง # ให้การโจมตีด้วย ไม้กายสิทธิ์",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3337344042",
-        "text": "เพิ่มโอกาส คริติคอล ด้วย สกิลน้ำแข็ง #%",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_2515515064",
-        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือกระบองและคทาขึ้น #%",
         "type": "fractured"
       },
       {
@@ -19541,18 +19531,23 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_2515515064",
+        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือกระบองและคทาขึ้น #%",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_3337344042",
+        "text": "เพิ่มโอกาส คริติคอล ด้วย สกิลน้ำแข็ง #%",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_1244360317",
         "text": "เพิ่มค่าโจมตีตามเวลา #% ขณะถือโล่",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1423639565",
-        "text": "ต้านทาน ทุกธาตุ ของมิเนียน #%",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3479683016",
-        "text": "เสริมความเสียหาย ไฟฟ้า # ถึง # ให้การโจมตีด้วย มีด",
+        "id": "fractured.stat_3702513529",
+        "text": "เพิ่มโอกาสโจมตีติดคริติคอลอาวุธขณะถืออาวุธคู่ขึ้น #%",
         "type": "fractured"
       },
       {
@@ -19561,8 +19556,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3702513529",
-        "text": "เพิ่มโอกาสโจมตีติดคริติคอลอาวุธขณะถืออาวุธคู่ขึ้น #%",
+        "id": "fractured.stat_3479683016",
+        "text": "เสริมความเสียหาย ไฟฟ้า # ถึง # ให้การโจมตีด้วย มีด",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1423639565",
+        "text": "ต้านทาน ทุกธาตุ ของมิเนียน #%",
         "type": "fractured"
       },
       {
@@ -19581,13 +19581,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1334465904",
-        "text": "เพิ่มความเสียหาย กายภาพ ด้วย อาวุธประชิดมือเดียว #%",
+        "id": "fractured.stat_3146788701",
+        "text": "เสริมความเสียหาย ไฟ # ถึง # ให้การโจมตีด้วย กระบองและคทา",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3146788701",
-        "text": "เสริมความเสียหาย ไฟ # ถึง # ให้การโจมตีด้วย กระบองและคทา",
+        "id": "fractured.stat_1334465904",
+        "text": "เพิ่มความเสียหาย กายภาพ ด้วย อาวุธประชิดมือเดียว #%",
         "type": "fractured"
       },
       {
@@ -19606,23 +19606,28 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3062329212",
-        "text": "มิเนียนฟื้นฟูพลังชีวิตได้ # แต้มทุกวินาที",
-        "type": "fractured"
-      },
-      {
         "id": "fractured.stat_3314142259",
         "text": "เพิ่มความเสียหายด้วย ขวาน #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1782086450",
-        "text": "โล่พลังงานรีชาร์จเร็วขึ้น #%",
+        "id": "fractured.stat_3062329212",
+        "text": "มิเนียนฟื้นฟูพลังชีวิตได้ # แต้มทุกวินาที",
         "type": "fractured"
       },
       {
         "id": "fractured.stat_3220927448",
         "text": "เสริมความเสียหาย ไฟ # ถึง # ให้การโจมตีด้วย ไม้พลอง",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1783006896",
+        "text": "โอกาส #% ที่จะไม่ติดสถานะลุกไหม้",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1782086450",
+        "text": "โล่พลังงานรีชาร์จเร็วขึ้น #%",
         "type": "fractured"
       },
       {
@@ -19636,23 +19641,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1783006896",
-        "text": "โอกาส #% ที่จะไม่ติดสถานะลุกไหม้",
+        "id": "fractured.stat_44182350",
+        "text": "เสริมความเสียหาย ไฟ # ถึง # ให้กับเวทย์ ขณะถือโล่",
         "type": "fractured"
       },
       {
         "id": "fractured.stat_1263342750",
         "text": "เสริมความเสียหาย น้ำแข็ง # ถึง # ให้การโจมตีด้วย มีด",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1476643878",
-        "text": "เพิ่มความเร็วในการร่าย ให้สกิล ไฟ #%",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_44182350",
-        "text": "เสริมความเสียหาย ไฟ # ถึง # ให้กับเวทย์ ขณะถือโล่",
         "type": "fractured"
       },
       {
@@ -19663,6 +19658,11 @@
       {
         "id": "fractured.stat_3501769159",
         "text": "เพิ่มความเสียหายทางกายภาพระยะประชิดขณะถือโล่ขึ้น #%",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1476643878",
+        "text": "เพิ่มความเร็วในการร่าย ให้สกิล ไฟ #%",
         "type": "fractured"
       },
       {
@@ -19681,8 +19681,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3375935924",
-        "text": "เพิ่มความเร็วในการโจมตี ของมิเนียน #%",
+        "id": "fractured.stat_4000101551",
+        "text": "เพิ่มความเร็วในการร่าย ของมิเนียน #%",
         "type": "fractured"
       },
       {
@@ -19691,18 +19691,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_4000101551",
-        "text": "เพิ่มความเร็วในการร่าย ของมิเนียน #%",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_274716455",
-        "text": "ตัวคูณคริติคอล เวท #%",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_601249293",
-        "text": "เสริมความเสียหาย ไฟ # ถึง # ให้การโจมตีด้วย ดาบ",
+        "id": "fractured.stat_3375935924",
+        "text": "เพิ่มความเร็วในการโจมตี ของมิเนียน #%",
         "type": "fractured"
       },
       {
@@ -19711,8 +19701,18 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1871765599",
-        "text": "โอกาส #% ที่จะไม่ติดสถานะถูกช็อต",
+        "id": "fractured.stat_601249293",
+        "text": "เสริมความเสียหาย ไฟ # ถึง # ให้การโจมตีด้วย ดาบ",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_274716455",
+        "text": "ตัวคูณคริติคอล เวท #%",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_2538566497",
+        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือมีดขึ้น #%",
         "type": "fractured"
       },
       {
@@ -19721,8 +19721,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2538566497",
-        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือมีดขึ้น #%",
+        "id": "fractured.stat_1871765599",
+        "text": "โอกาส #% ที่จะไม่ติดสถานะถูกช็อต",
         "type": "fractured"
       },
       {
@@ -19741,13 +19741,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1394963553",
-        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือไม้เท้าขึ้น #%",
+        "id": "fractured.stat_2120297997",
+        "text": "มีโอกาสบล็อคเวท #% ขณะถือไม้เท้า",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2120297997",
-        "text": "มีโอกาสบล็อคเวท #% ขณะถือไม้เท้า",
+        "id": "fractured.stat_1394963553",
+        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือไม้เท้าขึ้น #%",
         "type": "fractured"
       },
       {
@@ -19756,13 +19756,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1514829491",
-        "text": "โอกาส #% ที่จะไม่ติดสถานะถูกแช่แข็ง",
+        "id": "fractured.stat_2381842786",
+        "text": "เพิ่มโอกาส คริติคอล ด้วย อาวุธประชิดมือเดียว #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2381842786",
-        "text": "เพิ่มโอกาส คริติคอล ด้วย อาวุธประชิดมือเดียว #%",
+        "id": "fractured.stat_1514829491",
+        "text": "โอกาส #% ที่จะไม่ติดสถานะถูกแช่แข็ง",
         "type": "fractured"
       },
       {
@@ -19786,6 +19786,21 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_3720627346",
+        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือคทาขึ้น #%",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1836374041",
+        "text": "เพิ่มความเสียหายด้วย อาวุธสองมือ #%",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_3814560373",
+        "text": "เพิ่มความเสียหาย กายภาพ ด้วย ดาบ #%",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_2424133568",
         "text": "เพิ่มเกราะ #% หากยังฆ่าใครไม่ได้เร็วๆ นี้",
         "type": "fractured"
@@ -19796,23 +19811,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1836374041",
-        "text": "เพิ่มความเสียหายด้วย อาวุธสองมือ #%",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3720627346",
-        "text": "เพิ่มความเร็วในการโจมตีเมื่อถือคทาขึ้น #%",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3814560373",
-        "text": "เพิ่มความเสียหาย กายภาพ ด้วย ดาบ #%",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1778298516",
-        "text": "โอกาสบล็อค การโจมตี #% ขณะถือ ไม้พลอง",
+        "id": "fractured.stat_1801889979",
+        "text": "เสริมความเสียหาย ไฟฟ้า # ถึง # ให้กับเวทย์ ขณะถือโล่",
         "type": "fractured"
       },
       {
@@ -19826,18 +19826,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3212481075",
-        "text": "เสริมความเสียหาย ไฟฟ้า # ถึง # ให้การโจมตีด้วย ไม้พลอง",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1801889979",
-        "text": "เสริมความเสียหาย ไฟฟ้า # ถึง # ให้กับเวทย์ ขณะถือโล่",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_1086057912",
-        "text": "มิเนียนจะโจมตีมอนสเตอร์ Abyssal แรงขึ้น #%",
+        "id": "fractured.stat_1778298516",
+        "text": "โอกาสบล็อค การโจมตี #% ขณะถือ ไม้พลอง",
         "type": "fractured"
       },
       {
@@ -19846,13 +19836,23 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_3954157711",
-        "text": "เสริมความเสียหาย กายภาพ # ถึง # ให้กับเวทย์ ขณะถือโล่",
+        "id": "fractured.stat_1086057912",
+        "text": "มิเนียนจะโจมตีมอนสเตอร์ Abyssal แรงขึ้น #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2461965653",
-        "text": "เสริมความเสียหาย ไฟ # ถึง # ให้การโจมตีด้วย ขวาน",
+        "id": "fractured.stat_3212481075",
+        "text": "เสริมความเสียหาย ไฟฟ้า # ถึง # ให้การโจมตีด้วย ไม้พลอง",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1896971621",
+        "text": "เพิ่มความเร็วในการโยนทุ่นระเบิด #%",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_3954157711",
+        "text": "เสริมความเสียหาย กายภาพ # ถึง # ให้กับเวทย์ ขณะถือโล่",
         "type": "fractured"
       },
       {
@@ -19861,8 +19861,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1896971621",
-        "text": "เพิ่มความเร็วในการโยนทุ่นระเบิด #%",
+        "id": "fractured.stat_2461965653",
+        "text": "เสริมความเสียหาย ไฟ # ถึง # ให้การโจมตีด้วย ขวาน",
         "type": "fractured"
       },
       {
@@ -19891,8 +19891,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_444174528",
-        "text": "เพิ่มความเสียหาย อาวุธ #% ขณะถืออาวุธคู่",
+        "id": "fractured.stat_1040189894",
+        "text": "เสริมความเสียหาย กายภาพ # ถึง # ให้การโจมตีด้วย ดาบ",
         "type": "fractured"
       },
       {
@@ -19901,13 +19901,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1040189894",
-        "text": "เสริมความเสียหาย กายภาพ # ถึง # ให้การโจมตีด้วย ดาบ",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3166317791",
-        "text": "โอกาส #% ที่จะได้รับ Unholy Might เป็นเวลา 4 วินาทีเมื่อสังหารระยะประชิด",
+        "id": "fractured.stat_444174528",
+        "text": "เพิ่มความเสียหาย อาวุธ #% ขณะถืออาวุธคู่",
         "type": "fractured"
       },
       {
@@ -19926,13 +19921,13 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2806435316",
-        "text": "เพิ่มค่า ความแม่นยำ #% ถ้าไม่ได้สังหารมาเร็วๆนี้",
+        "id": "fractured.stat_3166317791",
+        "text": "โอกาส #% ที่จะได้รับ Unholy Might เป็นเวลา 4 วินาทีเมื่อสังหารระยะประชิด",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_820939409",
-        "text": "ได้รับมานา # ต่อศัตรูที่โดนคุณโจมตี",
+        "id": "fractured.stat_2806435316",
+        "text": "เพิ่มค่า ความแม่นยำ #% ถ้าไม่ได้สังหารมาเร็วๆนี้",
         "type": "fractured"
       },
       {
@@ -19941,13 +19936,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_2810434465",
-        "text": "นำ #% ของความเสียหาย กายภาพ ไปเสริมเป็น ไฟ ถ้าคุณทำคริติคอลเร็วๆนี้",
-        "type": "fractured"
-      },
-      {
-        "id": "fractured.stat_3002506763",
-        "text": "มีโอกาสขัดขวางศัตรู #% หากใช้คาถาโจมตีโดน โดยจะทำให้ศัตรูเดินช้าลง 30%",
+        "id": "fractured.stat_820939409",
+        "text": "ได้รับมานา # ต่อศัตรูที่โดนคุณโจมตี",
         "type": "fractured"
       },
       {
@@ -19956,8 +19946,18 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_69898010",
-        "text": "เสริมความเสียหาย กายภาพ # ถึง # ให้การโจมตีด้วย ไม้พลอง",
+        "id": "fractured.stat_3002506763",
+        "text": "มีโอกาสขัดขวางศัตรู #% หากใช้คาถาโจมตีโดน โดยจะทำให้ศัตรูเดินช้าลง 30%",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_2810434465",
+        "text": "นำ #% ของความเสียหาย กายภาพ ไปเสริมเป็น ไฟ ถ้าคุณทำคริติคอลเร็วๆนี้",
+        "type": "fractured"
+      },
+      {
+        "id": "fractured.stat_1393393937",
+        "text": "เพิ่มความเสียหาย โจมตี #% ขณะถือ โล่",
         "type": "fractured"
       },
       {
@@ -19971,8 +19971,8 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1393393937",
-        "text": "เพิ่มความเสียหาย โจมตี #% ขณะถือ โล่",
+        "id": "fractured.stat_69898010",
+        "text": "เสริมความเสียหาย กายภาพ # ถึง # ให้การโจมตีด้วย ไม้พลอง",
         "type": "fractured"
       },
       {
@@ -20001,6 +20001,11 @@
         "type": "fractured"
       },
       {
+        "id": "fractured.stat_280213220",
+        "text": "มีโอกาสยั่วยุศัตรู #%",
+        "type": "fractured"
+      },
+      {
         "id": "fractured.stat_3586984690",
         "text": "เพิ่มความเสียหายด้วย มีด #%",
         "type": "fractured"
@@ -20011,23 +20016,18 @@
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_280213220",
-        "text": "มีโอกาสยั่วยุศัตรู #%",
-        "type": "fractured"
-      },
-      {
         "id": "fractured.stat_828179689",
         "text": "เพิ่มผลสถานะ หนาวเย็น #%",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_635761691",
-        "text": "เพิ่มความเสียหาย กายภาพ ด้วย กรงเล็บ #%",
+        "id": "fractured.stat_1181129483",
+        "text": "เสริมความเสียหาย เคออส # ถึง # ให้กับเวท ขณะถือโล่",
         "type": "fractured"
       },
       {
-        "id": "fractured.stat_1181129483",
-        "text": "เสริมความเสียหาย เคออส # ถึง # ให้กับเวท ขณะถือโล่",
+        "id": "fractured.stat_635761691",
+        "text": "เพิ่มความเสียหาย กายภาพ ด้วย กรงเล็บ #%",
         "type": "fractured"
       },
       {
@@ -22653,13 +22653,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1151217691",
-        "text": "Elemental Hit เพิ่มความเร็วในการโจมตี #%",
+        "id": "enchant.stat_3655654928",
+        "text": "Desecrate จะเสกศพเพิ่มอีก # ศพ",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3655654928",
-        "text": "Desecrate จะเสกศพเพิ่มอีก # ศพ",
+        "id": "enchant.stat_1151217691",
+        "text": "Elemental Hit เพิ่มความเร็วในการโจมตี #%",
         "type": "enchant"
       },
       {
@@ -22748,13 +22748,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3229580299",
-        "text": "นำ #% ของความเสียหาย กายภาพ ของ Burning Arrow ไปเสริมเป็น ไฟ",
+        "id": "enchant.stat_1697080607",
+        "text": "เพิ่มความเสียหาย Earthquake #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1697080607",
-        "text": "เพิ่มความเสียหาย Earthquake #%",
+        "id": "enchant.stat_3229580299",
+        "text": "นำ #% ของความเสียหาย กายภาพ ของ Burning Arrow ไปเสริมเป็น ไฟ",
         "type": "enchant"
       },
       {
@@ -22823,13 +22823,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2284801675",
-        "text": "เพิ่มการแสดงผลของ Buff มากขึ้นจาก Stone Golem ของคุณ #%",
+        "id": "enchant.stat_2583039202",
+        "text": "Blade Vortex มี ตัวคูณคริติคอล #% ต่อมีดหนึ่งเล่ม",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2583039202",
-        "text": "Blade Vortex มี ตัวคูณคริติคอล #% ต่อมีดหนึ่งเล่ม",
+        "id": "enchant.stat_2284801675",
+        "text": "เพิ่มการแสดงผลของ Buff มากขึ้นจาก Stone Golem ของคุณ #%",
         "type": "enchant"
       },
       {
@@ -23063,6 +23063,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_3948894096",
+        "text": "เพิ่มความเสียหาย Shock Nova #%",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_494477497",
         "text": "มีโอกาสติด Commandment of War #% ถ้าฆ่าศัตรูได้",
         "type": "enchant"
@@ -23123,13 +23128,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1106926438",
-        "text": "มีโอกาสติด Decree of War #% ถ้าฆ่าศัตรูได้",
+        "id": "enchant.stat_3359777583",
+        "text": "เพิ่มความเสียหาย Storm Call #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3359777583",
-        "text": "เพิ่มความเสียหาย Storm Call #%",
+        "id": "enchant.stat_1106926438",
+        "text": "มีโอกาสติด Decree of War #% ถ้าฆ่าศัตรูได้",
         "type": "enchant"
       },
       {
@@ -23148,13 +23153,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3053448465",
-        "text": "เพิ่มโอกาสคริติคอล Flameblast #%",
+        "id": "enchant.stat_4033078288",
+        "text": "เพิ่มความเสียหาย Sunder #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_4033078288",
-        "text": "เพิ่มความเสียหาย Sunder #%",
+        "id": "enchant.stat_3053448465",
+        "text": "เพิ่มโอกาสคริติคอล Flameblast #%",
         "type": "enchant"
       },
       {
@@ -23408,13 +23413,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1268512925",
-        "text": "มีโอกาสร่าย Decree of Frost #% ถ้าฆ่าศัตรูได้",
+        "id": "enchant.stat_68809719",
+        "text": "เพิ่มพื้นที่ส่งผลของ Ice Nova ขึ้น #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_68809719",
-        "text": "เพิ่มพื้นที่ส่งผลของ Ice Nova ขึ้น #%",
+        "id": "enchant.stat_1268512925",
+        "text": "มีโอกาสร่าย Decree of Frost #% ถ้าฆ่าศัตรูได้",
         "type": "enchant"
       },
       {
@@ -23438,13 +23443,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_478612089",
-        "text": "ลดมานาสำรอง ของ Zealotry #%",
+        "id": "enchant.stat_3078026860",
+        "text": "Explosive Trap มีระเบิดย่อยอีกลูก",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3078026860",
-        "text": "Explosive Trap มีระเบิดย่อยอีกลูก",
+        "id": "enchant.stat_478612089",
+        "text": "ลดมานาสำรอง ของ Zealotry #%",
         "type": "enchant"
       },
       {
@@ -23738,13 +23743,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1007135105",
-        "text": "เพิ่มความเสียหาย Kinetic Blast #%",
+        "id": "enchant.stat_345703394",
+        "text": "เพิ่มความเสียหาย เผาไหม้ ของ Fire Trap #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_345703394",
-        "text": "เพิ่มความเสียหาย เผาไหม้ ของ Fire Trap #%",
+        "id": "enchant.stat_1007135105",
+        "text": "เพิ่มความเสียหาย Kinetic Blast #%",
         "type": "enchant"
       },
       {
@@ -23768,13 +23773,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1171483499",
-        "text": "เพิ่มความเสียหายของ Stone Golems #%",
+        "id": "enchant.stat_944311193",
+        "text": "เพิ่มความเสียหายของ Purifying Flame #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_944311193",
-        "text": "เพิ่มความเสียหายของ Purifying Flame #%",
+        "id": "enchant.stat_1171483499",
+        "text": "เพิ่มความเสียหายของ Stone Golems #%",
         "type": "enchant"
       },
       {
@@ -23788,13 +23793,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2070247068",
-        "text": "เพิ่มพื้นที่ส่งผลของ Storm Call ขึ้น #%",
+        "id": "enchant.stat_3490662882",
+        "text": "เพิ่มความเสียหาย Shield Charge #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3490662882",
-        "text": "เพิ่มความเสียหาย Shield Charge #%",
+        "id": "enchant.stat_2070247068",
+        "text": "เพิ่มพื้นที่ส่งผลของ Storm Call ขึ้น #%",
         "type": "enchant"
       },
       {
@@ -23863,8 +23868,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_340193547",
-        "text": "เพิ่มพื้นที่ส่งผลของ Tectonic Slam ขึ้น #%",
+        "id": "enchant.stat_3734339018",
+        "text": "จำนวน Stage สูงสุดของ Winter Orb +#",
         "type": "enchant"
       },
       {
@@ -23873,8 +23878,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3734339018",
-        "text": "จำนวน Stage สูงสุดของ Winter Orb +#",
+        "id": "enchant.stat_340193547",
+        "text": "เพิ่มพื้นที่ส่งผลของ Tectonic Slam ขึ้น #%",
         "type": "enchant"
       },
       {
@@ -23898,11 +23903,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2834109076",
-        "text": "เพิ่มความเสียหาย Freezebolt Towers ของคุณ #%",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_780453137",
         "text": "เพิ่มความเสียหาย Abyssal Cry #%",
         "type": "enchant"
@@ -23910,6 +23910,11 @@
       {
         "id": "enchant.stat_2054059315",
         "text": "เพิ่ม Buff ผลของ Convocation #%",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2834109076",
+        "text": "เพิ่มความเสียหาย Freezebolt Towers ของคุณ #%",
         "type": "enchant"
       },
       {
@@ -24008,13 +24013,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3698446010",
-        "text": "Ice Trap เจาะต้านทาน น้ำแข็ง #%",
+        "id": "enchant.stat_3901016205",
+        "text": "เพิ่มความเสียหายของ Smite #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3901016205",
-        "text": "เพิ่มความเสียหายของ Smite #%",
+        "id": "enchant.stat_3698446010",
+        "text": "Ice Trap เจาะต้านทาน น้ำแข็ง #%",
         "type": "enchant"
       },
       {
@@ -24133,13 +24138,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_303359279",
-        "text": "Soulrend ทำให้ศัตรูติดสถานะ ถูกขัดขวาง ซึงจะเพิ่มความเร็วในการเคลื่อนที่ #%",
+        "id": "enchant.stat_1447427508",
+        "text": "เพิ่มความเร็วในการฟื้นฟูคูลดาวน์ของ Vengeance #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1447427508",
-        "text": "เพิ่มความเร็วในการฟื้นฟูคูลดาวน์ของ Vengeance #%",
+        "id": "enchant.stat_303359279",
+        "text": "Soulrend ทำให้ศัตรูติดสถานะ ถูกขัดขวาง ซึงจะเพิ่มความเร็วในการเคลื่อนที่ #%",
         "type": "enchant"
       },
       {
@@ -24208,13 +24213,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2844206732",
-        "text": "เพิ่มการแสดงผลคำสาบ Punishment #%",
+        "id": "enchant.stat_1152784934",
+        "text": "เพิ่มความเสียหายของ Holy Relics #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1152784934",
-        "text": "เพิ่มความเสียหายของ Holy Relics #%",
+        "id": "enchant.stat_2844206732",
+        "text": "เพิ่มการแสดงผลคำสาบ Punishment #%",
         "type": "enchant"
       },
       {
@@ -24308,13 +24313,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1255310381",
-        "text": "เพิ่มความเสียหาย Frenzy ต่อ Frenzy Charge #%",
+        "id": "enchant.stat_4031295671",
+        "text": "เพิ่มพื้นที่ส่งผลของ Infernal Blow ขึ้น #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_4031295671",
-        "text": "เพิ่มพื้นที่ส่งผลของ Infernal Blow ขึ้น #%",
+        "id": "enchant.stat_1255310381",
+        "text": "เพิ่มความเสียหาย Frenzy ต่อ Frenzy Charge #%",
         "type": "enchant"
       },
       {
@@ -24328,13 +24333,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3738339949",
-        "text": "เพิ่มผลของดีบัฟเผาไหม้ของสกิล Burning Arrow #%",
+        "id": "enchant.stat_147952811",
+        "text": "มีโอกาสติด  Commandment of Blades #% ถ้าถูกโจมตีโดน",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_147952811",
-        "text": "มีโอกาสติด  Commandment of Blades #% ถ้าถูกโจมตีโดน",
+        "id": "enchant.stat_3738339949",
+        "text": "เพิ่มผลของดีบัฟเผาไหม้ของสกิล Burning Arrow #%",
         "type": "enchant"
       },
       {
@@ -24378,8 +24383,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1537296847",
-        "text": "ลดมานาสำรอง ของ Flesh and Stone #%",
+        "id": "enchant.stat_2295263113",
+        "text": "เพิ่มพื้นที่ส่งผลของ Vortex ขึ้น #% เมื่อร่ายบน Frostbolt",
         "type": "enchant"
       },
       {
@@ -24388,8 +24393,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2295263113",
-        "text": "เพิ่มพื้นที่ส่งผลของ Vortex ขึ้น #% เมื่อร่ายบน Frostbolt",
+        "id": "enchant.stat_1537296847",
+        "text": "ลดมานาสำรอง ของ Flesh and Stone #%",
         "type": "enchant"
       },
       {
@@ -24398,8 +24403,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2666843091",
-        "text": "มีโอกาสติด Commandment of Force #% ถ้าถูกโจมตีโดน",
+        "id": "enchant.stat_2774873427",
+        "text": "Frostbolt มีโอกาสทำให้ถูกแช่แข็ง #%",
         "type": "enchant"
       },
       {
@@ -24408,18 +24413,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2774873427",
-        "text": "Frostbolt มีโอกาสทำให้ถูกแช่แข็ง #%",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_1575282859",
-        "text": "Flame Golem สร้างความเสียหายเพิ่มขึ้น #%",
+        "id": "enchant.stat_2666843091",
+        "text": "มีโอกาสติด Commandment of Force #% ถ้าถูกโจมตีโดน",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_1694915226",
         "text": "เพิ่มพื้นที่ส่งผลของ Explosive Trap #%",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_1575282859",
+        "text": "Flame Golem สร้างความเสียหายเพิ่มขึ้น #%",
         "type": "enchant"
       },
       {
@@ -24513,8 +24518,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1601558321",
-        "text": "ที่จะ Stone Golem ป้องกันทุกธาตุ #%",
+        "id": "enchant.stat_1213017413",
+        "text": "เพิ่มความเร็วกระสุนของ Shrapnel Ballista #%",
         "type": "enchant"
       },
       {
@@ -24523,8 +24528,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1213017413",
-        "text": "เพิ่มความเร็วกระสุนของ Shrapnel Ballista #%",
+        "id": "enchant.stat_1601558321",
+        "text": "ที่จะ Stone Golem ป้องกันทุกธาตุ #%",
         "type": "enchant"
       },
       {
@@ -24543,13 +24548,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1298820272",
-        "text": "ที่จะ Flame Golem ป้องกันทุกธาตุ #%",
+        "id": "enchant.stat_2520825974",
+        "text": "ที่จะ Ice Golem ป้องกันทุกธาตุ #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2520825974",
-        "text": "ที่จะ Ice Golem ป้องกันทุกธาตุ #%",
+        "id": "enchant.stat_1298820272",
+        "text": "ที่จะ Flame Golem ป้องกันทุกธาตุ #%",
         "type": "enchant"
       },
       {
@@ -24570,11 +24575,6 @@
       {
         "id": "enchant.stat_3317752680",
         "text": "เพิ่มแรงดูดพลังให้กับ Devouring Totem #%",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3948894096",
-        "text": "เพิ่มความเสียหาย Shock Nova #%",
         "type": "enchant"
       },
       {
@@ -24603,13 +24603,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2556095677",
-        "text": "เพิ่มระยะเวลาของ Phase Run #%",
+        "id": "enchant.stat_2287986752",
+        "text": "เพิ่มความเร็วในการฟื้นฟูคูลดาวน์ของ Riposte #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2287986752",
-        "text": "เพิ่มความเร็วในการฟื้นฟูคูลดาวน์ของ Riposte #%",
+        "id": "enchant.stat_2556095677",
+        "text": "เพิ่มระยะเวลาของ Phase Run #%",
         "type": "enchant"
       },
       {
@@ -24778,13 +24778,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3367800526",
-        "text": "เพิ่มพื้นที่ส่งผลของ Leap Slam ขึ้น #%",
+        "id": "enchant.stat_2731606134",
+        "text": "เพิ่มความเสียหายของ Perforate #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2731606134",
-        "text": "เพิ่มความเสียหายของ Perforate #%",
+        "id": "enchant.stat_3367800526",
+        "text": "เพิ่มพื้นที่ส่งผลของ Leap Slam ขึ้น #%",
         "type": "enchant"
       },
       {
@@ -24998,13 +24998,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1877863115",
-        "text": "เพิ่มความเสียหาย Bear Trap #%",
+        "id": "enchant.stat_2511915418",
+        "text": "เพิ่มพื้นที่ส่งผลของ Blight ขึ้น #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2511915418",
-        "text": "เพิ่มพื้นที่ส่งผลของ Blight ขึ้น #%",
+        "id": "enchant.stat_1877863115",
+        "text": "เพิ่มความเสียหาย Bear Trap #%",
         "type": "enchant"
       },
       {
@@ -25188,13 +25188,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3953599026",
-        "text": "เพิ่มความเสียหาย Unearth #%",
+        "id": "enchant.stat_1631824124",
+        "text": "เพิ่มพลังชีวิตให้กับ Decoy Totem #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1631824124",
-        "text": "เพิ่มพลังชีวิตให้กับ Decoy Totem #%",
+        "id": "enchant.stat_3953599026",
+        "text": "เพิ่มความเสียหาย Unearth #%",
         "type": "enchant"
       },
       {
@@ -25383,6 +25383,11 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2454791895",
+        "text": "เพิ่มระยะ Glacial Cage Towers ของคุณ #%",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2423221070",
         "text": "เพิ่มความเสียหาย Ice Spear #%",
         "type": "enchant"
@@ -25458,11 +25463,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2454791895",
-        "text": "เพิ่มระยะ Glacial Cage Towers ของคุณ #%",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_4040760803",
         "text": "เพิ่มความเสียหายของ Sentinels of Dominance #%",
         "type": "enchant"
@@ -25508,13 +25508,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2013536039",
-        "text": "เพิ่มความเสียหาย #% ให้มิเนียนที่ถูกอัญเชิญจาก Sentinel Towers ของคุณ",
+        "id": "enchant.stat_1572544406",
+        "text": "เพิ่มระยะ Arc Towers ของคุณ #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1572544406",
-        "text": "เพิ่มระยะ Arc Towers ของคุณ #%",
+        "id": "enchant.stat_2013536039",
+        "text": "เพิ่มความเสียหาย #% ให้มิเนียนที่ถูกอัญเชิญจาก Sentinel Towers ของคุณ",
         "type": "enchant"
       },
       {
@@ -27715,13 +27715,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2366645974",
-        "text": "พื้นที่นี้มีกองมอนสเตอร์ที่สร้างความเสียหาย ไฟ เพิ่มอีก # กอง",
+        "id": "enchant.stat_3522828354",
+        "text": "Strongboxes ในพื้นที่มี Magic Rarity จำนวนน้อย",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3522828354",
-        "text": "Strongboxes ในพื้นที่มี Magic Rarity จำนวนน้อย",
+        "id": "enchant.stat_2366645974",
+        "text": "พื้นที่นี้มีกองมอนสเตอร์ที่สร้างความเสียหาย ไฟ เพิ่มอีก # กอง",
         "type": "enchant"
       },
       {
@@ -27755,13 +27755,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2718657160",
-        "text": "เพิ่มผลของออร่าของ Stormblast Mine #%",
+        "id": "enchant.stat_2180286756",
+        "text": "มีโอกาสพบ Breach ในพื้นที่",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2180286756",
-        "text": "มีโอกาสพบ Breach ในพื้นที่",
+        "id": "enchant.stat_2718657160",
+        "text": "เพิ่มผลของออร่าของ Stormblast Mine #%",
         "type": "enchant"
       },
       {
@@ -27805,18 +27805,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1274634881",
-        "text": "พื้นที่มี Resonating Shrine เพิ่มขึ้น # แห่ง",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_1789548201",
         "text": "เพิ่มระยะ Lightning Storm Towers ของคุณ #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2166020726",
-        "text": "Empowering Towers ของคุณจะให้บัฟ เพิ่มความเสียหาย #% ด้วย",
+        "id": "enchant.stat_1274634881",
+        "text": "พื้นที่มี Resonating Shrine เพิ่มขึ้น # แห่ง",
         "type": "enchant"
       },
       {
@@ -27825,8 +27820,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_2166020726",
+        "text": "Empowering Towers ของคุณจะให้บัฟ เพิ่มความเสียหาย #% ด้วย",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2329255938",
         "text": "มอนเตอร์ Nemesis ดรอปจำนวนของ Currency เพิ่มขึ้น #",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_4008016019",
+        "text": "วาร์ปของ Beyond มีโอกาส #% ที่จะเสกปีศาจจาก Beyond เพิ่มอีกหนึ่งตน",
         "type": "enchant"
       },
       {
@@ -27837,11 +27842,6 @@
       {
         "id": "enchant.stat_2410117075",
         "text": "เพิ่มระยะ Seismic Towers ของคุณ #%",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_4008016019",
-        "text": "วาร์ปของ Beyond มีโอกาส #% ที่จะเสกปีศาจจาก Beyond เพิ่มอีกหนึ่งตน",
         "type": "enchant"
       },
       {
@@ -27950,11 +27950,6 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1207515735",
-        "text": "พื้นที่มีจำนวน Clusters of Mysterious Barrels เพิ่มขึ้น #",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2685482716",
         "text": "Fireball Towers ของคุณจะยิงกระสุนออกรอบทิศทาง",
         "type": "enchant"
@@ -27965,13 +27960,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_1207515735",
+        "text": "พื้นที่มีจำนวน Clusters of Mysterious Barrels เพิ่มขึ้น #",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_2242331554",
         "text": "Shock Nova Towers ของคุณจะสร้างความเสียหายต่อศัตรูประเภท ไฟฟ้า เต็มจำนวน",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_4006050359",
-        "text": "Volatile Dead จะใช้ดูดกลืนศพเพิ่ม 1 ศพ",
+        "id": "enchant.stat_1508220097",
+        "text": "บอสยูนิคดรอปเศษชิ้นส่วนเคอเรนซี่เพิ่มขึ้น",
         "type": "enchant"
       },
       {
@@ -27980,8 +27980,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1508220097",
-        "text": "บอสยูนิคดรอปเศษชิ้นส่วนเคอเรนซี่เพิ่มขึ้น",
+        "id": "enchant.stat_4006050359",
+        "text": "Volatile Dead จะใช้ดูดกลืนศพเพิ่ม 1 ศพ",
         "type": "enchant"
       },
       {
@@ -27995,13 +27995,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_75100665",
-        "text": "พบเจอไอเทมที่ไม่ได้ถูก Identified ในแผนที่ที่ไม่ได้ถูก Identified",
+        "id": "enchant.stat_2911217910",
+        "text": "เพิ่มระยะ Stone Gaze Cage Towers ของคุณ #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2911217910",
-        "text": "เพิ่มระยะ Stone Gaze Cage Towers ของคุณ #%",
+        "id": "enchant.stat_75100665",
+        "text": "พบเจอไอเทมที่ไม่ได้ถูก Identified ในแผนที่ที่ไม่ได้ถูก Identified",
         "type": "enchant"
       },
       {
@@ -28010,23 +28010,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3651039490",
-        "text": "เพิ่มพลังชีวิต #% ให้มิเนียนที่ถูกอัญเชิญจาก Summoning Towers ของคุณ",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_3340686967",
         "text": "มอนสเตอร์ 3 ตัวแรกที่ถูกสิงมีโอกาส #% ที่จะดรอป แผนที่ เพิ่มอีกหนึ่งชิ้น",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3760667977",
-        "text": "บอสระดับ Unique จะดรอปไอเทมระดับ Unique เพิ่มขึ้น #",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3006815533",
-        "text": "เพิ่มระยะเวลาสถานะ มึนงง ของ Seismic Towers ของคุณ #%",
+        "id": "enchant.stat_3651039490",
+        "text": "เพิ่มพลังชีวิต #% ให้มิเนียนที่ถูกอัญเชิญจาก Summoning Towers ของคุณ",
         "type": "enchant"
       },
       {
@@ -28035,8 +28025,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_118036057",
-        "text": "Smothering Towers ของคุณจะให้บัฟ เพิ่มความเร็วในการเคลื่อนที่ #% ด้วย",
+        "id": "enchant.stat_3006815533",
+        "text": "เพิ่มระยะเวลาสถานะ มึนงง ของ Seismic Towers ของคุณ #%",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3760667977",
+        "text": "บอสระดับ Unique จะดรอปไอเทมระดับ Unique เพิ่มขึ้น #",
         "type": "enchant"
       },
       {
@@ -28045,8 +28040,18 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_118036057",
+        "text": "Smothering Towers ของคุณจะให้บัฟ เพิ่มความเร็วในการเคลื่อนที่ #% ด้วย",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_1378482149",
         "text": "เพิ่มความเร็วในการเคลื่อนที่ #% ให้มิเนียนที่ถูกอัญเชิญจาก Summoning Towers ของคุณ",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_124877078",
+        "text": "Unique Boss สร้างความเสียหายเพิ่มขึ้น #%",
         "type": "enchant"
       },
       {
@@ -28065,18 +28070,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_124877078",
-        "text": "Unique Boss สร้างความเสียหายเพิ่มขึ้น #%",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_6032025",
         "text": "Arc Towers ของคุณ สามารถชิ่งได้เพิ่ม # ครั้ง",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_279246355",
-        "text": "พื้นที่ถูกครอบครองโดย Invasion Boss เพิ่ม # ตัว",
         "type": "enchant"
       },
       {
@@ -28085,18 +28080,23 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_279246355",
+        "text": "พื้นที่ถูกครอบครองโดย Invasion Boss เพิ่ม # ตัว",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_1959522666",
         "text": "ป้อมที่อยู่ในรัศมีของ Empowering Tower ทุกป้อมจะ มีโอกาส #% ที่จะสร้างความเสียหายสองเท่า",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3747734818",
-        "text": "พื้นที่มี Hunted Traitors",
+        "id": "enchant.stat_1282857477",
+        "text": "เพิ่มพลังชีวิต #% ให้มิเนียนที่ถูกอัญเชิญจาก Scout Towers ของคุณ",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1282857477",
-        "text": "เพิ่มพลังชีวิต #% ให้มิเนียนที่ถูกอัญเชิญจาก Scout Towers ของคุณ",
+        "id": "enchant.stat_3747734818",
+        "text": "พื้นที่มี Hunted Traitors",
         "type": "enchant"
       },
       {
@@ -28110,18 +28110,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1480568810",
-        "text": "มอนสเตอร์ 3 ตัวแรกที่ถูกสิงมีโอกาส #% ที่จะดรอป Gilded Scarab เพิ่มอีกหนึ่งชิ้น",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_3798342608",
         "text": "พื้นที่มีจำนวน Clusters of Mysterious Barrels เพิ่มขึ้น #",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3208939528",
-        "text": "เพิ่มความเสียหายต่อการโจมตีศัตรู #%",
         "type": "enchant"
       },
       {
@@ -28130,13 +28120,18 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_373209496",
-        "text": "พื้นที่นี้มี Tormented Heretics เพิ่มอีก # ตน",
+        "id": "enchant.stat_3208939528",
+        "text": "เพิ่มความเสียหายต่อการโจมตีศัตรู #%",
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_4143730600",
-        "text": "Rogue Exiles ดรอปเพชรอีกเม็ด",
+        "id": "enchant.stat_1480568810",
+        "text": "มอนสเตอร์ 3 ตัวแรกที่ถูกสิงมีโอกาส #% ที่จะดรอป Gilded Scarab เพิ่มอีกหนึ่งชิ้น",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_373209496",
+        "text": "พื้นที่นี้มี Tormented Heretics เพิ่มอีก # ตน",
         "type": "enchant"
       },
       {
@@ -28150,8 +28145,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_906446422",
-        "text": "Harbinger จะดรอปชิ้นส่วนเคอเรนซี่เพิ่มขึ้น",
+        "id": "enchant.stat_3550168289",
+        "text": "พื้นที่อยู่ในครอบครองของ Rogue Exile เพิ่มขึ้น # ตัว",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_4143730600",
+        "text": "Rogue Exiles ดรอปเพชรอีกเม็ด",
         "type": "enchant"
       },
       {
@@ -28160,8 +28160,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3550168289",
-        "text": "พื้นที่อยู่ในครอบครองของ Rogue Exile เพิ่มขึ้น # ตัว",
+        "id": "enchant.stat_906446422",
+        "text": "Harbinger จะดรอปชิ้นส่วนเคอเรนซี่เพิ่มขึ้น",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_4024383498",
+        "text": "ผลของ Temporal Towers ของคุณจะเสื่อมเร็วขึ้น #%",
         "type": "enchant"
       },
       {
@@ -28175,18 +28180,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_4024383498",
-        "text": "ผลของ Temporal Towers ของคุณจะเสื่อมเร็วขึ้น #%",
+        "id": "enchant.stat_21144785",
+        "text": "เพิ่มพื้นที่ส่งผลของ Shock Nova Towers ของคุณ #% ทุกครั้งที่มันร่ายซ้ำ",
         "type": "enchant"
       },
       {
         "id": "enchant.stat_3830917556",
         "text": "เพิ่มระยะและความยาวของสกิล Cascade ที่ Seismic Towers ของคุณใช้ #%",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_21144785",
-        "text": "เพิ่มพื้นที่ส่งผลของ Shock Nova Towers ของคุณ #% ทุกครั้งที่มันร่ายซ้ำ",
         "type": "enchant"
       },
       {
@@ -28205,18 +28205,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3352207460",
-        "text": "เพิ่มระยะเวลาหน่วงของ Stone Gaze Towers ของคุณ #%",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_307092526",
-        "text": "Shock Nova Towers ของคุณ ร่ายซ้ำ # ครั้ง",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_3564826949",
         "text": "พื้นที่นี้อาจมี Abyss",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3352207460",
+        "text": "เพิ่มระยะเวลาหน่วงของ Stone Gaze Towers ของคุณ #%",
         "type": "enchant"
       },
       {
@@ -28230,6 +28225,16 @@
         "type": "enchant"
       },
       {
+        "id": "enchant.stat_307092526",
+        "text": "Shock Nova Towers ของคุณ ร่ายซ้ำ # ครั้ง",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2563159607",
+        "text": "Smothering Towers ของคุณจะให้บัฟ เพิ่มความเสียหาย #% ด้วย",
+        "type": "enchant"
+      },
+      {
         "id": "enchant.stat_3094610721",
         "text": "สกิล Cascade ที่ Seismic Towers ของคุณใช้จะเพิ่มจำนวนครั้งขึ้น # ครั้ง",
         "type": "enchant"
@@ -28240,83 +28245,8 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_2563159607",
-        "text": "Smothering Towers ของคุณจะให้บัฟ เพิ่มความเสียหาย #% ด้วย",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3728052911",
-        "text": "พื้นที่นี้มีกองมอนสเตอร์ที่สร้างความเสียหาย เคออส เพิ่มอีก # กอง",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_1463704577",
-        "text": "พื้นที่นี้มี Tormented Graverobbers เพิ่มอีก # ตน",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2392278281",
-        "text": "มอนสเตอร์ 3 ตัวแรกที่ถูกสิงมีโอกาส #% ที่จะดรอป ไอเทมยูนิค เพิ่มอีกหนึ่งชิ้น",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_2862290356",
-        "text": "พื้นที่นี้เป็น Alluring",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_395808938",
-        "text": "พื้นที่นี้มี เอสเซ้น เพิ่มอีก # แห่ง",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3094365680",
-        "text": "พื้นที่นี้มีกองมอนสเตอร์ พิษ เพิ่มอีก # กอง",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3481854423",
-        "text": "ยูนิคบอสจะมาพร้อมกับกลุ่ม Bodyguards",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3137138073",
-        "text": "ขวดยาจะฟื้นฟูพลังชีวิตและมานาทันที",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3045497140",
-        "text": "ไอเทมที่ดรอปจาก มอนสเตอร์วาล์ที่มีมลทิน มีโอกาส #% ที่จะมีมลทิน",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3151377452",
-        "text": "ผู้เล่นไม่ได้รับความเสียหายจากการสะท้อน",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_3416709884",
-        "text": "ผู้เล่นจะได้รับ Vaal Soul เพิ่มอีกดวงเมื่อสังหาร",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_1076056376",
-        "text": "พื้นที่มีโอกาส #% ที่จะมีของขวัญจากราชินีแดงต่อจำนวนชิ้นส่วน Mortal ที่ใช้ไป",
-        "type": "enchant"
-      },
-      {
         "id": "enchant.stat_2400448724",
         "text": "ผู้เล่นและมอนเตอร์เพิ่มความเสียหายสายฟ้า #%",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_728267040",
-        "text": "มีโอกาสพบเจอไอเทม Corrupted ที่ดรอปในพื้นที่นี้ #%",
-        "type": "enchant"
-      },
-      {
-        "id": "enchant.stat_471027242",
-        "text": "Rogue Exiles ได้รับพลังชีวิตเพิ่มขึ้น #%",
         "type": "enchant"
       },
       {
@@ -28330,8 +28260,13 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_1080855680",
-        "text": "เพิ่มความเสียหายของ เอ็กไซล์อันธพาล #%",
+        "id": "enchant.stat_3849821286",
+        "text": "เพิ่มพื้นที่การระเบิดของ Lightning Storm Towers ของคุณ #%",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3094365680",
+        "text": "พื้นที่นี้มีกองมอนสเตอร์ พิษ เพิ่มอีก # กอง",
         "type": "enchant"
       },
       {
@@ -28340,8 +28275,73 @@
         "type": "enchant"
       },
       {
-        "id": "enchant.stat_3849821286",
-        "text": "เพิ่มพื้นที่การระเบิดของ Lightning Storm Towers ของคุณ #%",
+        "id": "enchant.stat_471027242",
+        "text": "Rogue Exiles ได้รับพลังชีวิตเพิ่มขึ้น #%",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3045497140",
+        "text": "ไอเทมที่ดรอปจาก มอนสเตอร์วาล์ที่มีมลทิน มีโอกาส #% ที่จะมีมลทิน",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_395808938",
+        "text": "พื้นที่นี้มี เอสเซ้น เพิ่มอีก # แห่ง",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3151377452",
+        "text": "ผู้เล่นไม่ได้รับความเสียหายจากการสะท้อน",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3137138073",
+        "text": "ขวดยาจะฟื้นฟูพลังชีวิตและมานาทันที",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_1463704577",
+        "text": "พื้นที่นี้มี Tormented Graverobbers เพิ่มอีก # ตน",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3416709884",
+        "text": "ผู้เล่นจะได้รับ Vaal Soul เพิ่มอีกดวงเมื่อสังหาร",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2862290356",
+        "text": "พื้นที่นี้เป็น Alluring",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_728267040",
+        "text": "มีโอกาสพบเจอไอเทม Corrupted ที่ดรอปในพื้นที่นี้ #%",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3728052911",
+        "text": "พื้นที่นี้มีกองมอนสเตอร์ที่สร้างความเสียหาย เคออส เพิ่มอีก # กอง",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_1080855680",
+        "text": "เพิ่มความเสียหายของ เอ็กไซล์อันธพาล #%",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_1076056376",
+        "text": "พื้นที่มีโอกาส #% ที่จะมีของขวัญจากราชินีแดงต่อจำนวนชิ้นส่วน Mortal ที่ใช้ไป",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_2392278281",
+        "text": "มอนสเตอร์ 3 ตัวแรกที่ถูกสิงมีโอกาส #% ที่จะดรอป ไอเทมยูนิค เพิ่มอีกหนึ่งชิ้น",
+        "type": "enchant"
+      },
+      {
+        "id": "enchant.stat_3481854423",
+        "text": "ยูนิคบอสจะมาพร้อมกับกลุ่ม Bodyguards",
         "type": "enchant"
       }
     ]
@@ -29550,13 +29550,13 @@
         "type": "crafted"
       },
       {
-        "id": "crafted.stat_2362265695",
-        "text": "เพิ่มโอกาสไม่ถูก Knockback #%",
+        "id": "crafted.stat_238314698",
+        "text": "การสุ่มม็อดจะไม่ออกม็อดที่ต้องการเลเวลเกิน #",
         "type": "crafted"
       },
       {
-        "id": "crafted.stat_238314698",
-        "text": "การสุ่มม็อดจะไม่ออกม็อดที่ต้องการเลเวลเกิน #",
+        "id": "crafted.stat_2362265695",
+        "text": "เพิ่มโอกาสไม่ถูก Knockback #%",
         "type": "crafted"
       }
     ]
@@ -29880,13 +29880,13 @@
         "type": "monster"
       },
       {
-        "id": "monster.metamorph_reward_map",
-        "text": "Drops a Map Item (×#)",
+        "id": "monster.metamorph_reward_divination_cards",
+        "text": "Drops additional Divination Cards (×#)",
         "type": "monster"
       },
       {
-        "id": "monster.metamorph_reward_divination_cards",
-        "text": "Drops additional Divination Cards (×#)",
+        "id": "monster.metamorph_reward_map",
+        "text": "Drops a Map Item (×#)",
         "type": "monster"
       },
       {
@@ -29965,13 +29965,13 @@
         "type": "monster"
       },
       {
-        "id": "monster.metamorph_reward_elder_weapon",
-        "text": "Drops an Elder Weapon (×#)",
+        "id": "monster.metamorph_reward_breach_splinters",
+        "text": "Drops additional Breach Splinters (×#)",
         "type": "monster"
       },
       {
-        "id": "monster.metamorph_reward_breach_splinters",
-        "text": "Drops additional Breach Splinters (×#)",
+        "id": "monster.metamorph_reward_elder_weapon",
+        "text": "Drops an Elder Weapon (×#)",
         "type": "monster"
       },
       {
