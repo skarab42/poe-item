@@ -4,11 +4,13 @@
   "description": "Path of Exile Item Parser",
   "main": "./src/index.js",
   "scripts": {
-    "start": "budo ./src/index.js --dir ./dist --live --open"
+    "start": "budo ./src/index.js --dir ./dist --live --open",
+    "update:locales": "node ./tools/updateLocales.js"
   },
   "author": "Sébastien Mischler (skarab|Lautr3k)",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.19.2",
     "budo": "^11.6.3"
   }
 }
