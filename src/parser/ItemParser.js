@@ -5,6 +5,10 @@ class ItemParser extends ItemParserBase {
     this.bindModule("isCorrupted", require("./modules/isCorrupted"));
     this.bindModule("isIdentified", require("./modules/isIdentified"));
     this.bindModule("getRarity", require("./modules/getRarity"));
+    this.bindModule("getName", require("./modules/getName"));
+    this.bindModule("getLevel", require("./modules/getLevel"));
+    this.bindModule("getQuality", require("./modules/getQuality"));
+    //this.bindModule("getSockets", require("./modules/getSockets"));
   }
 
   parse() {
