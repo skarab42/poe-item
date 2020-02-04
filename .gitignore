@@ -1,4 +1,6 @@
 node_modules
+tools/locales
+tools/data
 locales
 *_.*
 *_
