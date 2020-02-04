@@ -46,6 +46,10 @@ const i18n = {
     locale = newLocale;
     messages = locales[locale] || {};
     fallback = translate[locale] || {};
+  },
+
+  getLocale() {
+    return locale;
   }
 };
 
