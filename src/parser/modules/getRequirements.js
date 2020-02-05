@@ -8,11 +8,9 @@ module.exports = function getRequirements() {
 
   this.item.requirements = {};
 
-  const lines = block.lines.slice(1).forEach(line => {
+  block.lines.slice(1).forEach(line => {
     const parts = line.toString().split(":");
     const label = this.i18n(`${parts[0]}.prop`);
     this.item.requirements[label] = parseInt(parts[1]);
   });
-
-  console.log(lines);
 };
