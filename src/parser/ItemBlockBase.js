@@ -23,7 +23,11 @@ class ItemBlockBase {
 
     if (matches) {
       value = (matches[2] + "").trim();
-      extra = (matches[1] + "").trim().replace(/^\(|\)$/g, "");
+      extra = undefined;
+
+      if (matches[1]) {
+        extra = matches[1].trim().replace(/^\(|\)$/g, "");
+      }
     }
 
     return { name, propName, value, extra };
