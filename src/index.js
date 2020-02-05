@@ -29,3 +29,6 @@ $input.addEventListener("input", () => {
   localStorage.setItem("PoEItem", $input.value); // DEBUG
   getInputValue();
 });
+
+$input.addEventListener("focus", $input.select);
+$output.addEventListener("focus", $output.select);
