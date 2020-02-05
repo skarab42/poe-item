@@ -25,4 +25,8 @@ function evalFormat(string, key = "__") {
   return new Function(`${string}; return JSON.stringify(${key}, null, "  ")`)();
 }
 
-module.exports = { writeFile, makeDirOnce, format, evalFormat };
+function uniqueFilter(value, index, self) {
+  return self.indexOf(value) === index;
+}
+
+module.exports = { writeFile, makeDirOnce, format, evalFormat, uniqueFilter };

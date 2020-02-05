@@ -45,6 +45,8 @@ locales.forEach(locale => {
       }
     }
 
+    // const subCategories = [];
+
     category.entries.forEach(item => {
       delete item.flags;
       delete item.disc;
@@ -64,8 +66,18 @@ locales.forEach(locale => {
         }
       }
 
+      if (["Accessory", "Armour", "Currency", "Weapon"].includes(usLabel)) {
+        item.subCategory = item.type.split(" ")[0];
+
+        // if (!subCategories.includes(item.subCategory)) {
+        //   subCategories.push(item.subCategory);
+        // }
+      }
+
       items[usLabel].push(item);
     });
+
+    // console.log(usLabel, subCategories);
   });
 
   if (lang !== "us") {

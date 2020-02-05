@@ -25,10 +25,6 @@ async function getTradeDataFile(url, type) {
   return await getFile(`https://${url}/trade/data/${type}`);
 }
 
-function uniqueFilter(value, index, self) {
-  return self.indexOf(value) === index;
-}
-
 async function writeTradeDataFile(lang, url, type) {
   const data = await getTradeDataFile(url, type);
   writeFile(`${outputDir}/${lang}/${type}.json`, format(data.result));
