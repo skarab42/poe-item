@@ -4,7 +4,8 @@
   "description": "Path of Exile Item Parser",
   "main": "./src/index.js",
   "scripts": {
-    "start": "budo ./src/index.js --dir ./dist --live --open",
+    "start": "budo ./src/index.js:bundle.js --dir ./dist --live --open",
+    "bundle": "browserify ./src/index.js > ./dist/bundle.js",
     "update:locales": "node ./tools/updateLocales.js",
     "update:data": "node ./tools/updateData.js"
   },
