@@ -5,6 +5,7 @@ class ItemParser extends ItemParserBase {
     this.bindModule("getRarity", require("./modules/getRarity"));
     this.bindModule("getName", require("./modules/getName"));
     this.bindModule("getType", require("./modules/getType"));
+    this.bindModule("getQuality", require("./modules/getQuality"));
   }
 
   parse() {
