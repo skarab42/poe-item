@@ -1,4 +1,5 @@
 const locales = {
+  us: require("../../locales/us.json"),
   br: require("../../locales/br.json"),
   ru: require("../../locales/ru.json"),
   th: require("../../locales/th.json"),

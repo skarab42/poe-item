@@ -1,6 +1,7 @@
 const escapeRegExp = require("../escapeRegExp");
 const i18n = require("../i18n");
 const categories = {
+  us: require("../../../locales/us/items.json"),
   br: require("../../../locales/br/items.json"),
   ru: require("../../../locales/ru/items.json"),
   th: require("../../../locales/th/items.json"),
