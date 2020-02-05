@@ -17,19 +17,41 @@ header {
   background-color: #ccc;
 }
 
+header .title {
+  padding: 0;
+  margin: 0;
+}
+
+select {
+  font-size: inherit;
+}
+
+.lang-select {
+  padding-left: 25px;
+}
+
+.lang-select select {
+  padding: 4px;
+  border-radius: 4px;
+}
+
 .flex {
   flex: 1;
   display: flex;
 }
 
-.flex.grow-0 {
+.flex > * {
+  flex: 1 1 auto;
+}
+
+.grow-0 {
   flex-grow: 0;
 }
 
-.flex.row {
+.row {
   flex-direction: row;
 }
 
-.flex.col {
+.col {
   flex-direction: column;
 }
