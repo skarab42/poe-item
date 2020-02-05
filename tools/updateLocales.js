@@ -1,49 +1,78 @@
-const { writeFile, makeDirOnce, format, evalFormat } = require("./helpers");
-const { locales } = require("./config");
-const axios = require("axios");
+const { writeFile, makeDirOnce, format } = require("./helpers");
+const { locales, labels } = require("./config");
 
-const outputDir = `${__dirname}/data`;
-const translateUrl = "web.poecdn.com/js/translate";
+const outputDir = `${__dirname}/locales`;
 
 makeDirOnce(outputDir);
 
-async function getFile(url) {
-  console.log("GET:", url);
-  return await axios.get(url).then(response => response.data);
-}
+let totalItems = 0;
 
-async function getTranslateFile(locale) {
-  return await getFile(`https://${translateUrl}.${locale}.js`);
-}
+locales.forEach(locale => {
+  let i18n = {};
+  let lang = locale[0];
+  let items = {};
+  let categories = require(`./data/${lang}/items.json`);
 
-async function writeTranslateFile(lang, locale) {
-  const data = await getTranslateFile(locale);
-  writeFile(`${outputDir}/${lang}/translate.json`, evalFormat(data));
-}
+  categories.forEach((category, labelIndex) => {
+    let usLabel = labels[labelIndex];
 
-async function getTradeDataFile(url, type) {
-  return await getFile(`https://${url}/trade/data/${type}`);
-}
+    if (!usLabel) {
+      usLabel = category.label;
+      console.log(">> WARNING: New label ", usLabel);
+    }
 
-function uniqueFilter(value, index, self) {
-  return self.indexOf(value) === index;
-}
+    items[usLabel] = [];
 
-async function writeTradeDataFile(lang, url, type) {
-  const data = await getTradeDataFile(url, type);
-  writeFile(`${outputDir}/${lang}/${type}.json`, format(data.result));
-}
+    if (lang !== "us") {
+      let translate = require(`./data/${lang}/translate.json`);
+      i18n[usLabel] = translate[usLabel] || "__UNDEFINED__";
+    } else {
+      const count = category.entries.length;
+      console.log(`- ${usLabel} (${count})`);
+      totalItems += count;
+    }
 
-locales.forEach(async item => {
-  const lang = item[0];
-  const locale = item[1];
-  const apiUrl = item[3];
+    function replaceNameType(item, key) {
+      if (!item[key]) {
+        return;
+      }
+
+      let regexp = new RegExp(`(${item[key]})(?: (.*))`);
+      let matches = item.text.match(regexp);
+      if (matches) {
+        let regexp = new RegExp(`${item[key]} ?`);
+        item.text = item.text.replace(regexp, "");
+      }
+    }
+
+    category.entries.forEach(item => {
+      delete item.flags;
+      delete item.disc;
+
+      if (item.type === item.text) {
+        delete item.text;
+      } else {
+        const text = `${item.name} ${item.type}`;
+        if (item.text === text) {
+          delete item.text;
+        } else {
+          replaceNameType(item, "name");
+          replaceNameType(item, "type");
+          if (item.text && item.text[0] === "(") {
+            item.text = item.text.slice(1, -1);
+          }
+        }
+      }
+
+      items[usLabel].push(item);
+    });
+  });
 
   if (lang !== "us") {
-    await writeTranslateFile(lang, locale);
+    writeFile(`${outputDir}/${lang}.json`, format(i18n));
+  } else {
+    console.log(`${totalItems} items found !`);
   }
 
-  await writeTradeDataFile(lang, apiUrl, "items");
-  await writeTradeDataFile(lang, apiUrl, "stats");
-  await writeTradeDataFile(lang, apiUrl, "static");
+  writeFile(`${outputDir}/${lang}/items.json`, format(items));
 });

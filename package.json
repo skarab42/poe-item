@@ -6,7 +6,7 @@
   "scripts": {
     "start": "budo ./src/index.js --dir ./dist --live --open",
     "update:locales": "node ./tools/updateLocales.js",
-    "process:locales": "node ./tools/processLocales.js"
+    "update:data": "node ./tools/updateData.js"
   },
   "author": "Sébastien Mischler (skarab|Lautr3k)",
   "license": "MIT",
