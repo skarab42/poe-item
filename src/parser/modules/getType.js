@@ -18,7 +18,7 @@ function ucFirst(str) {
 function cleanType(self) {
   if (self.item.subCategory) {
     const type = self.item.type.replace(self.item.subCategory, "");
-    self.item.type = ucFirst(type.trim());
+    self.item.type = type.length ? ucFirst(type.trim()) : self.item.subCategory;
   }
 }
 
