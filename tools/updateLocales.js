@@ -8,10 +8,36 @@ makeDirOnce(outputDir);
 let totalItems = 0;
 
 locales.forEach(locale => {
-  let i18n = {};
-  let lang = locale[0];
-  let items = {};
-  let categories = require(`./data/${lang}/items.json`);
+  const i18n = {};
+  const lang = locale[0];
+
+  updateItems(i18n, lang);
+  updateStats(i18n, lang);
+
+  writeFile(`${outputDir}/${lang}.json`, format(i18n));
+});
+
+function updateStats(i18n, lang) {
+  const stats = {};
+  const categories = require(`./data/${lang}/stats.json`);
+
+  categories.forEach(category => {
+    const usLabel = category.entries[0].type;
+    i18n[usLabel] = category.label.toLowerCase();
+    stats[usLabel] = [];
+
+    category.entries.forEach(state => {
+      delete state.type;
+      stats[usLabel].push(state);
+    });
+  });
+
+  writeFile(`${outputDir}/${lang}/stats.json`, format(stats));
+}
+
+function updateItems(i18n, lang) {
+  const items = {};
+  const categories = require(`./data/${lang}/items.json`);
 
   categories.forEach((category, labelIndex) => {
     let usLabel = labels[labelIndex];
@@ -24,7 +50,7 @@ locales.forEach(locale => {
     items[usLabel] = [];
 
     if (lang !== "us") {
-      let translate = require(`./data/${lang}/translate.json`);
+      const translate = require(`./data/${lang}/translate.json`);
       i18n[usLabel] = translate[usLabel] || "__UNDEFINED__";
     } else {
       const count = category.entries.length;
@@ -38,14 +64,13 @@ locales.forEach(locale => {
       }
 
       let regexp = new RegExp(`(${item[key]})(?: (.*))`);
-      let matches = item.text.match(regexp);
+      const matches = item.text.match(regexp);
+
       if (matches) {
-        let regexp = new RegExp(`${item[key]} ?`);
+        regexp = new RegExp(`${item[key]} ?`);
         item.text = item.text.replace(regexp, "");
       }
     }
-
-    // const subCategories = [];
 
     category.entries.forEach(item => {
       delete item.flags;
@@ -68,23 +93,15 @@ locales.forEach(locale => {
 
       if (["Accessory", "Armour", "Currency", "Weapon"].includes(usLabel)) {
         item.subCategory = item.type.split(" ")[0];
-
-        // if (!subCategories.includes(item.subCategory)) {
-        //   subCategories.push(item.subCategory);
-        // }
       }
 
       items[usLabel].push(item);
     });
-
-    // console.log(usLabel, subCategories);
   });
 
-  if (lang !== "us") {
-    writeFile(`${outputDir}/${lang}.json`, format(i18n));
-  } else {
+  if (lang === "us") {
     console.log(`${totalItems} items found !`);
   }
 
   writeFile(`${outputDir}/${lang}/items.json`, format(items));
-});
+}
