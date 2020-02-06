@@ -4,15 +4,6 @@ Path of Exile Item Parser
 
 !!! WIP !!!
 
-## install
+# DEMO/TEST
 
-- Clone the repository
-- Run `yarn install`
-
-## start
-
-`yarn run start`
-
-## buil
-
-`yarn run buil`
+https://lautr3k.github.io/poe-item/dist/
