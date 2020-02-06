@@ -27,10 +27,12 @@ module.exports = function getType() {
   const locale = i18n.getLocale();
   const search = (line && line.toString()) || this.item.name;
 
+  console.log(search);
+
   let categoryFound = null;
 
   Object.entries(categories[locale]).find(([category, items]) => {
-    items.find(item => {
+    return items.find(item => {
       if ([item.name, item.type].includes(search)) {
         this.item.category = this.i18n(category);
         this.item.subCategory = item.subCategory;
@@ -47,6 +49,7 @@ module.exports = function getType() {
         const type = matches[2];
         const subType1 = matches[1];
         const subType2 = matches[3];
+        console.log(item, matches);
         this.item.category = this.i18n(category);
         this.item.subCategory = item.subCategory;
         this.item.type = item.type;
