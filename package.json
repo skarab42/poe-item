@@ -2,17 +2,15 @@
   "name": "poe-item",
   "version": "0.1.0",
   "description": "Path of Exile Item Parser",
-  "main": "./src/index.js",
   "scripts": {
-    "start": "budo ./src/index.js:bundle.js --dir ./dist --live --open",
-    "bundle": "browserify ./src/index.js > ./dist/bundle.js",
-    "update:locales": "node ./tools/updateLocales.js",
-    "update:data": "node ./tools/updateData.js"
+    "demo:start": "budo ./src/demo/index.js --dir ./demo --live",
+    "demo:bundle": "browserify ./src/demo/index.js > ./demo/index.js"
   },
   "author": "Sébastien Mischler (skarab|Lautr3k)",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "axios": "^0.19.2",
+    "browserify": "^16.5.0",
     "budo": "^11.6.3"
   }
 }
