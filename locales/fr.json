@@ -44,6 +44,12 @@
   "One Handed": "à une main",
   "Two Handed": "à deux mains",
 
+  "Weapon Range": "Allonge",
+  "Physical Damage": "Dégâts physiques",
+  "Elemental Damage": "Dégâts élémentaires",
+  "Attacks per Second": "Attaques par seconde",
+  "Critical Strike Chance": "Chances de coup critique",
+
   "Combine this with four other different samples in Tane's Laboratory.": "Mélangez-le avec quatre autres échantillons différents dans le Laboratoire de Tane.",
 
   "Copy/Past your item text from PoE here...": "Copiez/Collez le texte de votre article depuis PoE ici...",
