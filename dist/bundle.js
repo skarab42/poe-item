@@ -50274,10 +50274,10 @@ module.exports={
   "Dex": "Dextérité",
   "Int": "Intelligence",
 
-  "Niveau.prop": "lvl",
-  "For.prop": "str",
-  "Dex.prop": "dex",
-  "Int.prop": "int",
+  "Niveau.prop": "level",
+  "For.prop": "strength",
+  "Dex.prop": "dexterity",
+  "Int.prop": "intelligence",
 
   "Accessory": "Accessoire",
   "Armour": "Armure",
@@ -50295,6 +50295,17 @@ module.exports={
 
   "One Handed": "à une main",
   "Two Handed": "à deux mains",
+
+  "Weapon Range": "Allonge",
+  "Physical Damage": "Dégâts physiques",
+  "Elemental Damage": "Dégâts élémentaires",
+  "Attacks per Second": "Attaques par seconde",
+  "Critical Strike Chance": "Chances de coup critique",
+
+  "Chance to Block": "Chances de blocage",
+  "Armour": "Armure",
+  "Evasion Rating": "Score d'Évasion",
+  "Energy Shield": "Bouclier d'énergie",
 
   "Combine this with four other different samples in Tane's Laboratory.": "Mélangez-le avec quatre autres échantillons différents dans le Laboratoire de Tane.",
 
@@ -116926,9 +116937,9 @@ module.exports={
 },{}],15:[function(require,module,exports){
 module.exports={
   "Level.prop": "level",
-  "Str.prop": "str",
-  "Dex.prop": "dex",
-  "Int.prop": "int"
+  "Str.prop": "strength",
+  "Dex.prop": "dexterity",
+  "Int.prop": "intelligence"
 }
 
 },{}],16:[function(require,module,exports){
@@ -133354,8 +133365,9 @@ class ItemParser extends ItemParserBase {
     this.bindModule("getName", require("./modules/getName"));
     this.bindModule("getType", require("./modules/getType"));
     this.bindModule("getLevel", require("./modules/getLevel"));
-    this.bindModule("getRequirements", require("./modules/getRequirements"));
     this.bindModule("getQuality", require("./modules/getQuality"));
+    this.bindModule("getRequirements", require("./modules/getRequirements"));
+    this.bindModule("getStats", require("./modules/getStats"));
     this.bindModule("getSockets", require("./modules/getSockets"));
 
     this.bindModule("isCorrupted", require("./modules/isCorrupted"));
@@ -133376,7 +133388,7 @@ class ItemParser extends ItemParserBase {
 
 module.exports = ItemParser;
 
-},{"./ItemParserBase":25,"./modules/IsMetamorphSample":28,"./modules/getLevel":29,"./modules/getName":30,"./modules/getQuality":31,"./modules/getRarity":32,"./modules/getRequirements":33,"./modules/getSockets":34,"./modules/getType":35,"./modules/isAbyssal":36,"./modules/isCorrupted":37,"./modules/isUnidentified":38}],25:[function(require,module,exports){
+},{"./ItemParserBase":25,"./modules/IsMetamorphSample":28,"./modules/getLevel":29,"./modules/getName":30,"./modules/getQuality":31,"./modules/getRarity":32,"./modules/getRequirements":33,"./modules/getSockets":34,"./modules/getStats":35,"./modules/getType":36,"./modules/isAbyssal":37,"./modules/isCorrupted":38,"./modules/isUnidentified":39}],25:[function(require,module,exports){
 const i18n = require("./i18n");
 const Item = require("./Item");
 const ItemBlocks = require("./ItemBlocks");
@@ -133479,8 +133491,10 @@ module.exports = function IsMetamorphSample() {
   const search = this.i18n(
     "Combine this with four other different samples in Tane's Laboratory."
   );
-  this.item.IsMetamorphSample =
-    !!this.blocks.lineMatch(escapeRegExp(search)) || undefined;
+
+  if (this.blocks.lineMatch(escapeRegExp(search))) {
+    this.item.IsMetamorphSample = true;
+  }
 };
 
 },{"../escapeRegExp":26}],29:[function(require,module,exports){
@@ -133496,7 +133510,13 @@ module.exports = function getLevel() {
 
 },{}],30:[function(require,module,exports){
 module.exports = function getName() {
-  const name = this.blocks.block(1).line(2);
+  const block = this.blocks.block(1);
+
+  if (!block) {
+    this.unableToFindItemProp("Name");
+  }
+
+  const name = block.line(2);
 
   if (!name) {
     this.unableToFindItemProp("Name");
@@ -133506,29 +133526,51 @@ module.exports = function getName() {
 };
 
 },{}],31:[function(require,module,exports){
+const removeParentheses = require("../removeParentheses");
+
 module.exports = function getQuality() {
-  const quality = this.blocks.block(2).prop("Quality");
+  const block = this.blocks.block(2);
+
+  if (!block) {
+    return null;
+  }
+
+  const quality = block.prop("Quality");
 
   if (!quality.value) {
     return null;
   }
 
   let parts = quality.value.split(" ");
-  let augmented = parts[1].replace(/^\(|\)$/g, "");
+  let value = parts.shift();
+  let type = parts.shift();
+
+  if (type) {
+    type = removeParentheses(type);
+  }
 
   this.item.quality = {
-    value: parseInt(parts[0]),
-    [`${augmented}`]: !!parts[1],
-    source: quality.extra
+    value: parseInt(value),
+    source: quality.extra,
+    type
   };
 };
 
-},{}],32:[function(require,module,exports){
+},{"../removeParentheses":40}],32:[function(require,module,exports){
 module.exports = function getRarity() {
-  const rarity = this.blocks
-    .block(1)
-    .line(1)
-    .prop("Rarity");
+  const block = this.blocks.block(1);
+
+  if (!block) {
+    this.unableToFindItemProp("Rarity");
+  }
+
+  const line = block.line(1);
+
+  if (!line) {
+    this.unableToFindItemProp("Rarity");
+  }
+
+  const rarity = line.prop("Rarity");
 
   if (!rarity.value) {
     this.unableToFindItemProp("Rarity");
@@ -133540,9 +133582,14 @@ module.exports = function getRarity() {
 },{}],33:[function(require,module,exports){
 module.exports = function getRequirements() {
   const block = this.blocks.block(3);
-  const firstLine = block.line(1).toString();
 
-  if (!firstLine.match(this.i18n("Requirements"))) {
+  if (!block) {
+    return null;
+  }
+
+  const firstLine = block.line(1);
+
+  if (!firstLine || !firstLine.toString().match(this.i18n("Requirements"))) {
     return null;
   }
 
@@ -133597,6 +133644,111 @@ module.exports = function getSockets() {
 };
 
 },{}],35:[function(require,module,exports){
+const removeParentheses = require("../removeParentheses");
+
+const numberPattern = "[0-9]+(?:\\.[0-9]+)?";
+const typePattern = "\\([^\\)]+\\)";
+const numberRegExp = new RegExp(
+  `^(${numberPattern})(%)?(?: (${typePattern}))?$`
+);
+
+function getRange(line) {
+  let subParts = line.trim().split(" ");
+  let minMax = subParts[0].split("-");
+  let type = subParts[1];
+
+  if (type) {
+    type = removeParentheses(type);
+  }
+
+  return {
+    min: parseInt(minMax[0]),
+    max: parseInt(minMax[1]),
+    unit: "integer",
+    type
+  };
+}
+
+function camelize(string) {
+  return string
+    .toLowerCase()
+    .split(" ")
+    .map((word, i) => {
+      return i ? word[0].toUpperCase() + word.slice(1) : word;
+    })
+    .join("");
+}
+
+function getState(self, block, label) {
+  const prop = block.prop(label);
+
+  if (!prop.value) {
+    return null;
+  }
+
+  if (!self.item.stats) {
+    self.item.stats = {};
+  }
+
+  const propName = camelize(prop.name); // prop.name.toLowerCase().replace(/ +/g, "-");
+  const matches = prop.value.match(numberRegExp);
+
+  if (matches) {
+    const value = parseFloat(matches[1]);
+    const unit = matches[2] ? "percent" : "float";
+    let type = matches[3];
+
+    if (type) {
+      type = removeParentheses(type);
+    }
+
+    self.item.stats[propName] = { value, unit, type };
+
+    return null;
+  }
+
+  const parts = prop.value.split(",");
+
+  if (parts.length === 1) {
+    self.item.stats[propName] = getRange(parts[0]);
+  } else {
+    self.item.stats[propName] = [];
+
+    parts.forEach(part => {
+      const state = getRange(part);
+      self.item.stats[propName].push(state);
+    });
+  }
+}
+
+module.exports = function getStats() {
+  const block = this.blocks.block(2);
+
+  if (!block) {
+    return null;
+  }
+
+  // Weapons
+  if (this.item.category === this.i18n("Weapon")) {
+    getState(this, block, "Weapon Range");
+    getState(this, block, "Physical Damage");
+    getState(this, block, "Elemental Damage");
+    getState(this, block, "Attacks per Second");
+    getState(this, block, "Critical Strike Chance");
+    return null;
+  }
+
+  // Armour
+  if (this.item.category === this.i18n("Armour")) {
+    getState(this, block, "Armour");
+    getState(this, block, "Energy Shield");
+    getState(this, block, "Evasion Rating");
+    getState(this, block, "Chance to Block");
+    return null;
+  }
+};
+
+},{"../removeParentheses":40}],36:[function(require,module,exports){
 const escapeRegExp = require("../escapeRegExp");
 const i18n = require("../i18n");
 const categories = {
@@ -133617,16 +133769,25 @@ function ucFirst(str) {
 function cleanType(self) {
   if (self.item.subCategory) {
     const type = self.item.type.replace(self.item.subCategory, "");
-    self.item.type = ucFirst(type.trim());
+    self.item.type = type.length ? ucFirst(type.trim()) : self.item.subCategory;
   }
 }
 
 module.exports = function getType() {
-  const line = this.blocks.block(1).line(3);
+  const block = this.blocks.block(1);
+
+  if (!block) {
+    return null;
+  }
+
+  const line = block.line(3);
+
+  if (!line) {
+    return null;
+  }
+
   const locale = i18n.getLocale();
   const search = (line && line.toString()) || this.item.name;
-
-  console.log(search);
 
   let categoryFound = null;
 
@@ -133648,7 +133809,6 @@ module.exports = function getType() {
         const type = matches[2];
         const subType1 = matches[1];
         const subType2 = matches[3];
-        console.log(item, matches);
         this.item.category = this.i18n(category);
         this.item.subCategory = item.subCategory;
         this.item.type = item.type;
@@ -133661,30 +133821,48 @@ module.exports = function getType() {
   });
 
   if (categoryFound === "Weapon") {
-    const weapon = this.blocks.block(2).line(1);
-    this.item.hands = weapon.match(this.i18n("Two Handed")) ? 2 : 1;
+    const block2 = this.blocks.block(2);
+
+    if (!block2) {
+      return null;
+    }
+
+    const weapon = block2.line(1);
+
+    if (weapon) {
+      this.item.hands = weapon.match(this.i18n("Two Handed")) ? 2 : 1;
+    }
   }
 };
 
-},{"../../../locales/br/items.json":2,"../../../locales/de/items.json":4,"../../../locales/es/items.json":6,"../../../locales/fr/items.json":8,"../../../locales/kr/items.json":10,"../../../locales/ru/items.json":12,"../../../locales/th/items.json":14,"../../../locales/us/items.json":16,"../escapeRegExp":26,"../i18n":27}],36:[function(require,module,exports){
+},{"../../../locales/br/items.json":2,"../../../locales/de/items.json":4,"../../../locales/es/items.json":6,"../../../locales/fr/items.json":8,"../../../locales/kr/items.json":10,"../../../locales/ru/items.json":12,"../../../locales/th/items.json":14,"../../../locales/us/items.json":16,"../escapeRegExp":26,"../i18n":27}],37:[function(require,module,exports){
 module.exports = function isAbyssal() {
-  this.item.isAbyssal =
-    !!this.blocks
-      .block(2)
-      .line(1)
-      .lineMatch(this.i18n("Abyss")) || undefined;
-};
+  const block = this.blocks.block(2);
+  const line = block && block.line(1);
+  const pattern = this.i18n("Abyss");
 
-},{}],37:[function(require,module,exports){
-module.exports = function isCorrupted() {
-  this.item.isCorrupted =
-    !!this.blocks.lineMatch(this.i18n("Corrupted")) || undefined;
+  if (line && line.lineMatch(pattern)) {
+    this.item.isAbyssal = true;
+  }
 };
 
 },{}],38:[function(require,module,exports){
+module.exports = function isCorrupted() {
+  if (this.blocks.lineMatch(this.i18n("Corrupted"))) {
+    this.item.isCorrupted = true;
+  }
+};
+
+},{}],39:[function(require,module,exports){
 module.exports = function isUnidentified() {
-  this.item.isUnidentified =
-    !!this.blocks.lineMatch(this.i18n("Unidentified")) || undefined;
+  if (this.blocks.lineMatch(this.i18n("Unidentified"))) {
+    this.item.isUnidentified = true;
+  }
+};
+
+},{}],40:[function(require,module,exports){
+module.exports = function removeParentheses(string) {
+  return string.replace(/^ *\(|\) *$/g, "");
 };
 
 },{}]},{},[17]);
