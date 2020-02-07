@@ -87,6 +87,7 @@ module.exports = function getStats() {
     getState(this, block, "Weapon Range");
     getState(this, block, "Physical Damage");
     getState(this, block, "Elemental Damage");
+    getState(this, block, "Chaos Damage");
     getState(this, block, "Attacks per Second");
     getState(this, block, "Critical Strike Chance");
     return null;
