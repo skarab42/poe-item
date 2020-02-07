@@ -1,4 +1,5 @@
 module.exports = function isUnidentified() {
-  this.item.isUnidentified =
-    !!this.blocks.lineMatch(this.i18n("Unidentified")) || undefined;
+  if (this.blocks.lineMatch(this.i18n("Unidentified"))) {
+    this.item.isUnidentified = true;
+  }
 };

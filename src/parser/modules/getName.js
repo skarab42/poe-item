@@ -1,5 +1,11 @@
 module.exports = function getName() {
-  const name = this.blocks.block(1).line(2);
+  const block = this.blocks.block(1);
+
+  if (!block) {
+    this.unableToFindItemProp("Name");
+  }
+
+  const name = block.line(2);
 
   if (!name) {
     this.unableToFindItemProp("Name");

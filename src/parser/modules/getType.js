@@ -23,7 +23,18 @@ function cleanType(self) {
 }
 
 module.exports = function getType() {
-  const line = this.blocks.block(1).line(3);
+  const block = this.blocks.block(1);
+
+  if (!block) {
+    return null;
+  }
+
+  const line = block.line(3);
+
+  if (!line) {
+    return null;
+  }
+
   const locale = i18n.getLocale();
   const search = (line && line.toString()) || this.item.name;
 
@@ -59,7 +70,16 @@ module.exports = function getType() {
   });
 
   if (categoryFound === "Weapon") {
-    const weapon = this.blocks.block(2).line(1);
-    this.item.hands = weapon.match(this.i18n("Two Handed")) ? 2 : 1;
+    const block2 = this.blocks.block(2);
+
+    if (!block2) {
+      return null;
+    }
+
+    const weapon = block2.line(1);
+
+    if (weapon) {
+      this.item.hands = weapon.match(this.i18n("Two Handed")) ? 2 : 1;
+    }
   }
 };

@@ -6,8 +6,8 @@ class ItemParser extends ItemParserBase {
     this.bindModule("getName", require("./modules/getName"));
     this.bindModule("getType", require("./modules/getType"));
     this.bindModule("getLevel", require("./modules/getLevel"));
-    this.bindModule("getRequirements", require("./modules/getRequirements"));
     this.bindModule("getQuality", require("./modules/getQuality"));
+    this.bindModule("getRequirements", require("./modules/getRequirements"));
     this.bindModule("getStats", require("./modules/getStats"));
     this.bindModule("getSockets", require("./modules/getSockets"));
 

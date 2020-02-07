@@ -1,8 +1,13 @@
 module.exports = function getRequirements() {
   const block = this.blocks.block(3);
-  const firstLine = block.line(1).toString();
 
-  if (!firstLine.match(this.i18n("Requirements"))) {
+  if (!block) {
+    return null;
+  }
+
+  const firstLine = block.line(1);
+
+  if (!firstLine || !firstLine.toString().match(this.i18n("Requirements"))) {
     return null;
   }
 

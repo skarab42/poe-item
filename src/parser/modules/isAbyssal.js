@@ -1,7 +1,9 @@
 module.exports = function isAbyssal() {
-  this.item.isAbyssal =
-    !!this.blocks
-      .block(2)
-      .line(1)
-      .lineMatch(this.i18n("Abyss")) || undefined;
+  const block = this.blocks.block(2);
+  const line = block && block.line(1);
+  const pattern = this.i18n("Abyss");
+
+  if (line && line.lineMatch(pattern)) {
+    this.item.isAbyssal = true;
+  }
 };

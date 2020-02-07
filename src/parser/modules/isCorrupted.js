@@ -1,4 +1,5 @@
 module.exports = function isCorrupted() {
-  this.item.isCorrupted =
-    !!this.blocks.lineMatch(this.i18n("Corrupted")) || undefined;
+  if (this.blocks.lineMatch(this.i18n("Corrupted"))) {
+    this.item.isCorrupted = true;
+  }
 };
