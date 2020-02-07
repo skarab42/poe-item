@@ -22,10 +22,10 @@
   "Dex": "Dextérité",
   "Int": "Intelligence",
 
-  "Niveau.prop": "lvl",
-  "For.prop": "str",
-  "Dex.prop": "dex",
-  "Int.prop": "int",
+  "Niveau.prop": "level",
+  "For.prop": "strength",
+  "Dex.prop": "dexterity",
+  "Int.prop": "intelligence",
 
   "Accessory": "Accessoire",
   "Armour": "Armure",
@@ -49,6 +49,11 @@
   "Elemental Damage": "Dégâts élémentaires",
   "Attacks per Second": "Attaques par seconde",
   "Critical Strike Chance": "Chances de coup critique",
+
+  "Chance to Block": "Chances de blocage",
+  "Armour": "Armure",
+  "Evasion Rating": "Score d'Évasion",
+  "Energy Shield": "Bouclier d'énergie",
 
   "Combine this with four other different samples in Tane's Laboratory.": "Mélangez-le avec quatre autres échantillons différents dans le Laboratoire de Tane.",
 

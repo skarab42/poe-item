@@ -23,6 +23,16 @@ function getRange(line) {
   };
 }
 
+function camelize(string) {
+  return string
+    .toLowerCase()
+    .split(" ")
+    .map((word, i) => {
+      return i ? word[0].toUpperCase() + word.slice(1) : word;
+    })
+    .join("");
+}
+
 function getState(self, block, label) {
   const prop = block.prop(label);
 
@@ -34,7 +44,7 @@ function getState(self, block, label) {
     self.item.stats = {};
   }
 
-  const propName = prop.name.toLowerCase().replace(/ +/g, "-");
+  const propName = camelize(prop.name); // prop.name.toLowerCase().replace(/ +/g, "-");
   const matches = prop.value.match(numberRegExp);
 
   if (matches) {
@@ -73,9 +83,21 @@ module.exports = function getStats() {
   }
 
   // Weapons
-  getState(this, block, "Weapon Range");
-  getState(this, block, "Physical Damage");
-  getState(this, block, "Elemental Damage");
-  getState(this, block, "Attacks per Second");
-  getState(this, block, "Critical Strike Chance");
+  if (this.item.category === this.i18n("Weapon")) {
+    getState(this, block, "Weapon Range");
+    getState(this, block, "Physical Damage");
+    getState(this, block, "Elemental Damage");
+    getState(this, block, "Attacks per Second");
+    getState(this, block, "Critical Strike Chance");
+    return null;
+  }
+
+  // Armour
+  if (this.item.category === this.i18n("Armour")) {
+    getState(this, block, "Armour");
+    getState(this, block, "Energy Shield");
+    getState(this, block, "Evasion Rating");
+    getState(this, block, "Chance to Block");
+    return null;
+  }
 };

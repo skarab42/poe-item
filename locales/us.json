@@ -1,6 +1,6 @@
 {
   "Level.prop": "level",
-  "Str.prop": "str",
-  "Dex.prop": "dex",
-  "Int.prop": "int"
+  "Str.prop": "strength",
+  "Dex.prop": "dexterity",
+  "Int.prop": "intelligence"
 }
