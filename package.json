@@ -1,16 +1,53 @@
 {
   "name": "poe-item",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Path of Exile Item Parser",
+  "source": "./src/index.js",
+  "main": "./dist/poe-item.js",
+  "module": "./dist/poe-item.mjs",
+  "unpkg": "./dist/poe-item.umd.js",
   "scripts": {
-    "demo:start": "budo ./src/demo/index.js --dir ./demo --live",
-    "demo:bundle": "browserify ./src/demo/index.js > ./demo/index.js"
+    "build:dist": "microbundle build",
+    "watch:dist": "microbundle watch",
+    "browserify": "browserify -r ./dist/poe-item.js:poe-item -p licensify > ./dist/poe-item.browser.js",
+    "copy:browser": "cp-cli ./dist/poe-item.browser.js ./demo/poe-item.js",
+    "build": "yarn build:dist && yarn browserify && yarn copy:browser",
+    "serv:demo": "budo ./dist/poe-item.js --dir ./demo --live -- -r ./dist/poe-item.js:poe-item",
+    "serv:dev": "yarn watch:dist | yarn serv:demo",
+    "format": "prettier-eslint --write ./src/**/*.js",
+    "lint": "eslint ./src/**/*.js"
   },
+  "homepage": "https://github.com/lautr3k/poe-item",
+  "bugs": {
+    "url": "https://github.com/lautr3k/poe-item/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lautr3k/poe-item.git"
+  },
+  "keywords": [
+    "PoE",
+    "parser",
+    "game",
+    "api"
+  ],
   "author": "Sébastien Mischler (skarab|Lautr3k)",
   "license": "MIT",
   "devDependencies": {
     "axios": "^0.19.2",
+    "babel-eslint": "^10.0.3",
     "browserify": "^16.5.0",
-    "budo": "^11.6.3"
+    "budo": "^11.6.3",
+    "cp-cli": "^2.0.0",
+    "eslint": "^6.5.1",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "licensify": "^3.1.3",
+    "microbundle": "^0.11.0",
+    "prettier": "^1.19.1",
+    "prettier-eslint-cli": "^5.0.0"
+  },
+  "dependencies": {
+    "dot-prop": "^5.2.0"
   }
 }
