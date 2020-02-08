@@ -1,18 +1,7 @@
+import template from "./template";
 import dotProp from "dot-prop";
 
-function template(text, args) {
-  let tag, value;
-
-  Object.keys(args).forEach(arg => {
-    tag = `{{${arg}}}`;
-    value = args[arg] || tag;
-    text = text.replace(tag, value);
-  });
-
-  return text;
-}
-
-class I18n {
+export default class I18n {
   constructor() {
     this.locales = {};
     this.locale = null;
@@ -53,7 +42,6 @@ class I18n {
 }
 
 const i18n = new I18n();
-const __ = i18n.__;
+const __ = (...args) => i18n.__(...args);
 
-export default I18n;
 export { I18n, i18n, __ };

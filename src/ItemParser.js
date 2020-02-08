@@ -1,10 +1,14 @@
-export default class ItemParser {
-  constructor() {
-    console.log("new ItemParser");
+import ItemParserBase from "./ItemParserBase";
+
+export default class ItemParser extends ItemParserBase {
+  init() {
+    console.log("init...");
   }
 
-  parse(item) {
-    console.log("ItemParser.parse", item);
-    return {};
+  parse(raw) {
+    this.setup(raw);
+    this.runAllModules();
+    console.log(this.blocks.prop("Rarity"));
+    return this.item;
   }
 }
