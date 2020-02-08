@@ -1,4 +1,4 @@
-import template from "./template";
+import template from "./helpers/template";
 import dotProp from "dot-prop";
 
 export default class I18n {
