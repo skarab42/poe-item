@@ -37,6 +37,7 @@ locales.forEach(value => {
 
 function setLocale(newLocale) {
   locale = newLocale;
+  $lang.value = locale;
   i18n.setLocale(locale);
   console.log('setLocale:', { locale });
   localStorage.setItem("PoELocale", locale);
@@ -48,12 +49,22 @@ function onLangChange() {
   parseItem($input.value);
 }
 
+function detectItemLocale(item) {
+  if (item.match(/^Rarity/)) {
+    setLocale("us");
+  } else if (item.match(/^Rareté/)) {
+    setLocale("fr");
+  }
+}
+
 // Parse
 function parseItem(item) {
   item = item.trim();
   $input.value = item;
+  $output.value = "";
   localStorage.setItem("PoEItem", item);
   if (!item.length) return;
+  detectItemLocale(item);
   console.log('parseItem:', { item });
   try {
     const data = itemParser.parse(item);
