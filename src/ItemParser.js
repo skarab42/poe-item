@@ -1,14 +1,14 @@
 import ItemParserBase from "./ItemParserBase";
+import modules from "./modules/";
 
 export default class ItemParser extends ItemParserBase {
   init() {
-    console.log("init...");
+    this.bindModules(modules);
   }
 
   parse(raw) {
     this.setup(raw);
     this.runAllModules();
-    console.log(this.blocks.prop("Rarity"));
     return this.item;
   }
 }

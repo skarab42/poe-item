@@ -1,3 +1,5 @@
 {
-  "Rarity": "Rarity"
+  "Rarity": "Rarity",
+
+  "undefinedProp: {{prop}}": "Undefined property: {{prop}}"
 }

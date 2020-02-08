@@ -36,8 +36,16 @@ export default class ItemParserBase {
   }
 
   bindModule(name, callback) {
+    if (this.modulesQueue.includes(name)) {
+      throw new Error(`A module can only be bind once: ${name})`);
+    }
+
     this.modulesQueue.push(name);
     this.modules[name] = callback.bind(this);
+  }
+
+  bindModules(modules) {
+    Object.entries(modules).forEach(module => this.bindModule(...module));
   }
 
   runModule(name) {
@@ -53,11 +61,7 @@ export default class ItemParserBase {
     this.modulesQueue.forEach(name => this.runModule(name));
   }
 
-  // unableToFindItemProp(propName) {
-  //   throw new Error(
-  //     i18n.__('Unable to find item "{{propName}}".', {
-  //       propName: i18n.__(propName)
-  //     })
-  //   );
-  // }
+  undefinedProp(label) {
+    throw new Error(__("undefinedProp: {{prop}}", { prop: __(label) }));
+  }
 }
