@@ -1,5 +1,20 @@
 {
   "Rarity": "Rareté",
+  "Name": "Nom",
+
+  "Accessory": "Accessoire",
+  "Armour": "Armure",
+  "Card": "Cartes divinatoires",
+  "Currency": "Objets monétaires",
+  "Flask": "Flacons",
+  "Gem": "Gemmes",
+  "Jewel": "Joyaux",
+  "Map": "Cartes",
+  "Weapon": "Arme",
+  "Leaguestone": "Pierres de ligue",
+  "Prophecy": "Prophétie",
+  "Itemised Monster": "Monstre",
+  "Watchstone": "Pierre de veille",
 
   "undefinedItemLocale: [{{locales}}]": "Impossible de déterminer la langue de l'objet: [{{locales}}]",
   "undefinedProp: {{prop}}": "Propriété non définie: {{prop}}"

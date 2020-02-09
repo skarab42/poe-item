@@ -1,7 +1,7 @@
 import getLocale from "./getLocale";
 import getRarity from "./getRarity";
 import getName from "./getName";
-// import getType from "./getType";
+import getType from "./getType";
 // import getLevel from "./getLevel";
 // import getQuality from "./getQuality";
 // import getRequirements from "./getRequirements";
@@ -15,8 +15,8 @@ import getName from "./getName";
 export default {
   getLocale,
   getRarity,
-  getName
-  // getType,
+  getName,
+  getType
   // getLevel,
   // getQuality,
   // getRequirements,

@@ -1,5 +1,20 @@
 {
   "Rarity": "Rarity",
+  "Name": "Name",
+
+  "Accessory": "Accessory",
+  "Armour": "Armour",
+  "Card": "Card",
+  "Currency": "Currency",
+  "Flask": "Flask",
+  "Gem": "Gem",
+  "Jewel": "Jewel",
+  "Map": "Map",
+  "Weapon": "Weapon",
+  "Leaguestone": "Leaguestone",
+  "Prophecy": "Prophecy",
+  "Itemised Monster": "Itemised Monster",
+  "Watchstone": "Watchstone",
 
   "undefinedItemLocale: [{{locales}}]": "Unable to determine the item language: [{{locales}}]",
   "undefinedProp: {{prop}}": "Undefined property: {{prop}}"
