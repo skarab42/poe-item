@@ -7,7 +7,7 @@ import getWeapon from "./getWeapon";
 import getQuality from "./getQuality";
 import getRequirements from "./getRequirements";
 // import getStats from "./getStats";
-// import getSockets from "./getSockets";
+import getSockets from "./getSockets";
 // import isCorrupted from "./isCorrupted";
 // import isUnidentified from "./isUnidentified";
 // import isAbyssal from "./isAbyssal";
@@ -21,9 +21,9 @@ export default {
   getType,
   getWeapon,
   getQuality,
-  getRequirements
+  getRequirements,
   // getStats,
-  // getSockets,
+  getSockets
   // isCorrupted,
   // isUnidentified,
   // isAbyssal,
