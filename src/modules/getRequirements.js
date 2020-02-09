@@ -2,7 +2,7 @@ export default function getRequirements() {
   const block = this.blocks.block(3);
   const firstLine = block.line(1);
 
-  if (!firstLine.length || !firstLine.match(`^${this.__("Requirements")}::`)) {
+  if (!firstLine.length || !firstLine.match(`^${this.__("Requirements")}:`)) {
     return null;
   }
 
