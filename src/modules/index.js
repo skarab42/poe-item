@@ -6,6 +6,7 @@ import getType from "./getType";
 import isCorrupted from "./isCorrupted";
 import isUnidentified from "./isUnidentified";
 import isMetamorphSample from "./isMetamorphSample";
+import getUses from "./getUses";
 import getWeapon from "./getWeapon";
 import getQuality from "./getQuality";
 import getRequirements from "./getRequirements";
@@ -21,6 +22,7 @@ export default {
   isCorrupted,
   isUnidentified,
   isMetamorphSample,
+  getUses,
   getWeapon,
   getQuality,
   getRequirements,
