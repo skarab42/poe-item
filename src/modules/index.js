@@ -10,7 +10,7 @@ import getUses from "./getUses";
 import getWeapon from "./getWeapon";
 import getQuality from "./getQuality";
 import getRequirements from "./getRequirements";
-// import getStats from "./getStats";
+import getStats from "./getStats";
 import getSockets from "./getSockets";
 
 export default {
@@ -26,6 +26,6 @@ export default {
   getWeapon,
   getQuality,
   getRequirements,
-  // getStats,
+  getStats,
   getSockets
 };

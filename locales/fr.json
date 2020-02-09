@@ -23,6 +23,22 @@
   "Itemised Monster": "Monstre",
   "Watchstone": "Pierre de veille",
 
+  "Weapon Range": "Allonge",
+  "Physical Damage": "Dégâts physiques",
+  "Elemental Damage": "Dégâts élémentaires",
+  "Attacks per Second": "Attaques par seconde",
+  "Critical Strike Chance": "Chances de coup critique",
+  "Chaos Damage": "Dégâts de chaos",
+
+  "Armour": "Armure",
+  "Chance to Block": "Chances de blocage",
+  "Evasion Rating": "Score d'Évasion",
+  "Energy Shield": "Bouclier d'énergie",
+
+  "regexp": {
+    "elementalDamage": "Ajoute ([0-9]+) à ([0-9]+) Dégâts de (.+)"
+  },
+
   "props": {
     "requirements": {
       "Niveau": "level",
