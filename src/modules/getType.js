@@ -37,7 +37,10 @@ export default function getType() {
       }
 
       // Other
-      const regexp = new RegExp(`(.*)(${escapeRegExp(item.type)})(.*)`, "i");
+      const regexp = new RegExp(
+        `(.*)(${escapeRegExp(item.type)})(?:'s)?(.*)`,
+        "i"
+      );
       const matches = search.match(regexp);
 
       if (matches) {
@@ -52,6 +55,10 @@ export default function getType() {
       }
     });
   });
+
+  if (this.item.subType) {
+    this.item.subType = this.item.subType.replace(/[()]+/g, "").trim();
+  }
 
   if (usCategory) {
     this.item[`is${usCategory.replace(" ", "")}`] = true;
