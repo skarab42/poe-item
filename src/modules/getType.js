@@ -26,11 +26,11 @@ export default function getType() {
 
   Object.entries(categories[locale]).find(([category, items]) => {
     return items.find(item => {
-      // Normal
       if ([item.name, item.type].includes(search)) {
         this.item.category = this.__(category);
         this.item.subCategory = item.subCategory;
         this.item.type = item.type;
+        delete this.item.subType;
         usCategory = category;
         cleanType(this);
         return true;
@@ -49,7 +49,6 @@ export default function getType() {
         this.item.subType = capitalize([subType1, subType2].join("").trim());
         usCategory = category;
         cleanType(this);
-        return true;
       }
     });
   });
