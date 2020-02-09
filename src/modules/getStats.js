@@ -82,7 +82,7 @@ function getElementalDamageTypes(self) {
 
   // console.log(elementalDamage);
   elementalDamage.forEach((damage, i) => {
-    damage.element = matches[i][3];
+    damage.element = matches[i][3].toLowerCase();
   });
 }
 
