@@ -54,6 +54,6 @@ export default function getType() {
   });
 
   if (usCategory) {
-    this.item[`is${usCategory}`] = true;
+    this.item[`is${usCategory.replace(" ", "")}`] = true;
   }
 }
