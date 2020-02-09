@@ -41,7 +41,7 @@ export default class I18n {
 
   __(path, args = {}) {
     const localKey = this.localeKey(path);
-    return template(this.get(localKey, localKey), args);
+    return template(this.get(localKey, path), args);
   }
 }
 
