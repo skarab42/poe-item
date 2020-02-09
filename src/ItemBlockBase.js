@@ -31,7 +31,9 @@ export default class ItemBlockBase {
       return null;
     }
 
-    return { label, usLabel, labelExtra: matches[1], value: matches[2] };
+    let value = matches[2] ? matches[2].trim() : null;
+
+    return { label, usLabel, labelExtra: matches[1], value };
   }
 
   toString() {
