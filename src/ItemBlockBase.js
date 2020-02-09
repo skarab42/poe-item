@@ -5,6 +5,10 @@ export default class ItemBlockBase {
     this.raw = (raw || "").trim();
   }
 
+  get length() {
+    return this.raw.length;
+  }
+
   match(pattern, flags = "gmi") {
     return this.raw.match(new RegExp(pattern, flags)) || null;
   }
