@@ -8,6 +8,10 @@
     }
   },
 
+  "sentences": {
+    "isMetamorphSample": "Combine this with four other different samples in Tane's Laboratory."
+  },
+
   "undefinedItemLocale: [{{locales}}]": "Unable to determine the item language: [{{locales}}]",
   "undefinedProp: {{prop}}": "Undefined property: {{prop}}"
 }

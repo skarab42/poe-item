@@ -4,7 +4,6 @@
   "Item Level": "Niveau de l'objet",
   "Unidentified": "Non identifié",
   "Corrupted": "Corrompu",
-  "Abyss": "Abysse",
   "Quality": "Qualité",
   "Requirements": "Prérequis",
   "Sockets": "Châsses",
@@ -30,6 +29,10 @@
       "Dex": "dexterity",
       "Int": "intelligence"
     }
+  },
+
+  "sentences": {
+    "isMetamorphSample": "Mélangez-le avec quatre autres échantillons différents dans le Laboratoire de Tane."
   },
 
   "undefinedItemLocale: [{{locales}}]": "Impossible de déterminer la langue de l'objet: [{{locales}}]",
