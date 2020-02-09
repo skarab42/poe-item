@@ -1,4 +1,8 @@
 {
+  "regexp": {
+    "elementalDamage": "Adds ([0-9]+) to ([0-9]+) (.+) Damage"
+  },
+
   "props": {
     "requirements": {
       "Level": "level",
