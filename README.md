@@ -6,4 +6,4 @@ Path of Exile Item Parser
 
 # DEMO/TEST
 
-https://lautr3k.github.io/poe-item/dist/
+https://lautr3k.github.io/poe-item/demo/
