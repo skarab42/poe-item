@@ -5,7 +5,7 @@ import getLevel from "./getLevel";
 import getType from "./getType";
 import getWeapon from "./getWeapon";
 import getQuality from "./getQuality";
-// import getRequirements from "./getRequirements";
+import getRequirements from "./getRequirements";
 // import getStats from "./getStats";
 // import getSockets from "./getSockets";
 // import isCorrupted from "./isCorrupted";
@@ -20,8 +20,8 @@ export default {
   getLevel,
   getType,
   getWeapon,
-  getQuality
-  // getRequirements,
+  getQuality,
+  getRequirements
   // getStats,
   // getSockets,
   // isCorrupted,

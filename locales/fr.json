@@ -3,6 +3,7 @@
   "Name": "Nom",
   "Item Level": "Niveau de l'objet",
   "Quality": "Qualité",
+  "Requirements": "Prérequis",
 
   "Accessory": "Accessoire",
   "Armour": "Armure",
@@ -17,6 +18,15 @@
   "Prophecy": "Prophétie",
   "Itemised Monster": "Monstre",
   "Watchstone": "Pierre de veille",
+
+  "props": {
+    "requirements": {
+      "Niveau": "level",
+      "For": "strength",
+      "Dex": "dexterity",
+      "Int": "intelligence"
+    }
+  },
 
   "undefinedItemLocale: [{{locales}}]": "Impossible de déterminer la langue de l'objet: [{{locales}}]",
   "undefinedProp: {{prop}}": "Propriété non définie: {{prop}}"
