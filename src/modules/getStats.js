@@ -80,7 +80,6 @@ function getElementalDamageTypes(self) {
   const regexp = `^${self.__("regexp.elementalDamage")}$`;
   const matches = [...self.blocks.matchAll(regexp)];
 
-  // console.log(elementalDamage);
   elementalDamage.forEach((damage, i) => {
     damage.element = matches[i][3].toLowerCase();
   });
