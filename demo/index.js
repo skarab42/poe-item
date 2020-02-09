@@ -10,52 +10,13 @@ i18n.set("fr.demo.inputPlaceholder", "Copiez/Collez votre article depuis PoE ici
 const $body = document.querySelector("body");
 const $input = document.querySelector("#input");
 const $output = document.querySelector("#output");
-const $lang = document.querySelector("#lang");
 
-$lang.addEventListener("change", onLangChange);
 $input.addEventListener("input", onInputChange);
 $input.addEventListener("focus", $input.select);
 $output.addEventListener("focus", $output.select);
 
 $input.value = localStorage.getItem("PoEItem") || "";
-
-// Languages
-const locales = ["fr", "us"];
-let locale = localStorage.getItem("PoELocale") || i18n.getLocale() || locales[0];
-
-locales.forEach(value => {
-  const $option = document.createElement("option");
-  $option.setAttribute("value", value);
-  $option.innerText = value;
-
-  if (locale === value) {
-    $option.setAttribute("selected", "selected");
-  }
-
-  $lang.appendChild($option);
-});
-
-function setLocale(newLocale) {
-  locale = newLocale;
-  $lang.value = locale;
-  i18n.setLocale(locale);
-  console.log('setLocale:', { locale });
-  localStorage.setItem("PoELocale", locale);
-  $input.setAttribute("placeholder", i18n.__("demo.inputPlaceholder"));
-}
-
-function onLangChange() {
-  setLocale($lang.value);
-  parseItem($input.value);
-}
-
-function detectItemLocale(item) {
-  if (item.match(/^Rarity/)) {
-    setLocale("us");
-  } else if (item.match(/^Rareté/)) {
-    setLocale("fr");
-  }
-}
+$input.setAttribute("placeholder", i18n.__("demo.inputPlaceholder"));
 
 // Parse
 function parseItem(item) {
@@ -64,11 +25,11 @@ function parseItem(item) {
   $output.value = "";
   localStorage.setItem("PoEItem", item);
   if (!item.length) return;
-  detectItemLocale(item);
-  console.log('parseItem:', { item });
   try {
+    console.log('parseItem:', { item });
     const data = itemParser.parse(item);
     $output.value = JSON.stringify(data, null, "  ");
+    $input.setAttribute("placeholder", i18n.__("demo.inputPlaceholder"));
   } catch (error) {
     console.error(error);
     $output.value = error.message;
@@ -79,6 +40,8 @@ function onInputChange() {
   trottle(500, () => parseItem($input.value));
 }
 
+parseItem($input.value);
+
 // Helpers
 let trottleTimeout = null;
 
@@ -86,7 +49,3 @@ function trottle(delay, callback) {
   clearTimeout(trottleTimeout);
   trottleTimeout = setTimeout(callback, delay);
 }
-
-// Init
-setLocale(locale);
-parseItem($input.value);
