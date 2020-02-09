@@ -2,6 +2,7 @@ import getLocale from "./getLocale";
 import getRarity from "./getRarity";
 import getName from "./getName";
 import getType from "./getType";
+import getWeapon from "./getWeapon";
 // import getLevel from "./getLevel";
 // import getQuality from "./getQuality";
 // import getRequirements from "./getRequirements";
@@ -16,7 +17,8 @@ export default {
   getLocale,
   getRarity,
   getName,
-  getType
+  getType,
+  getWeapon
   // getLevel,
   // getQuality,
   // getRequirements,
