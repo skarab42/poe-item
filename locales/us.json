@@ -1,4 +1,13 @@
 {
+  "props": {
+    "requirements": {
+      "Level": "level",
+      "Str": "strength",
+      "Dex": "dexterity",
+      "Int": "intelligence"
+    }
+  },
+
   "undefinedItemLocale: [{{locales}}]": "Unable to determine the item language: [{{locales}}]",
   "undefinedProp: {{prop}}": "Undefined property: {{prop}}"
 }
