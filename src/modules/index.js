@@ -4,7 +4,7 @@ import getName from "./getName";
 import getLevel from "./getLevel";
 import getType from "./getType";
 import getWeapon from "./getWeapon";
-// import getQuality from "./getQuality";
+import getQuality from "./getQuality";
 // import getRequirements from "./getRequirements";
 // import getStats from "./getStats";
 // import getSockets from "./getSockets";
@@ -19,8 +19,8 @@ export default {
   getName,
   getLevel,
   getType,
-  getWeapon
-  // getQuality,
+  getWeapon,
+  getQuality
   // getRequirements,
   // getStats,
   // getSockets,
