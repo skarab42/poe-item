@@ -22,7 +22,7 @@ export default function getType() {
   const line = this.blocks.block(1).line(3);
   const search = (line && line.toString()) || this.item.name;
 
-  const found = Object.entries(categories[locale]).find(([category, items]) => {
+  Object.entries(categories[locale]).find(([category, items]) => {
     return items.find(item => {
       // Normal
       if ([item.name, item.type].includes(search)) {
@@ -49,6 +49,4 @@ export default function getType() {
       }
     });
   });
-
-  console.log(found);
 }
