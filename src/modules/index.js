@@ -1,3 +1,4 @@
+import getLocale from "./getLocale";
 import getRarity from "./getRarity";
 // import getName from "./getName";
 // import getType from "./getType";
@@ -12,6 +13,7 @@ import getRarity from "./getRarity";
 // import isMetamorphSample from "./isMetamorphSample";
 
 export default {
+  getLocale,
   getRarity
   // getName,
   // getType,

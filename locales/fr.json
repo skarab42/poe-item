@@ -1,5 +1,6 @@
 {
   "Rarity": "Rareté",
 
+  "undefinedItemLocale: [{{locales}}]": "Impossible de déterminer la langue de l'objet: [{{locales}}]",
   "undefinedProp: {{prop}}": "Propriété non définie: {{prop}}"
 }

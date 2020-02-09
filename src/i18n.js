@@ -11,12 +11,16 @@ export default class I18n {
     return this.locale;
   }
 
+  getLocales() {
+    return Object.keys(this.locales);
+  }
+
   setLocale(locale) {
     this.locale = locale;
   }
 
   get(path, defaultValue = null) {
-    dotProp.get(this.locales, path, defaultValue);
+    return dotProp.get(this.locales, path, defaultValue);
   }
 
   set(path, value) {
@@ -37,7 +41,7 @@ export default class I18n {
 
   __(path, args = {}) {
     const localKey = this.localeKey(path);
-    return template(dotProp.get(this.locales, localKey, localKey), args);
+    return template(this.get(localKey, localKey), args);
   }
 }
 

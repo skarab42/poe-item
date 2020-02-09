@@ -2,12 +2,6 @@ import { i18n, __ } from "./i18n";
 import ItemBlocks from "./ItemBlocks";
 import Item from "./Item";
 
-import us from "../locales/us.json";
-import fr from "../locales/fr.json";
-
-i18n.set("us", us);
-i18n.set("fr", fr);
-
 export default class ItemParserBase {
   constructor() {
     this.__ = __;
@@ -61,7 +55,11 @@ export default class ItemParserBase {
     this.modulesQueue.forEach(name => this.runModule(name));
   }
 
+  fatalError(message, args = {}) {
+    throw new Error(__(message, args));
+  }
+
   undefinedProp(label) {
-    throw new Error(__("undefinedProp: {{prop}}", { prop: __(label) }));
+    this.fatalError("undefinedProp: {{prop}}", { prop: __(label) });
   }
 }
