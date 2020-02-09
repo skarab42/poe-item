@@ -3,7 +3,7 @@ export default function getLocale() {
   const locales = this.i18n.getLocales();
 
   const found = locales.find(locale => {
-    const rarityLabel = this.i18n.get(`${locale}.Rarity`);
+    const rarityLabel = this.i18n.get(`${locale}.Rarity`, "Rarity");
     const matches = rarityLine.match(`^${rarityLabel}:`);
 
     if (matches) {
