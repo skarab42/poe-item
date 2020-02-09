@@ -24466,83 +24466,83 @@
   "veiled": [
     {
       "id": "veiled.mod_63099",
-      "text": "<if:MS>{du Cryptage}<elif:FS>{du Cryptage}<elif:MP>{du Cryptage}<elif:FP>{du Cryptage}"
+      "text": "du Cryptage"
     },
     {
       "id": "veiled.mod_65000",
-      "text": "<if:MS>{Crypté}<elif:FS>{Cryptée}<elif:MP>{Cryptés}<elif:FP>{Cryptées}"
+      "text": "Crypté"
     },
     {
       "id": "veiled.mod_3258",
-      "text": "<if:MS>{Crypté de Léo}<elif:FS>{Cryptée de Léo}<elif:MP>{Cryptés de Léo}<elif:FP>{Cryptées}"
+      "text": "Crypté de Léo"
     },
     {
       "id": "veiled.mod_65163",
-      "text": "<if:MS>{du Cryptage de Caméria}<elif:FS>{du Cryptage de Caméria}<elif:MP>{du Cryptage de Caméria}<elif:FP>{du Cryptage de Caméria}"
+      "text": "du Cryptage de Caméria"
     },
     {
       "id": "veiled.mod_62955",
-      "text": "<if:MS>{du Cryptage de Jorgin}<elif:FS>{du Cryptage de Jorgin}<elif:MP>{du Cryptage de Jorgin}<elif:FP>{du Cryptage de Jorgin}"
+      "text": "du Cryptage de Jorgin"
     },
     {
       "id": "veiled.mod_48408",
-      "text": "<if:MS>{du Cryptage de Riker}<elif:FS>{du Cryptage de Riker}<elif:MP>{du Cryptage de Riker}<elif:FP>{du Cryptage de Riker}"
+      "text": "du Cryptage de Riker"
     },
     {
       "id": "veiled.mod_63772",
-      "text": "<if:MS>{Crypté de Catarina}<elif:FS>{Cryptée de Catarina}<elif:MP>{Cryptés de Catarina}<elif:FP>{Cryptées de Catarina}"
+      "text": "Crypté de Catarina"
     },
     {
       "id": "veiled.mod_48007",
-      "text": "<if:MS>{du Cryptage d'Aisling}<elif:FS>{du Cryptage d'Aisling}<elif:MP>{du Cryptage d'Aisling}<elif:FP>{du Cryptage d'Aisling}"
+      "text": "du Cryptage d'Aisling"
     },
     {
       "id": "veiled.mod_11536",
-      "text": "<if:MS>{du Cryptage de Janus}<elif:FS>{du Cryptage de Janus}<elif:MP>{du Cryptage de Janus}<elif:FP>{du Cryptage de Janus}"
+      "text": "du Cryptage de Janus"
     },
     {
       "id": "veiled.mod_44855",
-      "text": "<if:MS>{Crypté de Korell}<elif:FS>{Cryptée de Korell}<elif:MP>{Cryptés de Korell}<elif:FP>{Cryptées de Korell}"
+      "text": "Crypté de Korell"
     },
     {
       "id": "veiled.mod_47933",
-      "text": "<if:MS>{Crypté de Vorici}<elif:FS>{Cryptée de Vorici}<elif:MP>{Cryptés de Vorici}<elif:FP>{Cryptées de Vorici}"
+      "text": "Crypté de Vorici"
     },
     {
       "id": "veiled.mod_5769",
-      "text": "<if:MS>{Crypté d'Elréon}<elif:FS>{Cryptée d'Elréon}<elif:MP>{Cryptés d'Elréon}<elif:FP>{Cryptées d'Elréon}"
+      "text": "Crypté d'Elréon"
     },
     {
       "id": "veiled.mod_6779",
-      "text": "<if:MS>{Crypté de Guff}<elif:FS>{Cryptée de Guff}<elif:MP>{Cryptés de Guff}<elif:FP>{Cryptées de Guff}"
+      "text": "Crypté de Guff"
     },
     {
       "id": "veiled.mod_3975",
-      "text": "<if:MS>{du Cryptage d'Hillock}<elif:FS>{du Cryptage d'Hillock}<elif:MP>{du Cryptage d'Hillock}<elif:FP>{du Cryptage d'Hillock}"
+      "text": "du Cryptage d'Hillock"
     },
     {
       "id": "veiled.mod_39023",
-      "text": "<if:MS>{Crypté de Haku}<elif:FS>{Cryptée de Haku}<elif:MP>{Cryptés de Haku}<elif:FP>{Cryptées de Haku}"
+      "text": "Crypté de Haku"
     },
     {
       "id": "veiled.mod_8541",
-      "text": "<if:MS>{Crypté de Tora}<elif:FS>{Cryptée de Tora}<elif:MP>{Cryptés de Tora}<elif:FP>{Cryptées de Tora}"
+      "text": "Crypté de Tora"
     },
     {
       "id": "veiled.mod_6131",
-      "text": "<if:MS>{Crypté de Rin}<elif:FS>{Cryptée de Rin}<elif:MP>{Cryptés de Rin}<elif:FP>{Cryptées de Rin}"
+      "text": "Crypté de Rin"
     },
     {
       "id": "veiled.mod_55787",
-      "text": "<if:MS>{Crypté de La Chose qui a fui}<elif:FS>{Cryptée de La Chose qui a fui}<elif:MP>{Cryptés de La Chose qui a fui}<elif:FP>{Cryptées de La Chose qui a fui}"
+      "text": "Crypté de La Chose qui a fui"
     },
     {
       "id": "veiled.mod_38872",
-      "text": "<if:MS>{Crypté de Gravicius}<elif:FS>{Cryptée de Gravicius}<elif:MP>{Cryptés de Gravicius}<elif:FP>{Cryptées de Gravicius}"
+      "text": "Crypté de Gravicius"
     },
     {
       "id": "veiled.mod_14269",
-      "text": "<if:MS>{Crypté de Vagan}<elif:FS>{Cryptée de Vagan}<elif:MP>{Cryptés de Vagan}<elif:FP>{Cryptées de Vagan}"
+      "text": "Crypté de Vagan"
     }
   ],
   "monster": [

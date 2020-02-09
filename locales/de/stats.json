@@ -24466,83 +24466,83 @@
   "veiled": [
     {
       "id": "veiled.mod_63099",
-      "text": "<if:MS>{der Verhüllung}<elif:FS>{der Verhüllung}<elif:NS>{der Verhüllung}<elif:MP>{der Verhüllung}<elif:FP>{der Verhüllung}<elif:NP>{der Verhüllung}"
+      "text": "der Verhüllung"
     },
     {
       "id": "veiled.mod_65000",
-      "text": "<if:MS>{Verhüllter}<elif:FS>{Verhüllte}<elif:NS>{Verhülltes}<elif:MP>{Verhüllte}<elif:FP>{Verhüllte}<elif:NP>{Verhüllte}"
+      "text": "Verhüllter"
     },
     {
       "id": "veiled.mod_3258",
-      "text": "<if:MS>{Leos verhüllter}<elif:FS>{Leos verhüllte}<elif:NS>{Leos verhülltes}<elif:MP>{Leos verhüllte}<elif:FP>{Leos verhüllte}<elif:NP>{Leos verhüllte}"
+      "text": "Leos verhüllter"
     },
     {
       "id": "veiled.mod_65163",
-      "text": "<if:MS>{von Camerias Verhüllung}<elif:FS>{von Camerias Verhüllung}<elif:NS>{von Camerias Verhüllung}<elif:MP>{von Camerias Verhüllung}<elif:FP>{von Camerias Verhüllung}<elif:NP>{von Camerias Verhüllung}"
+      "text": "von Camerias Verhüllung"
     },
     {
       "id": "veiled.mod_62955",
-      "text": "<if:MS>{von Jorgins Verhüllung}<elif:FS>{von Jorgins Verhüllung}<elif:NS>{von Jorgins Verhüllung}<elif:MP>{von Jorgins Verhüllung}<elif:FP>{von Jorgins Verhüllung}<elif:NP>{von Jorgins Verhüllung}"
+      "text": "von Jorgins Verhüllung"
     },
     {
       "id": "veiled.mod_48408",
-      "text": "<if:MS>{von Rikers Verhüllung}<elif:FS>{von Rikers Verhüllung}<elif:NS>{von Rikers Verhüllung}<elif:MP>{von Rikers Verhüllung}<elif:FP>{von Rikers Verhüllung}<elif:NP>{von Rikers Verhüllung}"
+      "text": "von Rikers Verhüllung"
     },
     {
       "id": "veiled.mod_63772",
-      "text": "<if:MS>{Catarinas verhüllter}<elif:FS>{Catarinas verhüllte}<elif:NS>{Catarinas verhülltes}<elif:MP>{Catarinas verhüllte}<elif:FP>{Catarinas verhüllte}<elif:NP>{Catarinas verhüllte}"
+      "text": "Catarinas verhüllter"
     },
     {
       "id": "veiled.mod_48007",
-      "text": "<if:MS>{von Aislings Verhüllung}<elif:FS>{von Aislings Verhüllung}<elif:NS>{von Aislings Verhüllung}<elif:MP>{von Aislings Verhüllung}<elif:FP>{von Aislings Verhüllung}<elif:NP>{von Aislings Verhüllung}"
+      "text": "von Aislings Verhüllung"
     },
     {
       "id": "veiled.mod_11536",
-      "text": "<if:MS>{von Janus' Verhüllung}<elif:FS>{von Janus' Verhüllung}<elif:NS>{von Janus' Verhüllung}<elif:MP>{von Janus' Verhüllung}<elif:FP>{von Janus' Verhüllung}<elif:NP>{von Janus' Verhüllung}"
+      "text": "von Janus' Verhüllung"
     },
     {
       "id": "veiled.mod_44855",
-      "text": "<if:MS>{Korells verhüllter}<elif:FS>{Korells verhüllte}<elif:NS>{Korells verhülltes}<elif:MP>{Korells verhüllte}<elif:FP>{Korells verhüllte}<elif:NP>{Korells verhüllte}"
+      "text": "Korells verhüllter"
     },
     {
       "id": "veiled.mod_47933",
-      "text": "<if:MS>{Voricis verhüllter}<elif:FS>{Voricis verhüllte}<elif:NS>{Voricis verhülltes}<elif:MP>{Voricis verhüllte}<elif:FP>{Voricis verhüllte}<elif:NP>{Voricis verhüllte}"
+      "text": "Voricis verhüllter"
     },
     {
       "id": "veiled.mod_5769",
-      "text": "<if:MS>{Elreons verhüllter}<elif:FS>{Elreons verhüllte}<elif:NS>{Elreons verhülltes}<elif:MP>{Elreons verhüllte}<elif:FP>{Elreons verhüllte}<elif:NP>{Elreons verhüllte}"
+      "text": "Elreons verhüllter"
     },
     {
       "id": "veiled.mod_6779",
-      "text": "<if:MS>{Guffs verhüllter}<elif:FS>{Guffs verhüllte}<elif:NS>{Guffs verhülltes}<elif:MP>{Guffs verhüllte}<elif:FP>{Guffs verhüllte}<elif:NP>{Guffs verhüllte}"
+      "text": "Guffs verhüllter"
     },
     {
       "id": "veiled.mod_3975",
-      "text": "<if:MS>{von Hillocks Verhüllung}<elif:FS>{von Hillocks Verhüllung}<elif:NS>{von Hillocks Verhüllung}<elif:MP>{von Hillocks Verhüllung}<elif:FP>{von Hillocks Verhüllung}<elif:NP>{von Hillocks Verhüllung}"
+      "text": "von Hillocks Verhüllung"
     },
     {
       "id": "veiled.mod_39023",
-      "text": "<if:MS>{Hakus verhüllter}<elif:FS>{Hakus verhüllte}<elif:NS>{Hakus verhülltes}<elif:MP>{Hakus verhüllte}<elif:FP>{Hakus verhüllte}<elif:NP>{Hakus verhüllte}"
+      "text": "Hakus verhüllter"
     },
     {
       "id": "veiled.mod_8541",
-      "text": "<if:MS>{Toras verhüllter}<elif:FS>{Toras verhüllte}<elif:NS>{Toras verhülltes}<elif:MP>{Toras verhüllte}<elif:FP>{Toras verhüllte}<elif:NP>{Toras verhüllte}"
+      "text": "Toras verhüllter"
     },
     {
       "id": "veiled.mod_6131",
-      "text": "<if:MS>{Rins verhüllter}<elif:FS>{Rins verhüllte}<elif:NS>{Rins verhülltes}<elif:MP>{Rins verhüllte}<elif:FP>{Rins verhüllte}<elif:NP>{Rins verhüllte}"
+      "text": "Rins verhüllter"
     },
     {
       "id": "veiled.mod_55787",
-      "text": "<if:MS>{Von Es, das entkam verhüllter}<elif:FS>{Von Es, das entkam verhüllte}<elif:NS>{Von Es, das entkam verhülltes}<elif:MP>{Von Es, das entkam verhüllte}<elif:FP>{Von Es, das entkam verhüllte}<elif:NP>{Von Es, das entkam verhüllte}"
+      "text": "Von Es, das entkam verhüllter"
     },
     {
       "id": "veiled.mod_38872",
-      "text": "<if:MS>{Gravicius' verhüllter}<elif:FS>{Gravicius' verhüllte}<elif:NS>{Gravicius' verhülltes}<elif:MP>{Gravicius' verhüllte}<elif:FP>{Gravicius' verhüllte}<elif:NP>{Gravicius' verhüllte}"
+      "text": "Gravicius' verhüllter"
     },
     {
       "id": "veiled.mod_14269",
-      "text": "<if:MS>{Vagans verhüllter}<elif:FS>{Vagans verhüllte}<elif:NS>{Vagans verhülltes}<elif:MP>{Vagans verhüllte}<elif:FP>{Vagans verhüllte}<elif:NP>{Vagans verhüllte}"
+      "text": "Vagans verhüllter"
     }
   ],
   "monster": [

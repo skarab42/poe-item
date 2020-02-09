@@ -24470,11 +24470,11 @@
     },
     {
       "id": "veiled.mod_65000",
-      "text": "<if:MS>{Oculto}<elif:FS>{Oculta}<elif:MP>{Ocultos}<elif:FP>{Ocultas}"
+      "text": "Oculto"
     },
     {
       "id": "veiled.mod_3258",
-      "text": "<if:MS>{Ocultado por Leo}<elif:FS>{Ocultada por Leo}<elif:MP>{Ocultados por Leo}<elif:FP>{Ocultadas por Leo}"
+      "text": "Ocultado por Leo"
     },
     {
       "id": "veiled.mod_65163",
@@ -24490,7 +24490,7 @@
     },
     {
       "id": "veiled.mod_63772",
-      "text": "<if:MS>{Ocultado por Catarina}<elif:FS>{Ocultada por Catarina}<elif:MP>{Ocultados por Catarina}<elif:FP>{Ocultadas por Catarina}"
+      "text": "Ocultado por Catarina"
     },
     {
       "id": "veiled.mod_48007",
@@ -24502,19 +24502,19 @@
     },
     {
       "id": "veiled.mod_44855",
-      "text": "<if:MS>{Ocultado por Korell}<elif:FS>{Ocultada por Korell}<elif:MP>{Ocultados por Korell}<elif:FP>{Ocultadas por Korell}"
+      "text": "Ocultado por Korell"
     },
     {
       "id": "veiled.mod_47933",
-      "text": "<if:MS>{Ocultado por Vorici}<elif:FS>{Ocultada por Vorici}<elif:MP>{Ocultados por Vorici}<elif:FP>{Ocultadas por Vorici}"
+      "text": "Ocultado por Vorici"
     },
     {
       "id": "veiled.mod_5769",
-      "text": "<if:MS>{Ocultado por Elreon}<elif:FS>{Ocultada por Elreon}<elif:MP>{Ocultados por Elreon}<elif:FP>{Ocultadas por Elreon}"
+      "text": "Ocultado por Elreon"
     },
     {
       "id": "veiled.mod_6779",
-      "text": "<if:MS>{Ocultado por Guff}<elif:FS>{Ocultada por Guff}<elif:MP>{Ocultados por Guff}<elif:FP>{Ocultadas por Guff}"
+      "text": "Ocultado por Guff"
     },
     {
       "id": "veiled.mod_3975",
@@ -24522,27 +24522,27 @@
     },
     {
       "id": "veiled.mod_39023",
-      "text": "<if:MS>{Ocultado por Haku}<elif:FS>{Ocultada por Haku}<elif:MP>{Ocultados por Haku}<elif:FP>{Ocultadas por Haku}"
+      "text": "Ocultado por Haku"
     },
     {
       "id": "veiled.mod_8541",
-      "text": "<if:MS>{Ocultado por Tora}<elif:FS>{Ocultada por Tora}<elif:MP>{Ocultados por Tora}<elif:FP>{Ocultadas por Tora}"
+      "text": "Ocultado por Tora"
     },
     {
       "id": "veiled.mod_6131",
-      "text": "<if:MS>{Ocultado por Rin}<elif:FS>{Ocultada por Rin}<elif:MP>{Ocultados por Rin}<elif:FP>{Ocultadas por Rin}"
+      "text": "Ocultado por Rin"
     },
     {
       "id": "veiled.mod_55787",
-      "text": "<if:MS>{Ocultado por Aquilo que Fugiu}<elif:FS>{Ocultada por Aquilo que Fugiu}<elif:MP>{Ocultados por Aquilo que Fugiu}<elif:FP>{Ocultadas por Aquilo que Fugiu}"
+      "text": "Ocultado por Aquilo que Fugiu"
     },
     {
       "id": "veiled.mod_38872",
-      "text": "<if:MS>{Ocultado por Gravicius}<elif:FS>{Ocultada por Gravicius}<elif:MP>{Ocultados por Gravicius}<elif:FP>{Ocultadas por Gravicius}"
+      "text": "Ocultado por Gravicius"
     },
     {
       "id": "veiled.mod_14269",
-      "text": "<if:MS>{Ocultado por Vagan}<elif:FS>{Ocultada por Vagan}<elif:MP>{Ocultados por Vagan}<elif:FP>{Ocultadas por Vagan}"
+      "text": "Ocultado por Vagan"
     }
   ],
   "monster": [

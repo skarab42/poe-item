@@ -24466,83 +24466,83 @@
   "veiled": [
     {
       "id": "veiled.mod_63099",
-      "text": "<if:MS>{de Encriptación}<elif:FS>{de Encriptación}<elif:MP>{de Encriptación}<elif:FP>{de Encriptación}"
+      "text": "de Encriptación"
     },
     {
       "id": "veiled.mod_65000",
-      "text": "<if:MS>{Encriptado}<elif:FS>{Encriptada}<elif:MP>{Encriptados}<elif:FP>{Encriptadas}"
+      "text": "Encriptado"
     },
     {
       "id": "veiled.mod_3258",
-      "text": "<if:MS>{Encriptado de Leo}<elif:FS>{Encriptado de Leo}<elif:MP>{Encriptados de Leo}<elif:FP>{Encriptados de Leo}"
+      "text": "Encriptado de Leo"
     },
     {
       "id": "veiled.mod_65163",
-      "text": "<if:MS>{de la Encriptación de Cameria}<elif:FS>{de la Encriptación de Cameria}<elif:MP>{de la Encriptación de Cameria}<elif:FP>{de la Encriptación de Cameria}"
+      "text": "de la Encriptación de Cameria"
     },
     {
       "id": "veiled.mod_62955",
-      "text": "<if:MS>{de la Encriptación de Jorgin}<elif:FS>{de la Encriptación de Jorgin}<elif:MP>{de la Encriptación de Jorgin}<elif:FP>{de la Encriptación de Jorgin}"
+      "text": "de la Encriptación de Jorgin"
     },
     {
       "id": "veiled.mod_48408",
-      "text": "<if:MS>{de la Encriptación de Riker}<elif:FS>{de la Encriptación de Riker}<elif:MP>{de la Encriptación de Riker}<elif:FP>{de la Encriptación de Riker}"
+      "text": "de la Encriptación de Riker"
     },
     {
       "id": "veiled.mod_63772",
-      "text": "<if:MS>{Encriptado de Catarina}<elif:FS>{Encriptado de Catarina}<elif:MP>{Encriptados de Catarina}<elif:FP>{Encriptados de Catarina}"
+      "text": "Encriptado de Catarina"
     },
     {
       "id": "veiled.mod_48007",
-      "text": "<if:MS>{de la Encriptación de Aisling}<elif:FS>{de la Encriptación de Aisling}<elif:MP>{de la Encriptación de Aisling}<elif:FP>{de la Encriptación de Aisling}"
+      "text": "de la Encriptación de Aisling"
     },
     {
       "id": "veiled.mod_11536",
-      "text": "<if:MS>{de la Encriptación de Janus}<elif:FS>{de la Encriptación de Janus}<elif:MP>{de la Encriptación de Janus}<elif:FP>{de la Encriptación de Janus}"
+      "text": "de la Encriptación de Janus"
     },
     {
       "id": "veiled.mod_44855",
-      "text": "<if:MS>{Encriptado de Korell}<elif:FS>{Encriptado de Korell}<elif:MP>{Encriptados de Korell}<elif:FP>{Encriptados de Korell}"
+      "text": "Encriptado de Korell"
     },
     {
       "id": "veiled.mod_47933",
-      "text": "<if:MS>{Encriptado de Vorici}<elif:FS>{Encriptado de Vorici}<elif:MP>{Encriptados de Vorici}<elif:FP>{Encriptados de Vorici}"
+      "text": "Encriptado de Vorici"
     },
     {
       "id": "veiled.mod_5769",
-      "text": "<if:MS>{Encriptado de Elreon}<elif:FS>{Encriptado de Elreon}<elif:MP>{Encriptados de Elreon}<elif:FP>{Encriptados de Elreon}"
+      "text": "Encriptado de Elreon"
     },
     {
       "id": "veiled.mod_6779",
-      "text": "<if:MS>{Encriptado de Guff}<elif:FS>{Encriptado de Guff}<elif:MP>{Encriptados de Guff}<elif:FP>{Encriptados de Guff}"
+      "text": "Encriptado de Guff"
     },
     {
       "id": "veiled.mod_3975",
-      "text": "<if:MS>{de la Encriptación de Hillock}<elif:FS>{de la Encriptación de Hillock}<elif:MP>{de la Encriptación de Hillock}<elif:FP>{de la Encriptación de Hillock}"
+      "text": "de la Encriptación de Hillock"
     },
     {
       "id": "veiled.mod_39023",
-      "text": "<if:MS>{Encriptado de Haku}<elif:FS>{Encriptado de Haku}<elif:MP>{Encriptados de Haku}<elif:FP>{Encriptados de Haku}"
+      "text": "Encriptado de Haku"
     },
     {
       "id": "veiled.mod_8541",
-      "text": "<if:MS>{Encriptado de Tora}<elif:FS>{Encriptado de Tora}<elif:MP>{Encriptados de Tora}<elif:FP>{Encriptados de Tora}"
+      "text": "Encriptado de Tora"
     },
     {
       "id": "veiled.mod_6131",
-      "text": "<if:MS>{Encriptado de Rin}<elif:FS>{Encriptado de Rin}<elif:MP>{Encriptados de Rin}<elif:FP>{Encriptados de Rin}"
+      "text": "Encriptado de Rin"
     },
     {
       "id": "veiled.mod_55787",
-      "text": "<if:MS>{Encriptado de Eso que Escapó}<elif:FS>{Encriptado de Eso que Escapó}<elif:MP>{Encriptados de Eso que Escapó}<elif:FP>{Encriptados de Eso que Escapó}"
+      "text": "Encriptado de Eso que Escapó"
     },
     {
       "id": "veiled.mod_38872",
-      "text": "<if:MS>{Encriptado de Gravicius}<elif:FS>{Encriptado de Gravicius}<elif:MP>{Encriptados de Gravicius}<elif:FP>{Encriptados de Gravicius}"
+      "text": "Encriptado de Gravicius"
     },
     {
       "id": "veiled.mod_14269",
-      "text": "<if:MS>{Encriptado de Vagan}<elif:FS>{Encriptado de Vagan}<elif:MP>{Encriptados de Vagan}<elif:FP>{Encriptados de Vagan}"
+      "text": "Encriptado de Vagan"
     }
   ],
   "monster": [
