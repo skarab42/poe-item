@@ -22,6 +22,8 @@ export default function getType() {
   const line = this.blocks.block(1).line(3);
   const search = (line && line.toString()) || this.item.name;
 
+  let usCategory = null;
+
   Object.entries(categories[locale]).find(([category, items]) => {
     return items.find(item => {
       // Normal
@@ -29,6 +31,7 @@ export default function getType() {
         this.item.category = this.__(category);
         this.item.subCategory = item.subCategory;
         this.item.type = item.type;
+        usCategory = category;
         cleanType(this);
         return true;
       }
@@ -44,9 +47,14 @@ export default function getType() {
         this.item.subCategory = item.subCategory;
         this.item.type = item.type;
         this.item.subType = capitalize([subType1, subType2].join("").trim());
+        usCategory = category;
         cleanType(this);
         return true;
       }
     });
   });
+
+  if (usCategory) {
+    this.item[`is${usCategory}`] = true;
+  }
 }
