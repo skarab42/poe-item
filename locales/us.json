@@ -1,6 +1,6 @@
 {
   "regexp": {
-    "elementalDamage": "Adds ([0-9]+) to ([0-9]+) (.+) Damage"
+    "elementalDamage": "Adds ([0-9]+) to ([0-9]+) ([a-z]+) Damage ?.*"
   },
 
   "props": {

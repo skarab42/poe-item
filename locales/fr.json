@@ -36,7 +36,7 @@
   "Energy Shield": "Bouclier d'énergie",
 
   "regexp": {
-    "elementalDamage": "Ajoute ([0-9]+) à ([0-9]+) Dégâts de (.+)"
+    "elementalDamage": "Ajoute ([0-9]+) à ([0-9]+) Dégâts de ([a-z]+) ?.*"
   },
 
   "props": {
