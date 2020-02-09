@@ -81,6 +81,12 @@ function processStats(locale) {
 
     category.entries.forEach(state => {
       delete state.type;
+      if (usLabel === 'veiled') {
+        const matches = state.text.match(/\{([^\}]+)\}/);
+        if (matches) {
+          state.text = matches[1];
+        }
+      }
       stats[usLabel].push(state);
     });
   });
