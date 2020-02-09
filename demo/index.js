@@ -4,10 +4,12 @@ const { ItemParser, i18n } = require("poe-item");
 const itemParser = new ItemParser();
 
 i18n.set("us.demo.inputPlaceholder", "Copy/Past your item from PoE here...");
-i18n.set("fr.demo.inputPlaceholder", "Copiez/Collez votre article depuis PoE ici...");
+i18n.set(
+  "fr.demo.inputPlaceholder",
+  "Copiez/Collez votre article depuis PoE ici..."
+);
 
 // GUI
-const $body = document.querySelector("body");
 const $input = document.querySelector("#input");
 const $output = document.querySelector("#output");
 
@@ -26,7 +28,7 @@ function parseItem(item) {
   localStorage.setItem("PoEItem", item);
   if (!item.length) return;
   try {
-    console.log('parseItem:', { item });
+    console.log("parseItem:", { item });
     const data = itemParser.parse(item);
     $output.value = JSON.stringify(data, null, "  ");
     $input.setAttribute("placeholder", i18n.__("demo.inputPlaceholder"));
