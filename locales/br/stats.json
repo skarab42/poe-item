@@ -25357,385 +25357,385 @@
     }
   },
   {
-    "text": "Drops additional Currency Items (×#)",
+    "text": "Drops additional Currency Items",
     "ids": {
       "monster": "metamorph_reward_currency"
     }
   },
   {
-    "text": "Drops additional Rare Jewellery (×#)",
+    "text": "Drops additional Rare Jewellery",
     "ids": {
       "monster": "metamorph_reward_rare_jewellery"
     }
   },
   {
-    "text": "Drops additional Rare Armour (×#)",
+    "text": "Drops additional Rare Armour",
     "ids": {
       "monster": "metamorph_reward_rare_armour"
     }
   },
   {
-    "text": "Drops a Rare Weapon (×#)",
+    "text": "Drops a Rare Weapon",
     "ids": {
       "monster": "metamorph_reward_rare_weapon"
     }
   },
   {
-    "text": "Drops an Incursion Weapon (×#)",
+    "text": "Drops an Incursion Weapon",
     "ids": {
       "monster": "metamorph_reward_incursion_weapon"
     }
   },
   {
-    "text": "Drops additional Rare Weapons (×#)",
+    "text": "Drops additional Rare Weapons",
     "ids": {
       "monster": "metamorph_reward_rare_weapons"
     }
   },
   {
-    "text": "Drops additional Incursion Armour (×#)",
+    "text": "Drops additional Incursion Armour",
     "ids": {
       "monster": "metamorph_reward_incursion_armour"
     }
   },
   {
-    "text": "Drops additional Maps (×#)",
+    "text": "Drops additional Maps",
     "ids": {
       "monster": "metamorph_reward_maps"
     }
   },
   {
-    "text": "Drops additional Jewels (×#)",
+    "text": "Drops additional Jewels",
     "ids": {
       "monster": "metamorph_reward_jewels"
     }
   },
   {
-    "text": "Drops additional Catalysts (×#)",
+    "text": "Drops additional Catalysts",
     "ids": {
       "monster": "metamorph_reward_catalysts"
     }
   },
   {
-    "text": "Drops a Unique Item (×#)",
+    "text": "Drops a Unique Item",
     "ids": {
       "monster": "metamorph_reward_unique"
     }
   },
   {
-    "text": "Drops additional Unique Items (×#)",
+    "text": "Drops additional Unique Items",
     "ids": {
       "monster": "metamorph_reward_uniques"
     }
   },
   {
-    "text": "Drops additional Rare Talismans (×#)",
+    "text": "Drops additional Rare Talismans",
     "ids": {
       "monster": "metamorph_reward_rare_talismans"
     }
   },
   {
-    "text": "Drops additional Fossils (×#)",
+    "text": "Drops additional Fossils",
     "ids": {
       "monster": "metamorph_reward_fossils"
     }
   },
   {
-    "text": "Drops additional Quality Gems (×#)",
+    "text": "Drops additional Quality Gems",
     "ids": {
       "monster": "metamorph_reward_quality_gems"
     }
   },
   {
-    "text": "Drops additional Legion Incubators (×#)",
+    "text": "Drops additional Legion Incubators",
     "ids": {
       "monster": "metamorph_reward_legion_incubators"
     }
   },
   {
-    "text": "Drops an Enchanted Helmet (×#)",
+    "text": "Drops an Enchanted Helmet",
     "ids": {
       "monster": "metamorph_reward_enchanted_helmet"
     }
   },
   {
-    "text": "Drops additional Silver Coins (×#)",
+    "text": "Drops additional Silver Coins",
     "ids": {
       "monster": "metamorph_reward_silver_coins"
     }
   },
   {
-    "text": "Drops additional Abyssal Jewels (×#)",
+    "text": "Drops additional Abyssal Jewels",
     "ids": {
       "monster": "metamorph_reward_abyssal_jewels"
     }
   },
   {
-    "text": "Drops additional Veiled Armour (×#)",
+    "text": "Drops additional Veiled Armour",
     "ids": {
       "monster": "metamorph_reward_veiled_armour"
     }
   },
   {
-    "text": "Drops additional Elder Armour (×#)",
+    "text": "Drops additional Elder Armour",
     "ids": {
       "monster": "metamorph_reward_elder_armour"
     }
   },
   {
-    "text": "Drops additional Shaper or Elder Jewellery (×#)",
+    "text": "Drops additional Shaper or Elder Jewellery",
     "ids": {
       "monster": "metamorph_reward_shaper_or_elder_jewellery"
     }
   },
   {
-    "text": "Drops additional Veiled Jewellery (×#)",
+    "text": "Drops additional Veiled Jewellery",
     "ids": {
       "monster": "metamorph_reward_veiled_jewellery"
     }
   },
   {
-    "text": "Drops additional Shaper Armour (×#)",
+    "text": "Drops additional Shaper Armour",
     "ids": {
       "monster": "metamorph_reward_shaper_armour"
     }
   },
   {
-    "text": "Drops an Offering to the Goddess (×#)",
+    "text": "Drops an Offering to the Goddess",
     "ids": {
       "monster": "metamorph_reward_offering_to_the_goddess"
     }
   },
   {
-    "text": "Drops additional Rusted Scarabs (×#)",
+    "text": "Drops additional Rusted Scarabs",
     "ids": {
       "monster": "metamorph_reward_rusted_scarabs"
     }
   },
   {
-    "text": "Drops additional Unique Jewellery (×#)",
+    "text": "Drops additional Unique Jewellery",
     "ids": {
       "monster": "metamorph_reward_unique_jewellery"
     }
   },
   {
-    "text": "Drops Enchanted Boots (×#)",
+    "text": "Drops Enchanted Boots",
     "ids": {
       "monster": "metamorph_reward_enchanted_boots"
     }
   },
   {
-    "text": "Drops additional Unique Armour (×#)",
+    "text": "Drops additional Unique Armour",
     "ids": {
       "monster": "metamorph_reward_unique_armour"
     }
   },
   {
-    "text": "Drops additional Harbinger Currency (×#)",
+    "text": "Drops additional Harbinger Currency",
     "ids": {
       "monster": "metamorph_reward_harbinger_currency"
     }
   },
   {
-    "text": "Drops an Itemised Prophecy (×#)",
+    "text": "Drops an Itemised Prophecy",
     "ids": {
       "monster": "metamorph_reward_prophecy"
     }
   },
   {
-    "text": "Drops additional Atlas Jewellery (×#)",
+    "text": "Drops additional Atlas Jewellery",
     "ids": {
       "monster": "metamorph_reward_atlas_jewellery"
     }
   },
   {
-    "text": "Drops Enchanted Gloves (×#)",
+    "text": "Drops Enchanted Gloves",
     "ids": {
       "monster": "metamorph_reward_enchanted_gloves"
     }
   },
   {
-    "text": "Drops additional Polished Scarabs (×#)",
+    "text": "Drops additional Polished Scarabs",
     "ids": {
       "monster": "metamorph_reward_polished_scarabs"
     }
   },
   {
-    "text": "Drops a Blighted Map (×#)",
+    "text": "Drops a Blighted Map",
     "ids": {
       "monster": "metamorph_reward_blighted_map"
     }
   },
   {
-    "text": "Drops a Breachstone (×#)",
+    "text": "Drops a Breachstone",
     "ids": {
       "monster": "metamorph_reward_breachstone"
     }
   },
   {
-    "text": "Drops a valuable Gem (×#)",
+    "text": "Drops a valuable Gem",
     "ids": {
       "monster": "metamorph_reward_valuable_gem"
     }
   },
   {
-    "text": "Drops additional Gilded Scarabs (×#)",
+    "text": "Drops additional Gilded Scarabs",
     "ids": {
       "monster": "metamorph_reward_gilded_scarabs"
     }
   },
   {
-    "text": "Drops a 30% Quality Weapon (×#)",
+    "text": "Drops a 30% Quality Weapon",
     "ids": {
       "monster": "metamorph_reward_30_quality_weapon"
     }
   },
   {
-    "text": "Drops additional Perandus Coins (×#)",
+    "text": "Drops additional Perandus Coins",
     "ids": {
       "monster": "metamorph_reward_perandus_coins"
     }
   },
   {
-    "text": "Drops a Beachhead Unique Map (×#)",
+    "text": "Drops a Beachhead Unique Map",
     "ids": {
       "monster": "metamorph_reward_beachhead_unique_map"
     }
   },
   {
-    "text": "Drops a Breach Blessing (×#)",
+    "text": "Drops a Breach Blessing",
     "ids": {
       "monster": "metamorph_reward_breach_blessing"
     }
   },
   {
-    "text": "Drops a 6-linked Weapon (×#)",
+    "text": "Drops a 6-linked Weapon",
     "ids": {
       "monster": "metamorph_reward_6_linked_weapon"
     }
   },
   {
-    "text": "Drops additional Essences (×#)",
+    "text": "Drops additional Essences",
     "ids": {
       "monster": "metamorph_reward_essences"
     }
   },
   {
-    "text": "Drops additional Divination Cards (×#)",
+    "text": "Drops additional Divination Cards",
     "ids": {
       "monster": "metamorph_reward_divination_cards"
     }
   },
   {
-    "text": "Drops a Map Item (×#)",
+    "text": "Drops a Map Item",
     "ids": {
       "monster": "metamorph_reward_map"
     }
   },
   {
-    "text": "Drops a 6-linked Unique Body Armour (×#)",
+    "text": "Drops a 6-linked Unique Body Armour",
     "ids": {
       "monster": "metamorph_reward_6_linked_unique_body_armour"
     }
   },
   {
-    "text": "Drops additional Currency Shards (×#)",
+    "text": "Drops additional Currency Shards",
     "ids": {
       "monster": "metamorph_reward_currency_shards"
     }
   },
   {
-    "text": "Drops a League-specific Unique Item (×#)",
+    "text": "Drops a League-specific Unique Item",
     "ids": {
       "monster": "metamorph_reward_league_unique"
     }
   },
   {
-    "text": "Drops additional Map Fragments (×#)",
+    "text": "Drops additional Map Fragments",
     "ids": {
       "monster": "metamorph_reward_map_fragments"
     }
   },
   {
-    "text": "Drops a Veiled Weapon (×#)",
+    "text": "Drops a Veiled Weapon",
     "ids": {
       "monster": "metamorph_reward_veiled_weapon"
     }
   },
   {
-    "text": "Drops a Talisman Unique Item (×#)",
+    "text": "Drops a Talisman Unique Item",
     "ids": {
       "monster": "metamorph_reward_talisman_unique"
     }
   },
   {
-    "text": "Drops Itemised Prophecies (×#)",
+    "text": "Drops Itemised Prophecies",
     "ids": {
       "monster": "metamorph_reward_prophecies"
     }
   },
   {
-    "text": "Drops an Abyssal Jewel (×#)",
+    "text": "Drops an Abyssal Jewel",
     "ids": {
       "monster": "metamorph_reward_abyssal_jewel"
     }
   },
   {
-    "text": "Drops additional Incursion Jewellery (×#)",
+    "text": "Drops additional Incursion Jewellery",
     "ids": {
       "monster": "metamorph_reward_incursion_jewellery"
     }
   },
   {
-    "text": "Drops additional Blight Oils (×#)",
+    "text": "Drops additional Blight Oils",
     "ids": {
       "monster": "metamorph_reward_blight_oils"
     }
   },
   {
-    "text": "Drops an Abyss Unique Item (×#)",
+    "text": "Drops an Abyss Unique Item",
     "ids": {
       "monster": "metamorph_reward_abyss_unique"
     }
   },
   {
-    "text": "Drops a Unique Weapon (×#)",
+    "text": "Drops a Unique Weapon",
     "ids": {
       "monster": "metamorph_reward_unique_weapon"
     }
   },
   {
-    "text": "Drops additional valuable Currency Shards (×#)",
+    "text": "Drops additional valuable Currency Shards",
     "ids": {
       "monster": "metamorph_reward_valuable_currency_shards"
     }
   },
   {
-    "text": "Drops additional Breach Splinters (×#)",
+    "text": "Drops additional Breach Splinters",
     "ids": {
       "monster": "metamorph_reward_breach_splinters"
     }
   },
   {
-    "text": "Drops an Elder Weapon (×#)",
+    "text": "Drops an Elder Weapon",
     "ids": {
       "monster": "metamorph_reward_elder_weapon"
     }
   },
   {
-    "text": "Drops a Shaper Weapon (×#)",
+    "text": "Drops a Shaper Weapon",
     "ids": {
       "monster": "metamorph_reward_shaper_weapon"
     }
   },
   {
-    "text": "Drops a Stygian Vise (×#)",
+    "text": "Drops a Stygian Vise",
     "ids": {
       "monster": "metamorph_reward_stygian_vise"
     }
   },
   {
-    "text": "Drops a Resonator (×#)",
+    "text": "Drops a Resonator",
     "ids": {
       "monster": "metamorph_reward_resonator"
     }

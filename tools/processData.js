@@ -88,7 +88,12 @@ function processStats(locale) {
   categories.forEach(category => {
     category.entries.forEach(state => {
       const id = idFactory(state.id);
-      const text = stripTags(state.text)
+      let text = stripTags(state.text)
+
+      if (id.type === 'monster') {
+        text = text.replace("(×#)", "").trim();
+      }
+
       const found = stats.find(s => s.text === text);
 
       if (found) {
