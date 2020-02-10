@@ -71,23 +71,32 @@ function processItems(locale) {
   writeFile(`${localesDir}/${locale}/items.json`, format(items));
 }
 
+function stripTags(string) {
+  const matches = string.match(/\{([^\}]+)\}/);
+  return matches ? matches[1] : string;
+}
+
+function idFactory(id) {
+  const parts = id.split('.');
+  return { type: parts.shift(), value: parts.shift() }
+}
+
 function processStats(locale) {
-  const stats = {};
+  const stats = [];
   const categories = require(`./data/${locale}/stats.json`);
 
   categories.forEach(category => {
-    const usLabel = category.entries[0].type;
-    stats[usLabel] = [];
-
     category.entries.forEach(state => {
-      delete state.type;
-      if (usLabel === 'veiled') {
-        const matches = state.text.match(/\{([^\}]+)\}/);
-        if (matches) {
-          state.text = matches[1];
-        }
+      const id = idFactory(state.id);
+      const text = stripTags(state.text)
+      const found = stats.find(s => s.text === text);
+
+      if (found) {
+        found.ids[id.type] = id.value;
+        return;
       }
-      stats[usLabel].push(state);
+
+      stats.push({ text, ids: { [id.type]: id.value } });
     });
   });
 
