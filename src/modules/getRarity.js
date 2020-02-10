@@ -1,3 +1,5 @@
+const is = ["Normal", "Magic", "Rare", "Unique"];
+
 export default function getRarity() {
   const rarity = this.blocks
     .block(1)
@@ -9,4 +11,10 @@ export default function getRarity() {
   }
 
   this.item.rarity = rarity.value;
+
+  const found = is.find(item => this.__(item) === rarity.value);
+
+  if (found) {
+    this.item[`is${found}`] = true;
+  }
 }
