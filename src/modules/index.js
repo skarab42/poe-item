@@ -11,6 +11,7 @@ import getWeapon from "./getWeapon";
 import getQuality from "./getQuality";
 import getRequirements from "./getRequirements";
 import getStats from "./getStats";
+import getAffixes from "./getAffixes";
 import getSockets from "./getSockets";
 
 export default {
@@ -27,5 +28,6 @@ export default {
   getQuality,
   getRequirements,
   getStats,
+  getAffixes,
   getSockets
 };
