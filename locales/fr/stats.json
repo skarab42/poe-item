@@ -923,6 +923,15 @@
     }
   },
   {
+    "text": "#% au Multiplicateur de coup critique Global",
+    "ids": {
+      "explicit": "stat_3556824919",
+      "implicit": "stat_3556824919",
+      "fractured": "stat_3556824919",
+      "crafted": "stat_3556824919"
+    }
+  },
+  {
     "text": "#% d'Augmentation du Taux de Régénération de Mana",
     "ids": {
       "explicit": "stat_789117908",
@@ -956,15 +965,6 @@
       "implicit": "stat_4052037485",
       "fractured": "stat_4052037485",
       "crafted": "stat_4052037485"
-    }
-  },
-  {
-    "text": "#% au Multiplicateur de coup critique Global",
-    "ids": {
-      "explicit": "stat_3556824919",
-      "implicit": "stat_3556824919",
-      "fractured": "stat_3556824919",
-      "crafted": "stat_3556824919"
     }
   },
   {
@@ -1013,21 +1013,21 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts des Sorts",
-    "ids": {
-      "explicit": "stat_2974417149",
-      "implicit": "stat_2974417149",
-      "fractured": "stat_2974417149",
-      "crafted": "stat_2974417149"
-    }
-  },
-  {
     "text": "Ajoute # à # Dégâts de feu aux Attaques",
     "ids": {
       "explicit": "stat_1573130764",
       "implicit": "stat_1573130764",
       "fractured": "stat_1573130764",
       "crafted": "stat_1573130764"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts des Sorts",
+    "ids": {
+      "explicit": "stat_2974417149",
+      "implicit": "stat_2974417149",
+      "fractured": "stat_2974417149",
+      "crafted": "stat_2974417149"
     }
   },
   {
@@ -1090,6 +1090,14 @@
       "implicit": "stat_387439868",
       "fractured": "stat_387439868",
       "crafted": "stat_387439868"
+    }
+  },
+  {
+    "text": "# au Score d'Évasion",
+    "ids": {
+      "explicit": "stat_2144192055",
+      "fractured": "stat_2144192055",
+      "crafted": "stat_2144192055"
     }
   },
   {
@@ -1163,14 +1171,6 @@
     }
   },
   {
-    "text": "# au Score d'Évasion",
-    "ids": {
-      "explicit": "stat_2144192055",
-      "fractured": "stat_2144192055",
-      "crafted": "stat_2144192055"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Durée de l'Étourdissement sur les Ennemis",
     "ids": {
       "explicit": "stat_2517001139",
@@ -1233,6 +1233,14 @@
     }
   },
   {
+    "text": "#% d'Augmentation de l'Armure et de l'Évasion (Local)",
+    "ids": {
+      "explicit": "stat_2451402625",
+      "fractured": "stat_2451402625",
+      "crafted": "stat_2451402625"
+    }
+  },
+  {
     "text": "#% d'Augmentation du Rayonnement lumineux",
     "ids": {
       "explicit": "stat_1263695895",
@@ -1247,14 +1255,6 @@
       "implicit": "stat_3237948413",
       "fractured": "stat_3237948413",
       "crafted": "stat_3237948413"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de l'Armure et de l'Évasion (Local)",
-    "ids": {
-      "explicit": "stat_2451402625",
-      "fractured": "stat_2451402625",
-      "crafted": "stat_2451402625"
     }
   },
   {
@@ -1354,6 +1354,15 @@
     }
   },
   {
+    "text": "#% d'Augmentation de Dégâts",
+    "ids": {
+      "explicit": "stat_2154246560",
+      "implicit": "stat_2154246560",
+      "fractured": "stat_2154246560",
+      "crafted": "stat_2154246560"
+    }
+  },
+  {
     "text": "Ajoute # à # Dégâts de foudre aux Sorts",
     "ids": {
       "explicit": "stat_2831165374",
@@ -1369,15 +1378,6 @@
       "implicit": "stat_967627487",
       "fractured": "stat_967627487",
       "crafted": "stat_967627487"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de Dégâts",
-    "ids": {
-      "explicit": "stat_2154246560",
-      "implicit": "stat_2154246560",
-      "fractured": "stat_2154246560",
-      "crafted": "stat_2154246560"
     }
   },
   {
@@ -1423,6 +1423,12 @@
       "implicit": "stat_1133016593",
       "fractured": "stat_1133016593",
       "crafted": "stat_1133016593"
+    }
+  },
+  {
+    "text": "#% Davantage de Vie des Monstres",
+    "ids": {
+      "explicit": "stat_2710898947"
     }
   },
   {
@@ -1514,12 +1520,6 @@
       "implicit": "stat_3441501978",
       "fractured": "stat_3441501978",
       "crafted": "stat_3441501978"
-    }
-  },
-  {
-    "text": "#% Davantage de Vie des Monstres",
-    "ids": {
-      "explicit": "stat_2710898947"
     }
   },
   {
@@ -1635,6 +1635,15 @@
     }
   },
   {
+    "text": "# de Dextérité et d'Intelligence",
+    "ids": {
+      "explicit": "stat_2300185227",
+      "implicit": "stat_2300185227",
+      "fractured": "stat_2300185227",
+      "crafted": "stat_2300185227"
+    }
+  },
+  {
     "text": "# de Vie gagnée pour chaque Ennemi Touché par vos Attaques",
     "ids": {
       "explicit": "stat_821021828",
@@ -1724,12 +1733,11 @@
     }
   },
   {
-    "text": "# de Dextérité et d'Intelligence",
+    "text": "#% d'Augmentation de la Vitesse d'attaque avec les épées",
     "ids": {
-      "explicit": "stat_2300185227",
-      "implicit": "stat_2300185227",
-      "fractured": "stat_2300185227",
-      "crafted": "stat_2300185227"
+      "explicit": "stat_3293699237",
+      "implicit": "stat_3293699237",
+      "fractured": "stat_3293699237"
     }
   },
   {
@@ -1742,11 +1750,9 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Vitesse d'attaque avec les épées",
+    "text": "#% d'Augmentation de la Vitesse d'incantation des Monstres",
     "ids": {
-      "explicit": "stat_3293699237",
-      "implicit": "stat_3293699237",
-      "fractured": "stat_3293699237"
+      "explicit": "stat_2488361432"
     }
   },
   {
@@ -1766,9 +1772,26 @@
     }
   },
   {
+    "text": "#% de chances de ne pas subir le Gel",
+    "ids": {
+      "explicit": "stat_1514829491",
+      "implicit": "stat_1514829491",
+      "fractured": "stat_1514829491",
+      "crafted": "stat_1514829491"
+    }
+  },
+  {
     "text": "#% d'Augmentation de la Vitesse d'Attaque des Monstres",
     "ids": {
       "explicit": "stat_1913583994"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Durée du Saignement",
+    "ids": {
+      "explicit": "stat_1459321413",
+      "implicit": "stat_1459321413",
+      "fractured": "stat_1459321413"
     }
   },
   {
@@ -1820,12 +1843,6 @@
     "text": "#% Davantage de Monstres Magiques",
     "ids": {
       "explicit": "stat_3873704640"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de la Vitesse d'incantation des Monstres",
-    "ids": {
-      "explicit": "stat_2488361432"
     }
   },
   {
@@ -1947,9 +1964,24 @@
     }
   },
   {
+    "text": "#% d'Augmentation de la Dextérité",
+    "ids": {
+      "explicit": "stat_4139681126",
+      "implicit": "stat_4139681126"
+    }
+  },
+  {
     "text": "#% d'Augmentation de Dégâts lorsque la Vie est Basse",
     "ids": {
       "explicit": "stat_1513447578"
+    }
+  },
+  {
+    "text": "Ajoute # à # Dégâts de foudre aux Attaques à l'arc",
+    "ids": {
+      "explicit": "stat_1040269876",
+      "implicit": "stat_1040269876",
+      "fractured": "stat_1040269876"
     }
   },
   {
@@ -1988,13 +2020,6 @@
     "ids": {
       "explicit": "stat_1199429645",
       "fractured": "stat_1199429645"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de la Dextérité",
-    "ids": {
-      "explicit": "stat_4139681126",
-      "implicit": "stat_4139681126"
     }
   },
   {
@@ -2108,6 +2133,12 @@
     }
   },
   {
+    "text": "Les joueurs ont #% de Réduction des chances de Bloquer",
+    "ids": {
+      "explicit": "stat_3729221884"
+    }
+  },
+  {
     "text": "Les Monstres ont #% de chances de ne pas subir d'Altérations élémentaires",
     "ids": {
       "explicit": "stat_322206271"
@@ -2188,6 +2219,13 @@
     }
   },
   {
+    "text": "#% d'Augmentation de Dégâts avec les haches",
+    "ids": {
+      "explicit": "stat_3314142259",
+      "fractured": "stat_3314142259"
+    }
+  },
+  {
     "text": "#% au Multiplicateur de coup critique lorsque vous maniez deux armes",
     "ids": {
       "explicit": "stat_2546185479",
@@ -2223,19 +2261,25 @@
     }
   },
   {
+    "text": "Ajoute # à # Dégâts de froid aux Sorts et aux Attaques",
+    "ids": {
+      "explicit": "stat_1662717006",
+      "implicit": "stat_1662717006"
+    }
+  },
+  {
+    "text": "Historique",
+    "ids": {
+      "explicit": "stat_1811341815"
+    }
+  },
+  {
     "text": "#% au Multiplicateur des dégâts de chaos sur la durée",
     "ids": {
       "explicit": "stat_4055307827",
       "implicit": "stat_4055307827",
       "fractured": "stat_4055307827",
       "crafted": "stat_4055307827"
-    }
-  },
-  {
-    "text": "Ajoute # à # Dégâts de froid aux Sorts et aux Attaques",
-    "ids": {
-      "explicit": "stat_1662717006",
-      "implicit": "stat_1662717006"
     }
   },
   {
@@ -2294,6 +2338,13 @@
     }
   },
   {
+    "text": "#% d'Augmentation des Dégâts d'Attaque tant que vous tenez un bouclier",
+    "ids": {
+      "explicit": "stat_1393393937",
+      "fractured": "stat_1393393937"
+    }
+  },
+  {
     "text": "Les Monstres ont #% d'Augmentation des Chances de coup critique",
     "ids": {
       "explicit": "stat_2753083623"
@@ -2337,13 +2388,6 @@
     }
   },
   {
-    "text": "#% d'Augmentation de Dégâts avec les haches",
-    "ids": {
-      "explicit": "stat_3314142259",
-      "fractured": "stat_3314142259"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vitesse de Récupération",
     "ids": {
       "explicit": "stat_173226756"
@@ -2372,15 +2416,6 @@
     "ids": {
       "explicit": "stat_3152982863",
       "fractured": "stat_3152982863"
-    }
-  },
-  {
-    "text": "#% de chances de ne pas subir le Gel",
-    "ids": {
-      "explicit": "stat_1514829491",
-      "implicit": "stat_1514829491",
-      "fractured": "stat_1514829491",
-      "crafted": "stat_1514829491"
     }
   },
   {
@@ -2421,20 +2456,6 @@
     }
   },
   {
-    "text": "Les joueurs ont #% de Réduction des chances de Bloquer",
-    "ids": {
-      "explicit": "stat_3729221884"
-    }
-  },
-  {
-    "text": "Ajoute # à # Dégâts de foudre aux Attaques à l'arc",
-    "ids": {
-      "explicit": "stat_1040269876",
-      "implicit": "stat_1040269876",
-      "fractured": "stat_1040269876"
-    }
-  },
-  {
     "text": "#% au Multiplicateur de coup critique avec les armes de mêlée à une main",
     "ids": {
       "explicit": "stat_670153687",
@@ -2472,6 +2493,12 @@
     "text": "La Zone contient deux Boss Uniques",
     "ids": {
       "explicit": "stat_799271621"
+    }
+  },
+  {
+    "text": "Les Monstres ont #% de chances de ne pas subir le Poison, l'Aveuglement et le Saignement",
+    "ids": {
+      "explicit": "stat_2215002568"
     }
   },
   {
@@ -2627,6 +2654,12 @@
     }
   },
   {
+    "text": "#% d'Augmentation de la Vitesse de déplacement tant que vous êtes Embrasé",
+    "ids": {
+      "explicit": "stat_581625445"
+    }
+  },
+  {
     "text": "#% d'Augmentation de la Vitesse d'attaque avec les arcs",
     "ids": {
       "explicit": "stat_3759735052",
@@ -2645,14 +2678,6 @@
     "text": "Les Monstres Renvoient #% des Dégâts physiques",
     "ids": {
       "explicit": "stat_3464419871"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de la Durée du Saignement",
-    "ids": {
-      "explicit": "stat_1459321413",
-      "implicit": "stat_1459321413",
-      "fractured": "stat_1459321413"
     }
   },
   {
@@ -2773,6 +2798,12 @@
     }
   },
   {
+    "text": "Rajoutez #% des Dégâts physiques sous forme de Dégâts de chaos pendant l'Effet",
+    "ids": {
+      "explicit": "stat_2818167778"
+    }
+  },
+  {
     "text": "#% d'Augmentation des Chances de coup critique avec les armes en maniant deux armes",
     "ids": {
       "explicit": "stat_3702513529",
@@ -2790,12 +2821,6 @@
     "ids": {
       "explicit": "stat_1445684883",
       "crafted": "stat_1445684883"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de la Vitesse de déplacement tant que vous êtes Embrasé",
-    "ids": {
-      "explicit": "stat_581625445"
     }
   },
   {
@@ -2817,6 +2842,13 @@
       "explicit": "stat_472520716",
       "implicit": "stat_472520716",
       "crafted": "stat_472520716"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Vitesse d'incantation avec les Aptitudes de froid",
+    "ids": {
+      "explicit": "stat_928238845",
+      "fractured": "stat_928238845"
     }
   },
   {
@@ -2850,21 +2882,15 @@
     }
   },
   {
-    "text": "Rajoutez #% des Dégâts physiques sous forme de Dégâts de chaos pendant l'Effet",
-    "ids": {
-      "explicit": "stat_2818167778"
-    }
-  },
-  {
-    "text": "Historique",
-    "ids": {
-      "explicit": "stat_1811341815"
-    }
-  },
-  {
     "text": "Les joueurs sont affectés par la Malédiction Fragilité",
     "ids": {
       "explicit": "stat_1366534040"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifiées par Effet concentré (Niveau #)",
+    "ids": {
+      "explicit": "stat_2388360415"
     }
   },
   {
@@ -2902,12 +2928,6 @@
     "text": "Les joueurs sont affectés par la Malédiction Chaînes temporelles",
     "ids": {
       "explicit": "stat_2326202293"
-    }
-  },
-  {
-    "text": "Les Gemmes Enchâssées sont modifiées par Effet concentré (Niveau #)",
-    "ids": {
-      "explicit": "stat_2388360415"
     }
   },
   {
@@ -2998,12 +3018,6 @@
     }
   },
   {
-    "text": "Les Monstres ont #% de chances de ne pas subir le Poison, l'Aveuglement et le Saignement",
-    "ids": {
-      "explicit": "stat_2215002568"
-    }
-  },
-  {
     "text": "Les Gemmes Enchâssées sont modifiées par Augmentation de Zone d'effet (Niveau #)",
     "ids": {
       "explicit": "stat_3720936304",
@@ -3080,6 +3094,15 @@
     }
   },
   {
+    "text": "#% de chances de ne pas subir l'Électrocution",
+    "ids": {
+      "explicit": "stat_1871765599",
+      "implicit": "stat_1871765599",
+      "fractured": "stat_1871765599",
+      "crafted": "stat_1871765599"
+    }
+  },
+  {
     "text": "Rajoutez #% des Dégâts élémentaire sous forme de Dégâts de chaos pendant l'Effet",
     "ids": {
       "explicit": "stat_3562241510"
@@ -3103,13 +3126,6 @@
       "explicit": "stat_3485067555",
       "implicit": "stat_3485067555",
       "crafted": "stat_3485067555"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de la Vitesse d'incantation avec les Aptitudes de froid",
-    "ids": {
-      "explicit": "stat_928238845",
-      "fractured": "stat_928238845"
     }
   },
   {
@@ -3143,12 +3159,10 @@
     }
   },
   {
-    "text": "#% de chances de ne pas subir l'Électrocution",
+    "text": "Ajoute # à # Dégâts de feu aux Sorts et aux Attaques",
     "ids": {
-      "explicit": "stat_1871765599",
-      "implicit": "stat_1871765599",
-      "fractured": "stat_1871765599",
-      "crafted": "stat_1871765599"
+      "explicit": "stat_3964634628",
+      "implicit": "stat_3964634628"
     }
   },
   {
@@ -3157,13 +3171,6 @@
       "explicit": "stat_3814560373",
       "implicit": "stat_3814560373",
       "fractured": "stat_3814560373"
-    }
-  },
-  {
-    "text": "Ajoute # à # Dégâts de feu aux Sorts et aux Attaques",
-    "ids": {
-      "explicit": "stat_3964634628",
-      "implicit": "stat_3964634628"
     }
   },
   {
@@ -3179,6 +3186,12 @@
       "explicit": "stat_2479683456",
       "implicit": "stat_2479683456",
       "fractured": "stat_2479683456"
+    }
+  },
+  {
+    "text": "La Zone est un grand labyrinthe",
+    "ids": {
+      "explicit": "stat_587175996"
     }
   },
   {
@@ -3205,6 +3218,13 @@
     "text": "#% de chances de Mutiler au Toucher",
     "ids": {
       "explicit": "stat_2763429652"
+    }
+  },
+  {
+    "text": "Rajoutez #% de vos Dégâts physiques et élémentaires sous forme de Dégâts de chaos",
+    "ids": {
+      "explicit": "stat_2063695047",
+      "crafted": "stat_2063695047"
     }
   },
   {
@@ -3259,10 +3279,25 @@
     }
   },
   {
+    "text": "Les Aptitudes de Malédiction ont #% d'Augmentation de Durée",
+    "ids": {
+      "explicit": "stat_1435748744",
+      "implicit": "stat_1435748744",
+      "crafted": "stat_1435748744"
+    }
+  },
+  {
     "text": "Les Dégâts ont #% de Pénétration des Résistances élémentaires",
     "ids": {
       "explicit": "stat_2101383955",
       "implicit": "stat_2101383955"
+    }
+  },
+  {
+    "text": "#% aux Chances maximales de Bloquer les Dégâts d'Attaque",
+    "ids": {
+      "explicit": "stat_4124805414",
+      "implicit": "stat_4124805414"
     }
   },
   {
@@ -3292,13 +3327,6 @@
     }
   },
   {
-    "text": "#% aux Chances maximales de Bloquer les Dégâts d'Attaque",
-    "ids": {
-      "explicit": "stat_4124805414",
-      "implicit": "stat_4124805414"
-    }
-  },
-  {
     "text": "#% de Chances de Bloquer les Dégâts d'Attaque en maniant un bâton",
     "ids": {
       "explicit": "stat_1778298516",
@@ -3323,14 +3351,6 @@
     "ids": {
       "explicit": "stat_4188894176",
       "fractured": "stat_4188894176"
-    }
-  },
-  {
-    "text": "Les Aptitudes de Malédiction ont #% d'Augmentation de Durée",
-    "ids": {
-      "explicit": "stat_1435748744",
-      "implicit": "stat_1435748744",
-      "crafted": "stat_1435748744"
     }
   },
   {
@@ -3425,13 +3445,6 @@
     }
   },
   {
-    "text": "Rajoutez #% de vos Dégâts physiques et élémentaires sous forme de Dégâts de chaos",
-    "ids": {
-      "explicit": "stat_2063695047",
-      "crafted": "stat_2063695047"
-    }
-  },
-  {
     "text": "Récupération instantanée",
     "ids": {
       "explicit": "stat_1526933524"
@@ -3493,12 +3506,6 @@
       "implicit": "stat_4262448838",
       "fractured": "stat_4262448838",
       "crafted": "stat_4262448838"
-    }
-  },
-  {
-    "text": "La Zone est un grand labyrinthe",
-    "ids": {
-      "explicit": "stat_587175996"
     }
   },
   {
@@ -3578,6 +3585,12 @@
     "text": "Recharge # Charge lorsque vous subissez un Coup critique",
     "ids": {
       "explicit": "stat_3662336899"
+    }
+  },
+  {
+    "text": "# de Vie gagnée par Ennemi Touché par vos Sorts",
+    "ids": {
+      "explicit": "stat_2018035324"
     }
   },
   {
@@ -3679,6 +3692,12 @@
     }
   },
   {
+    "text": "# de Vie Régénérée par seconde par Niveau",
+    "ids": {
+      "explicit": "stat_1384864963"
+    }
+  },
+  {
     "text": "Les Malédictions ont #% de Réduction d'Effet sur les Monstres",
     "ids": {
       "explicit": "stat_2999796964"
@@ -3730,12 +3749,6 @@
     "text": "Ne peut pas avoir de Châsses",
     "ids": {
       "explicit": "stat_1493091477"
-    }
-  },
-  {
-    "text": "# de Vie Régénérée par seconde par Niveau",
-    "ids": {
-      "explicit": "stat_1384864963"
     }
   },
   {
@@ -3814,6 +3827,12 @@
     }
   },
   {
+    "text": "Les Dégâts des Ennemis qui vous Touchent sont Malchanceux tant que votre Vie est Basse",
+    "ids": {
+      "explicit": "stat_3753748365"
+    }
+  },
+  {
     "text": "#% de chances de gagner Force impie pendant 4 secondes en Tuant en mêlée",
     "ids": {
       "explicit": "stat_3166317791",
@@ -3824,6 +3843,12 @@
     "text": "#% d'Augmentation des Dégâts subis tant que le Bouclier d'énergie est Plein",
     "ids": {
       "explicit": "stat_969865219"
+    }
+  },
+  {
+    "text": "Immunité aux Malédictions pendant l'Effet du Flacon\nRetire les Malédictions à l'utilisation",
+    "ids": {
+      "explicit": "stat_1670623917"
     }
   },
   {
@@ -3848,15 +3873,15 @@
     }
   },
   {
-    "text": "Immunité aux Malédictions pendant l'Effet du Flacon\nRetire les Malédictions à l'utilisation",
-    "ids": {
-      "explicit": "stat_1670623917"
-    }
-  },
-  {
     "text": "#% à la Résistance au feu lorsqu'une Gemme rouge est Enchâssée",
     "ids": {
       "explicit": "stat_3051845758"
+    }
+  },
+  {
+    "text": "#% des Dégâts de feu sont Convertis en Dégâts de chaos",
+    "ids": {
+      "explicit": "stat_2731249891"
     }
   },
   {
@@ -3869,12 +3894,6 @@
     "text": "Toutes vos Gemmes d'Aptitudes de Sorts de foudre ont # Niveaux",
     "ids": {
       "explicit": "stat_1545858329"
-    }
-  },
-  {
-    "text": "Les Dégâts des Ennemis qui vous Touchent sont Malchanceux tant que votre Vie est Basse",
-    "ids": {
-      "explicit": "stat_3753748365"
     }
   },
   {
@@ -3900,6 +3919,13 @@
     "text": "#% à la Résistance à la foudre lorsqu'une Gemme bleue est Enchâssée",
     "ids": {
       "explicit": "stat_289814996"
+    }
+  },
+  {
+    "text": "#% des Dégâts physiques au Toucher sont subis sous forme de Dégâts de froid",
+    "ids": {
+      "explicit": "stat_1871056256",
+      "implicit": "stat_1871056256"
     }
   },
   {
@@ -3948,6 +3974,14 @@
     "text": "La Vitesse d'action des Monstres ne peut être réduite en deçà de sa valeur de base",
     "ids": {
       "explicit": "stat_798009319"
+    }
+  },
+  {
+    "text": "Ajoute # à # Dégâts de foudre",
+    "ids": {
+      "explicit": "stat_1334060246",
+      "implicit": "stat_1334060246",
+      "crafted": "stat_1334060246"
     }
   },
   {
@@ -4141,13 +4175,6 @@
     }
   },
   {
-    "text": "#% des Dégâts physiques au Toucher sont subis sous forme de Dégâts de froid",
-    "ids": {
-      "explicit": "stat_1871056256",
-      "implicit": "stat_1871056256"
-    }
-  },
-  {
     "text": "Les Gemmes Enchâssées sont modifiées par Chances de Saignement (Niveau #)",
     "ids": {
       "explicit": "stat_4197676934"
@@ -4184,6 +4211,12 @@
     "text": "La Zone contient des précipices à franchir",
     "ids": {
       "explicit": "stat_860864690"
+    }
+  },
+  {
+    "text": "#% de Réduction du coût en Mana des Aptitudes de Créatures",
+    "ids": {
+      "explicit": "stat_2969128501"
     }
   },
   {
@@ -4259,6 +4292,12 @@
     }
   },
   {
+    "text": "#% d'Augmentation des Dégâts subis",
+    "ids": {
+      "explicit": "stat_3691641145"
+    }
+  },
+  {
     "text": "#% d'Augmentation de l'effet",
     "ids": {
       "explicit": "stat_553298121"
@@ -4282,12 +4321,6 @@
       "explicit": "stat_2353576063",
       "implicit": "stat_2353576063",
       "crafted": "stat_2353576063"
-    }
-  },
-  {
-    "text": "#% des Dégâts de feu sont Convertis en Dégâts de chaos",
-    "ids": {
-      "explicit": "stat_2731249891"
     }
   },
   {
@@ -4397,6 +4430,12 @@
     }
   },
   {
+    "text": "#% d'Augmentation des Dégâts physiques de mêlée tous les 10 de Dextérité",
+    "ids": {
+      "explicit": "stat_2355151849"
+    }
+  },
+  {
     "text": "Les Objets trouvés dans la Zone ont #% de chances d'être Corrompus",
     "ids": {
       "explicit": "stat_728267040",
@@ -4468,6 +4507,12 @@
     }
   },
   {
+    "text": "# à l'Allonge des armes de mêlée par Châsse blanche",
+    "ids": {
+      "explicit": "stat_2076080860"
+    }
+  },
+  {
     "text": "Ajoute # à # Dégâts de feu aux Attaques à la griffe",
     "ids": {
       "explicit": "stat_2154290807",
@@ -4475,21 +4520,9 @@
     }
   },
   {
-    "text": "# à l'Allonge des armes de mêlée par Châsse blanche",
-    "ids": {
-      "explicit": "stat_2076080860"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vitesse d'attaque Globale par Châsse verte",
     "ids": {
       "explicit": "stat_250876318"
-    }
-  },
-  {
-    "text": "#% de Réduction du coût en Mana des Aptitudes de Créatures",
-    "ids": {
-      "explicit": "stat_2969128501"
     }
   },
   {
@@ -4529,6 +4562,12 @@
     "ids": {
       "explicit": "stat_1482572705",
       "implicit": "stat_1482572705"
+    }
+  },
+  {
+    "text": "Vous gagnez une Charge d'endurance à l'utilisation",
+    "ids": {
+      "explicit": "stat_3986030307"
     }
   },
   {
@@ -4583,15 +4622,15 @@
     }
   },
   {
-    "text": "Vous gagnez une Charge d'endurance à l'utilisation",
-    "ids": {
-      "explicit": "stat_3986030307"
-    }
-  },
-  {
     "text": "# de Vie gagnée en Tuant des Ennemis Embrasés",
     "ids": {
       "explicit": "stat_893903361"
+    }
+  },
+  {
+    "text": "Consomme 1 Charge de frénésie à l'utilisation",
+    "ids": {
+      "explicit": "stat_570159344"
     }
   },
   {
@@ -4678,6 +4717,13 @@
     }
   },
   {
+    "text": "Les Créatures ont #% à la Résistance au chaos",
+    "ids": {
+      "explicit": "stat_3837707023",
+      "fractured": "stat_3837707023"
+    }
+  },
+  {
     "text": "#% de chances d'octroyer Assaut pendant 3 secondes aux Ennemis à proximité en Tuant",
     "ids": {
       "explicit": "stat_1924591908"
@@ -4749,6 +4795,12 @@
     }
   },
   {
+    "text": "Toutes vos Gemmes d'Aptitudes de Sorts de feu ont # Niveaux",
+    "ids": {
+      "explicit": "stat_591105508"
+    }
+  },
+  {
     "text": "#% d'Augmentation des Dégâts d'Attaque contre les Ennemis qui Saignent",
     "ids": {
       "explicit": "stat_3944782785",
@@ -4756,15 +4808,16 @@
     }
   },
   {
-    "text": "Toutes vos Gemmes d'Aptitudes de Sorts de feu ont # Niveaux",
-    "ids": {
-      "explicit": "stat_591105508"
-    }
-  },
-  {
     "text": "# de Mana tous les 4 de Force",
     "ids": {
       "explicit": "stat_507075051"
+    }
+  },
+  {
+    "text": "Ajoute # à # Dégâts de feu aux Attaques à la dague",
+    "ids": {
+      "explicit": "stat_1910361436",
+      "fractured": "stat_1910361436"
     }
   },
   {
@@ -4786,13 +4839,6 @@
     "ids": {
       "explicit": "stat_429867172",
       "crafted": "stat_429867172"
-    }
-  },
-  {
-    "text": "#% d'Augmentation des Dégâts d'Attaque tant que vous tenez un bouclier",
-    "ids": {
-      "explicit": "stat_1393393937",
-      "fractured": "stat_1393393937"
     }
   },
   {
@@ -4911,6 +4957,12 @@
     }
   },
   {
+    "text": "Toutes vos Gemmes d'Aptitudes de Sorts de froid ont # Niveaux",
+    "ids": {
+      "explicit": "stat_2254480358"
+    }
+  },
+  {
     "text": "# de Vie tous les 4 de Dextérité",
     "ids": {
       "explicit": "stat_2042405614"
@@ -4952,6 +5004,18 @@
     "ids": {
       "explicit": "stat_3376452528",
       "fractured": "stat_3376452528"
+    }
+  },
+  {
+    "text": "Déclenche Explosion spirituelle (Niveau #) lorsque vous utilisez une Aptitude tout en ayant une Charge d'esprit",
+    "ids": {
+      "explicit": "stat_1992516007"
+    }
+  },
+  {
+    "text": "Toutes vos Gemmes d'Aptitudes de Sorts de chaos ont # Niveaux",
+    "ids": {
+      "explicit": "stat_4226189338"
     }
   },
   {
@@ -5024,13 +5088,6 @@
     "ids": {
       "explicit": "stat_2671663397",
       "fractured": "stat_2671663397"
-    }
-  },
-  {
-    "text": "Ajoute # à # Dégâts de feu aux Attaques à la dague",
-    "ids": {
-      "explicit": "stat_1910361436",
-      "fractured": "stat_1910361436"
     }
   },
   {
@@ -5129,12 +5186,6 @@
     }
   },
   {
-    "text": "Consomme 1 Charge de frénésie à l'utilisation",
-    "ids": {
-      "explicit": "stat_570159344"
-    }
-  },
-  {
     "text": "Pendant l'Effet du Flacon, les Dégâts ont #% de Pénétration de tous les éléments pour lesquels votre Résistance élémentaire totale est la plus élevée",
     "ids": {
       "explicit": "stat_2444301311"
@@ -5187,6 +5238,13 @@
     }
   },
   {
+    "text": "#% d'Augmentation de la Durée des Charge d'endurance",
+    "ids": {
+      "explicit": "stat_1170174456",
+      "implicit": "stat_1170174456"
+    }
+  },
+  {
     "text": "#% des Dégâts de froid sont Convertis en Dégâts de feu",
     "ids": {
       "explicit": "stat_723832351"
@@ -5217,6 +5275,12 @@
     "text": "Les Passifs dans le Rayon peuvent être alloués sans être connectés à votre arbre",
     "ids": {
       "explicit": "stat_4077035099"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Vitesse de déplacement tant que le Bouclier d'énergie est Plein",
+    "ids": {
+      "explicit": "stat_2825197711"
     }
   },
   {
@@ -5259,12 +5323,6 @@
     }
   },
   {
-    "text": "Avec au moins 40 de Force dans le Rayon, Taillade octroie Renforcement au Toucher",
-    "ids": {
-      "explicit": "stat_1248507170"
-    }
-  },
-  {
     "text": "Ajoute # à # Dégâts de foudre aux Sorts lorsque vous tenez un bouclier",
     "ids": {
       "explicit": "stat_1801889979",
@@ -5272,9 +5330,9 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Vitesse de déplacement tant que le Bouclier d'énergie est Plein",
+    "text": "Avec au moins 40 de Force dans le Rayon, Taillade octroie Renforcement au Toucher",
     "ids": {
-      "explicit": "stat_2825197711"
+      "explicit": "stat_1248507170"
     }
   },
   {
@@ -5293,13 +5351,6 @@
     "text": "La Zone ne contient pas de Monstres",
     "ids": {
       "explicit": "stat_1626998468"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de la Durée des Charge d'endurance",
-    "ids": {
-      "explicit": "stat_1170174456",
-      "implicit": "stat_1170174456"
     }
   },
   {
@@ -5324,12 +5375,6 @@
     "text": "Avec au moins 40 d'Intelligence dans le Rayon, Orbe de magma tire un Projectile supplémentaire",
     "ids": {
       "explicit": "stat_2542542825"
-    }
-  },
-  {
-    "text": "#% d'Augmentation des Dégâts subis",
-    "ids": {
-      "explicit": "stat_3691641145"
     }
   },
   {
@@ -5377,6 +5422,12 @@
       "explicit": "stat_3002506763",
       "implicit": "stat_3002506763",
       "fractured": "stat_3002506763"
+    }
+  },
+  {
+    "text": "Le Boss Unique cède # Rare supplémentaire #",
+    "ids": {
+      "explicit": "stat_2343216207"
     }
   },
   {
@@ -5429,12 +5480,6 @@
     "text": "# de Bouclier d'énergie gagné en Tuant",
     "ids": {
       "explicit": "stat_2528955616"
-    }
-  },
-  {
-    "text": "Toutes vos Gemmes d'Aptitudes de Sorts de froid ont # Niveaux",
-    "ids": {
-      "explicit": "stat_2254480358"
     }
   },
   {
@@ -5562,9 +5607,22 @@
     }
   },
   {
+    "text": "#% d'Augmentation des Dégâts de feu subis",
+    "ids": {
+      "explicit": "stat_3743301799",
+      "implicit": "stat_3743301799"
+    }
+  },
+  {
     "text": "Conducteur de Charges",
     "ids": {
       "explicit": "stat_1994392904"
+    }
+  },
+  {
+    "text": "#% de chances d'octroyer une Charge de pouvoir aux Alliés à proximité en Tuant",
+    "ids": {
+      "explicit": "stat_2367680009"
     }
   },
   {
@@ -5595,6 +5653,12 @@
     "text": "#% de chances par Charge de frénésie d'Esquiver les Attaques qui Touchent",
     "ids": {
       "explicit": "stat_172894060"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de l'Effet des Effets bénéfiques octroyés par vos Golems",
+    "ids": {
+      "explicit": "stat_2109043683"
     }
   },
   {
@@ -5635,6 +5699,12 @@
     }
   },
   {
+    "text": "Les Gemmes Enchâssées sont modifiées par Ralentissement des Projectiles (Niveau #)",
+    "ids": {
+      "explicit": "stat_1390285657"
+    }
+  },
+  {
     "text": "#% de Réduction de la Durée d'Étincelle",
     "ids": {
       "explicit": "stat_3420284170"
@@ -5647,21 +5717,9 @@
     }
   },
   {
-    "text": "Le Boss Unique cède # Rare supplémentaire #",
-    "ids": {
-      "explicit": "stat_2343216207"
-    }
-  },
-  {
     "text": "Gagnez une Charge d'endurance lorsque vous subissez un Coup critique",
     "ids": {
       "explicit": "stat_2609824731"
-    }
-  },
-  {
-    "text": "Les Gemmes Enchâssées sont modifiées par Ralentissement des Projectiles (Niveau #)",
-    "ids": {
-      "explicit": "stat_1390285657"
     }
   },
   {
@@ -5806,6 +5864,18 @@
     }
   },
   {
+    "text": "#% d'Augmentation des Dégâts physiques des griffes tant que votre Vie est Basse",
+    "ids": {
+      "explicit": "stat_1081444608"
+    }
+  },
+  {
+    "text": "#% d'Augmentation du Score de Précision tant que votre Vie est Basse",
+    "ids": {
+      "explicit": "stat_347697569"
+    }
+  },
+  {
     "text": "#% d'Augmentation de l'Effet des Flacons qui vous affectent",
     "ids": {
       "explicit": "stat_114734841",
@@ -5837,10 +5907,9 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts de feu subis",
+    "text": "#% d'Augmentation de la Rareté des Objets trouvés pendant l'Effet du Flacon",
     "ids": {
-      "explicit": "stat_3743301799",
-      "implicit": "stat_3743301799"
+      "explicit": "stat_1740200922"
     }
   },
   {
@@ -5854,12 +5923,6 @@
     "ids": {
       "explicit": "stat_1181129483",
       "fractured": "stat_1181129483"
-    }
-  },
-  {
-    "text": "#% d'Augmentation des Dégâts physiques des griffes tant que votre Vie est Basse",
-    "ids": {
-      "explicit": "stat_1081444608"
     }
   },
   {
@@ -5907,33 +5970,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation du Score de Précision tant que votre Vie est Basse",
-    "ids": {
-      "explicit": "stat_347697569"
-    }
-  },
-  {
     "text": "Vos Golems ont #% d'Augmentation de Vitesse de récupération",
     "ids": {
       "explicit": "stat_3246099900"
     }
   },
   {
-    "text": "#% d'Augmentation de la Rareté des Objets trouvés pendant l'Effet du Flacon",
-    "ids": {
-      "explicit": "stat_1740200922"
-    }
-  },
-  {
     "text": "Équiper l'objet déclenche Marche de la mort (Niveau #)",
     "ids": {
       "explicit": "stat_651875072"
-    }
-  },
-  {
-    "text": "# de Vie gagnée par Ennemi Touché par vos Sorts",
-    "ids": {
-      "explicit": "stat_2018035324"
     }
   },
   {
@@ -5975,13 +6020,6 @@
     }
   },
   {
-    "text": "Les Créatures ont #% à la Résistance au chaos",
-    "ids": {
-      "explicit": "stat_3837707023",
-      "fractured": "stat_3837707023"
-    }
-  },
-  {
     "text": "#% de Régénération de Vie par seconde pendant que vous êtes Gelé",
     "ids": {
       "explicit": "stat_2656696317"
@@ -6004,6 +6042,12 @@
     "text": "#% d'Augmentation de Dégâts tant que vous êtes Embrasé",
     "ids": {
       "explicit": "stat_1686122637"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts avec le Poison si vous avez au moins 300 de Dextérité",
+    "ids": {
+      "explicit": "stat_256730087"
     }
   },
   {
@@ -6072,15 +6116,15 @@
     }
   },
   {
-    "text": "Les Attaques avec la main principale Ricochent une fois de plus",
-    "ids": {
-      "explicit": "stat_2466604008"
-    }
-  },
-  {
     "text": "# au Score d'Évasion tant que votre Vie est Pleine",
     "ids": {
       "explicit": "stat_4082111882"
+    }
+  },
+  {
+    "text": "Les Attaques avec la main principale Ricochent une fois de plus",
+    "ids": {
+      "explicit": "stat_2466604008"
     }
   },
   {
@@ -6186,12 +6230,6 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts avec le Poison si vous avez au moins 300 de Dextérité",
-    "ids": {
-      "explicit": "stat_256730087"
-    }
-  },
-  {
     "text": "Les Créatures ont #% de chances de Geler, Électrocuter et Embraser",
     "ids": {
       "explicit": "stat_1994549323"
@@ -6207,6 +6245,12 @@
     "text": "Les Ennemis à proximité sont Aveuglés",
     "ids": {
       "explicit": "stat_2826979740"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Rareté des Objets cédés par les Ennemis Gelés",
+    "ids": {
+      "explicit": "stat_2138434718"
     }
   },
   {
@@ -6302,12 +6346,6 @@
     }
   },
   {
-    "text": "Toutes vos Gemmes d'Aptitudes de Sorts de chaos ont # Niveaux",
-    "ids": {
-      "explicit": "stat_4226189338"
-    }
-  },
-  {
     "text": "Les Créatures ont #% de chances d'infliger des Dégâts doublés",
     "ids": {
       "explicit": "stat_755922799"
@@ -6342,12 +6380,6 @@
     "text": "#% d'Augmentation de la Vie Récupérée",
     "ids": {
       "explicit": "stat_1261982764"
-    }
-  },
-  {
-    "text": "#% de chances d'octroyer une Charge de pouvoir aux Alliés à proximité en Tuant",
-    "ids": {
-      "explicit": "stat_2367680009"
     }
   },
   {
@@ -6390,6 +6422,14 @@
     }
   },
   {
+    "text": "#% d'Augmentation des Dégâts de l'Attaque",
+    "ids": {
+      "explicit": "stat_2843214518",
+      "implicit": "stat_2843214518",
+      "fractured": "stat_2843214518"
+    }
+  },
+  {
     "text": "#% de Vie Régénérée par seconde si vous avez été Touché(e) Récemment",
     "ids": {
       "explicit": "stat_2201614328"
@@ -6418,12 +6458,6 @@
     "text": "Renvoi des Malédictions",
     "ids": {
       "explicit": "stat_1731672673"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de l'Effet des Effets bénéfiques octroyés par vos Golems",
-    "ids": {
-      "explicit": "stat_2109043683"
     }
   },
   {
@@ -6509,24 +6543,10 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Rareté des Objets cédés par les Ennemis Gelés",
-    "ids": {
-      "explicit": "stat_2138434718"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Défenses Globales",
     "ids": {
       "explicit": "stat_1389153006",
       "implicit": "stat_1389153006"
-    }
-  },
-  {
-    "text": "#% d'Augmentation des Dégâts de l'Attaque",
-    "ids": {
-      "explicit": "stat_2843214518",
-      "implicit": "stat_2843214518",
-      "fractured": "stat_2843214518"
     }
   },
   {
@@ -6669,12 +6689,6 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts physiques de mêlée tous les 10 de Dextérité",
-    "ids": {
-      "explicit": "stat_2355151849"
-    }
-  },
-  {
     "text": "Les Ennemis ne peuvent pas Drainer votre Vie",
     "ids": {
       "explicit": "stat_4293455942",
@@ -6706,15 +6720,15 @@
     }
   },
   {
-    "text": "+#% au Multiplicateur de coup critique Global par Châsse verte",
-    "ids": {
-      "explicit": "stat_35810390"
-    }
-  },
-  {
     "text": "Ajoute # à # Dégâts de Chaos aux Sorts et Attaques pendant l'Effet de n'importe quel Flacon",
     "ids": {
       "explicit": "stat_3519268108"
+    }
+  },
+  {
+    "text": "+#% au Multiplicateur de coup critique Global par Châsse verte",
+    "ids": {
+      "explicit": "stat_35810390"
     }
   },
   {
@@ -6748,9 +6762,10 @@
     }
   },
   {
-    "text": "Déclenche Explosion spirituelle (Niveau #) lorsque vous utilisez une Aptitude tout en ayant une Charge d'esprit",
+    "text": "Les Gemmes Enchâssées sont modifiées par Inspiration (Niveau #)",
     "ids": {
-      "explicit": "stat_1992516007"
+      "explicit": "stat_1866911844",
+      "implicit": "stat_1866911844"
     }
   },
   {
@@ -6758,13 +6773,6 @@
     "ids": {
       "explicit": "stat_1169502663",
       "implicit": "stat_1169502663"
-    }
-  },
-  {
-    "text": "Les Gemmes Enchâssées sont modifiées par Inspiration (Niveau #)",
-    "ids": {
-      "explicit": "stat_1866911844",
-      "implicit": "stat_1866911844"
     }
   },
   {
@@ -6858,14 +6866,6 @@
     "text": "#% d'Augmentation de la Vitesse d'attaque si vous avez Tué Récemment",
     "ids": {
       "explicit": "stat_1507059769"
-    }
-  },
-  {
-    "text": "Ajoute # à # Dégâts de foudre",
-    "ids": {
-      "explicit": "stat_1334060246",
-      "implicit": "stat_1334060246",
-      "crafted": "stat_1334060246"
     }
   },
   {
@@ -7022,6 +7022,12 @@
     }
   },
   {
+    "text": "# au Niveau des Gemmes élémentaires Enchâssées",
+    "ids": {
+      "explicit": "stat_3571342795"
+    }
+  },
+  {
     "text": "#% d'Augmentation de la Vitesse de récupération des Cris de guerre",
     "ids": {
       "explicit": "stat_4159248054"
@@ -7132,9 +7138,21 @@
     }
   },
   {
+    "text": "Les Gemmes enchâssées sont modifiées par Cascade de sorts (Niveau #)",
+    "ids": {
+      "explicit": "stat_503990161"
+    }
+  },
+  {
     "text": "L'Arc Repousse à courte portée",
     "ids": {
       "explicit": "stat_3261557635"
+    }
+  },
+  {
+    "text": "Vos Coups Critiques ont Coup de grâce",
+    "ids": {
+      "explicit": "stat_2996445420"
     }
   },
   {
@@ -7187,6 +7205,13 @@
     }
   },
   {
+    "text": "#% des Dégâts physiques au Toucher sont subis sous forme de Dégâts de chaos",
+    "ids": {
+      "explicit": "stat_4129825612",
+      "implicit": "stat_4129825612"
+    }
+  },
+  {
     "text": "#% d'Augmentation des Dégâts des Sorts tous les 10 d'Intelligence",
     "ids": {
       "explicit": "stat_2818518881",
@@ -7200,16 +7225,16 @@
     }
   },
   {
-    "text": "Les Gemmes enchâssées sont modifiées par Cascade de sorts (Niveau #)",
-    "ids": {
-      "explicit": "stat_503990161"
-    }
-  },
-  {
     "text": "#% de Réduction de la Durée de l'Électrocution sur vous",
     "ids": {
       "explicit": "stat_99927264",
       "implicit": "stat_99927264"
+    }
+  },
+  {
+    "text": "Octroie l'Aptitude Invocation de Précurseur des Arcanes",
+    "ids": {
+      "explicit": "stat_3872739249"
     }
   },
   {
@@ -7243,12 +7268,6 @@
     "ids": {
       "explicit": "stat_3882662078",
       "fractured": "stat_3882662078"
-    }
-  },
-  {
-    "text": "Vos Coups Critiques ont Coup de grâce",
-    "ids": {
-      "explicit": "stat_2996445420"
     }
   },
   {
@@ -7367,6 +7386,12 @@
     }
   },
   {
+    "text": "#% des Dégâts de foudre Drainent de la Vie pendant l'Effet du Flacon",
+    "ids": {
+      "explicit": "stat_2687254633"
+    }
+  },
+  {
     "text": "Vos Poisons infligent leurs Dégâts #% plus rapidement",
     "ids": {
       "explicit": "stat_2907156609",
@@ -7386,9 +7411,9 @@
     }
   },
   {
-    "text": "Octroie l'Aptitude Invocation de Précurseur des Arcanes",
+    "text": "#% de chances de ne pas être affecté(e) par les Projectiles pendant le Déphasage",
     "ids": {
-      "explicit": "stat_3872739249"
+      "explicit": "stat_3635120731"
     }
   },
   {
@@ -7423,6 +7448,12 @@
     }
   },
   {
+    "text": "Baliste de siège a # au nombre maximum de Totems Invoqués tous les 200 de Dextérité",
+    "ids": {
+      "explicit": "stat_2125178364"
+    }
+  },
+  {
     "text": "#% d'Augmentation des Effets des Offrandes",
     "ids": {
       "explicit": "stat_3191479793"
@@ -7447,12 +7478,6 @@
     }
   },
   {
-    "text": "#% des Dégâts de foudre Drainent de la Vie pendant l'Effet du Flacon",
-    "ids": {
-      "explicit": "stat_2687254633"
-    }
-  },
-  {
     "text": "#% de chances d'Aveugler les Ennemis avec les Coups critiques",
     "ids": {
       "explicit": "stat_3983981705"
@@ -7471,12 +7496,6 @@
     }
   },
   {
-    "text": "Baliste de siège a # au nombre maximum de Totems Invoqués tous les 200 de Dextérité",
-    "ids": {
-      "explicit": "stat_2125178364"
-    }
-  },
-  {
     "text": "Avec 1000 ou davantage de Force, #% des Dégâts infligés par vos Zombies Drainent de la Vie pour vous",
     "ids": {
       "explicit": "stat_2802263253"
@@ -7486,12 +7505,6 @@
     "text": "Les Malédictions dans cet Objet vous sont Renvoyées",
     "ids": {
       "explicit": "stat_32859524"
-    }
-  },
-  {
-    "text": "#% de chances de ne pas être affecté(e) par les Projectiles pendant le Déphasage",
-    "ids": {
-      "explicit": "stat_3635120731"
     }
   },
   {
@@ -7684,9 +7697,21 @@
     }
   },
   {
+    "text": "Les Gemmes Enchâssées sont modifiées par Dégâts de foudre supplémentaires (Niveau #)",
+    "ids": {
+      "explicit": "stat_1647529598"
+    }
+  },
+  {
     "text": "#% d'Augmentation de la Récupération lorsque la Vie est Basse",
     "ids": {
       "explicit": "stat_886931978"
+    }
+  },
+  {
+    "text": "#% de déclencher un Sort Enchâssé lorsque vous Attaquez avec cette arme",
+    "ids": {
+      "explicit": "stat_209056835"
     }
   },
   {
@@ -7696,9 +7721,9 @@
     }
   },
   {
-    "text": "#% de déclencher un Sort Enchâssé lorsque vous Attaquez avec cette arme",
+    "text": "#% de chances de créer du Sol frigorifié lorsque vous Gelez un Ennemi",
     "ids": {
-      "explicit": "stat_209056835"
+      "explicit": "stat_2901262227"
     }
   },
   {
@@ -7717,12 +7742,6 @@
     "text": "#% d'Augmentation des Dégâts de feu si vous avez utilisé une Aptitude de froid Récemment",
     "ids": {
       "explicit": "stat_4167600809"
-    }
-  },
-  {
-    "text": "#% de chances de créer du Sol frigorifié lorsque vous Gelez un Ennemi",
-    "ids": {
-      "explicit": "stat_2901262227"
     }
   },
   {
@@ -7805,6 +7824,12 @@
     }
   },
   {
+    "text": "#% des Dégâts de foudre sont Convertis en Dégâts de froid",
+    "ids": {
+      "explicit": "stat_2158060122"
+    }
+  },
+  {
     "text": "Le Seuil d'Étourdissement est basé sur le Bouclier d'énergie plutôt que sur la Vie",
     "ids": {
       "explicit": "stat_2562665460"
@@ -7841,6 +7866,13 @@
     }
   },
   {
+    "text": "Les Gemmes Enchâssées sont modifiées par Précision accrue (Niveau #)",
+    "ids": {
+      "explicit": "stat_1567462963",
+      "implicit": "stat_1567462963"
+    }
+  },
+  {
     "text": "#% au Multiplicateur des Dégâts de chaos sur la durée ne provenant pas d'Altérations",
     "ids": {
       "explicit": "stat_1653010703",
@@ -7856,9 +7888,9 @@
     }
   },
   {
-    "text": "Avec au moins 40 de Dextérité dans le Rayon, Tir de barrage tire un Projectile supplémentaire lors de la première et dernière Attaque",
+    "text": "Avec au moins 40 d'Intelligence dans le Rayon, Invocation de Squelettes peut Invoquer jusqu'à # Mages Squelettes",
     "ids": {
-      "explicit": "stat_630867098"
+      "explicit": "stat_3088991881"
     }
   },
   {
@@ -7868,9 +7900,9 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Dégâts de foudre supplémentaires (Niveau #)",
+    "text": "Avec au moins 40 de Dextérité dans le Rayon, Tir de barrage tire un Projectile supplémentaire lors de la première et dernière Attaque",
     "ids": {
-      "explicit": "stat_1647529598"
+      "explicit": "stat_630867098"
     }
   },
   {
@@ -7889,6 +7921,12 @@
     "text": "#% d'Augmentation de la Vitesse de recharge des Pièges disponibles",
     "ids": {
       "explicit": "stat_3417757416"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts physiques avec les armes tous les 10 de Force",
+    "ids": {
+      "explicit": "stat_2594215131"
     }
   },
   {
@@ -7925,6 +7963,12 @@
     }
   },
   {
+    "text": "Vous gagnez une Charge de frénésie tous les 50 Ennemis Tués pendant le Carnage",
+    "ids": {
+      "explicit": "stat_637690626"
+    }
+  },
+  {
     "text": "Les Projectiles Transpercent une cible supplémentaire tant que vous avez Déphasage",
     "ids": {
       "explicit": "stat_97250660"
@@ -7941,12 +7985,6 @@
     "ids": {
       "explicit": "stat_105466375",
       "implicit": "stat_105466375"
-    }
-  },
-  {
-    "text": "Avec au moins 40 d'Intelligence dans le Rayon, Invocation de Squelettes peut Invoquer jusqu'à # Mages Squelettes",
-    "ids": {
-      "explicit": "stat_3088991881"
     }
   },
   {
@@ -7974,15 +8012,21 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts physiques avec les armes tous les 10 de Force",
-    "ids": {
-      "explicit": "stat_2594215131"
-    }
-  },
-  {
     "text": "# seconde au Temps de recharge d'Invocation de Squelettes",
     "ids": {
       "explicit": "stat_3013430129"
+    }
+  },
+  {
+    "text": "Votre Drain de vie ne s'arrête plus lorsque votre Vie est Pleine\nLorsque votre Vie est Pleine, votre Drain de vie Draine du Bouclier d'énergie à la place",
+    "ids": {
+      "explicit": "stat_990335387"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts de feu au Toucher et avec les Altérations contre les Ennemis Aveuglés",
+    "ids": {
+      "explicit": "stat_1601181226"
     }
   },
   {
@@ -8031,12 +8075,6 @@
     "text": "# Dégâts physiques subis de la part des Attaques à Projectiles ",
     "ids": {
       "explicit": "stat_3612407781"
-    }
-  },
-  {
-    "text": "#% d'Augmentation des Dégâts de feu au Toucher et avec les Altérations contre les Ennemis Aveuglés",
-    "ids": {
-      "explicit": "stat_1601181226"
     }
   },
   {
@@ -8192,12 +8230,6 @@
     }
   },
   {
-    "text": "# au Niveau des Gemmes élémentaires Enchâssées",
-    "ids": {
-      "explicit": "stat_3571342795"
-    }
-  },
-  {
     "text": "#% des Dégâts physiques des attaques Drainent de la Vie pendant l'Effet du Flacon",
     "ids": {
       "explicit": "stat_3111255591"
@@ -8270,6 +8302,13 @@
     }
   },
   {
+    "text": "#% des Dégâts physiques Drainent de la Vie",
+    "ids": {
+      "explicit": "stat_3764265320",
+      "implicit": "stat_3764265320"
+    }
+  },
+  {
     "text": "N'inflige pas de Dégâts élémentaires",
     "ids": {
       "explicit": "stat_2998305364"
@@ -8285,12 +8324,6 @@
     "text": "# au Bouclier d'énergie maximal tous les 5 de Force",
     "ids": {
       "explicit": "stat_3788706881"
-    }
-  },
-  {
-    "text": "#% des Dégâts de foudre sont Convertis en Dégâts de froid",
-    "ids": {
-      "explicit": "stat_2158060122"
     }
   },
   {
@@ -8411,6 +8444,12 @@
     "text": "#% de Réduction des Dégâts des Sorts subis de la part des Ennemis Aveuglés",
     "ids": {
       "explicit": "stat_1165847826"
+    }
+  },
+  {
+    "text": "Vos Coups critiques ne Gèlent plus de manière inhérente",
+    "ids": {
+      "explicit": "stat_3979476531"
     }
   },
   {
@@ -8648,6 +8687,12 @@
     }
   },
   {
+    "text": "Vous perdez toutes vos Charges d'endurance en atteignant votre maximum de Charges d'endurance",
+    "ids": {
+      "explicit": "stat_3590104875"
+    }
+  },
+  {
     "text": "Octroie l'Aptitude Fléau (Niveau #)",
     "ids": {
       "explicit": "stat_1198418726"
@@ -8671,12 +8716,6 @@
     "text": "Tous les Dégâts de vos Attaques Frigorifient lorsque vous Étourdissez",
     "ids": {
       "explicit": "stat_2437193018"
-    }
-  },
-  {
-    "text": "Vous perdez toutes vos Charges d'endurance en atteignant votre maximum de Charges d'endurance",
-    "ids": {
-      "explicit": "stat_3590104875"
     }
   },
   {
@@ -8762,10 +8801,9 @@
     }
   },
   {
-    "text": "#% des Dégâts physiques au Toucher sont subis sous forme de Dégâts de chaos",
+    "text": "Les Électrocutions que vous infligez vous sont Renvoyées",
     "ids": {
-      "explicit": "stat_4129825612",
-      "implicit": "stat_4129825612"
+      "explicit": "stat_807955413"
     }
   },
   {
@@ -8793,15 +8831,15 @@
     }
   },
   {
-    "text": "Les Totems tirent # Projectile supplémentaire",
-    "ids": {
-      "explicit": "stat_736847554"
-    }
-  },
-  {
     "text": "Perdez toutes vos Charges de pouvoir en atteignant votre maximum de Charges de pouvoir",
     "ids": {
       "explicit": "stat_2135899247"
+    }
+  },
+  {
+    "text": "Les Totems tirent # Projectile supplémentaire",
+    "ids": {
+      "explicit": "stat_736847554"
     }
   },
   {
@@ -8849,21 +8887,9 @@
     }
   },
   {
-    "text": "Vos Coups critiques ne Gèlent plus de manière inhérente",
-    "ids": {
-      "explicit": "stat_3979476531"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vitesse de déplacement tant que vous êtes Électrocuté",
     "ids": {
       "explicit": "stat_542923416"
-    }
-  },
-  {
-    "text": "Les Électrocutions que vous infligez vous sont Renvoyées",
-    "ids": {
-      "explicit": "stat_807955413"
     }
   },
   {
@@ -8976,13 +9002,6 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Précision accrue (Niveau #)",
-    "ids": {
-      "explicit": "stat_1567462963",
-      "implicit": "stat_1567462963"
-    }
-  },
-  {
     "text": "Conviction mortelle",
     "ids": {
       "explicit": "stat_1585280892"
@@ -9016,6 +9035,12 @@
     "text": "Ne peut pas Repousser les Ennemis",
     "ids": {
       "explicit": "stat_2095084973"
+    }
+  },
+  {
+    "text": "# au Niveau des Gemmes de Golem enchâssées",
+    "ids": {
+      "explicit": "stat_3448743676"
     }
   },
   {
@@ -9094,15 +9119,15 @@
     }
   },
   {
-    "text": "Ne Bloque jamais",
-    "ids": {
-      "explicit": "stat_4127720801"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Dégâts de chaos par Niveau",
     "ids": {
       "explicit": "stat_4084331136"
+    }
+  },
+  {
+    "text": "Ne Bloque jamais",
+    "ids": {
+      "explicit": "stat_4127720801"
     }
   },
   {
@@ -9160,6 +9185,12 @@
     "text": "Les Gemmes Enchâssées sont modifiées par Transpercement (Niveau #)",
     "ids": {
       "explicit": "stat_2433615566"
+    }
+  },
+  {
+    "text": "#% des Dégâts élémentaires au Toucher sont subis sous forme de Dégâts de chaos",
+    "ids": {
+      "explicit": "stat_1175213674"
     }
   },
   {
@@ -9286,12 +9317,6 @@
     }
   },
   {
-    "text": "# au Niveau des Gemmes de Golem enchâssées",
-    "ids": {
-      "explicit": "stat_3448743676"
-    }
-  },
-  {
     "text": "Les Modificateurs de Dégâts des Sorts s'appliquent également aux Dégâts d'Attaque",
     "ids": {
       "explicit": "stat_3811649872"
@@ -9307,12 +9332,6 @@
     "text": "Vous Récupérez #% de Vie lorsque l'Effet du Flacon prend fin",
     "ids": {
       "explicit": "stat_4078194486"
-    }
-  },
-  {
-    "text": "#% des Dégâts élémentaires au Toucher sont subis sous forme de Dégâts de chaos",
-    "ids": {
-      "explicit": "stat_1175213674"
     }
   },
   {
@@ -9334,22 +9353,9 @@
     }
   },
   {
-    "text": "Vous gagnez une Charge de frénésie tous les 50 Ennemis Tués pendant le Carnage",
-    "ids": {
-      "explicit": "stat_637690626"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vitesse d'attaque tous les 25 de Dextérité",
     "ids": {
       "explicit": "stat_2241560081"
-    }
-  },
-  {
-    "text": "#% des Dégâts physiques Drainent de la Vie",
-    "ids": {
-      "explicit": "stat_3764265320",
-      "implicit": "stat_3764265320"
     }
   },
   {
@@ -9377,6 +9383,12 @@
     }
   },
   {
+    "text": "#% de chances de ne pas subir le Gel pendant l'Effet du Flacon",
+    "ids": {
+      "explicit": "stat_2872815301"
+    }
+  },
+  {
     "text": "#% de chances pour les Pièges de se Déclencher une fois supplémentaire",
     "ids": {
       "explicit": "stat_1087710344"
@@ -9389,9 +9401,21 @@
     }
   },
   {
+    "text": "# de Force tous les 1 de Force dans les Talents alloués dans le Rayon",
+    "ids": {
+      "explicit": "stat_552705983"
+    }
+  },
+  {
     "text": "Invoque un Squelette supplémentaire avec Invocation de Squelettes",
     "ids": {
       "explicit": "stat_1589090910"
+    }
+  },
+  {
+    "text": "Les Dégâts de foudre des Ennemis qui vous Touchent sont Chanceux",
+    "ids": {
+      "explicit": "stat_4224965099"
     }
   },
   {
@@ -9438,12 +9462,6 @@
     }
   },
   {
-    "text": "Les Dégâts de foudre des Ennemis qui vous Touchent sont Chanceux",
-    "ids": {
-      "explicit": "stat_4224965099"
-    }
-  },
-  {
     "text": "Ajoutez # à # Dégâts de foudre au Toucher contre les Ennemis Embrasés",
     "ids": {
       "explicit": "stat_2870108850"
@@ -9472,12 +9490,6 @@
     "ids": {
       "explicit": "stat_710372469",
       "implicit": "stat_710372469"
-    }
-  },
-  {
-    "text": "#% de chances de ne pas subir le Gel pendant l'Effet du Flacon",
-    "ids": {
-      "explicit": "stat_2872815301"
     }
   },
   {
@@ -9561,6 +9573,12 @@
     }
   },
   {
+    "text": "La Dextérité et l'Intelligence des Passifs dans le Rayon s'ajoutent à la Force pour déterminer le bonus de Dégâts de mêlée qui en découle",
+    "ids": {
+      "explicit": "stat_842363566"
+    }
+  },
+  {
     "text": "La Zone est habitée par des Sirènes et leurs Progénitures",
     "ids": {
       "explicit": "stat_25085466"
@@ -9576,6 +9594,12 @@
     "text": "Octroie l'Aptitude Aura de mort (Niveau #)",
     "ids": {
       "explicit": "stat_825352061"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifiées par Augmentation de Durée (Niveau #)",
+    "ids": {
+      "explicit": "stat_407317553"
     }
   },
   {
@@ -9603,9 +9627,21 @@
     }
   },
   {
+    "text": "Les Augmentations et les Réductions des Dégâts des Créatures vous affectent également",
+    "ids": {
+      "explicit": "stat_1631928082"
+    }
+  },
+  {
     "text": "#% de Réduction du Coût en Mana de Réanimation en Spectre",
     "ids": {
       "explicit": "stat_262301496"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Zone d'effet des Attaques",
+    "ids": {
+      "explicit": "stat_1840985759"
     }
   },
   {
@@ -9654,6 +9690,12 @@
     "text": "Vos Golems ont #% d'Augmentation de la Vie maximale",
     "ids": {
       "explicit": "stat_1750735210"
+    }
+  },
+  {
+    "text": "#% des Dégâts des Sorts sont Drainés sous forme de Bouclier d'énergie pendant l'Effet du Flacon",
+    "ids": {
+      "explicit": "stat_1456464057"
     }
   },
   {
@@ -9724,12 +9766,6 @@
     }
   },
   {
-    "text": "Les Augmentations et les Réductions des Dégâts des Créatures vous affectent également",
-    "ids": {
-      "explicit": "stat_1631928082"
-    }
-  },
-  {
     "text": "Rajoute #% des Dégâts physiques sous forme de Dégâts de froid pendant l'Effet",
     "ids": {
       "explicit": "stat_2661163721"
@@ -9788,12 +9824,6 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Augmentation de Durée (Niveau #)",
-    "ids": {
-      "explicit": "stat_407317553"
-    }
-  },
-  {
     "text": "#% de chances de Maudire au Toucher les Ennemis avec la Gemme de Malédiction Enchâssée",
     "ids": {
       "explicit": "stat_1352418057"
@@ -9848,12 +9878,6 @@
     }
   },
   {
-    "text": "#% des Dégâts des Sorts sont Drainés sous forme de Bouclier d'énergie pendant l'Effet du Flacon",
-    "ids": {
-      "explicit": "stat_1456464057"
-    }
-  },
-  {
     "text": "La Zone est habitée par les Vaal",
     "ids": {
       "explicit": "stat_2609768284"
@@ -9863,12 +9887,6 @@
     "text": "Empreintes célestes",
     "ids": {
       "explicit": "stat_50381303"
-    }
-  },
-  {
-    "text": "# de Force tous les 1 de Force dans les Talents alloués dans le Rayon",
-    "ids": {
-      "explicit": "stat_552705983"
     }
   },
   {
@@ -9890,6 +9908,12 @@
     }
   },
   {
+    "text": "Octroie l'Aptitude Rayon calcinant (Niveau #)",
+    "ids": {
+      "explicit": "stat_1540840"
+    }
+  },
+  {
     "text": "Les Gemmes Enchâssées sont modifiées par Perte de Durée (Niveau #)",
     "ids": {
       "explicit": "stat_2487643588"
@@ -9899,12 +9923,6 @@
     "text": "Ajoute # à # Dégâts de foudre aux Sorts par Charge de pouvoir",
     "ids": {
       "explicit": "stat_4085417083"
-    }
-  },
-  {
-    "text": "La Zone a # vagues de monstres",
-    "ids": {
-      "explicit": "stat_4182502594"
     }
   },
   {
@@ -9951,21 +9969,15 @@
     }
   },
   {
-    "text": "Octroie l'Aptitude Rayon calcinant (Niveau #)",
-    "ids": {
-      "explicit": "stat_1540840"
-    }
-  },
-  {
-    "text": "Votre Drain de vie ne s'arrête plus lorsque votre Vie est Pleine\nLorsque votre Vie est Pleine, votre Drain de vie Draine du Bouclier d'énergie à la place",
-    "ids": {
-      "explicit": "stat_990335387"
-    }
-  },
-  {
     "text": "Vos Créatures répandent du Sol caustique en Mourant, infligeant #% de leur Vie maximale sous forme de Dégâts de chaos par seconde",
     "ids": {
       "explicit": "stat_688802590"
+    }
+  },
+  {
+    "text": "Un Nuage de fumée est crée lorsque vous faites un Carnage",
+    "ids": {
+      "explicit": "stat_3321583955"
     }
   },
   {
@@ -10023,6 +10035,12 @@
     }
   },
   {
+    "text": "La Zone a # vagues de monstres",
+    "ids": {
+      "explicit": "stat_4182502594"
+    }
+  },
+  {
     "text": "Vous perdez toutes vos Charges d'endurance en vous faisant Toucher",
     "ids": {
       "explicit": "stat_2994477068"
@@ -10073,15 +10091,15 @@
     }
   },
   {
-    "text": "# Dégâts de feu subis par seconde et par Charge d'endurance si vous avez été Touché(e) Récemment",
-    "ids": {
-      "explicit": "stat_1920234902"
-    }
-  },
-  {
     "text": "Vous gagnez Assaut pendant # secondes en Tuant",
     "ids": {
       "explicit": "stat_1195849808"
+    }
+  },
+  {
+    "text": "# Dégâts de feu subis par seconde et par Charge d'endurance si vous avez été Touché(e) Récemment",
+    "ids": {
+      "explicit": "stat_1920234902"
     }
   },
   {
@@ -10193,9 +10211,27 @@
     }
   },
   {
+    "text": "# de Mana gagné en Tuant un Ennemi Gelé",
+    "ids": {
+      "explicit": "stat_3304801725"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de Dégâts élémentaires par Nuance du spectre",
+    "ids": {
+      "explicit": "stat_3163738488"
+    }
+  },
+  {
     "text": "Octroie Thaumaturgie d'Endurance, de Frénésie et de Pouvoir pour 5 secondes chacune, en séquence",
     "ids": {
       "explicit": "stat_2918150296"
+    }
+  },
+  {
+    "text": "Ajoutez # à # Dégâts de foudre pour chaque Ennemi Électrocuté que vous avez Tué Récemment",
+    "ids": {
+      "explicit": "stat_4222857095"
     }
   },
   {
@@ -10298,12 +10334,6 @@
     }
   },
   {
-    "text": "# de Mana gagné en Tuant un Ennemi Gelé",
-    "ids": {
-      "explicit": "stat_3304801725"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vie maximale si aucun Objet équipé n'est Corrompu",
     "ids": {
       "explicit": "stat_2217962305"
@@ -10319,12 +10349,6 @@
     "text": "Rajoutez #% des Dégâts physiques d'Attaque sous forme de Dégâts de foudre",
     "ids": {
       "explicit": "stat_1096897481"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de la Zone d'effet des Attaques",
-    "ids": {
-      "explicit": "stat_1840985759"
     }
   },
   {
@@ -10425,9 +10449,9 @@
     }
   },
   {
-    "text": "Ajoutez # à # Dégâts de foudre pour chaque Ennemi Électrocuté que vous avez Tué Récemment",
+    "text": "#% de chances de Déclencher Arme du Gardien animé (Niveau 18) lorsqu'une Arme animée Tue un Ennemi",
     "ids": {
-      "explicit": "stat_4222857095"
+      "explicit": "stat_919960234"
     }
   },
   {
@@ -10470,12 +10494,6 @@
     "text": "#% de chances de ne pas subir les Projectiles",
     "ids": {
       "explicit": "stat_3452269808"
-    }
-  },
-  {
-    "text": "#% de chances de Déclencher Arme du Gardien animé (Niveau 18) lorsqu'une Arme animée Tue un Ennemi",
-    "ids": {
-      "explicit": "stat_919960234"
     }
   },
   {
@@ -10530,6 +10548,19 @@
     "text": "Les Dégâts au Toucher des Alliés à proximité sont Chanceux",
     "ids": {
       "explicit": "stat_655871604"
+    }
+  },
+  {
+    "text": "#% à la Résistance à la foudre tant que Héraut du tonnerre vous affecte",
+    "ids": {
+      "explicit": "stat_2687017988"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Vitesse d'attaque pendant l'Effet de n'importe quel Flacon",
+    "ids": {
+      "explicit": "stat_1365052901",
+      "implicit": "stat_1365052901"
     }
   },
   {
@@ -10649,6 +10680,12 @@
     }
   },
   {
+    "text": "Les Aptitudes tirent un Projectile supplémentaire si vous avez été Touché(e) Récemment",
+    "ids": {
+      "explicit": "stat_988207959"
+    }
+  },
+  {
     "text": "#% de chances de créer un Nuage de fumée quand vous êtes Touché(e)",
     "ids": {
       "explicit": "stat_953314356"
@@ -10679,12 +10716,6 @@
     }
   },
   {
-    "text": "Les Aptitudes tirent un Projectile supplémentaire si vous avez été Touché(e) Récemment",
-    "ids": {
-      "explicit": "stat_988207959"
-    }
-  },
-  {
     "text": "Les Spectres ont #% d'Augmentation de la Vie maximale",
     "ids": {
       "explicit": "stat_3035514623"
@@ -10709,15 +10740,15 @@
     }
   },
   {
-    "text": "Vous Récupérez #% de Vie lorsque vous Embrasez un Ennemi",
-    "ids": {
-      "explicit": "stat_3112776239"
-    }
-  },
-  {
     "text": "Le Bonus de Dégâts découlant de la Force octroie désormais 3% d'Augmentation\ndes Dégâts physiques de mêlée tous les 10 de Force",
     "ids": {
       "explicit": "stat_1531241759"
+    }
+  },
+  {
+    "text": "Vous Récupérez #% de Vie lorsque vous Embrasez un Ennemi",
+    "ids": {
+      "explicit": "stat_3112776239"
     }
   },
   {
@@ -10764,12 +10795,6 @@
     }
   },
   {
-    "text": "Un Nuage de fumée est crée lorsque vous faites un Carnage",
-    "ids": {
-      "explicit": "stat_3321583955"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Charges de Flacon gagnées pendant l'Effet de n'importe quel Flacon",
     "ids": {
       "explicit": "stat_662803072"
@@ -10806,16 +10831,15 @@
     }
   },
   {
-    "text": "+# de Vie maximale par Châsse rouge",
+    "text": "#% d'Augmentation du score d'Évasion si vous avez été Touché(e) Récemment",
     "ids": {
-      "explicit": "stat_4210076836"
+      "explicit": "stat_1073310669"
     }
   },
   {
-    "text": "#% d'Augmentation de la Vitesse d'attaque pendant l'Effet de n'importe quel Flacon",
+    "text": "+# de Vie maximale par Châsse rouge",
     "ids": {
-      "explicit": "stat_1365052901",
-      "implicit": "stat_1365052901"
+      "explicit": "stat_4210076836"
     }
   },
   {
@@ -10940,9 +10964,10 @@
     }
   },
   {
-    "text": "#% d'Augmentation du score d'Évasion si vous avez été Touché(e) Récemment",
+    "text": "#% de Réduction du Mana réservé par Héraut de la glace",
     "ids": {
-      "explicit": "stat_1073310669"
+      "explicit": "stat_3537762266",
+      "enchant": "stat_3537762266"
     }
   },
   {
@@ -11043,13 +11068,6 @@
     }
   },
   {
-    "text": "#% de Réduction du Mana réservé par Héraut de la glace",
-    "ids": {
-      "explicit": "stat_3537762266",
-      "enchant": "stat_3537762266"
-    }
-  },
-  {
     "text": "# au Score d'Évasion tous les 5 de Bouclier d'énergie maximal sur le bouclier équipé",
     "ids": {
       "explicit": "stat_1115914670"
@@ -11143,6 +11161,12 @@
     }
   },
   {
+    "text": "Gagnez une Charge d'endurance, de frénésie ou de pouvoir lorsque vous Bloquez",
+    "ids": {
+      "explicit": "stat_2199099676"
+    }
+  },
+  {
     "text": "#% de chances de Bloquer les Dégâts des Sorts",
     "ids": {
       "explicit": "stat_19803471"
@@ -11224,9 +11248,28 @@
     }
   },
   {
+    "text": "#% d'Augmentation de Dégâts sur du Sol brûlant",
+    "ids": {
+      "explicit": "stat_3098087057"
+    }
+  },
+  {
+    "text": "#% de Réduction du Mana réservé par Héraut de la cendre",
+    "ids": {
+      "explicit": "stat_2328234364",
+      "enchant": "stat_2328234364"
+    }
+  },
+  {
     "text": "Avec au moins 40 de Dextérité dans le Rayon, Flèche incendiaire a #% de chances de répandre du Goudron si elle n'Embrase pas un Ennemi",
     "ids": {
       "explicit": "stat_968694760"
+    }
+  },
+  {
+    "text": "Vos Sentinelles de pureté ont #% d'Augmentation de Dégâts",
+    "ids": {
+      "explicit": "stat_650630047"
     }
   },
   {
@@ -11239,12 +11282,6 @@
     "text": "#% d'Augmentation de la Vitesse de déplacement sur du Sol électrifié",
     "ids": {
       "explicit": "stat_3678841229"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de Dégâts élémentaires par Nuance du spectre",
-    "ids": {
-      "explicit": "stat_3163738488"
     }
   },
   {
@@ -11290,15 +11327,16 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts des Créatures par Spectre que vous contrôlez",
+    "text": "# au Niveau des Gemmes de Cri de guerre enchâssées",
     "ids": {
-      "explicit": "stat_3191537057"
+      "explicit": "stat_1672793731",
+      "implicit": "stat_1672793731"
     }
   },
   {
-    "text": "Vous êtes Frigorifiés tant que vous Saignez",
+    "text": "#% d'Augmentation des Dégâts des Créatures par Spectre que vous contrôlez",
     "ids": {
-      "explicit": "stat_67132951"
+      "explicit": "stat_3191537057"
     }
   },
   {
@@ -11308,15 +11346,15 @@
     }
   },
   {
-    "text": "Vos Aptitudes vous infligent #% du Mana dépensé pour le Coût en Mana\ndes Aptitudes sous forme de Dégâts physiques",
-    "ids": {
-      "explicit": "stat_99487834"
-    }
-  },
-  {
     "text": "Vous infligez vos Altérations n'infligeant pas de Dégâts comme si vous aviez infligé #% Davantage de Dégâts",
     "ids": {
       "explicit": "stat_1345113611"
+    }
+  },
+  {
+    "text": "Vos Aptitudes vous infligent #% du Mana dépensé pour le Coût en Mana\ndes Aptitudes sous forme de Dégâts physiques",
+    "ids": {
+      "explicit": "stat_99487834"
     }
   },
   {
@@ -11362,15 +11400,15 @@
     }
   },
   {
-    "text": "Les Monstres gagnent # Charge d'endurance toutes les 20 secondes",
-    "ids": {
-      "explicit": "stat_622678123"
-    }
-  },
-  {
     "text": "A été sculpté afin de glorifier les # nouveaux fidèles convertis par le Haut Templier Dominus",
     "ids": {
       "explicit": "pseudo_timeless_jewel_dominus"
+    }
+  },
+  {
+    "text": "Les Monstres gagnent # Charge d'endurance toutes les 20 secondes",
+    "ids": {
+      "explicit": "stat_622678123"
     }
   },
   {
@@ -11427,12 +11465,6 @@
     "text": "Subissez # Dégâts de feu lorsque vous Embrasez un Ennemi",
     "ids": {
       "explicit": "stat_2518598473"
-    }
-  },
-  {
-    "text": "Gagnez une Charge d'endurance, de frénésie ou de pouvoir lorsque vous Bloquez",
-    "ids": {
-      "explicit": "stat_2199099676"
     }
   },
   {
@@ -11527,15 +11559,21 @@
     }
   },
   {
-    "text": "#% d'Augmentation de Dégâts sur du Sol brûlant",
+    "text": "Vous ne pouvez pas avoir de Créatures autres que des Golems",
     "ids": {
-      "explicit": "stat_3098087057"
+      "explicit": "stat_1826605755"
     }
   },
   {
     "text": "Les Aptitudes tirent un Projectile supplémentaire si vous avez utilisé une Aptitude de déplacement Récemment",
     "ids": {
       "explicit": "stat_2809802678"
+    }
+  },
+  {
+    "text": "Les Golems ont #% de Perte de Dégâts",
+    "ids": {
+      "explicit": "stat_2861397339"
     }
   },
   {
@@ -11563,15 +11601,15 @@
     }
   },
   {
-    "text": "Les Gemmes de déplacement Enchâssées n'ont pas de Coût en Mana",
-    "ids": {
-      "explicit": "stat_3263216405"
-    }
-  },
-  {
     "text": "#% des Dégâts d'Attaque Drainent de la Vie par Charge de frénésie",
     "ids": {
       "explicit": "stat_3243062554"
+    }
+  },
+  {
+    "text": "Les Gemmes de déplacement Enchâssées n'ont pas de Coût en Mana",
+    "ids": {
+      "explicit": "stat_3263216405"
     }
   },
   {
@@ -11624,12 +11662,6 @@
     }
   },
   {
-    "text": "Les Golems ont #% de Perte de Dégâts",
-    "ids": {
-      "explicit": "stat_2861397339"
-    }
-  },
-  {
     "text": "#% d'Augmentation de l'Effet des Talents passifs non charnières dans le Rayon",
     "ids": {
       "explicit": "stat_607548408"
@@ -11659,6 +11691,12 @@
     "text": "#% de Réduction de la Taille du Golem",
     "ids": {
       "explicit": "stat_2576412389"
+    }
+  },
+  {
+    "text": "# d'Armure tant que vous n'avez pas Avatar du feu",
+    "ids": {
+      "explicit": "stat_4078952782"
     }
   },
   {
@@ -11732,12 +11770,6 @@
     }
   },
   {
-    "text": "Vous ne pouvez pas avoir de Créatures autres que des Golems",
-    "ids": {
-      "explicit": "stat_1826605755"
-    }
-  },
-  {
     "text": "# Charges du Néant maximum",
     "ids": {
       "explicit": "stat_1209237645"
@@ -11781,15 +11813,15 @@
     }
   },
   {
-    "text": "Vous ne subissez pas de Dégâts supplémentaires découlant de Coups critiques",
-    "ids": {
-      "explicit": "stat_4294267596"
-    }
-  },
-  {
     "text": "#% des Dégâts de foudre Drainent du Mana pendant l'Effet du Flacon",
     "ids": {
       "explicit": "stat_1454377049"
+    }
+  },
+  {
+    "text": "Vous ne subissez pas de Dégâts supplémentaires découlant de Coups critiques",
+    "ids": {
+      "explicit": "stat_4294267596"
     }
   },
   {
@@ -11814,12 +11846,6 @@
     "text": "#% de vos Dégâts physiques sont Convertis en Dégâts de feu tant que vous avez Avatar du feu",
     "ids": {
       "explicit": "stat_2052379536"
-    }
-  },
-  {
-    "text": "# d'Armure tant que vous n'avez pas Avatar du feu",
-    "ids": {
-      "explicit": "stat_4078952782"
     }
   },
   {
@@ -11901,13 +11927,6 @@
     "text": "#% d'Augmentation de la Zone d'effet des Aptitudes utilisées par les Totems",
     "ids": {
       "explicit": "stat_869436347"
-    }
-  },
-  {
-    "text": "# au Niveau des Gemmes de Cri de guerre enchâssées",
-    "ids": {
-      "explicit": "stat_1672793731",
-      "implicit": "stat_1672793731"
     }
   },
   {
@@ -12017,15 +12036,39 @@
     }
   },
   {
+    "text": "Vous avez Vent favorable si vous avez infligé un Coup critique Récemment",
+    "ids": {
+      "explicit": "stat_1085545682"
+    }
+  },
+  {
+    "text": "Cette arme a Coup de grâce au Toucher contre les Ennemis qui Saignent",
+    "ids": {
+      "explicit": "stat_2558253923"
+    }
+  },
+  {
     "text": "Vos Dégâts physiques peuvent Frigorifier",
     "ids": {
       "explicit": "stat_2227042420"
     }
   },
   {
+    "text": "Toutes les 8 secondes, vous gagnez Conflux frigorifiant pendant 3 secondes",
+    "ids": {
+      "explicit": "stat_1190121450"
+    }
+  },
+  {
     "text": "Toutes les 5 secondes, déclenche (au Niveau #) Offrande d'os, Offrande de chair ou Offrande spirituelle\nLes Aptitudes d'Offrande déclenchées de cette manière vous affectent également",
     "ids": {
       "explicit": "stat_1663239249"
+    }
+  },
+  {
+    "text": "#% de Réduction du Mana réservé par Frilosité",
+    "ids": {
+      "explicit": "stat_4272260340"
     }
   },
   {
@@ -12128,6 +12171,12 @@
     }
   },
   {
+    "text": "Octroie l'Aptitude Invocation # bestial (Niveau 20)",
+    "ids": {
+      "explicit": "stat_2878779644"
+    }
+  },
+  {
     "text": "Vous Récupérez #% de votre Mana maximal en Bloquant",
     "ids": {
       "explicit": "stat_3041288981",
@@ -12144,12 +12193,6 @@
     "text": "Les Flèches qui Transpercent ont #% au Multiplicateur de coup critique",
     "ids": {
       "explicit": "stat_1064778484"
-    }
-  },
-  {
-    "text": "Octroie l'Aptitude Invocation # bestial (Niveau 20)",
-    "ids": {
-      "explicit": "stat_2878779644"
     }
   },
   {
@@ -12182,12 +12225,6 @@
     "text": "Les Attaques Enchâssées ont #% au Multiplicateur de coup critique",
     "ids": {
       "explicit": "stat_356456977"
-    }
-  },
-  {
-    "text": "Cette arme a Coup de grâce au Toucher contre les Ennemis qui Saignent",
-    "ids": {
-      "explicit": "stat_2558253923"
     }
   },
   {
@@ -12258,6 +12295,13 @@
     }
   },
   {
+    "text": "Retire l'Électrocution lorsque vous utilisez un Flacon",
+    "ids": {
+      "explicit": "stat_561861132",
+      "implicit": "stat_561861132"
+    }
+  },
+  {
     "text": "L'Armure est Augmentée par la Résistance au feu totale",
     "ids": {
       "explicit": "stat_713266390"
@@ -12298,12 +12342,6 @@
     "text": "Les Golems Invoqués ont un Comportement agressif",
     "ids": {
       "explicit": "stat_3630426972"
-    }
-  },
-  {
-    "text": "#% de Réduction du Mana réservé par Frilosité",
-    "ids": {
-      "explicit": "stat_4272260340"
     }
   },
   {
@@ -12423,6 +12461,12 @@
     }
   },
   {
+    "text": "Les Talents éminents dans le Rayon sont transformés de manière à octroyer à la place #% d'Augmentation de Vitesse de déplacement de vos Créatures",
+    "ids": {
+      "explicit": "stat_3362879252"
+    }
+  },
+  {
     "text": "Les Créatures Rajoutent #% de leurs Dégâts physiques sous forme de Dégâts de froid",
     "ids": {
       "explicit": "stat_1236638414"
@@ -12450,13 +12494,6 @@
     "text": "#% de chances de gagner une Charge de pouvoir si vous Repoussez un Ennemi avec des Dégâts de mêlée",
     "ids": {
       "explicit": "stat_2179619644"
-    }
-  },
-  {
-    "text": "#% de Réduction du Mana réservé par Héraut de la cendre",
-    "ids": {
-      "explicit": "stat_2328234364",
-      "enchant": "stat_2328234364"
     }
   },
   {
@@ -12511,16 +12548,16 @@
     }
   },
   {
-    "text": "Les Attaques de mêlée ont #% de chances d'infliger le Saignement",
-    "ids": {
-      "explicit": "stat_1285056331"
-    }
-  },
-  {
     "text": "Octroie l'Aptitude Hâte (Niveau #)",
     "ids": {
       "explicit": "stat_1188846263",
       "implicit": "stat_1188846263"
+    }
+  },
+  {
+    "text": "Les Attaques de mêlée ont #% de chances d'infliger le Saignement",
+    "ids": {
+      "explicit": "stat_1285056331"
     }
   },
   {
@@ -12596,6 +12633,12 @@
     }
   },
   {
+    "text": "Vous perdez toutes vos Charges d'esprit lorsque vous subissez un Coup brutal",
+    "ids": {
+      "explicit": "stat_2663792764"
+    }
+  },
+  {
     "text": "#% de Réduction par Charge d'endurance des Dégâts élémentaires subis au Toucher",
     "ids": {
       "explicit": "stat_1686913105"
@@ -12611,6 +12654,12 @@
     "text": "#% d'Augmentation du Taux de Régénération de Mana pendant l'Effet de n'importe quel Flacon",
     "ids": {
       "explicit": "stat_2993091567"
+    }
+  },
+  {
+    "text": "Vous subissez # Dégâts physiques par seconde et par Charge de siphon si vous avez utilisé une Aptitude Récemment",
+    "ids": {
+      "explicit": "stat_2440172920"
     }
   },
   {
@@ -12658,12 +12707,6 @@
     }
   },
   {
-    "text": "La Dextérité et l'Intelligence des Passifs dans le Rayon s'ajoutent à la Force pour déterminer le bonus de Dégâts de mêlée qui en découle",
-    "ids": {
-      "explicit": "stat_842363566"
-    }
-  },
-  {
     "text": "Les Aptitudes d'Attaque à Projectiles ont #% d'Augmentation des Chances de coup critique",
     "ids": {
       "explicit": "stat_4095169720"
@@ -12700,15 +12743,15 @@
     }
   },
   {
-    "text": "Pose une Mine supplémentaire",
-    "ids": {
-      "explicit": "stat_2395088636"
-    }
-  },
-  {
     "text": "# à la Vie maximale par Niveau",
     "ids": {
       "explicit": "stat_1982144275"
+    }
+  },
+  {
+    "text": "Pose une Mine supplémentaire",
+    "ids": {
+      "explicit": "stat_2395088636"
     }
   },
   {
@@ -12754,15 +12797,15 @@
     }
   },
   {
-    "text": "# au nombre maximal de Charges de siphon par Objet de l'Ancien ou du Façonneur équipés",
-    "ids": {
-      "explicit": "stat_1872128565"
-    }
-  },
-  {
     "text": "Toutes les 16 secondes, vous gagnez Surcharge élémentaire pendant 8 secondes",
     "ids": {
       "explicit": "stat_708913352"
+    }
+  },
+  {
+    "text": "# au nombre maximal de Charges de siphon par Objet de l'Ancien ou du Façonneur équipés",
+    "ids": {
+      "explicit": "stat_1872128565"
     }
   },
   {
@@ -12775,12 +12818,6 @@
     "text": "Vous Récupérez #% de Bouclier d'énergie lorsque vous perdez une Charge d'esprit",
     "ids": {
       "explicit": "stat_1996775727"
-    }
-  },
-  {
-    "text": "Vous perdez toutes vos Charges d'esprit lorsque vous subissez un Coup brutal",
-    "ids": {
-      "explicit": "stat_2663792764"
     }
   },
   {
@@ -12809,15 +12846,15 @@
     }
   },
   {
-    "text": "# de Bouclier d'énergie maximal par Niveau",
-    "ids": {
-      "explicit": "stat_3864993324"
-    }
-  },
-  {
     "text": "#% d'Augmentation de l'Effet bénéfique de Héraut de la pureté",
     "ids": {
       "explicit": "stat_2126027382"
+    }
+  },
+  {
+    "text": "# de Bouclier d'énergie maximal par Niveau",
+    "ids": {
+      "explicit": "stat_3864993324"
     }
   },
   {
@@ -12839,16 +12876,16 @@
     }
   },
   {
+    "text": "+#% à la Résistance à la foudre des Monstres",
+    "ids": {
+      "explicit": "stat_162742068"
+    }
+  },
+  {
     "text": "Octroie l'Aptitude Détermination (Niveau #)",
     "ids": {
       "explicit": "stat_4265392510",
       "implicit": "stat_4265392510"
-    }
-  },
-  {
-    "text": "+#% à la Résistance à la foudre des Monstres",
-    "ids": {
-      "explicit": "stat_162742068"
     }
   },
   {
@@ -12951,15 +12988,15 @@
     }
   },
   {
-    "text": "Les joueurs sont affectés par la Malédiction Conductivité",
+    "text": "#% de Perte de Durée d'Animation d'arme",
     "ids": {
-      "explicit": "stat_376158712"
+      "explicit": "stat_414991155"
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts physiques tant que vous avez Technique résolue",
+    "text": "Les joueurs sont affectés par la Malédiction Conductivité",
     "ids": {
-      "explicit": "stat_1258679667"
+      "explicit": "stat_376158712"
     }
   },
   {
@@ -12967,6 +13004,12 @@
     "ids": {
       "explicit": "stat_1745952865",
       "implicit": "stat_1745952865"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts physiques tant que vous avez Technique résolue",
+    "ids": {
+      "explicit": "stat_1258679667"
     }
   },
   {
@@ -13029,6 +13072,12 @@
     "text": "#% de Réduction du Mana réservé par Désespoir",
     "ids": {
       "explicit": "stat_2562564343"
+    }
+  },
+  {
+    "text": "Vous avez Assaut tant que votre Mana n'est pas Bas",
+    "ids": {
+      "explicit": "stat_1959256242"
     }
   },
   {
@@ -13101,6 +13150,13 @@
     }
   },
   {
+    "text": "Vous gagnez une Réduction supplémentaire des Dégâts physiques de #% en étant stationnaire",
+    "ids": {
+      "explicit": "stat_2181129193",
+      "implicit": "stat_2181129193"
+    }
+  },
+  {
     "text": "Les Dégâts des Ennemis qui vous Touchent sont Malchanceux tant que vous êtes affecté(e) par la Malédiction Vulnérabilité",
     "ids": {
       "explicit": "stat_2758554648"
@@ -13156,15 +13212,21 @@
     }
   },
   {
+    "text": "Vous n'avez pas de Régénération de Vie",
+    "ids": {
+      "explicit": "stat_854225133"
+    }
+  },
+  {
     "text": "Les Gemmes Enchâssées sont modifiées par Souffre-douleur (Niveau #)",
     "ids": {
       "explicit": "stat_858460086"
     }
   },
   {
-    "text": "Vous n'avez pas de Régénération de Vie",
+    "text": "Emplacement de bague de droite : les Projectiles des Sorts Ricochent +# fois de plus",
     "ids": {
-      "explicit": "stat_854225133"
+      "explicit": "stat_1555918911"
     }
   },
   {
@@ -13183,13 +13245,6 @@
     "text": "Vous avez Déphasage si la recharge de votre Bouclier d'énergie a débuté Récemment",
     "ids": {
       "explicit": "stat_2632954025"
-    }
-  },
-  {
-    "text": "Vous gagnez une Réduction supplémentaire des Dégâts physiques de #% en étant stationnaire",
-    "ids": {
-      "explicit": "stat_2181129193",
-      "implicit": "stat_2181129193"
     }
   },
   {
@@ -13338,12 +13393,6 @@
     }
   },
   {
-    "text": "#% de Perte de Durée d'Animation d'arme",
-    "ids": {
-      "explicit": "stat_414991155"
-    }
-  },
-  {
     "text": "#% de chances de déclencher Animation d'arme (Niveau 20) en Tuant",
     "ids": {
       "explicit": "stat_1973890509"
@@ -13380,22 +13429,9 @@
     }
   },
   {
-    "text": "Retire l'Électrocution lorsque vous utilisez un Flacon",
-    "ids": {
-      "explicit": "stat_561861132",
-      "implicit": "stat_561861132"
-    }
-  },
-  {
     "text": "Ne peut pas infliger l'Électrocution",
     "ids": {
       "explicit": "stat_990377349"
-    }
-  },
-  {
-    "text": "#% à la Résistance à la foudre tant que Héraut du tonnerre vous affecte",
-    "ids": {
-      "explicit": "stat_2687017988"
     }
   },
   {
@@ -13424,12 +13460,6 @@
     }
   },
   {
-    "text": "Vous avez Assaut tant que votre Mana n'est pas Bas",
-    "ids": {
-      "explicit": "stat_1959256242"
-    }
-  },
-  {
     "text": "Emplacement de bague de droite : les Projectiles des Sorts ne peuvent se Scinder",
     "ids": {
       "explicit": "stat_2933024469"
@@ -13442,15 +13472,23 @@
     }
   },
   {
+    "text": "#% aux chances d'être Empoisonné(e)",
+    "ids": {
+      "explicit": "stat_4250009622"
+    }
+  },
+  {
     "text": "#% d'Augmentation de l'Effet bénéfique de l'Aspect du Rapace",
     "ids": {
       "explicit": "stat_1746347097"
     }
   },
   {
-    "text": "#% aux chances d'être Empoisonné(e)",
+    "text": "# au nombre minimum de Charges de frénésie",
     "ids": {
-      "explicit": "stat_4250009622"
+      "explicit": "stat_658456881",
+      "implicit": "stat_658456881",
+      "crafted": "stat_658456881"
     }
   },
   {
@@ -13460,15 +13498,15 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées rouges Rajoutent #% des Dégâts physiques sous forme de Dégâts de feu",
-    "ids": {
-      "explicit": "stat_2629366488"
-    }
-  },
-  {
     "text": "+#% à la Résistance au feu des Monstres",
     "ids": {
       "explicit": "stat_2319127046"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées rouges Rajoutent #% des Dégâts physiques sous forme de Dégâts de feu",
+    "ids": {
+      "explicit": "stat_2629366488"
     }
   },
   {
@@ -13616,9 +13654,9 @@
     }
   },
   {
-    "text": "Vos Sentinelles de pureté ont #% d'Augmentation de Dégâts",
+    "text": "#% d'Augmentation des Dégâts de feu tous les 20 de Force",
     "ids": {
-      "explicit": "stat_650630047"
+      "explicit": "stat_2241902512"
     }
   },
   {
@@ -13738,12 +13776,6 @@
     }
   },
   {
-    "text": "Vous subissez # Dégâts physiques par seconde et par Charge de siphon si vous avez utilisé une Aptitude Récemment",
-    "ids": {
-      "explicit": "stat_2440172920"
-    }
-  },
-  {
     "text": "Tous les 10 de Ferveur, vous octroyez +# de Score de Précision à vos Créatures",
     "ids": {
       "explicit": "stat_2830135449"
@@ -13774,15 +13806,15 @@
     }
   },
   {
-    "text": "Renvoie l'Électrocution qui vous est infligée à tous les Ennemis à proximité",
-    "ids": {
-      "explicit": "stat_615884286"
-    }
-  },
-  {
     "text": "#% de chances d'Esquiver les Sorts qui Touchent tant que vous êtes affecté(e) par Hâte",
     "ids": {
       "explicit": "stat_1345136012"
+    }
+  },
+  {
+    "text": "Renvoie l'Électrocution qui vous est infligée à tous les Ennemis à proximité",
+    "ids": {
+      "explicit": "stat_615884286"
     }
   },
   {
@@ -13814,6 +13846,12 @@
     "ids": {
       "explicit": "stat_2813626504",
       "implicit": "stat_2813626504"
+    }
+  },
+  {
+    "text": "Vous ne pouvez pas gagner de Bouclier d'énergie",
+    "ids": {
+      "explicit": "stat_206243615"
     }
   },
   {
@@ -13915,21 +13953,33 @@
     }
   },
   {
+    "text": "Lorsque vous êtes Touché, #% des Dégâts subis sont regagnés sous forme de Vie sur une durée de 4 secondes",
+    "ids": {
+      "explicit": "stat_1444556985"
+    }
+  },
+  {
     "text": "Pendant Son Étreinte, vous subissez #% de votre Vie et Bouclier d'énergie maximaux cumulés sous forme de Dégâts de feu, par seconde et par Niveau",
     "ids": {
       "explicit": "stat_2442112158"
     }
   },
   {
-    "text": "Gagnez Son Étreinte pendant # secondes lorsque vous Embrasez un Ennemi",
+    "text": "# de Vie gagnée pour chaque Ennemi Touché tant que vous êtes affecté(e) par Vitalité",
     "ids": {
-      "explicit": "stat_608963131"
+      "explicit": "stat_4259701244"
     }
   },
   {
     "text": "Vos chances de Bloquer les Dégâts d'Attaque sont à leur maximum possible si vous n'avez pas Bloqué Récemment",
     "ids": {
       "explicit": "stat_2584264074"
+    }
+  },
+  {
+    "text": "Gagnez Son Étreinte pendant # secondes lorsque vous Embrasez un Ennemi",
+    "ids": {
+      "explicit": "stat_608963131"
     }
   },
   {
@@ -13984,12 +14034,6 @@
     "text": "Vous êtes Insensible à Vulnérabilité tant que Détermination vous affecte",
     "ids": {
       "explicit": "stat_3207781478"
-    }
-  },
-  {
-    "text": "# de Vie gagnée pour chaque Ennemi Touché tant que vous êtes affecté(e) par Vitalité",
-    "ids": {
-      "explicit": "stat_4259701244"
     }
   },
   {
@@ -14078,18 +14122,6 @@
     }
   },
   {
-    "text": "Vous ne pouvez pas gagner de Bouclier d'énergie",
-    "ids": {
-      "explicit": "stat_206243615"
-    }
-  },
-  {
-    "text": "#% d'Augmentation des Dégâts de feu tous les 20 de Force",
-    "ids": {
-      "explicit": "stat_2241902512"
-    }
-  },
-  {
     "text": "Vous êtes Insensible à Chaînes temporelles tant que Hâte vous affecte",
     "ids": {
       "explicit": "stat_2806391472"
@@ -14108,16 +14140,16 @@
     }
   },
   {
+    "text": "#% d'Augmentation des Dégâts de feu tant que vous êtes affecté(e) par Colère",
+    "ids": {
+      "explicit": "stat_3337107517"
+    }
+  },
+  {
     "text": "Fureur a #% d'Augmentation de l'Effet de son Aura",
     "ids": {
       "explicit": "stat_2181791238",
       "implicit": "stat_2181791238"
-    }
-  },
-  {
-    "text": "Lorsque vous êtes Touché, #% des Dégâts subis sont regagnés sous forme de Vie sur une durée de 4 secondes",
-    "ids": {
-      "explicit": "stat_1444556985"
     }
   },
   {
@@ -14133,15 +14165,15 @@
     }
   },
   {
-    "text": "Vous avez Déphasage tant que vous êtes affecté(e) par Hâte",
-    "ids": {
-      "explicit": "stat_1346311588"
-    }
-  },
-  {
     "text": "Tous les 10 de Ferveur, #% d'Augmentation des Dégâts élémentaires",
     "ids": {
       "explicit": "stat_3103189267"
+    }
+  },
+  {
+    "text": "Vous avez Déphasage tant que vous êtes affecté(e) par Hâte",
+    "ids": {
+      "explicit": "stat_1346311588"
     }
   },
   {
@@ -14181,12 +14213,6 @@
     }
   },
   {
-    "text": "Emplacement de bague de droite : les Projectiles des Sorts Ricochent +# fois de plus",
-    "ids": {
-      "explicit": "stat_1555918911"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vitesse de recharge des Aptitudes de\ndéplacement utilisées pendant que vous êtes sous l'effet de Hâte",
     "ids": {
       "explicit": "stat_3332055899"
@@ -14196,6 +14222,12 @@
     "text": "#% d'Augmentation de la Vitesse de déplacement tant que vous êtes affecté(e) par Grâce",
     "ids": {
       "explicit": "stat_3329402420"
+    }
+  },
+  {
+    "text": "Les Aptitudes utilisées par les Mines ont #% d'Augmentation de Zone d'effet",
+    "ids": {
+      "explicit": "stat_2228913626"
     }
   },
   {
@@ -14217,6 +14249,12 @@
     }
   },
   {
+    "text": "#% au Multiplicateur de coup critique si vous avez infligé un Coup non-critique Récemment",
+    "ids": {
+      "explicit": "stat_1626712767"
+    }
+  },
+  {
     "text": "#% de chances de doubler la Durée de l'Étourdissement",
     "ids": {
       "explicit": "stat_2622251413"
@@ -14235,15 +14273,21 @@
     }
   },
   {
-    "text": "# à l'Armure tant que vous êtes affecté(e) par Détermination",
+    "text": "Avec # Objets Corrompus équipés : le Drain de Vie est désormais basé sur vos Dégâts de chaos",
     "ids": {
-      "explicit": "stat_3742808908"
+      "explicit": "stat_4192058279"
     }
   },
   {
     "text": "Vous êtes Insensible à Frilosité tant que Pureté de la glace vous affecte",
     "ids": {
       "explicit": "stat_4012281889"
+    }
+  },
+  {
+    "text": "# à l'Armure tant que vous êtes affecté(e) par Détermination",
+    "ids": {
+      "explicit": "stat_3742808908"
     }
   },
   {
@@ -14256,6 +14300,12 @@
     "text": "#% d'Augmentation de la Récupération de Mana tant que vous êtes affecté(e) par Clarté",
     "ids": {
       "explicit": "stat_556659145"
+    }
+  },
+  {
+    "text": "Avec # Objets Corrompus équipés: 50% des Dégâts de chaos ne traversent pas le Bouclier d'énergie, et 50% des Dégâts physiques traversent le Bouclier d'énergie",
+    "ids": {
+      "explicit": "stat_3225265684"
     }
   },
   {
@@ -14295,12 +14345,6 @@
     }
   },
   {
-    "text": "Avec # Objets Corrompus équipés : le Drain de Vie est désormais basé sur vos Dégâts de chaos",
-    "ids": {
-      "explicit": "stat_4192058279"
-    }
-  },
-  {
     "text": "Les Augmentations et Réductions de la Vitesse d'incantation s'appliquent également\nà la Vitesse de jet des Pièges",
     "ids": {
       "explicit": "stat_3520223758"
@@ -14322,12 +14366,6 @@
     "text": "Vous êtes Insensible à Inflammabilité tant que Pureté du feu vous affecte",
     "ids": {
       "explicit": "stat_1173690938"
-    }
-  },
-  {
-    "text": "#% au Multiplicateur de coup critique si vous avez infligé un Coup non-critique Récemment",
-    "ids": {
-      "explicit": "stat_1626712767"
     }
   },
   {
@@ -14387,15 +14425,15 @@
     }
   },
   {
-    "text": "#% de Chances de Bloquer les Dégâts d'Attaque tant que vous avez au moins 5 Barrières du Crabe",
-    "ids": {
-      "explicit": "stat_1354504703"
-    }
-  },
-  {
     "text": "Vos Dégâts de froid peuvent Embraser",
     "ids": {
       "explicit": "stat_3573591118"
+    }
+  },
+  {
+    "text": "#% de Chances de Bloquer les Dégâts d'Attaque tant que vous avez au moins 5 Barrières du Crabe",
+    "ids": {
+      "explicit": "stat_1354504703"
     }
   },
   {
@@ -14405,21 +14443,27 @@
     }
   },
   {
-    "text": "#% d'Augmentation du Drain de Bouclier d'énergie maximal par seconde tant que Fanatisme vous affecte",
-    "ids": {
-      "explicit": "stat_3848992177"
-    }
-  },
-  {
     "text": "Les Aptitudes de Trajet ont #% d'Augmentation de Vitesse de recharge",
     "ids": {
       "explicit": "stat_2308278768"
     }
   },
   {
+    "text": "#% d'Augmentation du Drain de Bouclier d'énergie maximal par seconde tant que Fanatisme vous affecte",
+    "ids": {
+      "explicit": "stat_3848992177"
+    }
+  },
+  {
     "text": "#% de Chances de Bloquer les Dégâts d'Attaque tant que vous avez au moins 10 Barrières du Crabe",
     "ids": {
       "explicit": "stat_653107703"
+    }
+  },
+  {
+    "text": "Vous êtes Frigorifiés tant que vous Saignez",
+    "ids": {
+      "explicit": "stat_67132951"
     }
   },
   {
@@ -14726,21 +14770,9 @@
     }
   },
   {
-    "text": "Avec # Objets Corrompus équipés: 50% des Dégâts de chaos ne traversent pas le Bouclier d'énergie, et 50% des Dégâts physiques traversent le Bouclier d'énergie",
-    "ids": {
-      "explicit": "stat_3225265684"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Dégâts de foudre tant que vous êtes affecté(e) par Fureur",
     "ids": {
       "explicit": "stat_418293304"
-    }
-  },
-  {
-    "text": "#% d'Augmentation du Taux de recharge du Bouclier d'énergie pendant l'Effet de n'importe quel Flacon",
-    "ids": {
-      "explicit": "stat_1827657795"
     }
   },
   {
@@ -14750,21 +14782,27 @@
     }
   },
   {
+    "text": "#% d'Augmentation du Taux de recharge du Bouclier d'énergie pendant l'Effet de n'importe quel Flacon",
+    "ids": {
+      "explicit": "stat_1827657795"
+    }
+  },
+  {
     "text": "Tous les 10 de Ferveur, #% à toutes les Résistances élémentaires",
     "ids": {
       "explicit": "stat_1910205563"
     }
   },
   {
-    "text": "Les Sorts à nova ont #% Davantage de Zone d'effet",
-    "ids": {
-      "explicit": "stat_200113086"
-    }
-  },
-  {
     "text": "Vous ne pouvez pas Drainer",
     "ids": {
       "explicit": "stat_1336164384"
+    }
+  },
+  {
+    "text": "Les Sorts à nova ont #% Davantage de Zone d'effet",
+    "ids": {
+      "explicit": "stat_200113086"
     }
   },
   {
@@ -14883,12 +14921,6 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts de feu tant que vous êtes affecté(e) par Colère",
-    "ids": {
-      "explicit": "stat_3337107517"
-    }
-  },
-  {
     "text": "Rajoutez #% de vos Dégâts élémentaires sous forme de Dégâts de chaos par Objet du Façonneur équipé",
     "ids": {
       "explicit": "stat_33348259"
@@ -15001,6 +15033,12 @@
     }
   },
   {
+    "text": "Vos Attaques infligent toujours le Saignement tant que vous avez Discrétion du Félin",
+    "ids": {
+      "explicit": "stat_2059771038"
+    }
+  },
+  {
     "text": "Tant que Clarté vous affecte, vous avez #% de chances de Récupérer 10% de Mana lorsque vous utilisez une Aptitude",
     "ids": {
       "explicit": "stat_1699077932"
@@ -15025,15 +15063,15 @@
     }
   },
   {
-    "text": "Les Augmentations et Réductions du Rayonnement lumineux s'appliquent également aux Dégâts",
-    "ids": {
-      "explicit": "stat_3519807287"
-    }
-  },
-  {
     "text": "# de Bouclier d'énergie gagné pour chaque Ennemi Touché tant que vous êtes affecté(e) par Discipline",
     "ids": {
       "explicit": "stat_3765507527"
+    }
+  },
+  {
+    "text": "Les Augmentations et Réductions du Rayonnement lumineux s'appliquent également aux Dégâts",
+    "ids": {
+      "explicit": "stat_3519807287"
     }
   },
   {
@@ -15169,6 +15207,12 @@
     }
   },
   {
+    "text": "Vous avez Déphasage tant que vous avez Discrétion du Félin",
+    "ids": {
+      "explicit": "stat_1834455446"
+    }
+  },
+  {
     "text": "#% d'Augmentation de la Vitesse de déplacement tant que vous avez Discrétion du Félin",
     "ids": {
       "explicit": "stat_673704994"
@@ -15220,6 +15264,12 @@
     "text": "#% au Multiplicateur de coup critique contre les Ennemis dont la Vie est Pleine",
     "ids": {
       "explicit": "stat_2355615476"
+    }
+  },
+  {
+    "text": "Toutes les 16 secondes, vous gagnez Réflexes de fer pendant 8 secondes",
+    "ids": {
+      "explicit": "stat_2200114771"
     }
   },
   {
@@ -15288,12 +15338,6 @@
     "text": "#% d'Augmentation des Dégâts au Toucher et avec les Altérations contre les Ennemis affectés par 3 Toiles d'araignée",
     "ids": {
       "explicit": "stat_103928310"
-    }
-  },
-  {
-    "text": "Vos Attaques infligent toujours le Saignement tant que vous avez Discrétion du Félin",
-    "ids": {
-      "explicit": "stat_2059771038"
     }
   },
   {
@@ -15447,12 +15491,6 @@
     }
   },
   {
-    "text": "Vous avez Vent favorable si vous avez infligé un Coup critique Récemment",
-    "ids": {
-      "explicit": "stat_1085545682"
-    }
-  },
-  {
     "text": "#% de chances que la recharge du Bouclier d'énergie débute lorsque vous Bloquez",
     "ids": {
       "explicit": "stat_762154651"
@@ -15489,15 +15527,15 @@
     }
   },
   {
-    "text": "# de Vie Régénérée par seconde si vous avez au moins 1000 de Bouclier d'énergie maximal",
-    "ids": {
-      "explicit": "stat_1704843611"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Résistance au froid",
     "ids": {
       "explicit": "stat_4252311791"
+    }
+  },
+  {
+    "text": "# de Vie Régénérée par seconde si vous avez au moins 1000 de Bouclier d'énergie maximal",
+    "ids": {
+      "explicit": "stat_1704843611"
     }
   },
   {
@@ -15573,6 +15611,12 @@
     }
   },
   {
+    "text": "#% de vos Dégâts de froid Drainent du Bouclier d'énergie",
+    "ids": {
+      "explicit": "stat_1939452467"
+    }
+  },
+  {
     "text": "#% d'Augmentation de la Quantité de Poissons Pêchés",
     "ids": {
       "explicit": "stat_3802667447",
@@ -15631,12 +15675,6 @@
     }
   },
   {
-    "text": "Toutes les 16 secondes, vous gagnez Réflexes de fer pendant 8 secondes",
-    "ids": {
-      "explicit": "stat_2200114771"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Résistance à la foudre",
     "ids": {
       "explicit": "stat_2249211872"
@@ -15656,12 +15694,6 @@
     }
   },
   {
-    "text": "#% de vos Dégâts de froid Drainent du Bouclier d'énergie",
-    "ids": {
-      "explicit": "stat_1939452467"
-    }
-  },
-  {
     "text": "#% de Réduction du Mana réservé par Fureur",
     "ids": {
       "explicit": "stat_3600749521",
@@ -15678,6 +15710,12 @@
     "text": "Tant que Fierté vous affecte, vous Intimidez les Ennemis au Toucher pendant 4 secondes",
     "ids": {
       "explicit": "stat_3772848194"
+    }
+  },
+  {
+    "text": "Manifestation de Derviche dansant manifeste également une copie du Derviche dansant",
+    "ids": {
+      "explicit": "stat_1820083363"
     }
   },
   {
@@ -15736,6 +15774,13 @@
     }
   },
   {
+    "text": "#% de Réduction du Mana réservé par Colère",
+    "ids": {
+      "explicit": "stat_2003753577",
+      "enchant": "stat_2003753577"
+    }
+  },
+  {
     "text": "Tant que toutes les Gemmes Enchâssées sont rouges, vous avez Pacte vaal",
     "ids": {
       "explicit": "stat_3242537102"
@@ -15770,12 +15815,6 @@
     "text": "#% d'Augmentation des Dégâts si vous avez Gelé un Ennemi Récemment",
     "ids": {
       "explicit": "stat_1064477264"
-    }
-  },
-  {
-    "text": "Vous avez Déphasage tant que vous avez Discrétion du Félin",
-    "ids": {
-      "explicit": "stat_1834455446"
     }
   },
   {
@@ -15819,13 +15858,6 @@
     "text": "Les Monstres d'Ailleurs ont #% Davantage de Quantité et de Rareté des Objets cédés",
     "ids": {
       "explicit": "stat_3422445312"
-    }
-  },
-  {
-    "text": "#% de Réduction du Mana réservé par Colère",
-    "ids": {
-      "explicit": "stat_2003753577",
-      "enchant": "stat_2003753577"
     }
   },
   {
@@ -15903,6 +15935,12 @@
     }
   },
   {
+    "text": "Les Aptitudes de feu ont #% de chances d'Empoisonner au Toucher",
+    "ids": {
+      "explicit": "stat_2424717327"
+    }
+  },
+  {
     "text": "#% d'Augmentation des Dégâts physiques des Attaques tant que Fierté vous affecte",
     "ids": {
       "explicit": "stat_576528026"
@@ -15927,6 +15965,12 @@
     }
   },
   {
+    "text": "Les Ennemis infligent leurs Altérations élémentaires à vous plutôt qu'à vos Alliés proches",
+    "ids": {
+      "explicit": "stat_979288792"
+    }
+  },
+  {
     "text": "Les Talismans trouvés dans cette Zone sont Rares",
     "ids": {
       "explicit": "stat_1401233515"
@@ -15936,6 +15980,12 @@
     "text": "#% au Multiplicateur de coup critique tant que Justesse vous affecte",
     "ids": {
       "explicit": "stat_1817023621"
+    }
+  },
+  {
+    "text": "Retirez le Saignement en poussant un Cri de guerre",
+    "ids": {
+      "explicit": "stat_3936926420"
     }
   },
   {
@@ -15970,21 +16020,9 @@
     }
   },
   {
-    "text": "Manifestation de Derviche dansant manifeste également une copie du Derviche dansant",
-    "ids": {
-      "explicit": "stat_1820083363"
-    }
-  },
-  {
     "text": "Vous ne pouvez pas être Électrocuté tant que vous êtes Gelé",
     "ids": {
       "explicit": "stat_798853218"
-    }
-  },
-  {
-    "text": "Les Aptitudes de froid ont #% de chances d'Empoisonner au Toucher",
-    "ids": {
-      "explicit": "stat_2373079502"
     }
   },
   {
@@ -16002,6 +16040,12 @@
     }
   },
   {
+    "text": "Les Aptitudes de froid ont #% de chances d'Empoisonner au Toucher",
+    "ids": {
+      "explicit": "stat_2373079502"
+    }
+  },
+  {
     "text": "# de Vie gagnée pour chaque Ennemi Aveuglé que cette arme Touche",
     "ids": {
       "explicit": "stat_1649099067"
@@ -16011,12 +16055,6 @@
     "text": "Les Dégâts ont #% de Pénétration de Résistance élémentaire pendant l'Effet de n'importe quel Flacon",
     "ids": {
       "explicit": "stat_3392890360"
-    }
-  },
-  {
-    "text": "Les Aptitudes de feu ont #% de chances d'Empoisonner au Toucher",
-    "ids": {
-      "explicit": "stat_2424717327"
     }
   },
   {
@@ -16075,21 +16113,15 @@
     }
   },
   {
-    "text": "Les Ennemis infligent leurs Altérations élémentaires à vous plutôt qu'à vos Alliés proches",
-    "ids": {
-      "explicit": "stat_979288792"
-    }
-  },
-  {
-    "text": "Retirez le Saignement en poussant un Cri de guerre",
-    "ids": {
-      "explicit": "stat_3936926420"
-    }
-  },
-  {
     "text": "Vous sacrifiez #% de votre Vie en utilisant ou déclenchant une Aptitude de Sort",
     "ids": {
       "explicit": "stat_545408899"
+    }
+  },
+  {
+    "text": "Les Dégâts des Ennemis qui vous Touchent sont Malchanceux tant que votre Vie est Pleine",
+    "ids": {
+      "explicit": "stat_3629143471"
     }
   },
   {
@@ -16120,12 +16152,6 @@
     "text": "#% de vos Dégâts de feu Drainent du Bouclier d'énergie",
     "ids": {
       "explicit": "stat_3885409671"
-    }
-  },
-  {
-    "text": "Les Dégâts des Ennemis qui vous Touchent sont Malchanceux tant que votre Vie est Pleine",
-    "ids": {
-      "explicit": "stat_3629143471"
     }
   },
   {
@@ -16196,21 +16222,15 @@
     }
   },
   {
-    "text": "Les Aptitudes utilisées par les Mines ont #% d'Augmentation de Zone d'effet",
+    "text": "Les Gemmes enchâssées ont +3.5 #e Chances de coup critique",
     "ids": {
-      "explicit": "stat_2228913626"
+      "explicit": "stat_1681904129"
     }
   },
   {
     "text": "Vos Créatures utilisent vos Flacons lorsqu'elles sont Invoquées",
     "ids": {
       "explicit": "stat_1827636152"
-    }
-  },
-  {
-    "text": "Les Gemmes enchâssées ont +3.5 #e Chances de coup critique",
-    "ids": {
-      "explicit": "stat_1681904129"
     }
   },
   {
@@ -16245,15 +16265,15 @@
     }
   },
   {
-    "text": "#% à la Résistance au chaos contre les Dégâts sur la durée",
-    "ids": {
-      "explicit": "stat_2266636761"
-    }
-  },
-  {
     "text": "Les Ennemis situés sur le Sol consacré que vous créez pendant l'Effet du Flacon ont #% d'Augmentation des Dégâts subis",
     "ids": {
       "explicit": "stat_1866211373"
+    }
+  },
+  {
+    "text": "#% à la Résistance au chaos contre les Dégâts sur la durée",
+    "ids": {
+      "explicit": "stat_2266636761"
     }
   },
   {
@@ -16312,15 +16332,15 @@
     }
   },
   {
-    "text": "Les Attaques avec cette arme infligent # à # Dégâts de feu supplémentaires aux Ennemis qui Saignent",
-    "ids": {
-      "explicit": "stat_2453554491"
-    }
-  },
-  {
     "text": "Les Attaques avec cette arme infligent # à # Dégâts physiques supplémentaires aux Ennemis Embrasés",
     "ids": {
       "explicit": "stat_2202639361"
+    }
+  },
+  {
+    "text": "Les Attaques avec cette arme infligent # à # Dégâts de feu supplémentaires aux Ennemis qui Saignent",
+    "ids": {
+      "explicit": "stat_2453554491"
     }
   },
   {
@@ -16446,6 +16466,24 @@
     }
   },
   {
+    "text": "#% de chances d'infliger une Malédiction aléatoire au Toucher aux Ennemis qui ne sont pas Maudits",
+    "ids": {
+      "explicit": "stat_1726444796"
+    }
+  },
+  {
+    "text": "Votre Vie est considérée comme Basse tant que vous êtes affecté(e) par la Malédiction Vulnérabilité",
+    "ids": {
+      "explicit": "stat_2304300603"
+    }
+  },
+  {
+    "text": "Les Augmentations et Réductions du Rayonnement lumineux s'appliquent également à la Précision",
+    "ids": {
+      "explicit": "stat_411986876"
+    }
+  },
+  {
     "text": "Brille dans une Zone contenant un Poisson Unique",
     "ids": {
       "explicit": "stat_931560398"
@@ -16455,14 +16493,6 @@
     "text": "Les Monstres avec des Pièces d'argent cèdent une Pièce d'argent supplémentaire",
     "ids": {
       "explicit": "stat_3679287686"
-    }
-  },
-  {
-    "text": "# au nombre minimum de Charges de frénésie",
-    "ids": {
-      "explicit": "stat_658456881",
-      "implicit": "stat_658456881",
-      "crafted": "stat_658456881"
     }
   },
   {
@@ -16510,15 +16540,21 @@
     }
   },
   {
+    "text": "Tant que Clarté vous affecte, vos Aptitudes qui ne sont pas Canalisées ont # de Coût en Mana total",
+    "ids": {
+      "explicit": "stat_1853636813"
+    }
+  },
+  {
     "text": "#% d'Augmentation de la Vitesse d'attaque et d'incantation si vous avez Touché un Ennemi Récemment",
     "ids": {
       "explicit": "stat_1483753325"
     }
   },
   {
-    "text": "Tant que Clarté vous affecte, vos Aptitudes qui ne sont pas Canalisées ont # de Coût en Mana total",
+    "text": "Les Dégâts de chaos peuvent Embraser, Frigorifier et Électrocuter",
     "ids": {
-      "explicit": "stat_1853636813"
+      "explicit": "stat_3470457445"
     }
   },
   {
@@ -16541,12 +16577,6 @@
     }
   },
   {
-    "text": "Les Dégâts de chaos peuvent Embraser, Frigorifier et Électrocuter",
-    "ids": {
-      "explicit": "stat_3470457445"
-    }
-  },
-  {
     "text": "Fierté a #% de Réduction du Mana Réservé",
     "ids": {
       "explicit": "stat_250961191",
@@ -16560,23 +16590,17 @@
     }
   },
   {
+    "text": "Ajoutez # à # Dégâts de froid aux Sorts tant que vous n'avez pas de Vie Réservée",
+    "ids": {
+      "explicit": "stat_897996059"
+    }
+  },
+  {
     "text": "#% de Réduction du Mana réservé par Pureté de la foudre",
     "ids": {
       "explicit": "stat_1285430327",
       "implicit": "stat_1285430327",
       "enchant": "stat_1285430327"
-    }
-  },
-  {
-    "text": "Votre Vie est considérée comme Basse tant que vous êtes affecté(e) par la Malédiction Vulnérabilité",
-    "ids": {
-      "explicit": "stat_2304300603"
-    }
-  },
-  {
-    "text": "Ajoutez # à # Dégâts de froid aux Sorts tant que vous n'avez pas de Vie Réservée",
-    "ids": {
-      "explicit": "stat_897996059"
     }
   },
   {
@@ -16706,16 +16730,16 @@
     }
   },
   {
+    "text": "La Zone contient un Cercle de pierres",
+    "ids": {
+      "explicit": "stat_3005800306"
+    }
+  },
+  {
     "text": "Vous ne pouvez être affecté(e) par la Malédiction Silence",
     "ids": {
       "explicit": "stat_1654414582",
       "implicit": "stat_1654414582"
-    }
-  },
-  {
-    "text": "La Zone contient un Cercle de pierres",
-    "ids": {
-      "explicit": "stat_3005800306"
     }
   },
   {
@@ -16738,21 +16762,27 @@
     }
   },
   {
-    "text": "Les Alliés à proximité ont Coup de grâce",
-    "ids": {
-      "explicit": "stat_1560540713"
-    }
-  },
-  {
     "text": "Les Monstres emprisonnés ont une Essence supplémentaire",
     "ids": {
       "explicit": "stat_679682964"
     }
   },
   {
+    "text": "Les Alliés à proximité ont Coup de grâce",
+    "ids": {
+      "explicit": "stat_1560540713"
+    }
+  },
+  {
     "text": "Les Talismans trouvés dans cette Zone sont plus élevés d'un Palier",
     "ids": {
       "explicit": "stat_2800333900"
+    }
+  },
+  {
+    "text": "Si vous avez Bloqué Récemment, vous et les Alliés à proximité avez #% de Régénération de Vie par seconde",
+    "ids": {
+      "explicit": "stat_176085824"
     }
   },
   {
@@ -16783,12 +16813,6 @@
     "text": "Les Monstres Rares de Brèche cèdent une Esquille supplémentaire",
     "ids": {
       "explicit": "stat_3097206473"
-    }
-  },
-  {
-    "text": "#% de chances d'infliger une Malédiction aléatoire au Toucher aux Ennemis qui ne sont pas Maudits",
-    "ids": {
-      "explicit": "stat_1726444796"
     }
   },
   {
@@ -16828,27 +16852,21 @@
     }
   },
   {
-    "text": "Les Augmentations et Réductions du Rayonnement lumineux s'appliquent également à la Précision",
-    "ids": {
-      "explicit": "stat_411986876"
-    }
-  },
-  {
     "text": "La Résistance au feu est de #%",
     "ids": {
       "explicit": "stat_763311546"
     }
   },
   {
-    "text": "Les Ennemis à proximité ont #% d'Augmentation des Charges de Flacon octroyées",
-    "ids": {
-      "explicit": "stat_3547189490"
-    }
-  },
-  {
     "text": "Les Monstres Rares de Brèches ont #% de chances de céder une Bague de Brèche",
     "ids": {
       "explicit": "stat_4157714333"
+    }
+  },
+  {
+    "text": "Les Ennemis à proximité ont #% d'Augmentation des Charges de Flacon octroyées",
+    "ids": {
+      "explicit": "stat_3547189490"
     }
   },
   {
@@ -16908,15 +16926,21 @@
     }
   },
   {
+    "text": "Les Ennemis à proximité ont #% de Réduction de la Récupération de Blocage et d'Étourdissement",
+    "ids": {
+      "explicit": "stat_3169825297"
+    }
+  },
+  {
     "text": "Les Esprits tourmentés ont #% d'Augmentation de Durée",
     "ids": {
       "explicit": "stat_663610248"
     }
   },
   {
-    "text": "Les Ennemis à proximité ont #% de Réduction de la Récupération de Blocage et d'Étourdissement",
+    "text": "Déclenche Garde élémentaire (Niveau #) lorsque vous Touchez un Ennemi en étant Maudit(e)",
     "ids": {
-      "explicit": "stat_3169825297"
+      "explicit": "stat_810166817"
     }
   },
   {
@@ -16962,15 +16986,15 @@
     }
   },
   {
-    "text": "Cette arme a #% d'Augmentation de Dégâts au Toucher contre les Ennemis Gelés",
-    "ids": {
-      "explicit": "stat_196313911"
-    }
-  },
-  {
     "text": "#% d'Augmentation du Bouclier d'énergie maximal par Objet Corrompu équipé",
     "ids": {
       "explicit": "stat_3916980068"
+    }
+  },
+  {
+    "text": "Cette arme a #% d'Augmentation de Dégâts au Toucher contre les Ennemis Gelés",
+    "ids": {
+      "explicit": "stat_196313911"
     }
   },
   {
@@ -17006,12 +17030,6 @@
     }
   },
   {
-    "text": "Déclenche Garde élémentaire (Niveau #) lorsque vous Touchez un Ennemi en étant Maudit(e)",
-    "ids": {
-      "explicit": "stat_810166817"
-    }
-  },
-  {
     "text": "Les Coffres de Perandus ont #% Davantage de Rareté des Objets cédés",
     "ids": {
       "explicit": "stat_3535403838"
@@ -17043,15 +17061,15 @@
     }
   },
   {
-    "text": "Cette arme a #% d'Augmentation de Dégâts au Toucher contre les Ennemis Embrasés",
-    "ids": {
-      "explicit": "stat_3095345438"
-    }
-  },
-  {
     "text": "Les joueurs ont Assaut pendant l'utilisation des Flacons",
     "ids": {
       "explicit": "stat_2576546039"
+    }
+  },
+  {
+    "text": "Cette arme a #% d'Augmentation de Dégâts au Toucher contre les Ennemis Embrasés",
+    "ids": {
+      "explicit": "stat_3095345438"
     }
   },
   {
@@ -17073,9 +17091,9 @@
     }
   },
   {
-    "text": "Votre nombre maximum de Charges de frénésie est égal à votre nombre maximum de Charges de pouvoir",
+    "text": "#% d'Augmentation du Bouclier d'énergie par Charge de pouvoir",
     "ids": {
-      "explicit": "stat_2238831336"
+      "explicit": "stat_2189382346"
     }
   },
   {
@@ -17091,15 +17109,15 @@
     }
   },
   {
-    "text": "Les joueurs ont #% de chances de gagner Assaut pendant 4 secondes lorsqu'ils Tuent",
-    "ids": {
-      "explicit": "stat_3563824294"
-    }
-  },
-  {
     "text": "Lorsque vous Tuez des Ennemis situés sur du Sol fongique, ils ont #% de chances d'exploser, infligeant 5% de leur Vie sous forme de Dégâts de chaos",
     "ids": {
       "explicit": "stat_3550460467"
+    }
+  },
+  {
+    "text": "Les joueurs ont #% de chances de gagner Assaut pendant 4 secondes lorsqu'ils Tuent",
+    "ids": {
+      "explicit": "stat_3563824294"
     }
   },
   {
@@ -17159,9 +17177,9 @@
     }
   },
   {
-    "text": "#% d'Augmentation du Bouclier d'énergie par Charge de pouvoir",
+    "text": "Votre nombre maximum de Charges de frénésie est égal à votre nombre maximum de Charges de pouvoir",
     "ids": {
-      "explicit": "stat_2189382346"
+      "explicit": "stat_2238831336"
     }
   },
   {
@@ -17177,16 +17195,16 @@
     }
   },
   {
+    "text": "Vous et les Alliés à proximité avez # à # Dégâts de chaos supplémentaires par Châsse blanche",
+    "ids": {
+      "explicit": "stat_3232695173"
+    }
+  },
+  {
     "text": "Les Exilés renégats cèdent un Joyau supplémentaire",
     "ids": {
       "explicit": "stat_4143730600",
       "enchant": "stat_4143730600"
-    }
-  },
-  {
-    "text": "Vous et les Alliés à proximité avez # à # Dégâts de chaos supplémentaires par Châsse blanche",
-    "ids": {
-      "explicit": "stat_3232695173"
     }
   },
   {
@@ -17211,12 +17229,6 @@
     "text": "Les Ennemis à proximité ont #% à toutes les Résistances",
     "ids": {
       "explicit": "stat_668145148"
-    }
-  },
-  {
-    "text": "Les Talents éminents dans le Rayon sont transformés de manière à octroyer à la place #% d'Augmentation de Vitesse de déplacement de vos Créatures",
-    "ids": {
-      "explicit": "stat_3362879252"
     }
   },
   {
@@ -17268,15 +17280,15 @@
     }
   },
   {
-    "text": "#% au Multiplicateur de coup critique des Sorts si vous n'avez pas Tué Récemment",
-    "ids": {
-      "explicit": "stat_729430714"
-    }
-  },
-  {
     "text": "#% des Dégâts infligés par vos Mines sont Drainés sous forme de Vie",
     "ids": {
       "explicit": "stat_807450540"
+    }
+  },
+  {
+    "text": "#% au Multiplicateur de coup critique des Sorts si vous n'avez pas Tué Récemment",
+    "ids": {
+      "explicit": "stat_729430714"
     }
   },
   {
@@ -17334,15 +17346,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Vitesse de déplacement par Charge d'endurance",
-    "ids": {
-      "explicit": "stat_2116250000"
-    }
-  },
-  {
     "text": "Vous avez Danse écarlate si vous avez infligé un Coup critique Récemment",
     "ids": {
       "explicit": "stat_1756017808"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Vitesse de déplacement par Charge d'endurance",
+    "ids": {
+      "explicit": "stat_2116250000"
     }
   },
   {
@@ -17352,21 +17364,15 @@
     }
   },
   {
-    "text": "Vous êtes Insensible aux Malédictions",
-    "ids": {
-      "explicit": "stat_3809896400"
-    }
-  },
-  {
     "text": "Gagnez # de Mana en Touchant un Ennemi Provoqué",
     "ids": {
       "explicit": "stat_1834588299"
     }
   },
   {
-    "text": "Tant que vous êtes Embrasé, vous ignorez la Résistance au feu des Ennemis au Toucher",
+    "text": "Vous êtes Insensible aux Malédictions",
     "ids": {
-      "explicit": "stat_4040152475"
+      "explicit": "stat_3809896400"
     }
   },
   {
@@ -17376,15 +17382,21 @@
     }
   },
   {
-    "text": "Les Monstres de Perandus ont #% de chances de céder des Pièces de Pérandus",
+    "text": "Tant que vous êtes Embrasé, vous ignorez la Résistance au feu des Ennemis au Toucher",
     "ids": {
-      "explicit": "stat_3689836025"
+      "explicit": "stat_4040152475"
     }
   },
   {
     "text": "#% de chances de perdre une Charge de pouvoir lorsque vous devenez Insaisissable",
     "ids": {
       "explicit": "stat_1819086604"
+    }
+  },
+  {
+    "text": "Les Monstres de Perandus ont #% de chances de céder des Pièces de Pérandus",
+    "ids": {
+      "explicit": "stat_3689836025"
     }
   },
   {
@@ -17400,15 +17412,15 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Vitesse des Créatures  (Niveau #)",
-    "ids": {
-      "explicit": "stat_995332031"
-    }
-  },
-  {
     "text": "Les Chances de Bloquer les Dégâts des Sorts sont Malchanceuses",
     "ids": {
       "explicit": "stat_3551025193"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifiées par Vitesse des Créatures  (Niveau #)",
+    "ids": {
+      "explicit": "stat_995332031"
     }
   },
   {
@@ -17466,6 +17478,12 @@
     }
   },
   {
+    "text": "#% d'Augmentation de l'Armure par Charge d'endurance",
+    "ids": {
+      "explicit": "stat_1447080724"
+    }
+  },
+  {
     "text": "#% de chances de gagner Assaut lorsque vous utilisez un Flacon",
     "ids": {
       "explicit": "stat_1324450398"
@@ -17490,15 +17508,15 @@
     }
   },
   {
-    "text": "Lorsque vous gagnez une Charge de frénésie, #% de chances de gagner votre maximum de Charges de frénésie à la place",
-    "ids": {
-      "explicit": "stat_2119664154"
-    }
-  },
-  {
     "text": "Vos Sorts ont #% d'Augmentation des Chances de coup critique si vous avez Tué Récemment",
     "ids": {
       "explicit": "stat_1243114410"
+    }
+  },
+  {
+    "text": "Lorsque vous gagnez une Charge de frénésie, #% de chances de gagner votre maximum de Charges de frénésie à la place",
+    "ids": {
+      "explicit": "stat_2119664154"
     }
   },
   {
@@ -17556,16 +17574,16 @@
     }
   },
   {
+    "text": "#% d'Augmentation de la Portée de la Pêche",
+    "ids": {
+      "explicit": "stat_170497091"
+    }
+  },
+  {
     "text": "#% d'Augmentation du Score d'Évasion par Charge de frénésie",
     "ids": {
       "explicit": "stat_660404777",
       "implicit": "stat_660404777"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de la Portée de la Pêche",
-    "ids": {
-      "explicit": "stat_170497091"
     }
   },
   {
@@ -17581,6 +17599,12 @@
     }
   },
   {
+    "text": "La première fois qu'un joueur atteint # de Score de Carnage dans cette Zone, il est confronté à un Monstre Puissant",
+    "ids": {
+      "explicit": "stat_329336318"
+    }
+  },
+  {
     "text": "Les Coffres de Perandus sont gardés par des Monstres Rares supplémentaires",
     "ids": {
       "explicit": "stat_2156472123"
@@ -17590,12 +17614,6 @@
     "text": "La Zone contient Yama le Blanc",
     "ids": {
       "explicit": "stat_482341163"
-    }
-  },
-  {
-    "text": "La première fois qu'un joueur atteint # de Score de Carnage dans cette Zone, il est confronté à un Monstre Puissant",
-    "ids": {
-      "explicit": "stat_329336318"
     }
   },
   {
@@ -17671,6 +17689,12 @@
     }
   },
   {
+    "text": "# de Vie gagnée pour chaque Ennemi Embrasé Touché par vos Attaques",
+    "ids": {
+      "explicit": "stat_120895749"
+    }
+  },
+  {
     "text": "Vous ne pouvez pas gagner de Charges pendant l'Effet de n'importe quel Flacon éventre-âmes",
     "ids": {
       "explicit": "stat_2748763342"
@@ -17680,12 +17704,6 @@
     "text": "Vous et les Alliés à proximité avez # à # Dégâts de feu supplémentaires par Châsse rouge",
     "ids": {
       "explicit": "stat_1666896662"
-    }
-  },
-  {
-    "text": "# de Vie gagnée pour chaque Ennemi Embrasé Touché par vos Attaques",
-    "ids": {
-      "explicit": "stat_120895749"
     }
   },
   {
@@ -17701,12 +17719,6 @@
     }
   },
   {
-    "text": "Équiper l'objet déclenche Esprits spectraux (Niveau 20)",
-    "ids": {
-      "explicit": "stat_470688636"
-    }
-  },
-  {
     "text": "Les Objets cédés par les Exilés renégats ont leurs Châsses liées",
     "ids": {
       "explicit": "stat_898094766"
@@ -17716,6 +17728,12 @@
     "text": "#% d'Augmentation de la Vitesse de recharge des Aptitudes de trajet par Charge de frénésie",
     "ids": {
       "explicit": "stat_3083201633"
+    }
+  },
+  {
+    "text": "Équiper l'objet déclenche Esprits spectraux (Niveau 20)",
+    "ids": {
+      "explicit": "stat_470688636"
     }
   },
   {
@@ -17799,15 +17817,15 @@
     }
   },
   {
-    "text": "Lorsqu'une Lignée est Tuée, elle cède un Objet Rare",
-    "ids": {
-      "explicit": "stat_2309624770"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vitesse de déplacement par Charge de pouvoir",
     "ids": {
       "explicit": "stat_3774108776"
+    }
+  },
+  {
+    "text": "Lorsqu'une Lignée est Tuée, elle cède un Objet Rare",
+    "ids": {
+      "explicit": "stat_2309624770"
     }
   },
   {
@@ -17850,12 +17868,6 @@
     "text": "Le Drain de Vie et de Mana est instantané pendant l'Effet du Flacon",
     "ids": {
       "explicit": "stat_1102362593"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de l'Armure par Charge d'endurance",
-    "ids": {
-      "explicit": "stat_1447080724"
     }
   },
   {
@@ -17934,15 +17946,15 @@
     }
   },
   {
-    "text": "Les Aptitudes Enchâssées ont #% d'Augmentation de Vitesse d'attaque",
-    "ids": {
-      "explicit": "stat_2881124988"
-    }
-  },
-  {
     "text": "Les Monstres Possédés par des Esprits tourmentés ont #% d'Augmentation des Dégâts subis",
     "ids": {
       "explicit": "stat_261224780"
+    }
+  },
+  {
+    "text": "Les Aptitudes Enchâssées ont #% d'Augmentation de Vitesse d'attaque",
+    "ids": {
+      "explicit": "stat_2881124988"
     }
   },
   {
@@ -17983,12 +17995,6 @@
     }
   },
   {
-    "text": "Si vous avez Bloqué Récemment, vous et les Alliés à proximité avez #% de Régénération de Vie par seconde",
-    "ids": {
-      "explicit": "stat_176085824"
-    }
-  },
-  {
     "text": "#% de Réduction des Dégâts de foudre subis",
     "ids": {
       "explicit": "stat_1276918229",
@@ -18020,12 +18026,6 @@
     }
   },
   {
-    "text": "50% d'Augmentation des Chances de coup critique au Toucher contre les Ennemis à proximité",
-    "ids": {
-      "explicit": "stat_992435560"
-    }
-  },
-  {
     "text": "La Zone contient un Coffret à bijoux de Perandus supplémentaire",
     "ids": {
       "explicit": "stat_1105638781"
@@ -18038,15 +18038,15 @@
     }
   },
   {
-    "text": "La Zone contient un Rebelle tourmenté",
+    "text": "50% d'Augmentation des Chances de coup critique au Toucher contre les Ennemis à proximité",
     "ids": {
-      "explicit": "stat_1077576866"
+      "explicit": "stat_992435560"
     }
   },
   {
-    "text": "#% d'Augmentation des Chances de coup critique par Charge de frénésie",
+    "text": "La Zone contient un Rebelle tourmenté",
     "ids": {
-      "explicit": "stat_707887043"
+      "explicit": "stat_1077576866"
     }
   },
   {
@@ -18056,9 +18056,9 @@
     }
   },
   {
-    "text": "#% de chances d'Aveugler les Ennemis à proximité en gagnant Sa bénédiction",
+    "text": "#% d'Augmentation des Chances de coup critique par Charge de frénésie",
     "ids": {
-      "explicit": "stat_2327728343"
+      "explicit": "stat_707887043"
     }
   },
   {
@@ -18068,15 +18068,21 @@
     }
   },
   {
-    "text": "Ajoute # à # Dégâts de feu aux Attaques contre les Ennemis Embrasés",
+    "text": "#% de chances d'Aveugler les Ennemis à proximité en gagnant Sa bénédiction",
     "ids": {
-      "explicit": "stat_627339348"
+      "explicit": "stat_2327728343"
     }
   },
   {
     "text": "Rajoutez #% des Dégâts physiques des épées sous forme de Dégâts de feu",
     "ids": {
       "explicit": "stat_754005431"
+    }
+  },
+  {
+    "text": "Ajoute # à # Dégâts de feu aux Attaques contre les Ennemis Embrasés",
+    "ids": {
+      "explicit": "stat_627339348"
     }
   },
   {
@@ -18207,6 +18213,12 @@
     }
   },
   {
+    "text": "Vous ne pouvez pas être Électrocuté ou Embrasé tant que vous vous déplacez",
+    "ids": {
+      "explicit": "stat_3592330380"
+    }
+  },
+  {
     "text": "#% de chances d'Esquiver les Attaques au Toucher par Charge d'endurance",
     "ids": {
       "explicit": "stat_1893852470"
@@ -18216,12 +18228,6 @@
     "text": "Discipline ne Réserve pas de Mana",
     "ids": {
       "explicit": "stat_3708588508"
-    }
-  },
-  {
-    "text": "Vous ne pouvez pas être Électrocuté ou Embrasé tant que vous vous déplacez",
-    "ids": {
-      "explicit": "stat_3592330380"
     }
   },
   {
@@ -18287,15 +18293,15 @@
     }
   },
   {
-    "text": "Créatures instables",
-    "ids": {
-      "explicit": "stat_433293234"
-    }
-  },
-  {
     "text": "#% des Dégâts Drainent de la Vie aux Ennemis Gelés",
     "ids": {
       "explicit": "stat_593279674"
+    }
+  },
+  {
+    "text": "Créatures instables",
+    "ids": {
+      "explicit": "stat_433293234"
     }
   },
   {
@@ -18318,21 +18324,27 @@
     }
   },
   {
-    "text": "# au Score d'Évasion si vous avez Touché un Ennemi Récemment",
-    "ids": {
-      "explicit": "stat_2935548106"
-    }
-  },
-  {
     "text": "Transfert givrant a #% d'Augmentation de Durée",
     "ids": {
       "explicit": "stat_3941271999"
     }
   },
   {
+    "text": "# au Score d'Évasion si vous avez Touché un Ennemi Récemment",
+    "ids": {
+      "explicit": "stat_2935548106"
+    }
+  },
+  {
     "text": "La Zone contient 3 Groupes Magiques supplémentaires qui\nOnt #% d'Augmentation de la Vitesse d'attaque, d'incantation et de déplacement, et #% Davantage d'Objets cédés",
     "ids": {
       "explicit": "stat_2244724505"
+    }
+  },
+  {
+    "text": "Octroie l'Aptitude Transfert givrant (Niveau #)",
+    "ids": {
+      "explicit": "stat_2911866787"
     }
   },
   {
@@ -18348,15 +18360,15 @@
     }
   },
   {
-    "text": "Ajoute # à # Dégâts physiques contre les Ennemis Empoisonnés",
-    "ids": {
-      "explicit": "stat_424026624"
-    }
-  },
-  {
     "text": "La Zone contient un Talisman Mâchecrocs supplémentaire",
     "ids": {
       "explicit": "stat_3381731475"
+    }
+  },
+  {
+    "text": "Ajoute # à # Dégâts physiques contre les Ennemis Empoisonnés",
+    "ids": {
+      "explicit": "stat_424026624"
     }
   },
   {
@@ -18378,15 +18390,15 @@
     }
   },
   {
-    "text": "#% de Chances de Bloquer les Dégâts d'Attaque par Charge de frénésie",
-    "ids": {
-      "explicit": "stat_2148784747"
-    }
-  },
-  {
     "text": "# à l'Armure si vous avez Touché un Ennemi Récemment",
     "ids": {
       "explicit": "stat_2368149582"
+    }
+  },
+  {
+    "text": "#% de Chances de Bloquer les Dégâts d'Attaque par Charge de frénésie",
+    "ids": {
+      "explicit": "stat_2148784747"
     }
   },
   {
@@ -18451,15 +18463,15 @@
     }
   },
   {
-    "text": "Fureur ne Réserve pas de Mana",
-    "ids": {
-      "explicit": "stat_1865987277"
-    }
-  },
-  {
     "text": "Danse des flèches",
     "ids": {
       "explicit": "stat_2606808909"
+    }
+  },
+  {
+    "text": "Fureur ne Réserve pas de Mana",
+    "ids": {
+      "explicit": "stat_1865987277"
     }
   },
   {
@@ -18469,27 +18481,27 @@
     }
   },
   {
-    "text": "Réflexes de fer",
-    "ids": {
-      "explicit": "stat_326965591"
-    }
-  },
-  {
     "text": "Deétermination ne Réserve pas de Mana",
     "ids": {
       "explicit": "stat_1358697130"
     }
   },
   {
-    "text": "#% de chances de Récupérer 10% de Mana lorsque vous utilisez une Aptitude",
+    "text": "Réflexes de fer",
     "ids": {
-      "explicit": "stat_308309328"
+      "explicit": "stat_326965591"
     }
   },
   {
     "text": "#% de chances d'Esquiver les Attaques au Toucher par Charge de pouvoir",
     "ids": {
       "explicit": "stat_2163273007"
+    }
+  },
+  {
+    "text": "#% de chances de Récupérer 10% de Mana lorsque vous utilisez une Aptitude",
+    "ids": {
+      "explicit": "stat_308309328"
     }
   },
   {
@@ -18502,12 +18514,6 @@
     "text": "Les Objets cédés par les Exilés renégats sont Corrompus",
     "ids": {
       "explicit": "stat_663447087"
-    }
-  },
-  {
-    "text": "Octroie l'Aptitude Transfert givrant (Niveau #)",
-    "ids": {
-      "explicit": "stat_2911866787"
     }
   },
   {
@@ -18571,15 +18577,15 @@
     }
   },
   {
-    "text": "Toutes les pénalités de déplacement des Armures sont ignorées",
-    "ids": {
-      "explicit": "stat_1311723478"
-    }
-  },
-  {
     "text": "Les Brèches contiennent chacune un Poing serré de Seigneur de Brèche",
     "ids": {
       "explicit": "stat_488900289"
+    }
+  },
+  {
+    "text": "Toutes les pénalités de déplacement des Armures sont ignorées",
+    "ids": {
+      "explicit": "stat_1311723478"
     }
   },
   {
@@ -18643,15 +18649,15 @@
     }
   },
   {
-    "text": "Vous avez Réflexes de fer tant que vous êtes au maximum de Charges de frénésie",
-    "ids": {
-      "explicit": "stat_1990354706"
-    }
-  },
-  {
     "text": "#% d'Augmentation du Score d'Évasion Global tant que votre Vie est Pleine",
     "ids": {
       "explicit": "stat_88817332"
+    }
+  },
+  {
+    "text": "Vous avez Réflexes de fer tant que vous êtes au maximum de Charges de frénésie",
+    "ids": {
+      "explicit": "stat_1990354706"
     }
   },
   {
@@ -18670,6 +18676,12 @@
     "text": "Les Gemmes Enchâssées sont modifiées par Projectiles multiples majeurs (Niveau #)",
     "ids": {
       "explicit": "stat_359450079"
+    }
+  },
+  {
+    "text": "Vous avez L'Esprit dépasse la Matière tant que vous êtes au maximum de Charges de pouvoir",
+    "ids": {
+      "explicit": "stat_1876857497"
     }
   },
   {
@@ -18704,15 +18716,15 @@
     }
   },
   {
-    "text": "Vous gagnez une Réduction supplémentaire des Dégâts physiques de #% pendant l'Effet de n'importe quel Flacon",
-    "ids": {
-      "explicit": "stat_2693266036"
-    }
-  },
-  {
     "text": "Vous pouvez appliquer une Malédiction supplémentaire lorsque vous êtes au maximum de Charges de pouvoir",
     "ids": {
       "explicit": "stat_761598374"
+    }
+  },
+  {
+    "text": "Vous gagnez une Réduction supplémentaire des Dégâts physiques de #% pendant l'Effet de n'importe quel Flacon",
+    "ids": {
+      "explicit": "stat_2693266036"
     }
   },
   {
@@ -18731,12 +18743,6 @@
     "text": "Vous ne pouvez pas être Frigorifié ou Gelé pendant le déplacement",
     "ids": {
       "explicit": "stat_628032624"
-    }
-  },
-  {
-    "text": "Vous avez L'Esprit dépasse la Matière tant que vous êtes au maximum de Charges de pouvoir",
-    "ids": {
-      "explicit": "stat_1876857497"
     }
   },
   {
@@ -18831,15 +18837,15 @@
     }
   },
   {
-    "text": "Octroie l'Aptitude Impureté de la foudre vaal (Niveau #)",
-    "ids": {
-      "explicit": "stat_2959369472"
-    }
-  },
-  {
     "text": "Les Gemmes Enchâssées sont modifiées par Combustion (Niveau #)",
     "ids": {
       "explicit": "stat_1828254451"
+    }
+  },
+  {
+    "text": "Octroie l'Aptitude Impureté de la foudre vaal (Niveau #)",
+    "ids": {
+      "explicit": "stat_2959369472"
     }
   },
   {
@@ -18850,15 +18856,15 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Dégâts lorsque la Vie est Pleine (Niveau #)",
-    "ids": {
-      "explicit": "stat_2126431157"
-    }
-  },
-  {
     "text": "Les Gemmes Enchâssées sont modifiées par Décomposition (Niveau #)",
     "ids": {
       "explicit": "stat_388696990"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifiées par Dégâts lorsque la Vie est Pleine (Niveau #)",
+    "ids": {
+      "explicit": "stat_2126431157"
     }
   },
   {
@@ -18868,15 +18874,15 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifées par Totems multiples (Niveau #)",
-    "ids": {
-      "explicit": "stat_807186595"
-    }
-  },
-  {
     "text": "Les Gemmes Enchâssées sont modifiées par Invocation d'Apparition (Niveau #)",
     "ids": {
       "explicit": "stat_3155072742"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifées par Totems multiples (Niveau #)",
+    "ids": {
+      "explicit": "stat_807186595"
     }
   },
   {
@@ -18917,21 +18923,27 @@
     }
   },
   {
-    "text": "Ajoute # à # Dégâts de feu si vous avez Bloqué Récemment",
-    "ids": {
-      "explicit": "stat_3623716321"
-    }
-  },
-  {
     "text": "La Zone contient un Talisman Unique supplémentaire",
     "ids": {
       "explicit": "stat_3956623857"
     }
   },
   {
+    "text": "Ajoute # à # Dégâts de feu si vous avez Bloqué Récemment",
+    "ids": {
+      "explicit": "stat_3623716321"
+    }
+  },
+  {
     "text": "Les Gemmes Enchâssées sont modifiées par Conversion du physique en foudre (Niveau #)",
     "ids": {
       "explicit": "stat_3327487371"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifiées par Empalement (Niveau #)",
+    "ids": {
+      "explicit": "stat_1900098804"
     }
   },
   {
@@ -18947,21 +18959,15 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Empalement (Niveau #)",
+    "text": "Les Gemmes Enchâssées sont modifiées par Ricochet (Niveau #)",
     "ids": {
-      "explicit": "stat_1900098804"
+      "explicit": "stat_2643665787"
     }
   },
   {
     "text": "Les Gemmes Enchâssées sont modifiées par Tir de barrage (Niveau #)",
     "ids": {
       "explicit": "stat_3827538724"
-    }
-  },
-  {
-    "text": "Les Gemmes Enchâssées sont modifiées par Ricochet (Niveau #)",
-    "ids": {
-      "explicit": "stat_2643665787"
     }
   },
   {
@@ -18983,9 +18989,15 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Intensification (Niveau #)",
+    "text": "Les Gemmes Enchâssées sont modifiées par Valorisation (Niveau #)",
     "ids": {
-      "explicit": "stat_1876637240"
+      "explicit": "stat_2556436882"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifiées par Soif de sang (Niveau #)",
+    "ids": {
+      "explicit": "stat_804508379"
     }
   },
   {
@@ -18996,15 +19008,9 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Soif de sang (Niveau #)",
+    "text": "Les Gemmes Enchâssées sont modifiées par Intensification (Niveau #)",
     "ids": {
-      "explicit": "stat_804508379"
-    }
-  },
-  {
-    "text": "#% increased Rarity of Items found in this Area",
-    "ids": {
-      "explicit": "stat_2306002879"
+      "explicit": "stat_1876637240"
     }
   },
   {
@@ -19015,9 +19021,9 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Valorisation (Niveau #)",
+    "text": "#% increased Rarity of Items found in this Area",
     "ids": {
-      "explicit": "stat_2556436882"
+      "explicit": "stat_2306002879"
     }
   },
   {
@@ -19033,30 +19039,6 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Pièges galvanisants (Niveau #)",
-    "ids": {
-      "explicit": "stat_479453859"
-    }
-  },
-  {
-    "text": "Les Gemmes Enchâssées sont modifiées par Assemblage rapide (Niveau #)",
-    "ids": {
-      "explicit": "stat_4021476585"
-    }
-  },
-  {
-    "text": "Les Gemmes Enchâssées sont modifiées par Champ de Mines (Niveau #)",
-    "ids": {
-      "explicit": "stat_2805586447"
-    }
-  },
-  {
-    "text": "Les Gemmes Enchâssées sont modifiées par Frisson pénétrant (Niveau #)",
-    "ids": {
-      "explicit": "stat_1859244771"
-    }
-  },
-  {
     "text": "Les Gemmes Enchâssés sont modifiées par Archer mirage (Niveau #)",
     "ids": {
       "explicit": "stat_3239503729"
@@ -19069,9 +19051,15 @@
     }
   },
   {
-    "text": "# au Niveau de toutes les Gemmes d'Aptitude de Dextérité",
+    "text": "Les Projectiles Transpercent 2 cibles supplémentaires",
     "ids": {
-      "explicit": "stat_146924886"
+      "explicit": "stat_3640956958"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifiées par Assemblage rapide (Niveau #)",
+    "ids": {
+      "explicit": "stat_4021476585"
     }
   },
   {
@@ -19081,39 +19069,39 @@
     }
   },
   {
-    "text": "# au Niveau de toutes les Gemmes d'Aptitude de feu",
-    "ids": {
-      "explicit": "stat_599749213"
-    }
-  },
-  {
     "text": "Les Ennemis à proximité ont #% d'Augmentation de leurs Résistances au feu et au froid",
     "ids": {
       "explicit": "stat_4273356746"
     }
   },
   {
-    "text": "Les Projectiles Transpercent 2 cibles supplémentaires",
+    "text": "# au Niveau de toutes les Gemmes d'Aptitude de Dextérité",
     "ids": {
-      "explicit": "stat_3640956958"
+      "explicit": "stat_146924886"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifiées par Frisson pénétrant (Niveau #)",
+    "ids": {
+      "explicit": "stat_1859244771"
+    }
+  },
+  {
+    "text": "# au Niveau de toutes les Gemmes d'Aptitude de feu",
+    "ids": {
+      "explicit": "stat_599749213"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifiées par Champ de Mines (Niveau #)",
+    "ids": {
+      "explicit": "stat_2805586447"
     }
   },
   {
     "text": "Toutes les 5 secondes, vous Régénérez #% de Vie sur une période de 1 seconde",
     "ids": {
       "explicit": "stat_1242155304"
-    }
-  },
-  {
-    "text": "Toutes les 8 secondes, vous gagnez Conflux frigorifiant pendant 3 secondes",
-    "ids": {
-      "explicit": "stat_1190121450"
-    }
-  },
-  {
-    "text": "Les Gemmes Enchâssées sont modifiées par Lame nocturne (Niveau #)",
-    "ids": {
-      "explicit": "stat_2861649515"
     }
   },
   {
@@ -19124,21 +19112,9 @@
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Rage (Niveau #)",
+    "text": "Les Gemmes Enchâssées sont modifiées par Pièges galvanisants (Niveau #)",
     "ids": {
-      "explicit": "stat_369650395"
-    }
-  },
-  {
-    "text": "Les Sorts à nova sont Lancés depuis l'emplacement ciblé au lieu d'être Lancés à partir de vous",
-    "ids": {
-      "explicit": "stat_728246008"
-    }
-  },
-  {
-    "text": "Les Gemmes Enchâssées sont modifiées par Combat rapproché (Niveau #)",
-    "ids": {
-      "explicit": "stat_694651314"
+      "explicit": "stat_479453859"
     }
   },
   {
@@ -19148,15 +19124,39 @@
     }
   },
   {
+    "text": "Les Gemmes Enchâssées sont modifiées par Mines galvanisantes (Niveau #)",
+    "ids": {
+      "explicit": "stat_1365328494"
+    }
+  },
+  {
     "text": "Les Gemmes Enchâssées sont modifiées par Pièges multiples (Niveau #)",
     "ids": {
       "explicit": "stat_3016436615"
     }
   },
   {
-    "text": "Les Gemmes Enchâssées sont modifiées par Mines galvanisantes (Niveau #)",
+    "text": "Les Gemmes Enchâssées sont modifiées par Lame nocturne (Niveau #)",
     "ids": {
-      "explicit": "stat_1365328494"
+      "explicit": "stat_2861649515"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifiées par Rage (Niveau #)",
+    "ids": {
+      "explicit": "stat_369650395"
+    }
+  },
+  {
+    "text": "Les Gemmes Enchâssées sont modifiées par Combat rapproché (Niveau #)",
+    "ids": {
+      "explicit": "stat_694651314"
+    }
+  },
+  {
+    "text": "Les Sorts à nova sont Lancés depuis l'emplacement ciblé au lieu d'être Lancés à partir de vous",
+    "ids": {
+      "explicit": "stat_728246008"
     }
   },
   {
@@ -19391,6 +19391,12 @@
     }
   },
   {
+    "text": "#% des Dégâts de froid au Toucher sont subis sous forme de Dégâts de feu",
+    "ids": {
+      "implicit": "stat_1189760108"
+    }
+  },
+  {
     "text": "#% des Dégâts de foudre au Toucher sont subis sous forme de Dégâts de froid",
     "ids": {
       "implicit": "stat_1017730114"
@@ -19400,12 +19406,6 @@
     "text": "#% des Dégâts de froid au Toucher sont subis sous forme de Dégâts de foudre",
     "ids": {
       "implicit": "stat_1313503107"
-    }
-  },
-  {
-    "text": "#% des Dégâts de froid au Toucher sont subis sous forme de Dégâts de feu",
-    "ids": {
-      "implicit": "stat_1189760108"
     }
   },
   {
@@ -19427,15 +19427,21 @@
     }
   },
   {
+    "text": "# Dégâts de froid subis au Toucher",
+    "ids": {
+      "implicit": "stat_261654754"
+    }
+  },
+  {
     "text": "Octroie l'Aptitude Malfaisance (Niveau #)",
     "ids": {
       "implicit": "stat_2148556029"
     }
   },
   {
-    "text": "# Dégâts de froid subis au Toucher",
+    "text": "# Dégâts de foudre subis au Toucher",
     "ids": {
-      "implicit": "stat_261654754"
+      "implicit": "stat_465051235"
     }
   },
   {
@@ -19469,9 +19475,9 @@
     }
   },
   {
-    "text": "# Dégâts de foudre subis au Toucher",
+    "text": "#% d'Augmentation de Dégâts pendant le Drain de Vie",
     "ids": {
-      "implicit": "stat_465051235"
+      "implicit": "stat_3591306273"
     }
   },
   {
@@ -19514,12 +19520,6 @@
     "text": "Octroie l'Aptitude Conductivité (Niveau #)",
     "ids": {
       "implicit": "stat_461472247"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de Dégâts pendant le Drain de Vie",
-    "ids": {
-      "implicit": "stat_3591306273"
     }
   },
   {
@@ -19656,6 +19656,19 @@
     }
   },
   {
+    "text": "#% à la Qualité des Gemmes de froid Enchâssées",
+    "ids": {
+      "implicit": "stat_1164882313"
+    }
+  },
+  {
+    "text": "#% d'Augmentation du Rayon de ciblage des Symboles",
+    "ids": {
+      "implicit": "stat_4223377453",
+      "crafted": "stat_4223377453"
+    }
+  },
+  {
     "text": "#% à la Qualité des Gemmes d'Intelligence Enchâssées",
     "ids": {
       "implicit": "stat_3174776455"
@@ -19689,19 +19702,6 @@
     "text": "Les Sorts déclenchés ont #% d'Augmentation des Dégâts des Sorts",
     "ids": {
       "implicit": "stat_3067892458"
-    }
-  },
-  {
-    "text": "#% d'Augmentation du Rayon de ciblage des Symboles",
-    "ids": {
-      "implicit": "stat_4223377453",
-      "crafted": "stat_4223377453"
-    }
-  },
-  {
-    "text": "#% à la Qualité des Gemmes de froid Enchâssées",
-    "ids": {
-      "implicit": "stat_1164882313"
     }
   },
   {
@@ -19797,12 +19797,6 @@
     }
   },
   {
-    "text": "Cet Objet octroie #% à toutes les Résistances élémentaires s'il est Corrompu",
-    "ids": {
-      "implicit": "stat_3731630482"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Dégâts physiques avec les Aptitudes de Sort",
     "ids": {
       "implicit": "stat_1430255627"
@@ -19815,21 +19809,27 @@
     }
   },
   {
+    "text": "Cet Objet octroie #% à toutes les Résistances élémentaires s'il est Corrompu",
+    "ids": {
+      "implicit": "stat_3731630482"
+    }
+  },
+  {
     "text": "#% d'Augmentation des Dégâts de feu avec les Aptitudes de Sort",
     "ids": {
       "implicit": "stat_361162316"
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts des Sorts tous les 500 de Mana maximal",
-    "ids": {
-      "implicit": "stat_3555662994"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Dégâts d'Attaque tous les 500 de Mana",
     "ids": {
       "implicit": "stat_4134865890"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts des Sorts tous les 500 de Mana maximal",
+    "ids": {
+      "implicit": "stat_3555662994"
     }
   },
   {
@@ -19845,16 +19845,16 @@
     }
   },
   {
+    "text": "Cet Objet octroie #% d'Augmentation des Dégâts d'Attaque s'il est Corrompu",
+    "ids": {
+      "implicit": "stat_2347923784"
+    }
+  },
+  {
     "text": "#% d'Augmentation des Dégâts des Squelettes",
     "ids": {
       "implicit": "stat_3059357595",
       "enchant": "stat_3059357595"
-    }
-  },
-  {
-    "text": "Cet Objet octroie #% d'Augmentation des Dégâts d'Attaque s'il est Corrompu",
-    "ids": {
-      "implicit": "stat_2347923784"
     }
   },
   {
@@ -19922,21 +19922,21 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Chances de coup critique avec les Sorts lorsque vous maniez un bâton",
-    "ids": {
-      "implicit": "stat_140429540"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Chances de coup critique avec les Sorts lorsque vous maniez deux armes",
     "ids": {
       "implicit": "stat_1218939541"
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts physiques tant que vous avez Force impie",
+    "text": "#% d'Augmentation des Chances de coup critique avec les Sorts lorsque vous maniez un bâton",
     "ids": {
-      "implicit": "stat_1609570656"
+      "implicit": "stat_140429540"
+    }
+  },
+  {
+    "text": "#% d'Augmentation du Score de Précision avec les épées",
+    "ids": {
+      "implicit": "stat_2090868905"
     }
   },
   {
@@ -19946,9 +19946,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation du Score de Précision avec les épées",
+    "text": "#% d'Augmentation des Dégâts physiques tant que vous avez Force impie",
     "ids": {
-      "implicit": "stat_2090868905"
+      "implicit": "stat_1609570656"
+    }
+  },
+  {
+    "text": "#% au Multiplicateur de coup critique des Sorts lorsque vous tenez un bouclier",
+    "ids": {
+      "implicit": "stat_2311200892"
     }
   },
   {
@@ -19964,15 +19970,9 @@
     }
   },
   {
-    "text": "#% au Multiplicateur de coup critique des Sorts lorsque vous tenez un bouclier",
+    "text": "#% au Multiplicateur de coup critique avec les Masses et les Sceptress",
     "ids": {
-      "implicit": "stat_2311200892"
-    }
-  },
-  {
-    "text": "#% au Multiplicateur de coup critique avec les haches",
-    "ids": {
-      "implicit": "stat_4219746989"
+      "implicit": "stat_458899422"
     }
   },
   {
@@ -19982,9 +19982,9 @@
     }
   },
   {
-    "text": "#% au Multiplicateur de coup critique avec les Masses et les Sceptress",
+    "text": "#% au Multiplicateur de coup critique avec les haches",
     "ids": {
-      "implicit": "stat_458899422"
+      "implicit": "stat_4219746989"
     }
   },
   {
@@ -20048,16 +20048,16 @@
     }
   },
   {
-    "text": "#% d'Augmentation du Score de Précision avec les Masses et les Sceptres",
-    "ids": {
-      "implicit": "stat_3208450870"
-    }
-  },
-  {
     "text": "L'Objet est cédé en Mourant s'il est équipé par un Gardien animé",
     "ids": {
       "implicit": "stat_3909846940",
       "crafted": "stat_3909846940"
+    }
+  },
+  {
+    "text": "#% d'Augmentation du Score de Précision avec les Masses et les Sceptres",
+    "ids": {
+      "implicit": "stat_3208450870"
     }
   },
   {
@@ -20160,9 +20160,21 @@
     }
   },
   {
+    "text": "# à # Dégâts de feu supplémentaires si vous avez Tué Récemment",
+    "ids": {
+      "enchant": "stat_3077703716"
+    }
+  },
+  {
     "text": "#% de chances d'Esquiver les Sorts qui Touchent si\nvous avez subi des Dégâts de Sorts Récemment",
     "ids": {
       "enchant": "stat_1222329688"
+    }
+  },
+  {
+    "text": "# à # Dégâts de froid supplémentaires si vous avez été Touché(e) Récemment",
+    "ids": {
+      "enchant": "stat_884399432"
     }
   },
   {
@@ -20175,18 +20187,6 @@
     "text": "#% de chances d'Esquiver les Attaques qui Touchent si\nvous avez subi un Coup critique Récemment",
     "ids": {
       "enchant": "stat_3414398924"
-    }
-  },
-  {
-    "text": "# à # Dégâts de froid supplémentaires si vous avez été Touché(e) Récemment",
-    "ids": {
-      "enchant": "stat_884399432"
-    }
-  },
-  {
-    "text": "# à # Dégâts de feu supplémentaires si vous avez Tué Récemment",
-    "ids": {
-      "enchant": "stat_3077703716"
     }
   },
   {
@@ -20226,6 +20226,12 @@
     }
   },
   {
+    "text": "#% de chances de Lancer Mot du Brasier en Tuant",
+    "ids": {
+      "enchant": "stat_3901337328"
+    }
+  },
+  {
     "text": "#% de chances de Lancer Mot des Lames au Toucher",
     "ids": {
       "enchant": "stat_756653426"
@@ -20259,12 +20265,6 @@
     "text": "#% de chances de Lancer Mot de Flammes au Toucher",
     "ids": {
       "enchant": "stat_891161612"
-    }
-  },
-  {
-    "text": "#% de chances de Lancer Mot du Brasier en Tuant",
-    "ids": {
-      "enchant": "stat_3901337328"
     }
   },
   {
@@ -20418,15 +20418,15 @@
     }
   },
   {
-    "text": "Flèche de foudre touche un Ennemi supplémentaire",
-    "ids": {
-      "enchant": "stat_1901955093"
-    }
-  },
-  {
     "text": "#% de chances d'Attaquer avec Édit de Furie au Toucher",
     "ids": {
       "enchant": "stat_1153637043"
+    }
+  },
+  {
+    "text": "Flèche de foudre touche un Ennemi supplémentaire",
+    "ids": {
+      "enchant": "stat_1901955093"
     }
   },
   {
@@ -20445,6 +20445,18 @@
     "text": "Orbe de magma Ricoche une fois supplémentaire",
     "ids": {
       "enchant": "stat_2589980605"
+    }
+  },
+  {
+    "text": "#% de chances de Lancer Édit de Tonnerre en Tuant",
+    "ids": {
+      "enchant": "stat_603658709"
+    }
+  },
+  {
+    "text": "#% de chances que Décharge inflige ses Dégâts sans consommer de Charges",
+    "ids": {
+      "enchant": "stat_1833626118"
     }
   },
   {
@@ -20520,6 +20532,12 @@
     }
   },
   {
+    "text": "#% d'Augmentation des Dégâts de Frappe fulgurante par Charge de frénésie",
+    "ids": {
+      "enchant": "stat_3701991680"
+    }
+  },
+  {
     "text": "#% des Dégâts physiques de Déferlement de glace sont Convertis en Dégâts de froid",
     "ids": {
       "enchant": "stat_1154155584"
@@ -20532,15 +20550,15 @@
     }
   },
   {
-    "text": "Frappe foudroyante tire un Projectile supplémentaire",
-    "ids": {
-      "enchant": "stat_1213035889"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vitesse d'attaque de Tir de barrage",
     "ids": {
       "enchant": "stat_2523298357"
+    }
+  },
+  {
+    "text": "Frappe foudroyante tire un Projectile supplémentaire",
+    "ids": {
+      "enchant": "stat_1213035889"
     }
   },
   {
@@ -20556,9 +20574,9 @@
     }
   },
   {
-    "text": "#% de chances que Décharge inflige ses Dégâts sans consommer de Charges",
+    "text": "Mine de pyroclastes tire un Projectile supplémentaire",
     "ids": {
-      "enchant": "stat_1833626118"
+      "enchant": "stat_841281094"
     }
   },
   {
@@ -20583,12 +20601,6 @@
     "text": "#% d'Augmentation des Dégâts de Frappe fulgurante",
     "ids": {
       "enchant": "stat_464448327"
-    }
-  },
-  {
-    "text": "Mine de pyroclastes tire un Projectile supplémentaire",
-    "ids": {
-      "enchant": "stat_841281094"
     }
   },
   {
@@ -20640,12 +20652,6 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts de Frappe fulgurante par Charge de frénésie",
-    "ids": {
-      "enchant": "stat_3701991680"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Dégâts de Frappe volcanique",
     "ids": {
       "enchant": "stat_2038865857"
@@ -20670,6 +20676,12 @@
     }
   },
   {
+    "text": "#% de chances de Lancer Décret des Lames au Toucher",
+    "ids": {
+      "enchant": "stat_165958462"
+    }
+  },
+  {
     "text": "Lancer de bouclier spectral tire une écharde supplémentaire",
     "ids": {
       "enchant": "stat_3608981617"
@@ -20685,6 +20697,12 @@
     "text": "#% d'Augmentation des Dégâts de Flèche galvanique",
     "ids": {
       "enchant": "stat_2634945088"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des dégâts de l'anneau de Nova d'électricité",
+    "ids": {
+      "enchant": "stat_3652051346"
     }
   },
   {
@@ -20715,12 +20733,6 @@
     "text": "#% d'Augmentation de la Vitesse d'attaque de Cyclone",
     "ids": {
       "enchant": "stat_835592326"
-    }
-  },
-  {
-    "text": "#% de chances de Lancer Édit de Tonnerre en Tuant",
-    "ids": {
-      "enchant": "stat_603658709"
     }
   },
   {
@@ -20778,9 +20790,9 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Vitesse d'attaque de Frappe élémentaire",
+    "text": "#% de chances de déclencher Décret de la Tempête au Toucher",
     "ids": {
-      "enchant": "stat_1151217691"
+      "enchant": "stat_1671985305"
     }
   },
   {
@@ -20796,6 +20808,12 @@
     }
   },
   {
+    "text": "#% d'Augmentation de la Vitesse d'attaque de Frappe élémentaire",
+    "ids": {
+      "enchant": "stat_1151217691"
+    }
+  },
+  {
     "text": "#% d'Augmentation des Chances de coup critique de Flèches multiples",
     "ids": {
       "enchant": "stat_1028884162"
@@ -20805,12 +20823,6 @@
     "text": "Symbole de l'orage a #% de Pénétration de Résistance à la foudre de l'Ennemi qu'il marque",
     "ids": {
       "enchant": "stat_3318254108"
-    }
-  },
-  {
-    "text": "#% de chances de Lancer Décret des Lames au Toucher",
-    "ids": {
-      "enchant": "stat_165958462"
     }
   },
   {
@@ -20832,6 +20844,12 @@
     }
   },
   {
+    "text": "Damnation a #% d'Augmentation de Dégâts",
+    "ids": {
+      "enchant": "stat_2206071316"
+    }
+  },
+  {
     "text": "Le Totem Chef de guerre ancestral octroie #% d'Augmentation des Dégâts de mêlée pendant qu'il est activé",
     "ids": {
       "enchant": "stat_3543257184"
@@ -20847,12 +20865,6 @@
     "text": "Symbole de l'orage a #% de chances de Ricocher une fois de plus",
     "ids": {
       "enchant": "stat_1510381560"
-    }
-  },
-  {
-    "text": "#% d'Augmentation des dégâts de l'anneau de Nova d'électricité",
-    "ids": {
-      "enchant": "stat_3652051346"
     }
   },
   {
@@ -20877,6 +20889,12 @@
     "text": "#% d'Augmentation des Dégâts de Sphère de givre",
     "ids": {
       "enchant": "stat_2078274993"
+    }
+  },
+  {
+    "text": "#% de chances de déclencher Décret de la Sépulture lorsque vos Aptitudes ou vos Créatures Tuent",
+    "ids": {
+      "enchant": "stat_2187415468"
     }
   },
   {
@@ -20916,15 +20934,15 @@
     }
   },
   {
-    "text": "#% des Dégâts physiques de Flèche incendiaire sont Rajoutés sous forme de Dégâts de feu",
-    "ids": {
-      "enchant": "stat_3229580299"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Dégâts de Séisme",
     "ids": {
       "enchant": "stat_1697080607"
+    }
+  },
+  {
+    "text": "#% des Dégâts physiques de Flèche incendiaire sont Rajoutés sous forme de Dégâts de feu",
+    "ids": {
+      "enchant": "stat_3229580299"
     }
   },
   {
@@ -21000,12 +21018,6 @@
     }
   },
   {
-    "text": "Damnation a #% d'Augmentation de Dégâts",
-    "ids": {
-      "enchant": "stat_2206071316"
-    }
-  },
-  {
     "text": "#% de chances de Lancer Décret de l'Hiver en étant Touché(e)",
     "ids": {
       "enchant": "stat_2515273888"
@@ -21030,15 +21042,21 @@
     }
   },
   {
-    "text": "Vortex de lames a #% au Multiplicateur de coup critique pour chaque lame",
+    "text": "#% d'Augmentation de la Zone d'effet de Frappe volcanique",
     "ids": {
-      "enchant": "stat_2583039202"
+      "enchant": "stat_2524620107"
     }
   },
   {
     "text": "#% d'Augmentation de l'Effet bénéfique octroyé par vos Golems de roche",
     "ids": {
       "enchant": "stat_2284801675"
+    }
+  },
+  {
+    "text": "Vortex de lames a #% au Multiplicateur de coup critique pour chaque lame",
+    "ids": {
+      "enchant": "stat_2583039202"
     }
   },
   {
@@ -21138,21 +21156,9 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Zone d'effet de Frappe volcanique",
-    "ids": {
-      "enchant": "stat_2524620107"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Durée de Chaînes temporelles",
     "ids": {
       "enchant": "stat_888039248"
-    }
-  },
-  {
-    "text": "#% de chances de déclencher Décret de la Sépulture lorsque vos Aptitudes ou vos Créatures Tuent",
-    "ids": {
-      "enchant": "stat_2187415468"
     }
   },
   {
@@ -21171,6 +21177,12 @@
     "text": "#% d'Augmentation de la Vitesse d'attaque de Pluie de flèches",
     "ids": {
       "enchant": "stat_3825617457"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts de Frénésie",
+    "ids": {
+      "enchant": "stat_522780692"
     }
   },
   {
@@ -21228,15 +21240,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts d'Explosion cadavérique",
-    "ids": {
-      "enchant": "stat_3087527696"
-    }
-  },
-  {
     "text": "#% de chances d'Attaquer avec Décret de Furie au Toucher",
     "ids": {
       "enchant": "stat_2252338738"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts d'Explosion cadavérique",
+    "ids": {
+      "enchant": "stat_3087527696"
     }
   },
   {
@@ -21246,9 +21258,9 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts de Frénésie",
+    "text": "#% d'Augmentation des Chances de coup critique de Conflagration",
     "ids": {
-      "enchant": "stat_522780692"
+      "enchant": "stat_3053448465"
     }
   },
   {
@@ -21282,12 +21294,6 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Chances de coup critique de Conflagration",
-    "ids": {
-      "enchant": "stat_3053448465"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vitesse d'attaque de Frappe simultanée",
     "ids": {
       "enchant": "stat_1917107304"
@@ -21318,15 +21324,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts de Piège incendiaire",
-    "ids": {
-      "enchant": "stat_181307038"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Zone d'effet de Déferlement de glace",
     "ids": {
       "enchant": "stat_88796379"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts de Piège incendiaire",
+    "ids": {
+      "enchant": "stat_181307038"
     }
   },
   {
@@ -21339,6 +21345,12 @@
     "text": "#% de chances de Lancer Commandement de l'Hiver en étant Touché(e)",
     "ids": {
       "enchant": "stat_3222886961"
+    }
+  },
+  {
+    "text": "Flèche explosive a #% d'Augmentation de Durée",
+    "ids": {
+      "enchant": "stat_3590425794"
     }
   },
   {
@@ -21378,15 +21390,15 @@
     }
   },
   {
-    "text": "#% de Réduction de la Durée de Séisme",
+    "text": "Le Projectile principal d'Acier transperçant Transperce 1 cible supplémentaire",
     "ids": {
-      "enchant": "stat_3917881666"
+      "enchant": "stat_3031985694"
     }
   },
   {
-    "text": "Vos Tourelles Lance-flammes ont #% d'Augmentation de Dégâts",
+    "text": "#% de Réduction de la Durée de Séisme",
     "ids": {
-      "enchant": "stat_1478321338"
+      "enchant": "stat_3917881666"
     }
   },
   {
@@ -21396,15 +21408,15 @@
     }
   },
   {
-    "text": "Frappe massive a #% de chances d'infliger des Dégâts doublés",
+    "text": "Vos Tourelles Lance-flammes ont #% d'Augmentation de Dégâts",
     "ids": {
-      "enchant": "stat_3760588941"
+      "enchant": "stat_1478321338"
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts des Golems de glace",
+    "text": "Frappe massive a #% de chances d'infliger des Dégâts doublés",
     "ids": {
-      "enchant": "stat_3816405721"
+      "enchant": "stat_3760588941"
     }
   },
   {
@@ -21414,15 +21426,21 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Chances de coup critique d'Orbe des orages",
+    "text": "#% d'Augmentation des Dégâts des Golems de glace",
     "ids": {
-      "enchant": "stat_168538372"
+      "enchant": "stat_3816405721"
     }
   },
   {
-    "text": "Le Projectile principal d'Acier transperçant Transperce 1 cible supplémentaire",
+    "text": "#% d'Augmentation de la Durée de Contagion",
     "ids": {
-      "enchant": "stat_3031985694"
+      "enchant": "stat_2565809961"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Chances de coup critique d'Orbe des orages",
+    "ids": {
+      "enchant": "stat_168538372"
     }
   },
   {
@@ -21474,15 +21492,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Zone d'effet de Séisme",
-    "ids": {
-      "enchant": "stat_684174846"
-    }
-  },
-  {
     "text": "Vos Zombies Réanimés ont #% à toutes les Résistances élémentaires",
     "ids": {
       "enchant": "stat_2871777604"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Zone d'effet de Séisme",
+    "ids": {
+      "enchant": "stat_684174846"
     }
   },
   {
@@ -21495,6 +21513,12 @@
     "text": "#% de chances de Lancer Commandement de Flammes au Toucher",
     "ids": {
       "enchant": "stat_3703722637"
+    }
+  },
+  {
+    "text": "Éclats de foudre a #% de chances de créer un Orbe supplémentaire",
+    "ids": {
+      "enchant": "stat_1898356067"
     }
   },
   {
@@ -21519,12 +21543,6 @@
     "text": "Pluie explosive a #% d'Augmentation de Zone d'effet",
     "ids": {
       "enchant": "stat_574378310"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de la Durée de Contagion",
-    "ids": {
-      "enchant": "stat_2565809961"
     }
   },
   {
@@ -21558,15 +21576,21 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Zone d'effet de Ravage",
+    "text": "#% d'Augmentation de la Vitesse de recharge de Vague de froid",
     "ids": {
-      "enchant": "stat_1486490067"
+      "enchant": "stat_2289367813"
     }
   },
   {
     "text": "Chemin consacré a #% d'Augmentation de Dégâts",
     "ids": {
       "enchant": "stat_4047323043"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Zone d'effet de Ravage",
+    "ids": {
+      "enchant": "stat_1486490067"
     }
   },
   {
@@ -21585,6 +21609,12 @@
     "text": "#% d'Augmentation des Dégâts de Frappe massive",
     "ids": {
       "enchant": "stat_954135826"
+    }
+  },
+  {
+    "text": "Baliste de siège a #% d'Augmentation de Vitesse d'attaque",
+    "ids": {
+      "enchant": "stat_444858149"
     }
   },
   {
@@ -21630,15 +21660,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Zone d'effet de Frappe déchaînée",
-    "ids": {
-      "enchant": "stat_524936200"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vitesse d'attaque de Charge au bouclier",
     "ids": {
       "enchant": "stat_648343221"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Zone d'effet de Frappe déchaînée",
+    "ids": {
+      "enchant": "stat_524936200"
     }
   },
   {
@@ -21720,21 +21750,27 @@
     }
   },
   {
+    "text": "#% d'Augmentation des Dégâts de Fracas tellurique",
+    "ids": {
+      "enchant": "stat_108883700"
+    }
+  },
+  {
     "text": "#% d'Augmentation de l'Effet de la Malédiction Désespoir",
     "ids": {
       "enchant": "stat_3185156108"
     }
   },
   {
-    "text": "Vos Tourelles de Cage de glace ont #% d'Augmentation de Durée",
-    "ids": {
-      "enchant": "stat_1056655244"
-    }
-  },
-  {
     "text": "Cadavres instables consomme jusqu'à # Cadavre supplémentaire",
     "ids": {
       "enchant": "stat_3034788766"
+    }
+  },
+  {
+    "text": "Vos Tourelles de Cage de glace ont #% d'Augmentation de Durée",
+    "ids": {
+      "enchant": "stat_1056655244"
     }
   },
   {
@@ -21750,15 +21786,15 @@
     }
   },
   {
-    "text": "Les Dégâts de Piège de foudre ont #% de Pénétration de Résistance à la foudre",
-    "ids": {
-      "enchant": "stat_1557531966"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Zone d'effet d'Orbe de magma",
     "ids": {
       "enchant": "stat_1646093658"
+    }
+  },
+  {
+    "text": "Les Dégâts de Piège de foudre ont #% de Pénétration de Résistance à la foudre",
+    "ids": {
+      "enchant": "stat_1557531966"
     }
   },
   {
@@ -21780,9 +21816,9 @@
     }
   },
   {
-    "text": "Baliste de siège a #% d'Augmentation de Vitesse d'attaque",
+    "text": "#% d'Augmentation de la Zone d'effet de Taillade",
     "ids": {
-      "enchant": "stat_444858149"
+      "enchant": "stat_3172519570"
     }
   },
   {
@@ -21816,9 +21852,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Vitesse de recharge de Vague de froid",
+    "text": "#% d'Augmentation des Dégâts de Salve de feu",
     "ids": {
-      "enchant": "stat_2289367813"
+      "enchant": "stat_1491182794"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts de Filaments de foudre",
+    "ids": {
+      "enchant": "stat_39356080"
     }
   },
   {
@@ -21831,12 +21873,6 @@
     "text": "L'Exposition de Vague de condamnation applique #% à toutes les Résistances élémentaires",
     "ids": {
       "enchant": "stat_3139672534"
-    }
-  },
-  {
-    "text": "#% d'Augmentation des Dégâts de Filaments de foudre",
-    "ids": {
-      "enchant": "stat_39356080"
     }
   },
   {
@@ -21954,9 +21990,9 @@
     }
   },
   {
-    "text": "Éclats de foudre a #% de chances de créer un Orbe supplémentaire",
+    "text": "#% d'Augmentation des Dégâts de Charge au bouclier",
     "ids": {
-      "enchant": "stat_1898356067"
+      "enchant": "stat_3490662882"
     }
   },
   {
@@ -21969,18 +22005,6 @@
     "text": "#% d'Augmentation de la Zone d'effet de Vague de froid",
     "ids": {
       "enchant": "stat_3371538704"
-    }
-  },
-  {
-    "text": "#% d'Augmentation des Dégâts de Charge au bouclier",
-    "ids": {
-      "enchant": "stat_3490662882"
-    }
-  },
-  {
-    "text": "#% d'Augmentation des Dégâts de Salve de feu",
-    "ids": {
-      "enchant": "stat_1491182794"
     }
   },
   {
@@ -22002,6 +22026,12 @@
     }
   },
   {
+    "text": "#% d'Augmentation de la Zone d'effet de Balayage",
+    "ids": {
+      "enchant": "stat_4202548383"
+    }
+  },
+  {
     "text": "#% d'Augmentation des Dégâts des Golems de roche",
     "ids": {
       "enchant": "stat_1171483499"
@@ -22011,18 +22041,6 @@
     "text": "Acier transperçant a #% d'Augmentation de Dégâts",
     "ids": {
       "enchant": "stat_2159486200"
-    }
-  },
-  {
-    "text": "#% de chances de déclencher Décret de la Tempête au Toucher",
-    "ids": {
-      "enchant": "stat_1671985305"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de la Zone d'effet de Balayage",
-    "ids": {
-      "enchant": "stat_4202548383"
     }
   },
   {
@@ -22092,15 +22110,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts de brûlure de Piège de feu",
-    "ids": {
-      "enchant": "stat_345703394"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Dégâts d'Explosion cinétique",
     "ids": {
       "enchant": "stat_1007135105"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts de brûlure de Piège de feu",
+    "ids": {
+      "enchant": "stat_345703394"
     }
   },
   {
@@ -22122,21 +22140,27 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Vitesse de jet de Mine d'éclats de glace",
-    "ids": {
-      "enchant": "stat_3976295500"
-    }
-  },
-  {
     "text": "Flétrissement a #% d'Augmentation de Zone d'effet",
     "ids": {
       "enchant": "stat_1810898461"
     }
   },
   {
+    "text": "#% d'Augmentation de la Vitesse de jet de Mine d'éclats de glace",
+    "ids": {
+      "enchant": "stat_3976295500"
+    }
+  },
+  {
     "text": "L'Effet bénéfique de Peau d'acier a #% d'Augmentation du montant de Dégâts qu'il peut absorber",
     "ids": {
       "enchant": "stat_4102483123"
+    }
+  },
+  {
+    "text": "Sphère de givre a #% de chances de Geler",
+    "ids": {
+      "enchant": "stat_2774873427"
     }
   },
   {
@@ -22155,6 +22179,12 @@
     "text": "#% d'Augmentation des Dégâts d'Exhumation",
     "ids": {
       "enchant": "stat_3953599026"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts de Lien ardent",
+    "ids": {
+      "enchant": "stat_2298223148"
     }
   },
   {
@@ -22218,21 +22248,15 @@
     }
   },
   {
-    "text": "Boule de feu Embrase toujours",
-    "ids": {
-      "enchant": "stat_2098790581"
-    }
-  },
-  {
     "text": "Offrande d'os octroie #% Chances supplémentaires de Bloquer les Dégâts d'Attaque",
     "ids": {
       "enchant": "stat_3233607638"
     }
   },
   {
-    "text": "Orbe de l'hiver a +# au nombre maximum de Paliers",
+    "text": "Boule de feu Embrase toujours",
     "ids": {
-      "enchant": "stat_3734339018"
+      "enchant": "stat_2098790581"
     }
   },
   {
@@ -22242,21 +22266,27 @@
     }
   },
   {
+    "text": "Orbe de l'hiver a +# au nombre maximum de Paliers",
+    "ids": {
+      "enchant": "stat_3734339018"
+    }
+  },
+  {
     "text": "Le Rampant de l'Agonie Invoqué tire # Projectile supplémentaire",
     "ids": {
       "enchant": "stat_155429578"
     }
   },
   {
-    "text": "#% d'Augmentation de la Durée de Vulnérabilité",
-    "ids": {
-      "enchant": "stat_3229878341"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Zone d'effet de Fracas tellurique",
     "ids": {
       "enchant": "stat_3061969105"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Durée de Vulnérabilité",
+    "ids": {
+      "enchant": "stat_3229878341"
     }
   },
   {
@@ -22281,6 +22311,12 @@
     "text": "#% d'Augmentation des Dégâts de Coup infernal",
     "ids": {
       "enchant": "stat_242838571"
+    }
+  },
+  {
+    "text": "Croc de cobra a #% d'Augmentation de Vitesse des Projectiles",
+    "ids": {
+      "enchant": "stat_732631533"
     }
   },
   {
@@ -22344,15 +22380,15 @@
     }
   },
   {
-    "text": "#% de chances de gagner une Charge de pouvoir en infligeant un Coup critique avec Lance de glace",
-    "ids": {
-      "enchant": "stat_3232905239"
-    }
-  },
-  {
     "text": "Étendard de guerre a #% d'Augmentation de l'Effet de son Aura",
     "ids": {
       "enchant": "stat_2592211591"
+    }
+  },
+  {
+    "text": "#% de chances de gagner une Charge de pouvoir en infligeant un Coup critique avec Lance de glace",
+    "ids": {
+      "enchant": "stat_3232905239"
     }
   },
   {
@@ -22392,15 +22428,15 @@
     }
   },
   {
-    "text": "Piège de glace a #% de Pénétration de Résistance au froid",
-    "ids": {
-      "enchant": "stat_3698446010"
-    }
-  },
-  {
     "text": "Châtiment a #% d'Augmentation de Dégâts",
     "ids": {
       "enchant": "stat_3901016205"
+    }
+  },
+  {
+    "text": "Piège de glace a #% de Pénétration de Résistance au froid",
+    "ids": {
+      "enchant": "stat_3698446010"
     }
   },
   {
@@ -22410,27 +22446,21 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Durée de Marque de l'assassin",
-    "ids": {
-      "enchant": "stat_1609523492"
-    }
-  },
-  {
     "text": "Perforation génère # lance",
     "ids": {
       "enchant": "stat_760606760"
     }
   },
   {
-    "text": "#% d'Augmentation de la Vitesse de recharge d'Irruption incandescente",
+    "text": "#% d'Augmentation de la Durée de Marque de l'assassin",
     "ids": {
-      "enchant": "stat_1440798870"
+      "enchant": "stat_1609523492"
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts de Lien ardent",
+    "text": "#% d'Augmentation de la Vitesse de recharge d'Irruption incandescente",
     "ids": {
-      "enchant": "stat_2298223148"
+      "enchant": "stat_1440798870"
     }
   },
   {
@@ -22464,15 +22494,15 @@
     }
   },
   {
-    "text": "Les Créatures invoquées par vos Tourelles d'Invocation ont #% d'Augmentation de Dégâts",
-    "ids": {
-      "enchant": "stat_850390248"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Dégâts de Bouclier de la tempête",
     "ids": {
       "enchant": "stat_2121581717"
+    }
+  },
+  {
+    "text": "Les Créatures invoquées par vos Tourelles d'Invocation ont #% d'Augmentation de Dégâts",
+    "ids": {
+      "enchant": "stat_850390248"
     }
   },
   {
@@ -22548,15 +22578,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts de Riposte",
-    "ids": {
-      "enchant": "stat_4071708873"
-    }
-  },
-  {
     "text": "Boule de foudre tire un Projectile supplémentaire",
     "ids": {
       "enchant": "stat_3420683028"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts de Riposte",
+    "ids": {
+      "enchant": "stat_4071708873"
     }
   },
   {
@@ -22608,15 +22638,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Vitesse d'attaque de Flèche de transfert et des Clones qu'elle génère",
-    "ids": {
-      "enchant": "stat_1554597333"
-    }
-  },
-  {
     "text": "#% d'Augmentation des Dégâts de Double frappe",
     "ids": {
       "enchant": "stat_1809965314"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Vitesse d'attaque de Flèche de transfert et des Clones qu'elle génère",
+    "ids": {
+      "enchant": "stat_1554597333"
     }
   },
   {
@@ -22644,15 +22674,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation de l'Effet de la Malédiction Punition",
-    "ids": {
-      "enchant": "stat_2844206732"
-    }
-  },
-  {
     "text": "Les Reliques sacrées Invoquées ont #% d'Augmentation de Dégâts",
     "ids": {
       "enchant": "stat_1152784934"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de l'Effet de la Malédiction Punition",
+    "ids": {
+      "enchant": "stat_2844206732"
     }
   },
   {
@@ -22728,21 +22758,27 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Zone d'effet d'Averse de lames",
-    "ids": {
-      "enchant": "stat_2413715772"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vitesse d'incantation de Téléportation foudroyante",
     "ids": {
       "enchant": "stat_1347575155"
     }
   },
   {
+    "text": "#% d'Augmentation de la Zone d'effet d'Averse de lames",
+    "ids": {
+      "enchant": "stat_2413715772"
+    }
+  },
+  {
     "text": "Frappe pestilentielle a #% d'Augmentation de Durée",
     "ids": {
       "enchant": "stat_64670441"
+    }
+  },
+  {
+    "text": "#% d'Augmentation de la Vitesse de recharge de Contre-attaque",
+    "ids": {
+      "enchant": "stat_804983774"
     }
   },
   {
@@ -22788,12 +22824,6 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Zone d'effet de Taillade",
-    "ids": {
-      "enchant": "stat_3172519570"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Zone d'effet de Souffle polaire",
     "ids": {
       "enchant": "stat_3816022821"
@@ -22812,9 +22842,9 @@
     }
   },
   {
-    "text": "Croc de cobra a #% d'Augmentation de Vitesse des Projectiles",
+    "text": "#% aux Résistances élémentaires du Golem de roche",
     "ids": {
-      "enchant": "stat_732631533"
+      "enchant": "stat_1601558321"
     }
   },
   {
@@ -22824,9 +22854,9 @@
     }
   },
   {
-    "text": "#% aux Résistances élémentaires du Golem de roche",
+    "text": "Vortex a #% d'Augmentation de Zone d'effet lorsqu'il est Lancé sur Sphère de givre",
     "ids": {
-      "enchant": "stat_1601558321"
+      "enchant": "stat_2295263113"
     }
   },
   {
@@ -22836,9 +22866,9 @@
     }
   },
   {
-    "text": "Vortex a #% d'Augmentation de Zone d'effet lorsqu'il est Lancé sur Sphère de givre",
+    "text": "Baliste à shrapnel a #% d'Augmentation de Vitesse des Projectiles",
     "ids": {
-      "enchant": "stat_2295263113"
+      "enchant": "stat_1213017413"
     }
   },
   {
@@ -22848,21 +22878,9 @@
     }
   },
   {
-    "text": "Baliste à shrapnel a #% d'Augmentation de Vitesse des Projectiles",
-    "ids": {
-      "enchant": "stat_1213017413"
-    }
-  },
-  {
     "text": "Piège lance-flammes crache une flamme supplémentaire",
     "ids": {
       "enchant": "stat_1452255482"
-    }
-  },
-  {
-    "text": "Sphère de givre a #% de chances de Geler",
-    "ids": {
-      "enchant": "stat_2774873427"
     }
   },
   {
@@ -23028,6 +23046,18 @@
     }
   },
   {
+    "text": "Grappin a #% d'Augmentation de Dégâts",
+    "ids": {
+      "enchant": "stat_289027663"
+    }
+  },
+  {
+    "text": "Piège sismique a #% d'Augmentation de Dégâts",
+    "ids": {
+      "enchant": "stat_1175282728"
+    }
+  },
+  {
     "text": "#% d'Augmentation de la Durée de Mur de glace",
     "ids": {
       "enchant": "stat_775034903"
@@ -23133,12 +23163,6 @@
     "text": "#% d'Augmentation de la Durée de Tempête de feu",
     "ids": {
       "enchant": "stat_1691710359"
-    }
-  },
-  {
-    "text": "Piège sismique a #% d'Augmentation de Dégâts",
-    "ids": {
-      "enchant": "stat_1175282728"
     }
   },
   {
@@ -23256,12 +23280,6 @@
     }
   },
   {
-    "text": "#% d'Augmentation de la Vitesse de recharge de Contre-attaque",
-    "ids": {
-      "enchant": "stat_804983774"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Vitesse de placement des Totems de Protecteur ancestral",
     "ids": {
       "enchant": "stat_592861938"
@@ -23370,12 +23388,6 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts de Fracas tellurique",
-    "ids": {
-      "enchant": "stat_108883700"
-    }
-  },
-  {
     "text": "#% d'Augmentation de la Durée des Sentinelles soumises",
     "ids": {
       "enchant": "stat_3772643988"
@@ -23430,12 +23442,6 @@
     }
   },
   {
-    "text": "Flèche explosive a #% d'Augmentation de Durée",
-    "ids": {
-      "enchant": "stat_3590425794"
-    }
-  },
-  {
     "text": "L'Effet bénéfique de l'Aptitude Carapace volcanique a #% d'Augmentation de Durée",
     "ids": {
       "enchant": "stat_4255043252"
@@ -23478,6 +23484,12 @@
     }
   },
   {
+    "text": "Spirale venimeuse a #% de chances de vous faire conserver les Projectiles emmagasinés lorsqu'ils sont tirés par l'utilisation de Lames tourbillonnantes",
+    "ids": {
+      "enchant": "stat_2563177940"
+    }
+  },
+  {
     "text": "Piège sismique a #% d'Augmentation de la Vitesse de recharge",
     "ids": {
       "enchant": "stat_3618430531"
@@ -23502,15 +23514,15 @@
     }
   },
   {
-    "text": "Les Projectiles de Baliste d'artillerie sont désormais tirés le long de deux lignes perpendiculaires",
-    "ids": {
-      "enchant": "stat_2056176052"
-    }
-  },
-  {
     "text": "La Frigorification de Piège siphonnant a #% d'Augmentation d'Effet",
     "ids": {
       "enchant": "stat_2530563277"
+    }
+  },
+  {
+    "text": "Les Projectiles de Baliste d'artillerie sont désormais tirés le long de deux lignes perpendiculaires",
+    "ids": {
+      "enchant": "stat_2056176052"
     }
   },
   {
@@ -23520,27 +23532,21 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts d'Incinération pour chaque Palier",
-    "ids": {
-      "enchant": "stat_4151555126"
-    }
-  },
-  {
     "text": "Les Créatures Invoquées par vos Tourelles de Protection ont #% d'Augmentation de Dégâts",
     "ids": {
       "enchant": "stat_2013536039"
     }
   },
   {
-    "text": "Orbe des Orages a #% d'Augmentation de Vitesse d'incantation",
+    "text": "#% d'Augmentation des Dégâts d'Incinération pour chaque Palier",
     "ids": {
-      "enchant": "stat_2778301298"
+      "enchant": "stat_4151555126"
     }
   },
   {
-    "text": "Grappin a #% d'Augmentation de Dégâts",
+    "text": "Orbe des Orages a #% d'Augmentation de Vitesse d'incantation",
     "ids": {
-      "enchant": "stat_289027663"
+      "enchant": "stat_2778301298"
     }
   },
   {
@@ -23607,12 +23613,6 @@
     "text": "Mine de déflagration orageuse a #% d'Augmentation de Vitesse de jet",
     "ids": {
       "enchant": "stat_321894708"
-    }
-  },
-  {
-    "text": "Spirale venimeuse a #% de chances de vous faire conserver les Projectiles emmagasinés lorsqu'ils sont tirés par l'utilisation de Lames tourbillonnantes",
-    "ids": {
-      "enchant": "stat_2563177940"
     }
   },
   {
@@ -23856,6 +23856,12 @@
     }
   },
   {
+    "text": "Vos Tourelles de Tempête de foudre ont #% d'Augmentation de Dégâts",
+    "ids": {
+      "enchant": "stat_1960580674"
+    }
+  },
+  {
     "text": "#% d'Augmentation de la Vitesse d'incantation de Mine de nova de feu",
     "ids": {
       "enchant": "stat_3211417111"
@@ -23880,15 +23886,15 @@
     }
   },
   {
-    "text": "#% d'Augmentation des Dégâts de Carapace volcanique",
-    "ids": {
-      "enchant": "stat_815390778"
-    }
-  },
-  {
     "text": "Piège pic de foudre a #% d'Augmentation de la Vitesse d'incantation",
     "ids": {
       "enchant": "stat_535507671"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts de Carapace volcanique",
+    "ids": {
+      "enchant": "stat_815390778"
     }
   },
   {
@@ -23901,12 +23907,6 @@
     "text": "#% d'Augmentation de la Zone d'effet de Vortex",
     "ids": {
       "enchant": "stat_1730614496"
-    }
-  },
-  {
-    "text": "Vos Tourelles de Tempête de foudre ont #% d'Augmentation de Dégâts",
-    "ids": {
-      "enchant": "stat_1960580674"
     }
   },
   {
@@ -23940,6 +23940,12 @@
     }
   },
   {
+    "text": "Les joueurs ne peuvent subir de Dégâts Reflétés",
+    "ids": {
+      "enchant": "stat_3151377452"
+    }
+  },
+  {
     "text": "Les Sentinelles soumises Invoquées ont #% d'Augmentation de Dégâts",
     "ids": {
       "enchant": "stat_4040760803"
@@ -23949,6 +23955,12 @@
     "text": "Vos Tourelles Temporelles ont #% d'Augmentation d'Effet",
     "ids": {
       "enchant": "stat_2109921176"
+    }
+  },
+  {
+    "text": "Vos Tourelles d'Arc électrique ont #% d'Augmentation de Portée",
+    "ids": {
+      "enchant": "stat_1572544406"
     }
   },
   {
@@ -23988,6 +24000,12 @@
     }
   },
   {
+    "text": "La Zone contient # groupes supplémentaires de Monstres vaal Corrompus",
+    "ids": {
+      "enchant": "stat_1867024035"
+    }
+  },
+  {
     "text": "Attribue # (Supplémentaire)",
     "ids": {
       "enchant": "stat_3459808765"
@@ -24006,21 +24024,9 @@
     }
   },
   {
-    "text": "Vos Tourelles d'Arc électrique ont #% d'Augmentation de Portée",
-    "ids": {
-      "enchant": "stat_1572544406"
-    }
-  },
-  {
     "text": "Spirale venimeuse a #% d'Augmentation de Dégâts",
     "ids": {
       "enchant": "stat_1404787106"
-    }
-  },
-  {
-    "text": "La Zone contient # groupes supplémentaires de Monstres vaal Corrompus",
-    "ids": {
-      "enchant": "stat_1867024035"
     }
   },
   {
@@ -24150,15 +24156,15 @@
     }
   },
   {
-    "text": "Area contains # additional packs of Monsters that Convert when Killed",
-    "ids": {
-      "enchant": "stat_249139784"
-    }
-  },
-  {
     "text": "La Zone contient # groupes supplémentaires de Monstres qui Soignent",
     "ids": {
       "enchant": "stat_3059368202"
+    }
+  },
+  {
+    "text": "Area contains # additional packs of Monsters that Convert when Killed",
+    "ids": {
+      "enchant": "stat_249139784"
     }
   },
   {
@@ -24324,15 +24330,15 @@
     }
   },
   {
-    "text": "Les Monstres des Coffres-forts ont #% d'Augmentation de Quantité d'Objets",
-    "ids": {
-      "enchant": "stat_1854137416"
-    }
-  },
-  {
     "text": "Vos Tourelles de Tempête de foudre ont #% d'Augmentation de Portée",
     "ids": {
       "enchant": "stat_1789548201"
+    }
+  },
+  {
+    "text": "Les Monstres des Coffres-forts ont #% d'Augmentation de Quantité d'Objets",
+    "ids": {
+      "enchant": "stat_1854137416"
     }
   },
   {
@@ -24486,15 +24492,15 @@
     }
   },
   {
-    "text": "Le Boss Unique cède des Éclats d'Objets monétaires supplémentaires",
-    "ids": {
-      "enchant": "stat_1508220097"
-    }
-  },
-  {
     "text": "Cadavres instables consomme jusqu'à 1 Cadavre supplémentaire",
     "ids": {
       "enchant": "stat_4006050359"
+    }
+  },
+  {
+    "text": "Le Boss Unique cède des Éclats d'Objets monétaires supplémentaires",
+    "ids": {
+      "enchant": "stat_1508220097"
     }
   },
   {
@@ -24504,15 +24510,21 @@
     }
   },
   {
-    "text": "Vos Tourelles de Tempête de foudre ont #% d'Augmentation de Délai d'impact",
+    "text": "Les Exilés renégats ont #% d'Augmentation de la Vie maximale",
     "ids": {
-      "enchant": "stat_197351228"
+      "enchant": "stat_471027242"
     }
   },
   {
     "text": "Vos Tourelles d'Amélioration octroient également #% d'Augmentation de Vitesse d'incantation",
     "ids": {
       "enchant": "stat_3564606017"
+    }
+  },
+  {
+    "text": "Vos Tourelles de Tempête de foudre ont #% d'Augmentation de Délai d'impact",
+    "ids": {
+      "enchant": "stat_197351228"
     }
   },
   {
@@ -24558,15 +24570,15 @@
     }
   },
   {
-    "text": "Les Créatures Invoquées par vos Tourelles d'Observation ont #% d'Augmentation de Vitesse de déplacement",
-    "ids": {
-      "enchant": "stat_971955285"
-    }
-  },
-  {
     "text": "Le Boss Unique cède # Objet Unique supplémentaire",
     "ids": {
       "enchant": "stat_3760667977"
+    }
+  },
+  {
+    "text": "Les Créatures Invoquées par vos Tourelles d'Observation ont #% d'Augmentation de Vitesse de déplacement",
+    "ids": {
+      "enchant": "stat_971955285"
     }
   },
   {
@@ -24618,6 +24630,12 @@
     }
   },
   {
+    "text": "La Zone contient un Pilleur de tombes tourmenté supplémentaire",
+    "ids": {
+      "enchant": "stat_1463704577"
+    }
+  },
+  {
     "text": "Les Boss Uniques des Cartes Corrompues cèdent un Objet vaal supplémentaire",
     "ids": {
       "enchant": "stat_2747603858"
@@ -24627,12 +24645,6 @@
     "text": "Les 3 premiers Monstres possédés ont #% de chances de céder un Objet Unique supplémentaire",
     "ids": {
       "enchant": "stat_2392278281"
-    }
-  },
-  {
-    "text": "La Zone contient un Pilleur de tombes tourmenté supplémentaire",
-    "ids": {
-      "enchant": "stat_1463704577"
     }
   },
   {
@@ -24654,12 +24666,6 @@
     }
   },
   {
-    "text": "Les Monstres Uniques cèdent des Objets Corrompus",
-    "ids": {
-      "enchant": "stat_804187877"
-    }
-  },
-  {
     "text": "Vos Tourelles Temporelles vous octroient également #% de Réduction de Vitesse d'action",
     "ids": {
       "enchant": "stat_3198887051"
@@ -24672,15 +24678,15 @@
     }
   },
   {
-    "text": "Les Précurseurs cèdent des Éclats d'Objets monétaires supplémentaires",
+    "text": "Les Monstres Uniques cèdent des Objets Corrompus",
     "ids": {
-      "enchant": "stat_906446422"
+      "enchant": "stat_804187877"
     }
   },
   {
-    "text": "L'Effet de vos Tourelles Temporelles se dissipe #% plus rapidement",
+    "text": "Les Précurseurs cèdent des Éclats d'Objets monétaires supplémentaires",
     "ids": {
-      "enchant": "stat_4024383498"
+      "enchant": "stat_906446422"
     }
   },
   {
@@ -24690,9 +24696,9 @@
     }
   },
   {
-    "text": "Vos Tourelles de Nova d'électricité ont #% d'Augmentation de Zone d'effet par répétition de leurs effets",
+    "text": "L'Effet de vos Tourelles Temporelles se dissipe #% plus rapidement",
     "ids": {
-      "enchant": "stat_21144785"
+      "enchant": "stat_4024383498"
     }
   },
   {
@@ -24702,27 +24708,9 @@
     }
   },
   {
-    "text": "Vos Tourelles de Nova d'électricité ont #% d'Augmentation de l'Effet de leurs Électrocutions",
+    "text": "Vos Tourelles de Nova d'électricité ont #% d'Augmentation de Zone d'effet par répétition de leurs effets",
     "ids": {
-      "enchant": "stat_439316158"
-    }
-  },
-  {
-    "text": "La Qualité de cette Carte s'applique également à la Rareté des Objets trouvés",
-    "ids": {
-      "enchant": "stat_4265846487"
-    }
-  },
-  {
-    "text": "Les 3 premiers Monstres possédés ont #% de chances de céder un Scarabée rouillé supplémentaire",
-    "ids": {
-      "enchant": "stat_3789079511"
-    }
-  },
-  {
-    "text": "Vos Tourelles Sismiques envoient une Vague supplémentaire",
-    "ids": {
-      "enchant": "stat_3094610721"
+      "enchant": "stat_21144785"
     }
   },
   {
@@ -24732,9 +24720,33 @@
     }
   },
   {
+    "text": "La Qualité de cette Carte s'applique également à la Rareté des Objets trouvés",
+    "ids": {
+      "enchant": "stat_4265846487"
+    }
+  },
+  {
+    "text": "Vos Tourelles de Nova d'électricité ont #% d'Augmentation de l'Effet de leurs Électrocutions",
+    "ids": {
+      "enchant": "stat_439316158"
+    }
+  },
+  {
+    "text": "Vos Tourelles Sismiques envoient une Vague supplémentaire",
+    "ids": {
+      "enchant": "stat_3094610721"
+    }
+  },
+  {
     "text": "Les Zones peuvent contenir des Abysses",
     "ids": {
       "enchant": "stat_3564826949"
+    }
+  },
+  {
+    "text": "Les 3 premiers Monstres possédés ont #% de chances de céder un Scarabée rouillé supplémentaire",
+    "ids": {
+      "enchant": "stat_3789079511"
     }
   },
   {
@@ -24750,15 +24762,15 @@
     }
   },
   {
-    "text": "Les Cartes Rares contiennent # groupes supplémentaires de Monstres Rares",
+    "text": "La Zone contient # groupes supplémentaires de Monstres qui Empoisonnent",
     "ids": {
-      "enchant": "stat_3672378181"
+      "enchant": "stat_3094365680"
     }
   },
   {
-    "text": "La Zone contient une Essence supplémentaire",
+    "text": "Les joueurs gagnent une Âme vaal supplémentaire en Tuant",
     "ids": {
-      "enchant": "stat_395808938"
+      "enchant": "stat_3416709884"
     }
   },
   {
@@ -24768,15 +24780,33 @@
     }
   },
   {
-    "text": "La Zone contient # groupes supplémentaires de Monstres qui Empoisonnent",
+    "text": "Les Cartes Rares contiennent # groupes supplémentaires de Monstres Rares",
     "ids": {
-      "enchant": "stat_3094365680"
+      "enchant": "stat_3672378181"
     }
   },
   {
-    "text": "Les Exilés renégats ont #% d'Augmentation de la Vie maximale",
+    "text": "La Récupération de Vie et de Mana des Flacons est instantanée pour les joueurs",
     "ids": {
-      "enchant": "stat_471027242"
+      "enchant": "stat_3137138073"
+    }
+  },
+  {
+    "text": "#% d'Augmentation des Dégâts de Totem de Maître-lame ancestral",
+    "ids": {
+      "enchant": "stat_4166834934"
+    }
+  },
+  {
+    "text": "Pour chaque Fragment mortifère utilisé, la Zone a #% de chances de contenir les Dons de la Reine rouge",
+    "ids": {
+      "enchant": "stat_1076056376"
+    }
+  },
+  {
+    "text": "La Zone contient une Essence supplémentaire",
+    "ids": {
+      "enchant": "stat_395808938"
     }
   },
   {
@@ -24792,45 +24822,15 @@
     }
   },
   {
-    "text": "La Récupération de Vie et de Mana des Flacons est instantanée pour les joueurs",
-    "ids": {
-      "enchant": "stat_3137138073"
-    }
-  },
-  {
-    "text": "Pour chaque Fragment mortifère utilisé, la Zone a #% de chances de contenir les Dons de la Reine rouge",
-    "ids": {
-      "enchant": "stat_1076056376"
-    }
-  },
-  {
-    "text": "#% d'Augmentation des Dégâts de Totem de Maître-lame ancestral",
-    "ids": {
-      "enchant": "stat_4166834934"
-    }
-  },
-  {
-    "text": "Les joueurs gagnent une Âme vaal supplémentaire en Tuant",
-    "ids": {
-      "enchant": "stat_3416709884"
-    }
-  },
-  {
-    "text": "Les Objets cédés par les Monstres vaal Corrompus ont #% de chances d'être Corrompus",
-    "ids": {
-      "enchant": "stat_3045497140"
-    }
-  },
-  {
     "text": "La Zone est attrayante",
     "ids": {
       "enchant": "stat_2862290356"
     }
   },
   {
-    "text": "Les joueurs ne peuvent subir de Dégâts Reflétés",
+    "text": "Les Objets cédés par les Monstres vaal Corrompus ont #% de chances d'être Corrompus",
     "ids": {
-      "enchant": "stat_3151377452"
+      "enchant": "stat_3045497140"
     }
   },
   {
@@ -24882,15 +24882,15 @@
     }
   },
   {
-    "text": "#% au Multiplicateur de coup critique tant qu'il y a un Ennemi Rare ou Unique à proximité",
-    "ids": {
-      "crafted": "stat_3992439283"
-    }
-  },
-  {
     "text": "Électrocute les Ennemis à proximité pendant # secondes lorsque vous vous Focalisez",
     "ids": {
       "crafted": "stat_3031766858"
+    }
+  },
+  {
+    "text": "#% au Multiplicateur de coup critique tant qu'il y a un Ennemi Rare ou Unique à proximité",
+    "ids": {
+      "crafted": "stat_3992439283"
     }
   },
   {
@@ -24900,15 +24900,21 @@
     }
   },
   {
+    "text": "#% de chances de déclencher Rage sanguinaire (Niveau 1) lorsque vous Tuez un Ennemi",
+    "ids": {
+      "crafted": "stat_205619502"
+    }
+  },
+  {
     "text": "#% d'Augmentation des Chances de coup critique pendant l'Effet du Flacon",
     "ids": {
       "crafted": "stat_2008255263"
     }
   },
   {
-    "text": "#% de chances de déclencher Rage sanguinaire (Niveau 1) lorsque vous Tuez un Ennemi",
+    "text": "#% d'Augmentation de la Vitesse d'attaque tant qu'un Ennemi Rare ou Unique est à proximité",
     "ids": {
-      "crafted": "stat_205619502"
+      "crafted": "stat_314741699"
     }
   },
   {
@@ -24921,12 +24927,6 @@
     "text": "Ajoute # à # Dégâts de chaos si vous avez infligé un Coup critique Récemment",
     "ids": {
       "crafted": "stat_2523334466"
-    }
-  },
-  {
-    "text": "#% d'Augmentation de la Vitesse d'attaque tant qu'un Ennemi Rare ou Unique est à proximité",
-    "ids": {
-      "crafted": "stat_314741699"
     }
   },
   {
@@ -24966,6 +24966,12 @@
     }
   },
   {
+    "text": "# à l'Armure pendant l'Empêchement de gain d'Âmes",
+    "ids": {
+      "crafted": "stat_1539825365"
+    }
+  },
+  {
     "text": "#% de chances d'Esquiver les Attaques au Toucher tant que vous êtes Focalisé(e)",
     "ids": {
       "crafted": "stat_2590156965"
@@ -24975,12 +24981,6 @@
     "text": "#% de Vie Régénérée par seconde pendant l'Effet de n'importe quel Flacon",
     "ids": {
       "crafted": "stat_3500911418"
-    }
-  },
-  {
-    "text": "# à l'Armure pendant l'Empêchement de gain d'Âmes",
-    "ids": {
-      "crafted": "stat_1539825365"
     }
   },
   {
@@ -25170,6 +25170,12 @@
     }
   },
   {
+    "text": "du Cryptage d'Aisling",
+    "ids": {
+      "veiled": "mod_48007"
+    }
+  },
+  {
     "text": "du Cryptage de Jorgin",
     "ids": {
       "veiled": "mod_62955"
@@ -25185,12 +25191,6 @@
     "text": "Crypté de Catarina",
     "ids": {
       "veiled": "mod_63772"
-    }
-  },
-  {
-    "text": "du Cryptage d'Aisling",
-    "ids": {
-      "veiled": "mod_48007"
     }
   },
   {
@@ -25230,6 +25230,12 @@
     }
   },
   {
+    "text": "Crypté de Rin",
+    "ids": {
+      "veiled": "mod_6131"
+    }
+  },
+  {
     "text": "Crypté de Haku",
     "ids": {
       "veiled": "mod_39023"
@@ -25239,12 +25245,6 @@
     "text": "Crypté de Tora",
     "ids": {
       "veiled": "mod_8541"
-    }
-  },
-  {
-    "text": "Crypté de Rin",
-    "ids": {
-      "veiled": "mod_6131"
     }
   },
   {
@@ -25356,15 +25356,15 @@
     }
   },
   {
-    "text": "Drops additional Legion Incubators",
-    "ids": {
-      "monster": "metamorph_reward_legion_incubators"
-    }
-  },
-  {
     "text": "Drops an Enchanted Helmet",
     "ids": {
       "monster": "metamorph_reward_enchanted_helmet"
+    }
+  },
+  {
+    "text": "Drops additional Legion Incubators",
+    "ids": {
+      "monster": "metamorph_reward_legion_incubators"
     }
   },
   {
@@ -25572,15 +25572,15 @@
     }
   },
   {
-    "text": "Drops a Talisman Unique Item",
-    "ids": {
-      "monster": "metamorph_reward_talisman_unique"
-    }
-  },
-  {
     "text": "Drops Itemised Prophecies",
     "ids": {
       "monster": "metamorph_reward_prophecies"
+    }
+  },
+  {
+    "text": "Drops a Talisman Unique Item",
+    "ids": {
+      "monster": "metamorph_reward_talisman_unique"
     }
   },
   {

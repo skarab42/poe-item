@@ -969,6 +969,15 @@
     }
   },
   {
+    "text": "#% zu globalem Multiplikator für kritische Treffer",
+    "ids": {
+      "explicit": "stat_3556824919",
+      "implicit": "stat_3556824919",
+      "fractured": "stat_3556824919",
+      "crafted": "stat_3556824919"
+    }
+  },
+  {
     "text": "# zu Treffgenauigkeit",
     "ids": {
       "explicit": "stat_803737631",
@@ -993,15 +1002,6 @@
       "implicit": "stat_4052037485",
       "fractured": "stat_4052037485",
       "crafted": "stat_4052037485"
-    }
-  },
-  {
-    "text": "#% zu globalem Multiplikator für kritische Treffer",
-    "ids": {
-      "explicit": "stat_3556824919",
-      "implicit": "stat_3556824919",
-      "fractured": "stat_3556824919",
-      "crafted": "stat_3556824919"
     }
   },
   {
@@ -1085,6 +1085,14 @@
     }
   },
   {
+    "text": "# zu Ausweichwert",
+    "ids": {
+      "explicit": "stat_2144192055",
+      "fractured": "stat_2144192055",
+      "crafted": "stat_2144192055"
+    }
+  },
+  {
     "text": "#% erhöhter Ausweichwert (Lokal)",
     "ids": {
       "explicit": "stat_124859000",
@@ -1155,14 +1163,6 @@
     }
   },
   {
-    "text": "# zu Ausweichwert",
-    "ids": {
-      "explicit": "stat_2144192055",
-      "fractured": "stat_2144192055",
-      "crafted": "stat_2144192055"
-    }
-  },
-  {
     "text": "#% verlängerte Betäubungsdauer bei Gegnern",
     "ids": {
       "explicit": "stat_2517001139",
@@ -1225,6 +1225,14 @@
     }
   },
   {
+    "text": "#% erhöhte Rüstung und Ausweichen (Lokal)",
+    "ids": {
+      "explicit": "stat_2451402625",
+      "fractured": "stat_2451402625",
+      "crafted": "stat_2451402625"
+    }
+  },
+  {
     "text": "#% vergrößerter Lichtradius",
     "ids": {
       "explicit": "stat_1263695895",
@@ -1239,14 +1247,6 @@
       "implicit": "stat_3237948413",
       "fractured": "stat_3237948413",
       "crafted": "stat_3237948413"
-    }
-  },
-  {
-    "text": "#% erhöhte Rüstung und Ausweichen (Lokal)",
-    "ids": {
-      "explicit": "stat_2451402625",
-      "fractured": "stat_2451402625",
-      "crafted": "stat_2451402625"
     }
   },
   {
@@ -1346,21 +1346,21 @@
     }
   },
   {
-    "text": "#% erhöhter Schaden über Zeit",
-    "ids": {
-      "explicit": "stat_967627487",
-      "implicit": "stat_967627487",
-      "fractured": "stat_967627487",
-      "crafted": "stat_967627487"
-    }
-  },
-  {
     "text": "#% erhöhter Schaden",
     "ids": {
       "explicit": "stat_2154246560",
       "implicit": "stat_2154246560",
       "fractured": "stat_2154246560",
       "crafted": "stat_2154246560"
+    }
+  },
+  {
+    "text": "#% erhöhter Schaden über Zeit",
+    "ids": {
+      "explicit": "stat_967627487",
+      "implicit": "stat_967627487",
+      "fractured": "stat_967627487",
+      "crafted": "stat_967627487"
     }
   },
   {
@@ -1397,6 +1397,12 @@
       "implicit": "stat_2866361420",
       "fractured": "stat_2866361420",
       "crafted": "stat_2866361420"
+    }
+  },
+  {
+    "text": "#% mehr Monsterleben",
+    "ids": {
+      "explicit": "stat_2710898947"
     }
   },
   {
@@ -1488,12 +1494,6 @@
       "implicit": "stat_3441501978",
       "fractured": "stat_3441501978",
       "crafted": "stat_3441501978"
-    }
-  },
-  {
-    "text": "#% mehr Monsterleben",
-    "ids": {
-      "explicit": "stat_2710898947"
     }
   },
   {
@@ -1609,6 +1609,15 @@
     }
   },
   {
+    "text": "# zu Geschick und Intelligenz",
+    "ids": {
+      "explicit": "stat_2300185227",
+      "implicit": "stat_2300185227",
+      "fractured": "stat_2300185227",
+      "crafted": "stat_2300185227"
+    }
+  },
+  {
     "text": "Erhaltet # Leben für jeden durch Angriffe getroffenen Gegner",
     "ids": {
       "explicit": "stat_821021828",
@@ -1680,12 +1689,11 @@
     }
   },
   {
-    "text": "# zu Geschick und Intelligenz",
+    "text": "#% erhöhte Angriffsgeschwindigkeit mit Schwertern",
     "ids": {
-      "explicit": "stat_2300185227",
-      "implicit": "stat_2300185227",
-      "fractured": "stat_2300185227",
-      "crafted": "stat_2300185227"
+      "explicit": "stat_3293699237",
+      "implicit": "stat_3293699237",
+      "fractured": "stat_3293699237"
     }
   },
   {
@@ -1698,11 +1706,9 @@
     }
   },
   {
-    "text": "#% erhöhte Angriffsgeschwindigkeit mit Schwertern",
+    "text": "#% erhöhte Monster-Zaubergeschwindigkeit",
     "ids": {
-      "explicit": "stat_3293699237",
-      "implicit": "stat_3293699237",
-      "fractured": "stat_3293699237"
+      "explicit": "stat_2488361432"
     }
   },
   {
@@ -1721,9 +1727,26 @@
     }
   },
   {
+    "text": "#% Chance, Einfrierung zu vermeiden",
+    "ids": {
+      "explicit": "stat_1514829491",
+      "implicit": "stat_1514829491",
+      "fractured": "stat_1514829491",
+      "crafted": "stat_1514829491"
+    }
+  },
+  {
     "text": "#% erhöhte Monster-Angriffsgeschwindigkeit",
     "ids": {
       "explicit": "stat_1913583994"
+    }
+  },
+  {
+    "text": "#% verlängerte Blutungsdauer",
+    "ids": {
+      "explicit": "stat_1459321413",
+      "implicit": "stat_1459321413",
+      "fractured": "stat_1459321413"
     }
   },
   {
@@ -1775,12 +1798,6 @@
     "text": "#% mehr magische Monster",
     "ids": {
       "explicit": "stat_3873704640"
-    }
-  },
-  {
-    "text": "#% erhöhte Monster-Zaubergeschwindigkeit",
-    "ids": {
-      "explicit": "stat_2488361432"
     }
   },
   {
@@ -1902,9 +1919,24 @@
     }
   },
   {
+    "text": "#% erhöhtes Geschick",
+    "ids": {
+      "explicit": "stat_4139681126",
+      "implicit": "stat_4139681126"
+    }
+  },
+  {
     "text": "#% erhöhter Schaden bei niedrigem Leben",
     "ids": {
       "explicit": "stat_1513447578"
+    }
+  },
+  {
+    "text": "Fügt Angriffen mit Bögen # bis # Blitzschaden hinzu",
+    "ids": {
+      "explicit": "stat_1040269876",
+      "implicit": "stat_1040269876",
+      "fractured": "stat_1040269876"
     }
   },
   {
@@ -1943,13 +1975,6 @@
     "ids": {
       "explicit": "stat_1199429645",
       "fractured": "stat_1199429645"
-    }
-  },
-  {
-    "text": "#% erhöhtes Geschick",
-    "ids": {
-      "explicit": "stat_4139681126",
-      "implicit": "stat_4139681126"
     }
   },
   {
@@ -2056,6 +2081,12 @@
     }
   },
   {
+    "text": "Spieler haben #% verringerte Blockchance",
+    "ids": {
+      "explicit": "stat_3729221884"
+    }
+  },
+  {
     "text": "Monster haben #% Chance, elementare Beeinträchtigungen zu vermeiden",
     "ids": {
       "explicit": "stat_322206271"
@@ -2136,6 +2167,13 @@
     }
   },
   {
+    "text": "#% erhöhter Schaden mit Äxten",
+    "ids": {
+      "explicit": "stat_3314142259",
+      "fractured": "stat_3314142259"
+    }
+  },
+  {
     "text": "#% zu Multiplikator für kritischen Treffer beim Tragen zweier Waffen",
     "ids": {
       "explicit": "stat_2546185479",
@@ -2171,19 +2209,25 @@
     }
   },
   {
+    "text": "Fügt Zaubern und Angriffen # bis # Kälteschaden hinzu",
+    "ids": {
+      "explicit": "stat_1662717006",
+      "implicit": "stat_1662717006"
+    }
+  },
+  {
+    "text": "Historisch",
+    "ids": {
+      "explicit": "stat_1811341815"
+    }
+  },
+  {
     "text": "#% zu Multiplikator für Chaosschaden über Zeit",
     "ids": {
       "explicit": "stat_4055307827",
       "implicit": "stat_4055307827",
       "fractured": "stat_4055307827",
       "crafted": "stat_4055307827"
-    }
-  },
-  {
-    "text": "Fügt Zaubern und Angriffen # bis # Kälteschaden hinzu",
-    "ids": {
-      "explicit": "stat_1662717006",
-      "implicit": "stat_1662717006"
     }
   },
   {
@@ -2242,6 +2286,13 @@
     }
   },
   {
+    "text": "#% erhöhter Angriffsschaden beim Tragen eines Schilds",
+    "ids": {
+      "explicit": "stat_1393393937",
+      "fractured": "stat_1393393937"
+    }
+  },
+  {
     "text": "Monster haben #% erhöhte kritische Trefferchance",
     "ids": {
       "explicit": "stat_2753083623"
@@ -2285,13 +2336,6 @@
     }
   },
   {
-    "text": "#% erhöhter Schaden mit Äxten",
-    "ids": {
-      "explicit": "stat_3314142259",
-      "fractured": "stat_3314142259"
-    }
-  },
-  {
     "text": "#% erhöhte Wiederherstellungsgeschwindigkeit",
     "ids": {
       "explicit": "stat_173226756"
@@ -2320,15 +2364,6 @@
     "ids": {
       "explicit": "stat_3152982863",
       "fractured": "stat_3152982863"
-    }
-  },
-  {
-    "text": "#% Chance, Einfrierung zu vermeiden",
-    "ids": {
-      "explicit": "stat_1514829491",
-      "implicit": "stat_1514829491",
-      "fractured": "stat_1514829491",
-      "crafted": "stat_1514829491"
     }
   },
   {
@@ -2369,20 +2404,6 @@
     }
   },
   {
-    "text": "Spieler haben #% verringerte Blockchance",
-    "ids": {
-      "explicit": "stat_3729221884"
-    }
-  },
-  {
-    "text": "Fügt Angriffen mit Bögen # bis # Blitzschaden hinzu",
-    "ids": {
-      "explicit": "stat_1040269876",
-      "implicit": "stat_1040269876",
-      "fractured": "stat_1040269876"
-    }
-  },
-  {
     "text": "#% zu Multiplikator für kritische Treffer mit Einhand-Nahkampfwaffen",
     "ids": {
       "explicit": "stat_670153687",
@@ -2420,6 +2441,12 @@
     "text": "Gebiet enthält zwei einzigartige Bosse",
     "ids": {
       "explicit": "stat_799271621"
+    }
+  },
+  {
+    "text": "Monster haben #% Chance, Vergiften, Blenden und Bluten zu vermeiden",
+    "ids": {
+      "explicit": "stat_2215002568"
     }
   },
   {
@@ -2568,6 +2595,12 @@
     }
   },
   {
+    "text": "#% erhöhte Bewegungsgeschwindigkeit, während Ihr entzündet seid",
+    "ids": {
+      "explicit": "stat_581625445"
+    }
+  },
+  {
     "text": "#% erhöhte Angriffsgeschwindigkeit mit Bögen",
     "ids": {
       "explicit": "stat_3759735052",
@@ -2586,14 +2619,6 @@
     "text": "Monster reflektieren #% des physischen Schadens",
     "ids": {
       "explicit": "stat_3464419871"
-    }
-  },
-  {
-    "text": "#% verlängerte Blutungsdauer",
-    "ids": {
-      "explicit": "stat_1459321413",
-      "implicit": "stat_1459321413",
-      "fractured": "stat_1459321413"
     }
   },
   {
@@ -2714,6 +2739,12 @@
     }
   },
   {
+    "text": "Gewährt #% des physischen Schadens als extra Chaosschaden während Fläschchenwirkung",
+    "ids": {
+      "explicit": "stat_2818167778"
+    }
+  },
+  {
     "text": "#% erhöhte kritische Trefferchance beim Tragen zweier Waffen",
     "ids": {
       "explicit": "stat_3702513529",
@@ -2731,12 +2762,6 @@
     "ids": {
       "explicit": "stat_1445684883",
       "crafted": "stat_1445684883"
-    }
-  },
-  {
-    "text": "#% erhöhte Bewegungsgeschwindigkeit, während Ihr entzündet seid",
-    "ids": {
-      "explicit": "stat_581625445"
     }
   },
   {
@@ -2758,6 +2783,13 @@
       "explicit": "stat_472520716",
       "implicit": "stat_472520716",
       "crafted": "stat_472520716"
+    }
+  },
+  {
+    "text": "#% erhöhte Zaubergeschwindigkeit mit Kältefertigkeiten",
+    "ids": {
+      "explicit": "stat_928238845",
+      "fractured": "stat_928238845"
     }
   },
   {
@@ -2791,21 +2823,15 @@
     }
   },
   {
-    "text": "Gewährt #% des physischen Schadens als extra Chaosschaden während Fläschchenwirkung",
-    "ids": {
-      "explicit": "stat_2818167778"
-    }
-  },
-  {
-    "text": "Historisch",
-    "ids": {
-      "explicit": "stat_1811341815"
-    }
-  },
-  {
     "text": "Spieler sind verflucht mit 'Verwundbarkeit'",
     "ids": {
       "explicit": "stat_1366534040"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Konzentrierte Wirkung' Stufe #",
+    "ids": {
+      "explicit": "stat_2388360415"
     }
   },
   {
@@ -2843,12 +2869,6 @@
     "text": "Spieler sind verflucht mit 'Fesseln der Zeit'",
     "ids": {
       "explicit": "stat_2326202293"
-    }
-  },
-  {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Konzentrierte Wirkung' Stufe #",
-    "ids": {
-      "explicit": "stat_2388360415"
     }
   },
   {
@@ -2939,12 +2959,6 @@
     }
   },
   {
-    "text": "Monster haben #% Chance, Vergiften, Blenden und Bluten zu vermeiden",
-    "ids": {
-      "explicit": "stat_2215002568"
-    }
-  },
-  {
     "text": "Eingefasste Gemmen werden unterstützt durch 'Vergrößerter Wirkungsbereich' Stufe #",
     "ids": {
       "explicit": "stat_3720936304",
@@ -3021,6 +3035,15 @@
     }
   },
   {
+    "text": "#% Chance, Schock zu vermeiden",
+    "ids": {
+      "explicit": "stat_1871765599",
+      "implicit": "stat_1871765599",
+      "fractured": "stat_1871765599",
+      "crafted": "stat_1871765599"
+    }
+  },
+  {
     "text": "Gewährt #% des Elementarschadens als extra Chaosschaden während Fläschchenwirkung",
     "ids": {
       "explicit": "stat_3562241510"
@@ -3044,13 +3067,6 @@
       "explicit": "stat_3485067555",
       "implicit": "stat_3485067555",
       "crafted": "stat_3485067555"
-    }
-  },
-  {
-    "text": "#% erhöhte Zaubergeschwindigkeit mit Kältefertigkeiten",
-    "ids": {
-      "explicit": "stat_928238845",
-      "fractured": "stat_928238845"
     }
   },
   {
@@ -3084,12 +3100,10 @@
     }
   },
   {
-    "text": "#% Chance, Schock zu vermeiden",
+    "text": "Fügt Zaubern und Angriffen # bis # Feuerschaden hinzu",
     "ids": {
-      "explicit": "stat_1871765599",
-      "implicit": "stat_1871765599",
-      "fractured": "stat_1871765599",
-      "crafted": "stat_1871765599"
+      "explicit": "stat_3964634628",
+      "implicit": "stat_3964634628"
     }
   },
   {
@@ -3098,13 +3112,6 @@
       "explicit": "stat_3814560373",
       "implicit": "stat_3814560373",
       "fractured": "stat_3814560373"
-    }
-  },
-  {
-    "text": "Fügt Zaubern und Angriffen # bis # Feuerschaden hinzu",
-    "ids": {
-      "explicit": "stat_3964634628",
-      "implicit": "stat_3964634628"
     }
   },
   {
@@ -3120,6 +3127,12 @@
       "explicit": "stat_2479683456",
       "implicit": "stat_2479683456",
       "fractured": "stat_2479683456"
+    }
+  },
+  {
+    "text": "Gebiet ist ein großer Irrgarten",
+    "ids": {
+      "explicit": "stat_587175996"
     }
   },
   {
@@ -3146,6 +3159,13 @@
     "text": "#% Chance, bei Treffer zu verstümmeln",
     "ids": {
       "explicit": "stat_2763429652"
+    }
+  },
+  {
+    "text": "Erhaltet #% des Schadens (Chaosschaden ausgenommen) als extra Chaosschaden",
+    "ids": {
+      "explicit": "stat_2063695047",
+      "crafted": "stat_2063695047"
     }
   },
   {
@@ -3200,10 +3220,25 @@
     }
   },
   {
+    "text": "Fluchfertigkeiten haben #% verlängerte Fertigkeitseffektdauer",
+    "ids": {
+      "explicit": "stat_1435748744",
+      "implicit": "stat_1435748744",
+      "crafted": "stat_1435748744"
+    }
+  },
+  {
     "text": "Schaden durchdringt #% Elementarwiderstände",
     "ids": {
       "explicit": "stat_2101383955",
       "implicit": "stat_2101383955"
+    }
+  },
+  {
+    "text": "#% zu maximaler Chance, Angriffsschaden zu blocken",
+    "ids": {
+      "explicit": "stat_4124805414",
+      "implicit": "stat_4124805414"
     }
   },
   {
@@ -3233,13 +3268,6 @@
     }
   },
   {
-    "text": "#% zu maximaler Chance, Angriffsschaden zu blocken",
-    "ids": {
-      "explicit": "stat_4124805414",
-      "implicit": "stat_4124805414"
-    }
-  },
-  {
     "text": "#% Chance, Angriffsschaden zu blocken beim Tragen eines Stabs",
     "ids": {
       "explicit": "stat_1778298516",
@@ -3264,14 +3292,6 @@
     "ids": {
       "explicit": "stat_4188894176",
       "fractured": "stat_4188894176"
-    }
-  },
-  {
-    "text": "Fluchfertigkeiten haben #% verlängerte Fertigkeitseffektdauer",
-    "ids": {
-      "explicit": "stat_1435748744",
-      "implicit": "stat_1435748744",
-      "crafted": "stat_1435748744"
     }
   },
   {
@@ -3366,13 +3386,6 @@
     }
   },
   {
-    "text": "Erhaltet #% des Schadens (Chaosschaden ausgenommen) als extra Chaosschaden",
-    "ids": {
-      "explicit": "stat_2063695047",
-      "crafted": "stat_2063695047"
-    }
-  },
-  {
     "text": "Sofortige Wiederherstellung",
     "ids": {
       "explicit": "stat_1526933524"
@@ -3434,12 +3447,6 @@
       "implicit": "stat_4262448838",
       "fractured": "stat_4262448838",
       "crafted": "stat_4262448838"
-    }
-  },
-  {
-    "text": "Gebiet ist ein großer Irrgarten",
-    "ids": {
-      "explicit": "stat_587175996"
     }
   },
   {
@@ -3512,6 +3519,12 @@
     "text": "Stellt # Füllung wieder her, wenn Ihr einen kritischen Treffer erleidet",
     "ids": {
       "explicit": "stat_3662336899"
+    }
+  },
+  {
+    "text": "Erhaltet # Leben für jeden Gegner, der durch Eure Zauber getroffen wird",
+    "ids": {
+      "explicit": "stat_2018035324"
     }
   },
   {
@@ -3613,6 +3626,12 @@
     }
   },
   {
+    "text": "Regeneriert # Leben pro Sekunde für jede Stufe",
+    "ids": {
+      "explicit": "stat_1384864963"
+    }
+  },
+  {
     "text": "Flüche haben #% verringerte Wirkung auf Monstern",
     "ids": {
       "explicit": "stat_2999796964"
@@ -3664,12 +3683,6 @@
     "text": "Hat keine Fassungen",
     "ids": {
       "explicit": "stat_1493091477"
-    }
-  },
-  {
-    "text": "Regeneriert # Leben pro Sekunde für jede Stufe",
-    "ids": {
-      "explicit": "stat_1384864963"
     }
   },
   {
@@ -3755,6 +3768,12 @@
     }
   },
   {
+    "text": "Der Schaden von gegnerischen Treffern ist 'Ungünstig', während Ihr bei niedrigem Leben seid",
+    "ids": {
+      "explicit": "stat_3753748365"
+    }
+  },
+  {
     "text": "#% Chance, bei Nahkampftötung Unheilige Macht für 4 Sekunden zu erhalten",
     "ids": {
       "explicit": "stat_3166317791",
@@ -3765,6 +3784,12 @@
     "text": "#% erhöhter erlittener Schaden bei vollem Energieschild",
     "ids": {
       "explicit": "stat_969865219"
+    }
+  },
+  {
+    "text": "Immun gegen Flüche während Fläschchenwirkung\nEntfernt Flüche bei Nutzung",
+    "ids": {
+      "explicit": "stat_1670623917"
     }
   },
   {
@@ -3788,15 +3813,15 @@
     }
   },
   {
-    "text": "Immun gegen Flüche während Fläschchenwirkung\nEntfernt Flüche bei Nutzung",
-    "ids": {
-      "explicit": "stat_1670623917"
-    }
-  },
-  {
     "text": "#% zu Feuerwiderstand, wenn eine rote Gemme eingefasst ist",
     "ids": {
       "explicit": "stat_3051845758"
+    }
+  },
+  {
+    "text": "#% des Feuerschadens werden in Chaosschaden umgewandelt",
+    "ids": {
+      "explicit": "stat_2731249891"
     }
   },
   {
@@ -3809,12 +3834,6 @@
     "text": "# zur Stufe aller Blitzzauber-Fertigkeitengemmen",
     "ids": {
       "explicit": "stat_1545858329"
-    }
-  },
-  {
-    "text": "Der Schaden von gegnerischen Treffern ist 'Ungünstig', während Ihr bei niedrigem Leben seid",
-    "ids": {
-      "explicit": "stat_3753748365"
     }
   },
   {
@@ -3840,6 +3859,13 @@
     "text": "#% zu Blitzwiderstand, wenn eine blaue Gemme eingefasst ist",
     "ids": {
       "explicit": "stat_289814996"
+    }
+  },
+  {
+    "text": "Erleidet #% des physischen Schadens durch Treffer als Kälteschaden",
+    "ids": {
+      "explicit": "stat_1871056256",
+      "implicit": "stat_1871056256"
     }
   },
   {
@@ -4081,13 +4107,6 @@
     }
   },
   {
-    "text": "Erleidet #% des physischen Schadens durch Treffer als Kälteschaden",
-    "ids": {
-      "explicit": "stat_1871056256",
-      "implicit": "stat_1871056256"
-    }
-  },
-  {
     "text": "Eingefasste Gemmen werden unterstützt durch 'Chance auf Bluten' Stufe #",
     "ids": {
       "explicit": "stat_4197676934"
@@ -4124,6 +4143,12 @@
     "text": "Gebiet enthält Kluften ohne Brücken",
     "ids": {
       "explicit": "stat_860864690"
+    }
+  },
+  {
+    "text": "#% verringerte Manakosten von Kreaturen-Fertigkeiten",
+    "ids": {
+      "explicit": "stat_2969128501"
     }
   },
   {
@@ -4205,6 +4230,12 @@
     }
   },
   {
+    "text": "#% erhöhter erlittener Schaden",
+    "ids": {
+      "explicit": "stat_3691641145"
+    }
+  },
+  {
     "text": "#% erhöhte Wirkung",
     "ids": {
       "explicit": "stat_553298121"
@@ -4228,12 +4259,6 @@
       "explicit": "stat_2353576063",
       "implicit": "stat_2353576063",
       "crafted": "stat_2353576063"
-    }
-  },
-  {
-    "text": "#% des Feuerschadens werden in Chaosschaden umgewandelt",
-    "ids": {
-      "explicit": "stat_2731249891"
     }
   },
   {
@@ -4343,6 +4368,12 @@
     }
   },
   {
+    "text": "#% erhöhter physischer Nahkampfschaden pro 10 Geschick",
+    "ids": {
+      "explicit": "stat_2355151849"
+    }
+  },
+  {
     "text": "Gefundene Gegenstände sind in diesem Gebiet zu #% verderbt",
     "ids": {
       "explicit": "stat_728267040",
@@ -4421,6 +4452,12 @@
     }
   },
   {
+    "text": "# zu Nahkampf-Waffenreichweite pro weißer Fassung",
+    "ids": {
+      "explicit": "stat_2076080860"
+    }
+  },
+  {
     "text": "Fügt Angriffen mit Klauen # bis # Feuerschaden hinzu",
     "ids": {
       "explicit": "stat_2154290807",
@@ -4428,21 +4465,9 @@
     }
   },
   {
-    "text": "# zu Nahkampf-Waffenreichweite pro weißer Fassung",
-    "ids": {
-      "explicit": "stat_2076080860"
-    }
-  },
-  {
     "text": "#% erhöhte globale Angriffsgeschwindigkeit  pro grüner Fassung",
     "ids": {
       "explicit": "stat_250876318"
-    }
-  },
-  {
-    "text": "#% verringerte Manakosten von Kreaturen-Fertigkeiten",
-    "ids": {
-      "explicit": "stat_2969128501"
     }
   },
   {
@@ -4482,6 +4507,12 @@
     "ids": {
       "explicit": "stat_1482572705",
       "implicit": "stat_1482572705"
+    }
+  },
+  {
+    "text": "Ihr erhaltet eine Widerstands-Ladung bei Nutzung",
+    "ids": {
+      "explicit": "stat_3986030307"
     }
   },
   {
@@ -4542,15 +4573,15 @@
     }
   },
   {
-    "text": "Ihr erhaltet eine Widerstands-Ladung bei Nutzung",
-    "ids": {
-      "explicit": "stat_3986030307"
-    }
-  },
-  {
     "text": "Erhaltet # Leben bei Tötung eines entzündeten Gegners",
     "ids": {
       "explicit": "stat_893903361"
+    }
+  },
+  {
+    "text": "Verbraucht 1 Raserei-Ladung bei Nutzung",
+    "ids": {
+      "explicit": "stat_570159344"
     }
   },
   {
@@ -4637,6 +4668,13 @@
     }
   },
   {
+    "text": "Kreaturen haben #% zu Chaoswiderstand",
+    "ids": {
+      "explicit": "stat_3837707023",
+      "fractured": "stat_3837707023"
+    }
+  },
+  {
     "text": "#% Chance, getöteten Gegnern im Umkreis Ansturm für 3 Sekunden zu gewähren",
     "ids": {
       "explicit": "stat_1924591908"
@@ -4708,6 +4746,12 @@
     }
   },
   {
+    "text": "# zur Stufe aller Feuerzauber-Fertigkeitengemmen",
+    "ids": {
+      "explicit": "stat_591105508"
+    }
+  },
+  {
     "text": "#% erhöhter Angriffsschaden gegen blutende Gegner",
     "ids": {
       "explicit": "stat_3944782785",
@@ -4715,15 +4759,16 @@
     }
   },
   {
-    "text": "# zur Stufe aller Feuerzauber-Fertigkeitengemmen",
-    "ids": {
-      "explicit": "stat_591105508"
-    }
-  },
-  {
     "text": "# Mana pro 4 Stärke",
     "ids": {
       "explicit": "stat_507075051"
+    }
+  },
+  {
+    "text": "Fügt Angriffen mit Dolchen # bis # Feuerschaden hinzu",
+    "ids": {
+      "explicit": "stat_1910361436",
+      "fractured": "stat_1910361436"
     }
   },
   {
@@ -4745,13 +4790,6 @@
     "ids": {
       "explicit": "stat_429867172",
       "crafted": "stat_429867172"
-    }
-  },
-  {
-    "text": "#% erhöhter Angriffsschaden beim Tragen eines Schilds",
-    "ids": {
-      "explicit": "stat_1393393937",
-      "fractured": "stat_1393393937"
     }
   },
   {
@@ -4870,6 +4908,12 @@
     }
   },
   {
+    "text": "# zur Stufe aller Kältezauber-Fertigkeitengemmen",
+    "ids": {
+      "explicit": "stat_2254480358"
+    }
+  },
+  {
     "text": "# Leben pro 4 Geschick",
     "ids": {
       "explicit": "stat_2042405614"
@@ -4911,6 +4955,18 @@
     "ids": {
       "explicit": "stat_3376452528",
       "fractured": "stat_3376452528"
+    }
+  },
+  {
+    "text": "Löst 'Seelenexplosion' Stufe # aus, wenn Ihr eine Fertigkeit benutzt, während Ihr eine Seelen-Ladung habt",
+    "ids": {
+      "explicit": "stat_1992516007"
+    }
+  },
+  {
+    "text": "# zur Stufe aller Chaoszauber-Fertigkeitengemmen",
+    "ids": {
+      "explicit": "stat_4226189338"
     }
   },
   {
@@ -4975,13 +5031,6 @@
     "ids": {
       "explicit": "stat_2671663397",
       "fractured": "stat_2671663397"
-    }
-  },
-  {
-    "text": "Fügt Angriffen mit Dolchen # bis # Feuerschaden hinzu",
-    "ids": {
-      "explicit": "stat_1910361436",
-      "fractured": "stat_1910361436"
     }
   },
   {
@@ -5080,12 +5129,6 @@
     }
   },
   {
-    "text": "Verbraucht 1 Raserei-Ladung bei Nutzung",
-    "ids": {
-      "explicit": "stat_570159344"
-    }
-  },
-  {
     "text": "Schaden durchdringt während Fläschchenwirkung #% Widerstand jedes Elements, dessen ungedeckelter Elementarwiderstand am höchsten ist",
     "ids": {
       "explicit": "stat_2444301311"
@@ -5138,6 +5181,13 @@
     }
   },
   {
+    "text": "#% verlängerte Dauer von Widerstands-Ladungen",
+    "ids": {
+      "explicit": "stat_1170174456",
+      "implicit": "stat_1170174456"
+    }
+  },
+  {
     "text": "#% des Kälteschadens werden in Feuerschaden umgewandelt",
     "ids": {
       "explicit": "stat_723832351"
@@ -5168,6 +5218,12 @@
     "text": "Passive im Radius können ohne Verbindung zum Baum zugewiesen werden",
     "ids": {
       "explicit": "stat_4077035099"
+    }
+  },
+  {
+    "text": "#% erhöhte Bewegungsgeschwindigkeit bei vollem Energieschild",
+    "ids": {
+      "explicit": "stat_2825197711"
     }
   },
   {
@@ -5210,12 +5266,6 @@
     }
   },
   {
-    "text": "Bei mindestens 40 Stärke im Radius gewährt 'Spalten' bei Treffer Verstärken",
-    "ids": {
-      "explicit": "stat_1248507170"
-    }
-  },
-  {
     "text": "Fügt Zaubern beim Tragen eines Schilds # bis # Blitzschaden hinzu",
     "ids": {
       "explicit": "stat_1801889979",
@@ -5223,9 +5273,9 @@
     }
   },
   {
-    "text": "#% erhöhte Bewegungsgeschwindigkeit bei vollem Energieschild",
+    "text": "Bei mindestens 40 Stärke im Radius gewährt 'Spalten' bei Treffer Verstärken",
     "ids": {
-      "explicit": "stat_2825197711"
+      "explicit": "stat_1248507170"
     }
   },
   {
@@ -5244,13 +5294,6 @@
     "text": "Gebiet enthält keine Monster",
     "ids": {
       "explicit": "stat_1626998468"
-    }
-  },
-  {
-    "text": "#% verlängerte Dauer von Widerstands-Ladungen",
-    "ids": {
-      "explicit": "stat_1170174456",
-      "implicit": "stat_1170174456"
     }
   },
   {
@@ -5275,12 +5318,6 @@
     "text": "Bei mindestens 40 Intelligenz im Radius feuert 'Magmakugel' ein zusätzliches Projektil",
     "ids": {
       "explicit": "stat_2542542825"
-    }
-  },
-  {
-    "text": "#% erhöhter erlittener Schaden",
-    "ids": {
-      "explicit": "stat_3691641145"
     }
   },
   {
@@ -5328,6 +5365,12 @@
       "explicit": "stat_3002506763",
       "implicit": "stat_3002506763",
       "fractured": "stat_3002506763"
+    }
+  },
+  {
+    "text": "Einzigartiger Boss lässt # zusätzliche seltene # fallen",
+    "ids": {
+      "explicit": "stat_2343216207"
     }
   },
   {
@@ -5380,12 +5423,6 @@
     "text": "# Energieschild bei Tötung erhalten",
     "ids": {
       "explicit": "stat_2528955616"
-    }
-  },
-  {
-    "text": "# zur Stufe aller Kältezauber-Fertigkeitengemmen",
-    "ids": {
-      "explicit": "stat_2254480358"
     }
   },
   {
@@ -5513,9 +5550,22 @@
     }
   },
   {
+    "text": "#% erhöhter erlittener Feuerschaden",
+    "ids": {
+      "explicit": "stat_3743301799",
+      "implicit": "stat_3743301799"
+    }
+  },
+  {
     "text": "Leitung",
     "ids": {
       "explicit": "stat_1994392904"
+    }
+  },
+  {
+    "text": "#% Chance, Verbündeten im Umkreis eine Energie-Ladung zu gewähren bei Tötung",
+    "ids": {
+      "explicit": "stat_2367680009"
     }
   },
   {
@@ -5546,6 +5596,12 @@
     "text": "#% Chance, pro Raserei-Ladung Angriffstreffern zu entgehen",
     "ids": {
       "explicit": "stat_172894060"
+    }
+  },
+  {
+    "text": "#% erhöhte Wirkung von durch Golems gewährten Stärkungen",
+    "ids": {
+      "explicit": "stat_2109043683"
     }
   },
   {
@@ -5586,6 +5642,12 @@
     }
   },
   {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Langsamere Projektile' Stufe #",
+    "ids": {
+      "explicit": "stat_1390285657"
+    }
+  },
+  {
     "text": "#% verkürzte Dauer von 'Funken'",
     "ids": {
       "explicit": "stat_3420284170"
@@ -5598,21 +5660,9 @@
     }
   },
   {
-    "text": "Einzigartiger Boss lässt # zusätzliche seltene # fallen",
-    "ids": {
-      "explicit": "stat_2343216207"
-    }
-  },
-  {
     "text": "Erhaltet eine Widerstands-Ladung, wenn Ihr einen kritischen Treffer erleidet",
     "ids": {
       "explicit": "stat_2609824731"
-    }
-  },
-  {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Langsamere Projektile' Stufe #",
-    "ids": {
-      "explicit": "stat_1390285657"
     }
   },
   {
@@ -5757,6 +5807,18 @@
     }
   },
   {
+    "text": "#% erhöhter physischer Schaden mit Klauen bei niedrigem Leben",
+    "ids": {
+      "explicit": "stat_1081444608"
+    }
+  },
+  {
+    "text": "#% erhöhte Treffgenauigkeit bei niedrigem Leben",
+    "ids": {
+      "explicit": "stat_347697569"
+    }
+  },
+  {
     "text": "Auf Euch wirkende Fläschchen haben #% erhöhte Wirkung",
     "ids": {
       "explicit": "stat_114734841",
@@ -5788,10 +5850,10 @@
     }
   },
   {
-    "text": "#% erhöhter erlittener Feuerschaden",
+    "text": "#% erhöhte Seltenheit gefundener Gegenstände während Fläschchenwirkung",
     "ids": {
-      "explicit": "stat_3743301799",
-      "implicit": "stat_3743301799"
+      "explicit": "stat_1740200922",
+      "crafted": "stat_3251705960"
     }
   },
   {
@@ -5805,12 +5867,6 @@
     "ids": {
       "explicit": "stat_1181129483",
       "fractured": "stat_1181129483"
-    }
-  },
-  {
-    "text": "#% erhöhter physischer Schaden mit Klauen bei niedrigem Leben",
-    "ids": {
-      "explicit": "stat_1081444608"
     }
   },
   {
@@ -5858,34 +5914,15 @@
     }
   },
   {
-    "text": "#% erhöhte Treffgenauigkeit bei niedrigem Leben",
-    "ids": {
-      "explicit": "stat_347697569"
-    }
-  },
-  {
     "text": "Golems haben #% beschleunigte Abklingzeit",
     "ids": {
       "explicit": "stat_3246099900"
     }
   },
   {
-    "text": "#% erhöhte Seltenheit gefundener Gegenstände während Fläschchenwirkung",
-    "ids": {
-      "explicit": "stat_1740200922",
-      "crafted": "stat_3251705960"
-    }
-  },
-  {
     "text": "Löst 'Todesmarsch' Stufe # aus, wenn ausgerüstet",
     "ids": {
       "explicit": "stat_651875072"
-    }
-  },
-  {
-    "text": "Erhaltet # Leben für jeden Gegner, der durch Eure Zauber getroffen wird",
-    "ids": {
-      "explicit": "stat_2018035324"
     }
   },
   {
@@ -5927,13 +5964,6 @@
     }
   },
   {
-    "text": "Kreaturen haben #% zu Chaoswiderstand",
-    "ids": {
-      "explicit": "stat_3837707023",
-      "fractured": "stat_3837707023"
-    }
-  },
-  {
     "text": "Regeneriert #% des Lebens pro Sekunde, während Ihr eingefroren seid",
     "ids": {
       "explicit": "stat_2656696317"
@@ -5956,6 +5986,12 @@
     "text": "#% erhöhter Schaden, während Ihr entzündet seid",
     "ids": {
       "explicit": "stat_1686122637"
+    }
+  },
+  {
+    "text": "Bei mindestens 300 Geschick: #% erhöhter Schaden mit Gift",
+    "ids": {
+      "explicit": "stat_256730087"
     }
   },
   {
@@ -6024,15 +6060,15 @@
     }
   },
   {
-    "text": "Angriffe verketten ein zusätzliches Mal, wenn in der Haupthand",
-    "ids": {
-      "explicit": "stat_2466604008"
-    }
-  },
-  {
     "text": "# zu Ausweichwert bei vollem Leben",
     "ids": {
       "explicit": "stat_4082111882"
+    }
+  },
+  {
+    "text": "Angriffe verketten ein zusätzliches Mal, wenn in der Haupthand",
+    "ids": {
+      "explicit": "stat_2466604008"
     }
   },
   {
@@ -6138,12 +6174,6 @@
     }
   },
   {
-    "text": "Bei mindestens 300 Geschick: #% erhöhter Schaden mit Gift",
-    "ids": {
-      "explicit": "stat_256730087"
-    }
-  },
-  {
     "text": "Kreaturen haben #% Chance auf Einfrieren, Schocken und Entzünden",
     "ids": {
       "explicit": "stat_1994549323"
@@ -6159,6 +6189,12 @@
     "text": "Gegner im Umkreis sind geblendet",
     "ids": {
       "explicit": "stat_2826979740"
+    }
+  },
+  {
+    "text": "#% erhöhte Seltenheit fallengelassener Gegenstände von eingefrorenen Gegnern",
+    "ids": {
+      "explicit": "stat_2138434718"
     }
   },
   {
@@ -6254,12 +6290,6 @@
     }
   },
   {
-    "text": "# zur Stufe aller Chaoszauber-Fertigkeitengemmen",
-    "ids": {
-      "explicit": "stat_4226189338"
-    }
-  },
-  {
     "text": "Kreaturen haben #% Chance, doppelten Schaden zu verursachen",
     "ids": {
       "explicit": "stat_755922799"
@@ -6294,12 +6324,6 @@
     "text": "#% erhöhte Lebenswiederherstellung",
     "ids": {
       "explicit": "stat_1261982764"
-    }
-  },
-  {
-    "text": "#% Chance, Verbündeten im Umkreis eine Energie-Ladung zu gewähren bei Tötung",
-    "ids": {
-      "explicit": "stat_2367680009"
     }
   },
   {
@@ -6342,6 +6366,14 @@
     }
   },
   {
+    "text": "#% erhöhter Angriffsschaden",
+    "ids": {
+      "explicit": "stat_2843214518",
+      "implicit": "stat_2843214518",
+      "fractured": "stat_2843214518"
+    }
+  },
+  {
     "text": "Regeneriert #% des Lebens pro Sekunde, wenn Ihr kürzlich getroffen wurdet",
     "ids": {
       "explicit": "stat_2201614328",
@@ -6371,12 +6403,6 @@
     "text": "Reflektiert Flüche",
     "ids": {
       "explicit": "stat_1731672673"
-    }
-  },
-  {
-    "text": "#% erhöhte Wirkung von durch Golems gewährten Stärkungen",
-    "ids": {
-      "explicit": "stat_2109043683"
     }
   },
   {
@@ -6462,24 +6488,10 @@
     }
   },
   {
-    "text": "#% erhöhte Seltenheit fallengelassener Gegenstände von eingefrorenen Gegnern",
-    "ids": {
-      "explicit": "stat_2138434718"
-    }
-  },
-  {
     "text": "#% erhöhte globale Verteidigungswerte",
     "ids": {
       "explicit": "stat_1389153006",
       "implicit": "stat_1389153006"
-    }
-  },
-  {
-    "text": "#% erhöhter Angriffsschaden",
-    "ids": {
-      "explicit": "stat_2843214518",
-      "implicit": "stat_2843214518",
-      "fractured": "stat_2843214518"
     }
   },
   {
@@ -6615,12 +6627,6 @@
     }
   },
   {
-    "text": "#% erhöhter physischer Nahkampfschaden pro 10 Geschick",
-    "ids": {
-      "explicit": "stat_2355151849"
-    }
-  },
-  {
     "text": "Gegner können Euer Leben nicht rauben",
     "ids": {
       "explicit": "stat_4293455942",
@@ -6652,15 +6658,15 @@
     }
   },
   {
-    "text": "+#% zu globalem Multiplikator auf kritischen Treffer pro grüner Fassung",
-    "ids": {
-      "explicit": "stat_35810390"
-    }
-  },
-  {
     "text": "Fügt Zaubern und Angriffen während beliebiger Fläschchenwirkung # bis # Chaosschaden hinzu",
     "ids": {
       "explicit": "stat_3519268108"
+    }
+  },
+  {
+    "text": "+#% zu globalem Multiplikator auf kritischen Treffer pro grüner Fassung",
+    "ids": {
+      "explicit": "stat_35810390"
     }
   },
   {
@@ -6694,9 +6700,10 @@
     }
   },
   {
-    "text": "Löst 'Seelenexplosion' Stufe # aus, wenn Ihr eine Fertigkeit benutzt, während Ihr eine Seelen-Ladung habt",
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Inspiration' Stufe #",
     "ids": {
-      "explicit": "stat_1992516007"
+      "explicit": "stat_1866911844",
+      "implicit": "stat_1866911844"
     }
   },
   {
@@ -6704,13 +6711,6 @@
     "ids": {
       "explicit": "stat_1169502663",
       "implicit": "stat_1169502663"
-    }
-  },
-  {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Inspiration' Stufe #",
-    "ids": {
-      "explicit": "stat_1866911844",
-      "implicit": "stat_1866911844"
     }
   },
   {
@@ -6960,6 +6960,12 @@
     }
   },
   {
+    "text": "# zur Stufe eingefasster Elementar-Gemmen",
+    "ids": {
+      "explicit": "stat_3571342795"
+    }
+  },
+  {
     "text": "#% beschleunigte Abklingzeit von Kriegsschreien",
     "ids": {
       "explicit": "stat_4159248054"
@@ -7070,9 +7076,21 @@
     }
   },
   {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Zauberkaskade' Stufe #",
+    "ids": {
+      "explicit": "stat_503990161"
+    }
+  },
+  {
     "text": "Bogen stößt aus kurzer Distanz zurück",
     "ids": {
       "explicit": "stat_3261557635"
+    }
+  },
+  {
+    "text": "Kritische Treffer haben 'Todesstoß'",
+    "ids": {
+      "explicit": "stat_2996445420"
     }
   },
   {
@@ -7125,6 +7143,13 @@
     }
   },
   {
+    "text": "Erleidet #% des physischen Schadens durch Treffer als Chaosschaden",
+    "ids": {
+      "explicit": "stat_4129825612",
+      "implicit": "stat_4129825612"
+    }
+  },
+  {
     "text": "#% erhöhter Zauberschaden pro 10 Intelligenz",
     "ids": {
       "explicit": "stat_2818518881",
@@ -7138,16 +7163,16 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Zauberkaskade' Stufe #",
-    "ids": {
-      "explicit": "stat_503990161"
-    }
-  },
-  {
     "text": "#% verlängerte Schockdauer bei Euch",
     "ids": {
       "explicit": "stat_99927264",
       "implicit": "stat_99927264"
+    }
+  },
+  {
+    "text": "Gewährt die Fertigkeit 'Vorbote des Arkanen beschwören'",
+    "ids": {
+      "explicit": "stat_3872739249"
     }
   },
   {
@@ -7181,12 +7206,6 @@
     "ids": {
       "explicit": "stat_3882662078",
       "fractured": "stat_3882662078"
-    }
-  },
-  {
-    "text": "Kritische Treffer haben 'Todesstoß'",
-    "ids": {
-      "explicit": "stat_2996445420"
     }
   },
   {
@@ -7305,6 +7324,12 @@
     }
   },
   {
+    "text": "#% des Blitzschadens als Leben geraubt während Fläschchenwirkung",
+    "ids": {
+      "explicit": "stat_2687254633"
+    }
+  },
+  {
     "text": "Durch Euch verursachte Vergiftungen verursachen den Schaden #% schneller",
     "ids": {
       "explicit": "stat_2907156609",
@@ -7324,9 +7349,9 @@
     }
   },
   {
-    "text": "Gewährt die Fertigkeit 'Vorbote des Arkanen beschwören'",
+    "text": "#% Chance, während Schemenform Projektile zu vermeiden",
     "ids": {
-      "explicit": "stat_3872739249"
+      "explicit": "stat_3635120731"
     }
   },
   {
@@ -7361,6 +7386,12 @@
     }
   },
   {
+    "text": "'Belagerungsballista' hat # zu maximaler Anzahl beschworener Totems pro 200 Geschick",
+    "ids": {
+      "explicit": "stat_2125178364"
+    }
+  },
+  {
     "text": "#% erhöhte Wirkung von Opfern",
     "ids": {
       "explicit": "stat_3191479793"
@@ -7385,12 +7416,6 @@
     }
   },
   {
-    "text": "#% des Blitzschadens als Leben geraubt während Fläschchenwirkung",
-    "ids": {
-      "explicit": "stat_2687254633"
-    }
-  },
-  {
     "text": "#% Chance, Gegner bei kritischem Treffer zu blenden",
     "ids": {
       "explicit": "stat_3983981705"
@@ -7409,12 +7434,6 @@
     }
   },
   {
-    "text": "'Belagerungsballista' hat # zu maximaler Anzahl beschworener Totems pro 200 Geschick",
-    "ids": {
-      "explicit": "stat_2125178364"
-    }
-  },
-  {
     "text": "Mit 1000 oder mehr Stärke werden #% des durch Eure Zombies verursachten Schadens für Euch als Leben geraubt",
     "ids": {
       "explicit": "stat_2802263253"
@@ -7424,12 +7443,6 @@
     "text": "Flüche in diesem Gegenstand werden auf Euch reflektiert",
     "ids": {
       "explicit": "stat_32859524"
-    }
-  },
-  {
-    "text": "#% Chance, während Schemenform Projektile zu vermeiden",
-    "ids": {
-      "explicit": "stat_3635120731"
     }
   },
   {
@@ -7622,9 +7635,21 @@
     }
   },
   {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Zusätzlicher Blitzschaden' Stufe #",
+    "ids": {
+      "explicit": "stat_1647529598"
+    }
+  },
+  {
     "text": "#% erhöhte Wiederherstellung bei niedrigem Leben",
     "ids": {
       "explicit": "stat_886931978"
+    }
+  },
+  {
+    "text": "#% Chance, einen eingefassten Zauber auszulösen, wenn Ihr mit dieser Waffe angreift",
+    "ids": {
+      "explicit": "stat_209056835"
     }
   },
   {
@@ -7634,9 +7659,9 @@
     }
   },
   {
-    "text": "#% Chance, einen eingefassten Zauber auszulösen, wenn Ihr mit dieser Waffe angreift",
+    "text": "#% Chance, bei Einfrieren eines Gegners unterkühlten Boden zu erzeugen",
     "ids": {
-      "explicit": "stat_209056835"
+      "explicit": "stat_2901262227"
     }
   },
   {
@@ -7655,12 +7680,6 @@
     "text": "#% erhöhter Feuerschaden, wenn Ihr kürzlich eine Kältefertigkeit benutzt habt",
     "ids": {
       "explicit": "stat_4167600809"
-    }
-  },
-  {
-    "text": "#% Chance, bei Einfrieren eines Gegners unterkühlten Boden zu erzeugen",
-    "ids": {
-      "explicit": "stat_2901262227"
     }
   },
   {
@@ -7743,6 +7762,12 @@
     }
   },
   {
+    "text": "#% des Blitzschadens werden in Kälteschaden umgewandelt",
+    "ids": {
+      "explicit": "stat_2158060122"
+    }
+  },
+  {
     "text": "Betäubungsschwelle basiert auf Energieschild statt Leben",
     "ids": {
       "explicit": "stat_2562665460"
@@ -7779,6 +7804,13 @@
     }
   },
   {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Zusätzliche Treffgenauigkeit' Stufe #",
+    "ids": {
+      "explicit": "stat_1567462963",
+      "implicit": "stat_1567462963"
+    }
+  },
+  {
     "text": "#% zu Multiplikator für Chaosschaden über Zeit (Beeinträchtigungen ausgenommen)",
     "ids": {
       "explicit": "stat_1653010703",
@@ -7794,9 +7826,9 @@
     }
   },
   {
-    "text": "Bei mindestens 40 Geschick im Radius feuert 'Sperrfeuer' ein zusätzliches Projektil beim ersten und letzten Angriff",
+    "text": "Bei mindestens 40 Intelligenz im Radius kann 'Skelette beschwören' bis zu # Skelettmagier beschwören",
     "ids": {
-      "explicit": "stat_630867098"
+      "explicit": "stat_3088991881"
     }
   },
   {
@@ -7806,9 +7838,9 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Zusätzlicher Blitzschaden' Stufe #",
+    "text": "Bei mindestens 40 Geschick im Radius feuert 'Sperrfeuer' ein zusätzliches Projektil beim ersten und letzten Angriff",
     "ids": {
-      "explicit": "stat_1647529598"
+      "explicit": "stat_630867098"
     }
   },
   {
@@ -7827,6 +7859,12 @@
     "text": "#% beschleunigte Abklingzeit für Fallenwurf",
     "ids": {
       "explicit": "stat_3417757416"
+    }
+  },
+  {
+    "text": "#% erhöhter physischer Waffenschaden pro 10 Stärke",
+    "ids": {
+      "explicit": "stat_2594215131"
     }
   },
   {
@@ -7863,6 +7901,12 @@
     }
   },
   {
+    "text": "Erhaltet eine Raserei-Ladung alle 50 Amok-Tötungen",
+    "ids": {
+      "explicit": "stat_637690626"
+    }
+  },
+  {
     "text": "Projektile durchbohren ein zusätzliches Ziel, während Ihr Schemenform habt",
     "ids": {
       "explicit": "stat_97250660"
@@ -7879,12 +7923,6 @@
     "ids": {
       "explicit": "stat_105466375",
       "implicit": "stat_105466375"
-    }
-  },
-  {
-    "text": "Bei mindestens 40 Intelligenz im Radius kann 'Skelette beschwören' bis zu # Skelettmagier beschwören",
-    "ids": {
-      "explicit": "stat_3088991881"
     }
   },
   {
@@ -7912,15 +7950,21 @@
     }
   },
   {
-    "text": "#% erhöhter physischer Waffenschaden pro 10 Stärke",
-    "ids": {
-      "explicit": "stat_2594215131"
-    }
-  },
-  {
     "text": "# Sekunde zur Abklingzeit von 'Skelett beschwören'",
     "ids": {
       "explicit": "stat_3013430129"
+    }
+  },
+  {
+    "text": "Lebensraubeffekte dauern auch bei vollem Leben an\nLebensraubeffekte stellen bei vollem Leben stattdessen Energieschild wieder her",
+    "ids": {
+      "explicit": "stat_990335387"
+    }
+  },
+  {
+    "text": "#% erhöhter Feuerschaden mit Treffern und Beeinträchtigungen gegen geblendete Gegner",
+    "ids": {
+      "explicit": "stat_1601181226"
     }
   },
   {
@@ -7969,12 +8013,6 @@
     "text": "# erhöhter physischer Schaden von Projektilangriffen",
     "ids": {
       "explicit": "stat_3612407781"
-    }
-  },
-  {
-    "text": "#% erhöhter Feuerschaden mit Treffern und Beeinträchtigungen gegen geblendete Gegner",
-    "ids": {
-      "explicit": "stat_1601181226"
     }
   },
   {
@@ -8130,12 +8168,6 @@
     }
   },
   {
-    "text": "# zur Stufe eingefasster Elementar-Gemmen",
-    "ids": {
-      "explicit": "stat_3571342795"
-    }
-  },
-  {
     "text": "#% des physischen Angriffsschadens werden während Fläschchenwirkung als Leben geraubt",
     "ids": {
       "explicit": "stat_3111255591"
@@ -8208,6 +8240,13 @@
     }
   },
   {
+    "text": "#% des physischen Schadens werden als Leben geraubt",
+    "ids": {
+      "explicit": "stat_3764265320",
+      "implicit": "stat_3764265320"
+    }
+  },
+  {
     "text": "Verursacht keinen Elementarschaden",
     "ids": {
       "explicit": "stat_2998305364"
@@ -8223,12 +8262,6 @@
     "text": "# maximaler Energieschild pro 5 Stärke",
     "ids": {
       "explicit": "stat_3788706881"
-    }
-  },
-  {
-    "text": "#% des Blitzschadens werden in Kälteschaden umgewandelt",
-    "ids": {
-      "explicit": "stat_2158060122"
     }
   },
   {
@@ -8349,6 +8382,12 @@
     "text": "#% verringerter erlittener Zauberschaden von geblendeten Gegnern",
     "ids": {
       "explicit": "stat_1165847826"
+    }
+  },
+  {
+    "text": "Kritische Treffer frieren Gegner nicht grundsätzlich ein",
+    "ids": {
+      "explicit": "stat_3979476531"
     }
   },
   {
@@ -8578,6 +8617,12 @@
     }
   },
   {
+    "text": "Ihr verliert alle Widerstands-Ladungen beim Erreichen der maximalen Anzahl",
+    "ids": {
+      "explicit": "stat_3590104875"
+    }
+  },
+  {
     "text": "Gewährt die Fertigkeit Pesthauch Stufe #",
     "ids": {
       "explicit": "stat_1198418726"
@@ -8601,12 +8646,6 @@
     "text": "Sämtlicher Angriffsschaden unterkühlt, wenn Ihr betäubt",
     "ids": {
       "explicit": "stat_2437193018"
-    }
-  },
-  {
-    "text": "Ihr verliert alle Widerstands-Ladungen beim Erreichen der maximalen Anzahl",
-    "ids": {
-      "explicit": "stat_3590104875"
     }
   },
   {
@@ -8692,10 +8731,9 @@
     }
   },
   {
-    "text": "Erleidet #% des physischen Schadens durch Treffer als Chaosschaden",
+    "text": "Euer verursachter Schock wird zurück auf Euch reflektiert",
     "ids": {
-      "explicit": "stat_4129825612",
-      "implicit": "stat_4129825612"
+      "explicit": "stat_807955413"
     }
   },
   {
@@ -8723,15 +8761,15 @@
     }
   },
   {
-    "text": "Totems feuern # zusätzliches Projektil",
-    "ids": {
-      "explicit": "stat_736847554"
-    }
-  },
-  {
     "text": "Verliert sämtliche Energie-Ladungen beim Erreichen der maximalen Anzahl Energie-Ladungen",
     "ids": {
       "explicit": "stat_2135899247"
+    }
+  },
+  {
+    "text": "Totems feuern # zusätzliches Projektil",
+    "ids": {
+      "explicit": "stat_736847554"
     }
   },
   {
@@ -8779,21 +8817,9 @@
     }
   },
   {
-    "text": "Kritische Treffer frieren Gegner nicht grundsätzlich ein",
-    "ids": {
-      "explicit": "stat_3979476531"
-    }
-  },
-  {
     "text": "#% erhöhte Bewegungsgeschwindigkeit, während Ihr geschockt seid",
     "ids": {
       "explicit": "stat_542923416"
-    }
-  },
-  {
-    "text": "Euer verursachter Schock wird zurück auf Euch reflektiert",
-    "ids": {
-      "explicit": "stat_807955413"
     }
   },
   {
@@ -8906,13 +8932,6 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Zusätzliche Treffgenauigkeit' Stufe #",
-    "ids": {
-      "explicit": "stat_1567462963",
-      "implicit": "stat_1567462963"
-    }
-  },
-  {
     "text": "Tödliche Überzeugung",
     "ids": {
       "explicit": "stat_1585280892"
@@ -8946,6 +8965,12 @@
     "text": "Kann Gegner nicht zurückstoßen",
     "ids": {
       "explicit": "stat_2095084973"
+    }
+  },
+  {
+    "text": "# zur Stufe eingefasster Golem-Gemmen",
+    "ids": {
+      "explicit": "stat_3448743676"
     }
   },
   {
@@ -9024,15 +9049,15 @@
     }
   },
   {
-    "text": "Nie blocken",
-    "ids": {
-      "explicit": "stat_4127720801"
-    }
-  },
-  {
     "text": "#% erhöhter Chaosschaden pro Stufe",
     "ids": {
       "explicit": "stat_4084331136"
+    }
+  },
+  {
+    "text": "Nie blocken",
+    "ids": {
+      "explicit": "stat_4127720801"
     }
   },
   {
@@ -9090,6 +9115,12 @@
     "text": "Eingefasste Gemmen werden unterstützt durch 'Durchbohren' Stufe #",
     "ids": {
       "explicit": "stat_2433615566"
+    }
+  },
+  {
+    "text": "Erleidet #% des Elementarschadens durch Treffer als Chaosschaden",
+    "ids": {
+      "explicit": "stat_1175213674"
     }
   },
   {
@@ -9216,12 +9247,6 @@
     }
   },
   {
-    "text": "# zur Stufe eingefasster Golem-Gemmen",
-    "ids": {
-      "explicit": "stat_3448743676"
-    }
-  },
-  {
     "text": "Erhöhungen und Verringerungen von Zauberschaden gelten auch für Angriffe",
     "ids": {
       "explicit": "stat_3811649872"
@@ -9237,12 +9262,6 @@
     "text": "Stellt am Ende der Fläschchenwirkung #% des Lebens wieder her",
     "ids": {
       "explicit": "stat_4078194486"
-    }
-  },
-  {
-    "text": "Erleidet #% des Elementarschadens durch Treffer als Chaosschaden",
-    "ids": {
-      "explicit": "stat_1175213674"
     }
   },
   {
@@ -9264,22 +9283,9 @@
     }
   },
   {
-    "text": "Erhaltet eine Raserei-Ladung alle 50 Amok-Tötungen",
-    "ids": {
-      "explicit": "stat_637690626"
-    }
-  },
-  {
     "text": "#% erhöhte Angriffsgeschwindigkeit pro 25 Geschick",
     "ids": {
       "explicit": "stat_2241560081"
-    }
-  },
-  {
-    "text": "#% des physischen Schadens werden als Leben geraubt",
-    "ids": {
-      "explicit": "stat_3764265320",
-      "implicit": "stat_3764265320"
     }
   },
   {
@@ -9307,6 +9313,12 @@
     }
   },
   {
+    "text": "#% Chance, während Fläschchenwirkung Einfrieren zu vermeiden",
+    "ids": {
+      "explicit": "stat_2872815301"
+    }
+  },
+  {
     "text": "#% Chance, dass Fallen ein zusätzliches Mal auslösen",
     "ids": {
       "explicit": "stat_1087710344"
@@ -9319,9 +9331,21 @@
     }
   },
   {
+    "text": "# Stärke pro 1 Stärke aus zugewiesenen Passiven im Radius",
+    "ids": {
+      "explicit": "stat_552705983"
+    }
+  },
+  {
     "text": "Beschwört ein zusätzliches Skelett mit 'Skelett beschwören'",
     "ids": {
       "explicit": "stat_1589090910"
+    }
+  },
+  {
+    "text": "Euch treffender Blitzschaden von Gegnern ist 'Günstig'",
+    "ids": {
+      "explicit": "stat_4224965099"
     }
   },
   {
@@ -9368,12 +9392,6 @@
     }
   },
   {
-    "text": "Euch treffender Blitzschaden von Gegnern ist 'Günstig'",
-    "ids": {
-      "explicit": "stat_4224965099"
-    }
-  },
-  {
     "text": "Fügt Treffern gegen entzündete Gegner # bis # Blitzschaden hinzu",
     "ids": {
       "explicit": "stat_2870108850"
@@ -9402,12 +9420,6 @@
     "ids": {
       "explicit": "stat_710372469",
       "implicit": "stat_710372469"
-    }
-  },
-  {
-    "text": "#% Chance, während Fläschchenwirkung Einfrieren zu vermeiden",
-    "ids": {
-      "explicit": "stat_2872815301"
     }
   },
   {
@@ -9491,6 +9503,12 @@
     }
   },
   {
+    "text": "Geschick und Intelligenz von passiven Fertigkeiten im Radius werden auf den Nahkampfschaden-Bonus durch Stärke angerechnet",
+    "ids": {
+      "explicit": "stat_842363566"
+    }
+  },
+  {
     "text": "Gebiet ist von Seehexen und ihrer Brut besiedelt",
     "ids": {
       "explicit": "stat_25085466"
@@ -9506,6 +9524,12 @@
     "text": "Gewährt die Fertigkeit 'Todesaura' Stufe #",
     "ids": {
       "explicit": "stat_825352061"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Verlängerte Dauer' Stufe #",
+    "ids": {
+      "explicit": "stat_407317553"
     }
   },
   {
@@ -9533,9 +9557,21 @@
     }
   },
   {
+    "text": "Erhöhungen und Verringerungen des Kreaturenschadens wirken auch auf Euch",
+    "ids": {
+      "explicit": "stat_1631928082"
+    }
+  },
+  {
     "text": "#% verringerte Manakosten von 'Schemen erwecken'",
     "ids": {
       "explicit": "stat_262301496"
+    }
+  },
+  {
+    "text": "#% vergrößerter Wirkungsbereich von Angriffen",
+    "ids": {
+      "explicit": "stat_1840985759"
     }
   },
   {
@@ -9584,6 +9620,12 @@
     "text": "Golems haben #% erhöhtes maximales Leben",
     "ids": {
       "explicit": "stat_1750735210"
+    }
+  },
+  {
+    "text": "#% des Zauberschadens werden während Fläschchenwirkung als Energieschild geraubt",
+    "ids": {
+      "explicit": "stat_1456464057"
     }
   },
   {
@@ -9648,12 +9690,6 @@
     }
   },
   {
-    "text": "Erhöhungen und Verringerungen des Kreaturenschadens wirken auch auf Euch",
-    "ids": {
-      "explicit": "stat_1631928082"
-    }
-  },
-  {
     "text": "Erhaltet #% des physischen Schadens während Fläschchenwirkung als extra Kälteschaden",
     "ids": {
       "explicit": "stat_2661163721"
@@ -9712,12 +9748,6 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Verlängerte Dauer' Stufe #",
-    "ids": {
-      "explicit": "stat_407317553"
-    }
-  },
-  {
     "text": "#% Chance, Gegner bei Treffer mit einem eingefassten Fluch zu belegen",
     "ids": {
       "explicit": "stat_1352418057"
@@ -9772,12 +9802,6 @@
     }
   },
   {
-    "text": "#% des Zauberschadens werden während Fläschchenwirkung als Energieschild geraubt",
-    "ids": {
-      "explicit": "stat_1456464057"
-    }
-  },
-  {
     "text": "Gebiet wird von den Vaal bewohnt",
     "ids": {
       "explicit": "stat_2609768284"
@@ -9787,12 +9811,6 @@
     "text": "Himmlische Fußspuren",
     "ids": {
       "explicit": "stat_50381303"
-    }
-  },
-  {
-    "text": "# Stärke pro 1 Stärke aus zugewiesenen Passiven im Radius",
-    "ids": {
-      "explicit": "stat_552705983"
     }
   },
   {
@@ -9814,6 +9832,12 @@
     }
   },
   {
+    "text": "Gewährt die Fertigkeit 'Sengender Strahl' Stufe #",
+    "ids": {
+      "explicit": "stat_1540840"
+    }
+  },
+  {
     "text": "Eingefasste Gemmen werden unterstützt durch 'Verkürzte Dauer' Stufe #",
     "ids": {
       "explicit": "stat_2487643588"
@@ -9823,12 +9847,6 @@
     "text": "Fügt Zaubern # bis # Blitzschaden pro Energie-Ladung hinzu",
     "ids": {
       "explicit": "stat_4085417083"
-    }
-  },
-  {
-    "text": "Gebiet hat # Wellen von Monstern",
-    "ids": {
-      "explicit": "stat_4182502594"
     }
   },
   {
@@ -9875,21 +9893,15 @@
     }
   },
   {
-    "text": "Gewährt die Fertigkeit 'Sengender Strahl' Stufe #",
-    "ids": {
-      "explicit": "stat_1540840"
-    }
-  },
-  {
-    "text": "Lebensraubeffekte dauern auch bei vollem Leben an\nLebensraubeffekte stellen bei vollem Leben stattdessen Energieschild wieder her",
-    "ids": {
-      "explicit": "stat_990335387"
-    }
-  },
-  {
     "text": "Eure Kreaturen verbreiten bei Tod ätzenden Boden und verursachen #% ihres maximalen Lebens als Chaosschaden pro Sekunde",
     "ids": {
       "explicit": "stat_688802590"
+    }
+  },
+  {
+    "text": "Erzeugt eine Rauchwolke bei Amok",
+    "ids": {
+      "explicit": "stat_3321583955"
     }
   },
   {
@@ -9953,6 +9965,12 @@
     }
   },
   {
+    "text": "Gebiet hat # Wellen von Monstern",
+    "ids": {
+      "explicit": "stat_4182502594"
+    }
+  },
+  {
     "text": "Ihr verliert sämtliche Widerstands-Ladungen bei erlittenem Treffer",
     "ids": {
       "explicit": "stat_2994477068"
@@ -10003,15 +10021,15 @@
     }
   },
   {
-    "text": "Erleidet # Feuerschaden pro Sekunde für jede Widerstands-Ladung bei kürzlich erlittenem Treffer",
-    "ids": {
-      "explicit": "stat_1920234902"
-    }
-  },
-  {
     "text": "Ihr erhaltet Ansturm für # Sekunden bei Tötung",
     "ids": {
       "explicit": "stat_1195849808"
+    }
+  },
+  {
+    "text": "Erleidet # Feuerschaden pro Sekunde für jede Widerstands-Ladung bei kürzlich erlittenem Treffer",
+    "ids": {
+      "explicit": "stat_1920234902"
     }
   },
   {
@@ -10123,9 +10141,27 @@
     }
   },
   {
+    "text": "Erhaltet # Mana bei Tötung eines eingefrorenen Gegners",
+    "ids": {
+      "explicit": "stat_3304801725"
+    }
+  },
+  {
+    "text": "#% erhöhter Elementarschaden pro 'Großes Spektrum'",
+    "ids": {
+      "explicit": "stat_3163738488"
+    }
+  },
+  {
     "text": "Gewährt aufeinanderfolgend widerstehende, rasende und energetische Thaumaturgie für je 5 Sekunden",
     "ids": {
       "explicit": "stat_2918150296"
+    }
+  },
+  {
+    "text": "Fügt # bis # Blitzschaden für jeden geschockten, kürzlich getöteten Gegner hinzu",
+    "ids": {
+      "explicit": "stat_4222857095"
     }
   },
   {
@@ -10228,12 +10264,6 @@
     }
   },
   {
-    "text": "Erhaltet # Mana bei Tötung eines eingefrorenen Gegners",
-    "ids": {
-      "explicit": "stat_3304801725"
-    }
-  },
-  {
     "text": "#% erhöhtes maximales Leben, wenn keine ausgerüsteten Gegenstände verderbt sind",
     "ids": {
       "explicit": "stat_2217962305"
@@ -10249,12 +10279,6 @@
     "text": "Erhaltet #% des physischen Angriffsschadens als extra Blitzschaden",
     "ids": {
       "explicit": "stat_1096897481"
-    }
-  },
-  {
-    "text": "#% vergrößerter Wirkungsbereich von Angriffen",
-    "ids": {
-      "explicit": "stat_1840985759"
     }
   },
   {
@@ -10355,9 +10379,9 @@
     }
   },
   {
-    "text": "Fügt # bis # Blitzschaden für jeden geschockten, kürzlich getöteten Gegner hinzu",
+    "text": "#% Chance, 'Waffe des Wächters beseelen' Stufe 18 auszulösen, wenn die beseelte Waffe einen Gegner tötet",
     "ids": {
-      "explicit": "stat_4222857095"
+      "explicit": "stat_919960234"
     }
   },
   {
@@ -10400,12 +10424,6 @@
     "text": "#% Chance, Projektile zu vermeiden",
     "ids": {
       "explicit": "stat_3452269808"
-    }
-  },
-  {
-    "text": "#% Chance, 'Waffe des Wächters beseelen' Stufe 18 auszulösen, wenn die beseelte Waffe einen Gegner tötet",
-    "ids": {
-      "explicit": "stat_919960234"
     }
   },
   {
@@ -10460,6 +10478,19 @@
     "text": "Die Treffer von Verbündeten im Umkreis sind 'Günstig'",
     "ids": {
       "explicit": "stat_655871604"
+    }
+  },
+  {
+    "text": "#% zu Blitzwiderstand während unter dem Einfluss von 'Herold des Donners'",
+    "ids": {
+      "explicit": "stat_2687017988"
+    }
+  },
+  {
+    "text": "#% erhöhte Angriffsgeschwindigkeit während beliebiger Fläschchenwirkung",
+    "ids": {
+      "explicit": "stat_1365052901",
+      "implicit": "stat_1365052901"
     }
   },
   {
@@ -10579,6 +10610,12 @@
     }
   },
   {
+    "text": "Fertigkeiten feuern ein zusätzliches Projektil bei kürzlich erlittenem Treffer",
+    "ids": {
+      "explicit": "stat_988207959"
+    }
+  },
+  {
     "text": "#% Chance, bei erlittenem Treffer eine Rauchwolke zu erzeugen",
     "ids": {
       "explicit": "stat_953314356"
@@ -10609,12 +10646,6 @@
     }
   },
   {
-    "text": "Fertigkeiten feuern ein zusätzliches Projektil bei kürzlich erlittenem Treffer",
-    "ids": {
-      "explicit": "stat_988207959"
-    }
-  },
-  {
     "text": "Schemen haben #% erhöhtes maximales Leben",
     "ids": {
       "explicit": "stat_3035514623"
@@ -10639,15 +10670,15 @@
     }
   },
   {
-    "text": "Stellt #% des Lebens wieder her, wenn Ihr einen Gegner entzündet",
-    "ids": {
-      "explicit": "stat_3112776239"
-    }
-  },
-  {
     "text": "Schadensbonus durch Stärke gewährt stattdessen 3% erhöhten physischen Nahkampfschaden pro 10 Stärke",
     "ids": {
       "explicit": "stat_1531241759"
+    }
+  },
+  {
+    "text": "Stellt #% des Lebens wieder her, wenn Ihr einen Gegner entzündet",
+    "ids": {
+      "explicit": "stat_3112776239"
     }
   },
   {
@@ -10694,12 +10725,6 @@
     }
   },
   {
-    "text": "Erzeugt eine Rauchwolke bei Amok",
-    "ids": {
-      "explicit": "stat_3321583955"
-    }
-  },
-  {
     "text": "#% erhöhte Anzahl erhaltener Fläschchenfüllungen während beliebiger Fläschchenwirkung",
     "ids": {
       "explicit": "stat_662803072"
@@ -10736,16 +10761,15 @@
     }
   },
   {
-    "text": "+# zu maximalem Leben pro roter Fassung",
+    "text": "#% erhöhter Ausweichwert bei kürzlich erlittenem Treffer",
     "ids": {
-      "explicit": "stat_4210076836"
+      "explicit": "stat_1073310669"
     }
   },
   {
-    "text": "#% erhöhte Angriffsgeschwindigkeit während beliebiger Fläschchenwirkung",
+    "text": "+# zu maximalem Leben pro roter Fassung",
     "ids": {
-      "explicit": "stat_1365052901",
-      "implicit": "stat_1365052901"
+      "explicit": "stat_4210076836"
     }
   },
   {
@@ -10870,9 +10894,10 @@
     }
   },
   {
-    "text": "#% erhöhter Ausweichwert bei kürzlich erlittenem Treffer",
+    "text": "'Herold des Eises' hat #% verringerte Manareservierung",
     "ids": {
-      "explicit": "stat_1073310669"
+      "explicit": "stat_3537762266",
+      "enchant": "stat_3537762266"
     }
   },
   {
@@ -10973,13 +10998,6 @@
     }
   },
   {
-    "text": "'Herold des Eises' hat #% verringerte Manareservierung",
-    "ids": {
-      "explicit": "stat_3537762266",
-      "enchant": "stat_3537762266"
-    }
-  },
-  {
     "text": "# zu Ausweichwert pro 5 maximaler Energieschild auf dem ausgerüsteten Schild",
     "ids": {
       "explicit": "stat_1115914670"
@@ -11073,6 +11091,12 @@
     }
   },
   {
+    "text": "Erhaltet eine Widerstands-, Raserei- oder Energie-Ladung, wenn Ihr blockt",
+    "ids": {
+      "explicit": "stat_2199099676"
+    }
+  },
+  {
     "text": "Inkarnation des Feuers",
     "ids": {
       "explicit": "stat_346029096"
@@ -11148,9 +11172,28 @@
     }
   },
   {
+    "text": "#% erhöhter Schaden auf brennendem Boden",
+    "ids": {
+      "explicit": "stat_3098087057"
+    }
+  },
+  {
+    "text": "'Herold der Asche' hat #% verringerte Manareservierung",
+    "ids": {
+      "explicit": "stat_2328234364",
+      "enchant": "stat_2328234364"
+    }
+  },
+  {
     "text": "Bei mindestens 40 Geschick im Radius hat 'Brennender Pfeil' #% Chance, Teer zu verbreiten, wenn kein Gegner entzündet wird",
     "ids": {
       "explicit": "stat_968694760"
+    }
+  },
+  {
+    "text": "Wächter der Reinheit verursachen #% erhöhten Schaden",
+    "ids": {
+      "explicit": "stat_650630047"
     }
   },
   {
@@ -11163,12 +11206,6 @@
     "text": "#% erhöhte Bewegungsgeschwindigkeit auf schockendem Boden",
     "ids": {
       "explicit": "stat_3678841229"
-    }
-  },
-  {
-    "text": "#% erhöhter Elementarschaden pro 'Großes Spektrum'",
-    "ids": {
-      "explicit": "stat_3163738488"
     }
   },
   {
@@ -11214,15 +11251,16 @@
     }
   },
   {
-    "text": "#% erhöhter Kreaturenschaden pro erwecktem Schemen",
+    "text": "# zur Stufe eingefasster Kriegsschrei-Gemmen",
     "ids": {
-      "explicit": "stat_3191537057"
+      "explicit": "stat_1672793731",
+      "implicit": "stat_1672793731"
     }
   },
   {
-    "text": "Ihr seid unterkühlt, während Ihr blutet",
+    "text": "#% erhöhter Kreaturenschaden pro erwecktem Schemen",
     "ids": {
-      "explicit": "stat_67132951"
+      "explicit": "stat_3191537057"
     }
   },
   {
@@ -11232,15 +11270,15 @@
     }
   },
   {
-    "text": "Eure Fertigkeiten verursachen bei Euch #% des Manas, das für Fertigkeiten verbraucht wurde, als physischen Schaden",
-    "ids": {
-      "explicit": "stat_99487834"
-    }
-  },
-  {
     "text": "Wendet nicht-schädigende Beeinträchtigungen an, als ob Ihr #% mehr Schaden verursachen würdet",
     "ids": {
       "explicit": "stat_1345113611"
+    }
+  },
+  {
+    "text": "Eure Fertigkeiten verursachen bei Euch #% des Manas, das für Fertigkeiten verbraucht wurde, als physischen Schaden",
+    "ids": {
+      "explicit": "stat_99487834"
     }
   },
   {
@@ -11286,15 +11324,15 @@
     }
   },
   {
-    "text": "Monster erhalten # Widerstands-Ladungen alle 20 Sekunden",
-    "ids": {
-      "explicit": "stat_622678123"
-    }
-  },
-  {
     "text": "Im Namen von # neuen Gläubigen, konvertiert durch den Hohen Templer Dominus",
     "ids": {
       "explicit": "pseudo_timeless_jewel_dominus"
+    }
+  },
+  {
+    "text": "Monster erhalten # Widerstands-Ladungen alle 20 Sekunden",
+    "ids": {
+      "explicit": "stat_622678123"
     }
   },
   {
@@ -11351,12 +11389,6 @@
     "text": "Ihr erleidet # Feuerschaden, wenn Ihr einen Gegner entzündet",
     "ids": {
       "explicit": "stat_2518598473"
-    }
-  },
-  {
-    "text": "Erhaltet eine Widerstands-, Raserei- oder Energie-Ladung, wenn Ihr blockt",
-    "ids": {
-      "explicit": "stat_2199099676"
     }
   },
   {
@@ -11451,15 +11483,21 @@
     }
   },
   {
-    "text": "#% erhöhter Schaden auf brennendem Boden",
+    "text": "Ihr könnt keine Kreaturen haben (Golems ausgenommen)",
     "ids": {
-      "explicit": "stat_3098087057"
+      "explicit": "stat_1826605755"
     }
   },
   {
     "text": "Fertigkeiten feuern ein zusätzliches Projektil, wenn Ihr kürzlich eine Bewegungsfertigkeit benutzt habt",
     "ids": {
       "explicit": "stat_2809802678"
+    }
+  },
+  {
+    "text": "Golems verursachen #% weniger Schaden",
+    "ids": {
+      "explicit": "stat_2861397339"
     }
   },
   {
@@ -11487,15 +11525,15 @@
     }
   },
   {
-    "text": "Eingefasste Bewegungsfertigkeiten kosten kein Mana",
-    "ids": {
-      "explicit": "stat_3263216405"
-    }
-  },
-  {
     "text": "#% des Angriffsschadens werden pro Raserei-Ladung als Leben geraubt",
     "ids": {
       "explicit": "stat_3243062554"
+    }
+  },
+  {
+    "text": "Eingefasste Bewegungsfertigkeiten kosten kein Mana",
+    "ids": {
+      "explicit": "stat_3263216405"
     }
   },
   {
@@ -11548,12 +11586,6 @@
     }
   },
   {
-    "text": "Golems verursachen #% weniger Schaden",
-    "ids": {
-      "explicit": "stat_2861397339"
-    }
-  },
-  {
     "text": "#% erhöhte Wirkung von passiven Fertigkeiten im Radius (ausgenommen Schlüsselfertigkeiten)",
     "ids": {
       "explicit": "stat_607548408"
@@ -11583,6 +11615,12 @@
     "text": "#% verringerte Golemgröße",
     "ids": {
       "explicit": "stat_2576412389"
+    }
+  },
+  {
+    "text": "# Rüstung, während Ihr nicht über 'Inkarnation des Feuers' verfügt",
+    "ids": {
+      "explicit": "stat_4078952782"
     }
   },
   {
@@ -11656,12 +11694,6 @@
     }
   },
   {
-    "text": "Ihr könnt keine Kreaturen haben (Golems ausgenommen)",
-    "ids": {
-      "explicit": "stat_1826605755"
-    }
-  },
-  {
     "text": "# maximale Leerenladungen",
     "ids": {
       "explicit": "stat_1209237645"
@@ -11705,15 +11737,15 @@
     }
   },
   {
-    "text": "Erleidet keinen extra Schaden durch kritische Treffer",
-    "ids": {
-      "explicit": "stat_4294267596"
-    }
-  },
-  {
     "text": "#% des Blitzschadens als Mana geraubt während Fläschchenwirkung",
     "ids": {
       "explicit": "stat_1454377049"
+    }
+  },
+  {
+    "text": "Erleidet keinen extra Schaden durch kritische Treffer",
+    "ids": {
+      "explicit": "stat_4294267596"
     }
   },
   {
@@ -11738,12 +11770,6 @@
     "text": "#% des physischen Schadens werden in Feuerschaden umgewandelt, während Ihr 'Inkarnation des Feuers' habt",
     "ids": {
       "explicit": "stat_2052379536"
-    }
-  },
-  {
-    "text": "# Rüstung, während Ihr nicht über 'Inkarnation des Feuers' verfügt",
-    "ids": {
-      "explicit": "stat_4078952782"
     }
   },
   {
@@ -11825,13 +11851,6 @@
     "text": "Von Totems benutzte Fertigkeiten haben #% vergrößerten Wirkungsbereich",
     "ids": {
       "explicit": "stat_869436347"
-    }
-  },
-  {
-    "text": "# zur Stufe eingefasster Kriegsschrei-Gemmen",
-    "ids": {
-      "explicit": "stat_1672793731",
-      "implicit": "stat_1672793731"
     }
   },
   {
@@ -11934,15 +11953,39 @@
     }
   },
   {
+    "text": "Ihr habt Rückenwind, wenn Ihr kürzlich einen kritischen Treffer gelandet habt",
+    "ids": {
+      "explicit": "stat_1085545682"
+    }
+  },
+  {
+    "text": "Treffer mit dieser Waffe haben 'Todesstoß' gegen blutende Gegner",
+    "ids": {
+      "explicit": "stat_2558253923"
+    }
+  },
+  {
     "text": "Euer physischer Schaden kann unterkühlen",
     "ids": {
       "explicit": "stat_2227042420"
     }
   },
   {
+    "text": "Ihr habt 'Unterkühlende Konfluenz' für 3 Sekunden alle 8 Sekunden",
+    "ids": {
+      "explicit": "stat_1190121450"
+    }
+  },
+  {
     "text": "Löst alle 5 Sekunden 'Knochenopfer', 'Fleischopfer' oder 'Seelenopfer' Stufe # aus\nAuf diese Weise ausgelöste Opfer-Fertigkeiten wirken auch auf Euch",
     "ids": {
       "explicit": "stat_1663239249"
+    }
+  },
+  {
+    "text": "#% verringerte Manareservierung von 'Schneidende Kälte'",
+    "ids": {
+      "explicit": "stat_4272260340"
     }
   },
   {
@@ -12045,6 +12088,12 @@
     }
   },
   {
+    "text": "Gewährt die Fertigkeit # Biest beschwören Stufe 20",
+    "ids": {
+      "explicit": "stat_2878779644"
+    }
+  },
+  {
     "text": "Stellt #% Eures maximalen Manas wieder her, wenn Ihr blockt",
     "ids": {
       "explicit": "stat_3041288981",
@@ -12061,12 +12110,6 @@
     "text": "Pfeile, die durchbohren, haben #% zu Multiplikator für kritische Treffer",
     "ids": {
       "explicit": "stat_1064778484"
-    }
-  },
-  {
-    "text": "Gewährt die Fertigkeit # Biest beschwören Stufe 20",
-    "ids": {
-      "explicit": "stat_2878779644"
     }
   },
   {
@@ -12099,12 +12142,6 @@
     "text": "#% zu Multiplikator für kritische Treffer eingefasster Angriffsfertigkeiten",
     "ids": {
       "explicit": "stat_356456977"
-    }
-  },
-  {
-    "text": "Treffer mit dieser Waffe haben 'Todesstoß' gegen blutende Gegner",
-    "ids": {
-      "explicit": "stat_2558253923"
     }
   },
   {
@@ -12175,6 +12212,13 @@
     }
   },
   {
+    "text": "Entfernt Schock bei Fläschchennutzung",
+    "ids": {
+      "explicit": "stat_561861132",
+      "implicit": "stat_561861132"
+    }
+  },
+  {
     "text": "Rüstung wird erhöht durch ungedeckelten Feuerwiderstand",
     "ids": {
       "explicit": "stat_713266390"
@@ -12215,12 +12259,6 @@
     "text": "Beschworene Golems sind aggressiv",
     "ids": {
       "explicit": "stat_3630426972"
-    }
-  },
-  {
-    "text": "#% verringerte Manareservierung von 'Schneidende Kälte'",
-    "ids": {
-      "explicit": "stat_4272260340"
     }
   },
   {
@@ -12340,6 +12378,12 @@
     }
   },
   {
+    "text": "Bedeutende Passive im Radius werden umgewandelt und gewähren\nstattdessen: Kreaturen haben #% erhöhte Bewegungsgeschwindigkeit",
+    "ids": {
+      "explicit": "stat_3362879252"
+    }
+  },
+  {
     "text": "Kreaturen erhalten #% des physischen Schadens als extra Kälteschaden",
     "ids": {
       "explicit": "stat_1236638414"
@@ -12367,13 +12411,6 @@
     "text": "#% Chance, eine Energie-Ladung beim Zurückstoßen eines Gegners mit Nahkampfschaden zu erhalten",
     "ids": {
       "explicit": "stat_2179619644"
-    }
-  },
-  {
-    "text": "'Herold der Asche' hat #% verringerte Manareservierung",
-    "ids": {
-      "explicit": "stat_2328234364",
-      "enchant": "stat_2328234364"
     }
   },
   {
@@ -12428,16 +12465,16 @@
     }
   },
   {
-    "text": "Nahkampfangriffe haben #% Chance, Bluten zu verursachen",
-    "ids": {
-      "explicit": "stat_1285056331"
-    }
-  },
-  {
     "text": "Gewährt die Fertigkeit Hast Stufe #",
     "ids": {
       "explicit": "stat_1188846263",
       "implicit": "stat_1188846263"
+    }
+  },
+  {
+    "text": "Nahkampfangriffe haben #% Chance, Bluten zu verursachen",
+    "ids": {
+      "explicit": "stat_1285056331"
     }
   },
   {
@@ -12513,6 +12550,12 @@
     }
   },
   {
+    "text": "Ihr verliert alle Seelen-Ladungen, wenn Ihr einen schweren Treffer erleidet",
+    "ids": {
+      "explicit": "stat_2663792764"
+    }
+  },
+  {
     "text": "#% verringerter erlittener Elementarschaden bei Treffer pro Widerstands-Ladung",
     "ids": {
       "explicit": "stat_1686913105"
@@ -12528,6 +12571,12 @@
     "text": "#% erhöhte Manaregenerations-Rate während beliebiger Fläschchenwirkung",
     "ids": {
       "explicit": "stat_2993091567"
+    }
+  },
+  {
+    "text": "Erleidet # physischen Schaden pro Sekunde für jede Entkräftungs-Ladung, wenn Ihr kürzlich eine Fertigkeit benutzt habt",
+    "ids": {
+      "explicit": "stat_2440172920"
     }
   },
   {
@@ -12575,12 +12624,6 @@
     }
   },
   {
-    "text": "Geschick und Intelligenz von passiven Fertigkeiten im Radius werden auf den Nahkampfschaden-Bonus durch Stärke angerechnet",
-    "ids": {
-      "explicit": "stat_842363566"
-    }
-  },
-  {
     "text": "Projektilangriffsfertigkeiten haben #% erhöhte kritische Trefferchance",
     "ids": {
       "explicit": "stat_4095169720"
@@ -12617,15 +12660,15 @@
     }
   },
   {
-    "text": "Werft eine zusätzliche Mine",
-    "ids": {
-      "explicit": "stat_2395088636"
-    }
-  },
-  {
     "text": "# zu maximalem Leben pro Stufe",
     "ids": {
       "explicit": "stat_1982144275"
+    }
+  },
+  {
+    "text": "Werft eine zusätzliche Mine",
+    "ids": {
+      "explicit": "stat_2395088636"
     }
   },
   {
@@ -12671,15 +12714,15 @@
     }
   },
   {
-    "text": "# zu maximaler Anzahl an Entkräftungs-Ladungen pro ausgerüstetem Ältesten- oder Schöpfer-Gegenstand",
-    "ids": {
-      "explicit": "stat_1872128565"
-    }
-  },
-  {
     "text": "Erhaltet alle 16 Sekunden 'Elementarüberladung' für 8 Sekunden",
     "ids": {
       "explicit": "stat_708913352"
+    }
+  },
+  {
+    "text": "# zu maximaler Anzahl an Entkräftungs-Ladungen pro ausgerüstetem Ältesten- oder Schöpfer-Gegenstand",
+    "ids": {
+      "explicit": "stat_1872128565"
     }
   },
   {
@@ -12692,12 +12735,6 @@
     "text": "Stellt #% Eures Energieschilds wieder her, wenn Ihr eine Seelen-Ladung verliert",
     "ids": {
       "explicit": "stat_1996775727"
-    }
-  },
-  {
-    "text": "Ihr verliert alle Seelen-Ladungen, wenn Ihr einen schweren Treffer erleidet",
-    "ids": {
-      "explicit": "stat_2663792764"
     }
   },
   {
@@ -12726,15 +12763,15 @@
     }
   },
   {
-    "text": "# maximaler Energieschild pro Stufe",
-    "ids": {
-      "explicit": "stat_3864993324"
-    }
-  },
-  {
     "text": "'Herold der Reinheit' hat #% erhöhte Stärkungswirkung",
     "ids": {
       "explicit": "stat_2126027382"
+    }
+  },
+  {
+    "text": "# maximaler Energieschild pro Stufe",
+    "ids": {
+      "explicit": "stat_3864993324"
     }
   },
   {
@@ -12756,16 +12793,16 @@
     }
   },
   {
+    "text": "Monster mit +#% Blitzwiderstand",
+    "ids": {
+      "explicit": "stat_162742068"
+    }
+  },
+  {
     "text": "Gewährt die Fertigkeit Entschlossenheit Stufe #",
     "ids": {
       "explicit": "stat_4265392510",
       "implicit": "stat_4265392510"
-    }
-  },
-  {
-    "text": "Monster mit +#% Blitzwiderstand",
-    "ids": {
-      "explicit": "stat_162742068"
     }
   },
   {
@@ -12862,15 +12899,15 @@
     }
   },
   {
-    "text": "Spieler sind verflucht mit 'Leitfähigkeit'",
+    "text": "#% weniger Dauer von 'Waffe beseelen'",
     "ids": {
-      "explicit": "stat_376158712"
+      "explicit": "stat_414991155"
     }
   },
   {
-    "text": "#% erhöhter physischer Schaden, während Ihr über Resolute Technik verfügt",
+    "text": "Spieler sind verflucht mit 'Leitfähigkeit'",
     "ids": {
-      "explicit": "stat_1258679667"
+      "explicit": "stat_376158712"
     }
   },
   {
@@ -12878,6 +12915,12 @@
     "ids": {
       "explicit": "stat_1745952865",
       "implicit": "stat_1745952865"
+    }
+  },
+  {
+    "text": "#% erhöhter physischer Schaden, während Ihr über Resolute Technik verfügt",
+    "ids": {
+      "explicit": "stat_1258679667"
     }
   },
   {
@@ -12940,6 +12983,12 @@
     "text": "#% verringerte Manareservierung von 'Verzweiflung'",
     "ids": {
       "explicit": "stat_2562564343"
+    }
+  },
+  {
+    "text": "Ihr habt Ansturm, während Ihr nicht über niedriges Mana verfügt",
+    "ids": {
+      "explicit": "stat_1959256242"
     }
   },
   {
@@ -13012,6 +13061,13 @@
     }
   },
   {
+    "text": "#% zusätzliche physische Schadensminderung im Stand",
+    "ids": {
+      "explicit": "stat_2181129193",
+      "implicit": "stat_2181129193"
+    }
+  },
+  {
     "text": "Der Schaden von gegnerischen Treffern ist 'Ungünstig', während Ihr mit 'Verwundbarkeit' verflucht seid",
     "ids": {
       "explicit": "stat_2758554648"
@@ -13067,15 +13123,21 @@
     }
   },
   {
+    "text": "Ihr habt keine Lebensregeneration",
+    "ids": {
+      "explicit": "stat_854225133"
+    }
+  },
+  {
     "text": "Eingefasste Gemmen werden unterstützt durch 'Fleischschild' Stufe #",
     "ids": {
       "explicit": "stat_858460086"
     }
   },
   {
-    "text": "Ihr habt keine Lebensregeneration",
+    "text": "Rechter Ringfinger: Projektile von Zaubern verketten sich +# Mal",
     "ids": {
-      "explicit": "stat_854225133"
+      "explicit": "stat_1555918911"
     }
   },
   {
@@ -13094,13 +13156,6 @@
     "text": "Ihr habt Schemenform bei kürzlich begonnener Energieschild-Wiederaufladung",
     "ids": {
       "explicit": "stat_2632954025"
-    }
-  },
-  {
-    "text": "#% zusätzliche physische Schadensminderung im Stand",
-    "ids": {
-      "explicit": "stat_2181129193",
-      "implicit": "stat_2181129193"
     }
   },
   {
@@ -13249,12 +13304,6 @@
     }
   },
   {
-    "text": "#% weniger Dauer von 'Waffe beseelen'",
-    "ids": {
-      "explicit": "stat_414991155"
-    }
-  },
-  {
     "text": "#% Chance, bei Tötung 'Waffe beseelen' Stufe 20 auszulösen",
     "ids": {
       "explicit": "stat_1973890509"
@@ -13291,22 +13340,9 @@
     }
   },
   {
-    "text": "Entfernt Schock bei Fläschchennutzung",
-    "ids": {
-      "explicit": "stat_561861132",
-      "implicit": "stat_561861132"
-    }
-  },
-  {
     "text": "Kann kein Schock anwenden",
     "ids": {
       "explicit": "stat_990377349"
-    }
-  },
-  {
-    "text": "#% zu Blitzwiderstand während unter dem Einfluss von 'Herold des Donners'",
-    "ids": {
-      "explicit": "stat_2687017988"
     }
   },
   {
@@ -13335,12 +13371,6 @@
     }
   },
   {
-    "text": "Ihr habt Ansturm, während Ihr nicht über niedriges Mana verfügt",
-    "ids": {
-      "explicit": "stat_1959256242"
-    }
-  },
-  {
     "text": "Rechter Ringfinger: Projektile von Zaubern können sich nicht aufgabeln",
     "ids": {
       "explicit": "stat_2933024469"
@@ -13353,15 +13383,23 @@
     }
   },
   {
+    "text": "#% Chance, vergiftet zu werden",
+    "ids": {
+      "explicit": "stat_4250009622"
+    }
+  },
+  {
     "text": "#% erhöhte Stärkungswirkung von 'Aspekt des Vogels'",
     "ids": {
       "explicit": "stat_1746347097"
     }
   },
   {
-    "text": "#% Chance, vergiftet zu werden",
+    "text": "# zu minimaler Anzahl an Raserei-Ladungen",
     "ids": {
-      "explicit": "stat_4250009622"
+      "explicit": "stat_658456881",
+      "implicit": "stat_658456881",
+      "crafted": "stat_658456881"
     }
   },
   {
@@ -13371,15 +13409,15 @@
     }
   },
   {
-    "text": "Eingefasste rote Gemmen erhalten #% physischen Schaden als extra Feuerschaden",
-    "ids": {
-      "explicit": "stat_2629366488"
-    }
-  },
-  {
     "text": "Monster mit +#% Feuerwiderstand",
     "ids": {
       "explicit": "stat_2319127046"
+    }
+  },
+  {
+    "text": "Eingefasste rote Gemmen erhalten #% physischen Schaden als extra Feuerschaden",
+    "ids": {
+      "explicit": "stat_2629366488"
     }
   },
   {
@@ -13527,9 +13565,9 @@
     }
   },
   {
-    "text": "Wächter der Reinheit verursachen #% erhöhten Schaden",
+    "text": "#% erhöhter Feuerschaden pro 20 Stärke",
     "ids": {
-      "explicit": "stat_650630047"
+      "explicit": "stat_2241902512"
     }
   },
   {
@@ -13649,12 +13687,6 @@
     }
   },
   {
-    "text": "Erleidet # physischen Schaden pro Sekunde für jede Entkräftungs-Ladung, wenn Ihr kürzlich eine Fertigkeit benutzt habt",
-    "ids": {
-      "explicit": "stat_2440172920"
-    }
-  },
-  {
     "text": "Kreaturen haben +# zu Treffergenauigkeit pro 10 Hingabe",
     "ids": {
       "explicit": "stat_2830135449"
@@ -13685,15 +13717,15 @@
     }
   },
   {
-    "text": "Reflektiert auf Euch angewendete Schocks auf Gegner im Umkreis",
-    "ids": {
-      "explicit": "stat_615884286"
-    }
-  },
-  {
     "text": "#% Chance, Zaubertreffern zu entgehen während unter dem Einfluss von 'Hast'",
     "ids": {
       "explicit": "stat_1345136012"
+    }
+  },
+  {
+    "text": "Reflektiert auf Euch angewendete Schocks auf Gegner im Umkreis",
+    "ids": {
+      "explicit": "stat_615884286"
     }
   },
   {
@@ -13725,6 +13757,12 @@
     "ids": {
       "explicit": "stat_2813626504",
       "implicit": "stat_2813626504"
+    }
+  },
+  {
+    "text": "Kann keinen Energieschild erhalten",
+    "ids": {
+      "explicit": "stat_206243615"
     }
   },
   {
@@ -13826,21 +13864,33 @@
     }
   },
   {
+    "text": "Erhaltet #% des erlittenen Schadens bei Treffer als Leben über 4 Sekunden",
+    "ids": {
+      "explicit": "stat_1444556985"
+    }
+  },
+  {
     "text": "Während 'Ihre Umarmung' aktiv ist, erleidet Ihr #% Eures maximalen Lebens und Energieschilds als Feuerschaden pro Sekunde für jede Stufe",
     "ids": {
       "explicit": "stat_2442112158"
     }
   },
   {
-    "text": "Erhaltet 'Ihre Umarmung' für # Sekunden bei Entzündung eines Gegners",
+    "text": "Erhaltet # Leben für jeden getroffenen Gegner während unter dem Einfluss von 'Vitalität'",
     "ids": {
-      "explicit": "stat_608963131"
+      "explicit": "stat_4259701244"
     }
   },
   {
     "text": "Ihr habt die maximale Chance, Angriffsschaden zu blocken, wenn Ihr kürzlich nicht geblockt habt",
     "ids": {
       "explicit": "stat_2584264074"
+    }
+  },
+  {
+    "text": "Erhaltet 'Ihre Umarmung' für # Sekunden bei Entzündung eines Gegners",
+    "ids": {
+      "explicit": "stat_608963131"
     }
   },
   {
@@ -13895,12 +13945,6 @@
     "text": "Unbeeinträchtigt von 'Verwundbarkeit' während unter dem Einfluss von 'Entschlossenheit'",
     "ids": {
       "explicit": "stat_3207781478"
-    }
-  },
-  {
-    "text": "Erhaltet # Leben für jeden getroffenen Gegner während unter dem Einfluss von 'Vitalität'",
-    "ids": {
-      "explicit": "stat_4259701244"
     }
   },
   {
@@ -13989,18 +14033,6 @@
     }
   },
   {
-    "text": "Kann keinen Energieschild erhalten",
-    "ids": {
-      "explicit": "stat_206243615"
-    }
-  },
-  {
-    "text": "#% erhöhter Feuerschaden pro 20 Stärke",
-    "ids": {
-      "explicit": "stat_2241902512"
-    }
-  },
-  {
     "text": "Unbeeinträchtigt von 'Fesseln der Zeit' während unter dem Einfluss von 'Hast'",
     "ids": {
       "explicit": "stat_2806391472"
@@ -14019,16 +14051,16 @@
     }
   },
   {
+    "text": "#% erhöhter Feuerschaden während unter dem Einfluss von 'Wut'",
+    "ids": {
+      "explicit": "stat_3337107517"
+    }
+  },
+  {
     "text": "#% erhöhte Aurawirkung von 'Zorn'",
     "ids": {
       "explicit": "stat_2181791238",
       "implicit": "stat_2181791238"
-    }
-  },
-  {
-    "text": "Erhaltet #% des erlittenen Schadens bei Treffer als Leben über 4 Sekunden",
-    "ids": {
-      "explicit": "stat_1444556985"
     }
   },
   {
@@ -14044,15 +14076,15 @@
     }
   },
   {
-    "text": "Ihr habt 'Schemenform' während unter dem Einfluss von 'Hast'",
-    "ids": {
-      "explicit": "stat_1346311588"
-    }
-  },
-  {
     "text": "#% erhöhter Elementarschaden pro 10 Hingabe",
     "ids": {
       "explicit": "stat_3103189267"
+    }
+  },
+  {
+    "text": "Ihr habt 'Schemenform' während unter dem Einfluss von 'Hast'",
+    "ids": {
+      "explicit": "stat_1346311588"
     }
   },
   {
@@ -14092,12 +14124,6 @@
     }
   },
   {
-    "text": "Rechter Ringfinger: Projektile von Zaubern verketten sich +# Mal",
-    "ids": {
-      "explicit": "stat_1555918911"
-    }
-  },
-  {
     "text": "#% beschleunigte Abklingzeit von Bewegungsfertigkeiten während unter dem Einfluss von 'Hast'",
     "ids": {
       "explicit": "stat_3332055899"
@@ -14107,6 +14133,12 @@
     "text": "#% erhöhte Bewegungsgeschwindigkeit während unter dem Einfluss von 'Anmut'",
     "ids": {
       "explicit": "stat_3329402420"
+    }
+  },
+  {
+    "text": "Von Minen genutzte Fertigkeiten haben #% vergrößerten Wirkungsbereich",
+    "ids": {
+      "explicit": "stat_2228913626"
     }
   },
   {
@@ -14128,6 +14160,12 @@
     }
   },
   {
+    "text": "#% zu Multiplikator für kritische Treffer, wenn Ihr kürzlich einen nicht kritischen Treffer gelandet habt",
+    "ids": {
+      "explicit": "stat_1626712767"
+    }
+  },
+  {
     "text": "#% Chance, Betäubungsdauer zu verdoppeln",
     "ids": {
       "explicit": "stat_2622251413"
@@ -14146,15 +14184,21 @@
     }
   },
   {
-    "text": "# zu Rüstung während unter dem Einfluss von 'Entschlossenheit'",
+    "text": "Mit # verderbten ausgerüsteten Gegenständen: Lebensraub wird basierend auf Eurem Chaosschaden hergestellt",
     "ids": {
-      "explicit": "stat_3742808908"
+      "explicit": "stat_4192058279"
     }
   },
   {
     "text": "Unbeeinträchtigt von 'Schneidende Kälte' während unter dem Einfluss von 'Reinheit des Eises'",
     "ids": {
       "explicit": "stat_4012281889"
+    }
+  },
+  {
+    "text": "# zu Rüstung während unter dem Einfluss von 'Entschlossenheit'",
+    "ids": {
+      "explicit": "stat_3742808908"
     }
   },
   {
@@ -14167,6 +14211,12 @@
     "text": "#% erhöhte Manawiederherstellungs-Rate während unter dem Einfluss von 'Klarheit'",
     "ids": {
       "explicit": "stat_556659145"
+    }
+  },
+  {
+    "text": "Mit # verderbten ausgerüsteten Gegenständen: 50% des Chaosschadens können den Energieschild nicht umgehen, und 50% des physischen Schadens umgehen den Energieschild",
+    "ids": {
+      "explicit": "stat_3225265684"
     }
   },
   {
@@ -14206,12 +14256,6 @@
     }
   },
   {
-    "text": "Mit # verderbten ausgerüsteten Gegenständen: Lebensraub wird basierend auf Eurem Chaosschaden hergestellt",
-    "ids": {
-      "explicit": "stat_4192058279"
-    }
-  },
-  {
     "text": "Erhöhungen und Verringerungen der Zaubergeschwindigkeit gelten auch für die Fallen-Wurfgeschwindigkeit",
     "ids": {
       "explicit": "stat_3520223758"
@@ -14233,12 +14277,6 @@
     "text": "Unbeeinträchtigt von 'Entflammbarkeit' während unter dem Einfluss von 'Reinheit des Feuers'",
     "ids": {
       "explicit": "stat_1173690938"
-    }
-  },
-  {
-    "text": "#% zu Multiplikator für kritische Treffer, wenn Ihr kürzlich einen nicht kritischen Treffer gelandet habt",
-    "ids": {
-      "explicit": "stat_1626712767"
     }
   },
   {
@@ -14298,15 +14336,15 @@
     }
   },
   {
-    "text": "#% Chance, Angriffsschaden zu blocken, wenn Ihr über mindestens 5 Krebsbarrieren verfügt",
-    "ids": {
-      "explicit": "stat_1354504703"
-    }
-  },
-  {
     "text": "Euer Kälteschaden kann entzünden",
     "ids": {
       "explicit": "stat_3573591118"
+    }
+  },
+  {
+    "text": "#% Chance, Angriffsschaden zu blocken, wenn Ihr über mindestens 5 Krebsbarrieren verfügt",
+    "ids": {
+      "explicit": "stat_1354504703"
     }
   },
   {
@@ -14316,21 +14354,27 @@
     }
   },
   {
-    "text": "#% erhöhte maximale Gesamtwiederherstellung pro Sekunde, die durch Energieschildraub erfolgt, während Ihr unter dem Einfluss von 'Fanatismus' steht",
-    "ids": {
-      "explicit": "stat_3848992177"
-    }
-  },
-  {
     "text": "Fortbewegungsfertigkeiten haben #% beschleunigte Abklingzeit",
     "ids": {
       "explicit": "stat_2308278768"
     }
   },
   {
+    "text": "#% erhöhte maximale Gesamtwiederherstellung pro Sekunde, die durch Energieschildraub erfolgt, während Ihr unter dem Einfluss von 'Fanatismus' steht",
+    "ids": {
+      "explicit": "stat_3848992177"
+    }
+  },
+  {
     "text": "#% Chance, Angriffsschaden zu blocken, wenn Ihr über mindestens 10 Krebsbarrieren verfügt",
     "ids": {
       "explicit": "stat_653107703"
+    }
+  },
+  {
+    "text": "Ihr seid unterkühlt, während Ihr blutet",
+    "ids": {
+      "explicit": "stat_67132951"
     }
   },
   {
@@ -14637,21 +14681,9 @@
     }
   },
   {
-    "text": "Mit # verderbten ausgerüsteten Gegenständen: 50% des Chaosschadens können den Energieschild nicht umgehen, und 50% des physischen Schadens umgehen den Energieschild",
-    "ids": {
-      "explicit": "stat_3225265684"
-    }
-  },
-  {
     "text": "#% erhöhter Blitzschaden während unter dem Einfluss von 'Zorn'",
     "ids": {
       "explicit": "stat_418293304"
-    }
-  },
-  {
-    "text": "#% erhöhte Energieschild-Wiederaufladungsrate während beliebiger Fläschchenwirkung",
-    "ids": {
-      "explicit": "stat_1827657795"
     }
   },
   {
@@ -14661,21 +14693,27 @@
     }
   },
   {
+    "text": "#% erhöhte Energieschild-Wiederaufladungsrate während beliebiger Fläschchenwirkung",
+    "ids": {
+      "explicit": "stat_1827657795"
+    }
+  },
+  {
     "text": "#% zu allen Elementarwiderständen pro 10 Hingabe",
     "ids": {
       "explicit": "stat_1910205563"
     }
   },
   {
-    "text": "Nova-Zauber haben #% vergrößerten Wirkungsbereich",
-    "ids": {
-      "explicit": "stat_200113086"
-    }
-  },
-  {
     "text": "Kann nicht rauben",
     "ids": {
       "explicit": "stat_1336164384"
+    }
+  },
+  {
+    "text": "Nova-Zauber haben #% vergrößerten Wirkungsbereich",
+    "ids": {
+      "explicit": "stat_200113086"
     }
   },
   {
@@ -14794,12 +14832,6 @@
     }
   },
   {
-    "text": "#% erhöhter Feuerschaden während unter dem Einfluss von 'Wut'",
-    "ids": {
-      "explicit": "stat_3337107517"
-    }
-  },
-  {
     "text": "Gewährt #% des Elementarschadens als extra Chaosschaden pro ausgerüstetem Schöpfer-Gegenstand",
     "ids": {
       "explicit": "stat_33348259"
@@ -14912,6 +14944,12 @@
     }
   },
   {
+    "text": "Angriffe verursachen immer Bluten, während Ihr über 'List der Katze' verfügt",
+    "ids": {
+      "explicit": "stat_2059771038"
+    }
+  },
+  {
     "text": "#% Chance, 10% des Manas wiederherzustellen, wenn Ihr eine Fertigkeit benutzt, während Ihr unter dem Einfluss von 'Klarheit' steht",
     "ids": {
       "explicit": "stat_1699077932"
@@ -14936,15 +14974,15 @@
     }
   },
   {
-    "text": "Erhöhungen und Verringerungen des Lichtradius gelten auch für den Schaden",
-    "ids": {
-      "explicit": "stat_3519807287"
-    }
-  },
-  {
     "text": "Erhaltet # Energieschild für jeden getroffenen Gegner während unter dem Einfluss von 'Disziplin'",
     "ids": {
       "explicit": "stat_3765507527"
+    }
+  },
+  {
+    "text": "Erhöhungen und Verringerungen des Lichtradius gelten auch für den Schaden",
+    "ids": {
+      "explicit": "stat_3519807287"
     }
   },
   {
@@ -15080,6 +15118,12 @@
     }
   },
   {
+    "text": "Ihr habt 'Schemenform' während Ihr über 'List der Katze' verfügt",
+    "ids": {
+      "explicit": "stat_1834455446"
+    }
+  },
+  {
     "text": "#% erhöhte Bewegungsgeschwindigkeit, während Ihr über 'List der Katze' verfügt",
     "ids": {
       "explicit": "stat_673704994"
@@ -15131,6 +15175,12 @@
     "text": "#% zu Multiplikator für kritische Treffer gegen Gegner mit vollem Leben",
     "ids": {
       "explicit": "stat_2355615476"
+    }
+  },
+  {
+    "text": "Erhaltet alle 16 Sekunden 'Eiserne Reflexe' für 8 Sekunden",
+    "ids": {
+      "explicit": "stat_2200114771"
     }
   },
   {
@@ -15199,12 +15249,6 @@
     "text": "#% erhöhter Schaden mit Treffern und Beeinträchtigungen gegen Gegner, die von 3 Spinnennetzen bedeckt sind",
     "ids": {
       "explicit": "stat_103928310"
-    }
-  },
-  {
-    "text": "Angriffe verursachen immer Bluten, während Ihr über 'List der Katze' verfügt",
-    "ids": {
-      "explicit": "stat_2059771038"
     }
   },
   {
@@ -15358,12 +15402,6 @@
     }
   },
   {
-    "text": "Ihr habt Rückenwind, wenn Ihr kürzlich einen kritischen Treffer gelandet habt",
-    "ids": {
-      "explicit": "stat_1085545682"
-    }
-  },
-  {
     "text": "#% Chance, dass Energieschild-Wiederaufladung beginnt, wenn Ihr blockt",
     "ids": {
       "explicit": "stat_762154651"
@@ -15400,15 +15438,15 @@
     }
   },
   {
-    "text": "Regeneriert # Leben pro Sekunde, wenn Ihr über mindestens 1000 maximalen Energieschild verfügt",
-    "ids": {
-      "explicit": "stat_1704843611"
-    }
-  },
-  {
     "text": "#% erhöhter Kältewiderstand",
     "ids": {
       "explicit": "stat_4252311791"
+    }
+  },
+  {
+    "text": "Regeneriert # Leben pro Sekunde, wenn Ihr über mindestens 1000 maximalen Energieschild verfügt",
+    "ids": {
+      "explicit": "stat_1704843611"
     }
   },
   {
@@ -15484,6 +15522,12 @@
     }
   },
   {
+    "text": "#% des Kälteschadens werden als Energieschild geraubt",
+    "ids": {
+      "explicit": "stat_1939452467"
+    }
+  },
+  {
     "text": "#% erhöhte Menge gefangener Fische",
     "ids": {
       "explicit": "stat_3802667447",
@@ -15542,12 +15586,6 @@
     }
   },
   {
-    "text": "Erhaltet alle 16 Sekunden 'Eiserne Reflexe' für 8 Sekunden",
-    "ids": {
-      "explicit": "stat_2200114771"
-    }
-  },
-  {
     "text": "#% erhöhter Blitzwiderstand",
     "ids": {
       "explicit": "stat_2249211872"
@@ -15567,12 +15605,6 @@
     }
   },
   {
-    "text": "#% des Kälteschadens werden als Energieschild geraubt",
-    "ids": {
-      "explicit": "stat_1939452467"
-    }
-  },
-  {
     "text": "'Zorn' hat #% verringerte Manareservierung",
     "ids": {
       "explicit": "stat_3600749521",
@@ -15589,6 +15621,12 @@
     "text": "Eure Treffer schüchtern Gegner für 4 Sekunden ein, während Ihr 'Stolz' benutzt",
     "ids": {
       "explicit": "stat_3772848194"
+    }
+  },
+  {
+    "text": "'Tanzenden Derwisch manifestieren' manifestiert auch eine Kopie des Tanzenden Derwischs",
+    "ids": {
+      "explicit": "stat_1820083363"
     }
   },
   {
@@ -15647,6 +15685,13 @@
     }
   },
   {
+    "text": "'Wut' hat #% verringerte Manareservierung",
+    "ids": {
+      "explicit": "stat_2003753577",
+      "enchant": "stat_2003753577"
+    }
+  },
+  {
     "text": "Ihr habt Vaal-Pakt, während alle eingefassten Gemmen rot sind",
     "ids": {
       "explicit": "stat_3242537102"
@@ -15681,12 +15726,6 @@
     "text": "#% erhöhter Schaden, wenn Ihr kürzlich einen Gegner eingefroren habt",
     "ids": {
       "explicit": "stat_1064477264"
-    }
-  },
-  {
-    "text": "Ihr habt 'Schemenform' während Ihr über 'List der Katze' verfügt",
-    "ids": {
-      "explicit": "stat_1834455446"
     }
   },
   {
@@ -15730,13 +15769,6 @@
     "text": "#% mehr Menge und Seltenheit fallen gelassener Gegenstände von Monstern aus dem Jenseits",
     "ids": {
       "explicit": "stat_3422445312"
-    }
-  },
-  {
-    "text": "'Wut' hat #% verringerte Manareservierung",
-    "ids": {
-      "explicit": "stat_2003753577",
-      "enchant": "stat_2003753577"
     }
   },
   {
@@ -15814,6 +15846,12 @@
     }
   },
   {
+    "text": "Feuerfertigkeiten haben #% Chance, bei Treffer zu vergiften",
+    "ids": {
+      "explicit": "stat_2424717327"
+    }
+  },
+  {
     "text": "#% erhöhter physischer Angriffsschaden, während Ihr 'Stolz' benutzt",
     "ids": {
       "explicit": "stat_576528026"
@@ -15838,6 +15876,12 @@
     }
   },
   {
+    "text": "Gegner verursachen elementare Beeinträchtigungen bei Euch statt bei Verbündeten im Umkreis",
+    "ids": {
+      "explicit": "stat_979288792"
+    }
+  },
+  {
     "text": "Gefundene Talismane in diesem Gebiet sind selten",
     "ids": {
       "explicit": "stat_1401233515"
@@ -15847,6 +15891,12 @@
     "text": "#% zu Multiplikator für kritische Treffer von Zaubern während unter dem Einfluss von 'Präzision'",
     "ids": {
       "explicit": "stat_1817023621"
+    }
+  },
+  {
+    "text": "Entfernt Bluten, wenn Ihr einen Kriegsschrei verwendet",
+    "ids": {
+      "explicit": "stat_3936926420"
     }
   },
   {
@@ -15881,21 +15931,9 @@
     }
   },
   {
-    "text": "'Tanzenden Derwisch manifestieren' manifestiert auch eine Kopie des Tanzenden Derwischs",
-    "ids": {
-      "explicit": "stat_1820083363"
-    }
-  },
-  {
     "text": "Ihr könnt nicht geschockt werden, während Ihr eingefroren seid",
     "ids": {
       "explicit": "stat_798853218"
-    }
-  },
-  {
-    "text": "Kältefertigkeiten haben #% Chance, bei Treffer zu vergiften",
-    "ids": {
-      "explicit": "stat_2373079502"
     }
   },
   {
@@ -15913,6 +15951,12 @@
     }
   },
   {
+    "text": "Kältefertigkeiten haben #% Chance, bei Treffer zu vergiften",
+    "ids": {
+      "explicit": "stat_2373079502"
+    }
+  },
+  {
     "text": "Erhaltet # Leben für jeden geblendeten Gegner, der mit dieser Waffe getroffen wird",
     "ids": {
       "explicit": "stat_1649099067"
@@ -15922,12 +15966,6 @@
     "text": "Schaden durchdringt #% Elementarwiderstände während beliebiger Fläschchenwirkung",
     "ids": {
       "explicit": "stat_3392890360"
-    }
-  },
-  {
-    "text": "Feuerfertigkeiten haben #% Chance, bei Treffer zu vergiften",
-    "ids": {
-      "explicit": "stat_2424717327"
     }
   },
   {
@@ -15986,21 +16024,15 @@
     }
   },
   {
-    "text": "Gegner verursachen elementare Beeinträchtigungen bei Euch statt bei Verbündeten im Umkreis",
-    "ids": {
-      "explicit": "stat_979288792"
-    }
-  },
-  {
-    "text": "Entfernt Bluten, wenn Ihr einen Kriegsschrei verwendet",
-    "ids": {
-      "explicit": "stat_3936926420"
-    }
-  },
-  {
     "text": "Opfert #% Eures Lebens, wenn Ihr eine Zauberfertigkeit benutzt oder diese auslöst",
     "ids": {
       "explicit": "stat_545408899"
+    }
+  },
+  {
+    "text": "Der Schaden von gegnerischen Treffern ist 'Ungünstig', während Ihr bei vollem Leben seid",
+    "ids": {
+      "explicit": "stat_3629143471"
     }
   },
   {
@@ -16031,12 +16063,6 @@
     "text": "#% des Feuerschadens werden als Energieschild geraubt",
     "ids": {
       "explicit": "stat_3885409671"
-    }
-  },
-  {
-    "text": "Der Schaden von gegnerischen Treffern ist 'Ungünstig', während Ihr bei vollem Leben seid",
-    "ids": {
-      "explicit": "stat_3629143471"
     }
   },
   {
@@ -16107,21 +16133,15 @@
     }
   },
   {
-    "text": "Von Minen genutzte Fertigkeiten haben #% vergrößerten Wirkungsbereich",
+    "text": "Eingefasste Gemmen haben +3.5% kritische Trefferchance",
     "ids": {
-      "explicit": "stat_2228913626"
+      "explicit": "stat_1681904129"
     }
   },
   {
     "text": "Eure Kreaturen benutzen Eure Fläschchen, wenn sie beschworen werden",
     "ids": {
       "explicit": "stat_1827636152"
-    }
-  },
-  {
-    "text": "Eingefasste Gemmen haben +3.5% kritische Trefferchance",
-    "ids": {
-      "explicit": "stat_1681904129"
     }
   },
   {
@@ -16156,15 +16176,15 @@
     }
   },
   {
-    "text": "#% Chaoswiderstand gegen Schaden über Zeit",
-    "ids": {
-      "explicit": "stat_2266636761"
-    }
-  },
-  {
     "text": "Gegner erleiden durch Euren Geweihten Boden, der während der Fläschchenwirkung erzeugt wurde, #% erhöhten Schaden",
     "ids": {
       "explicit": "stat_1866211373"
+    }
+  },
+  {
+    "text": "#% Chaoswiderstand gegen Schaden über Zeit",
+    "ids": {
+      "explicit": "stat_2266636761"
     }
   },
   {
@@ -16223,15 +16243,15 @@
     }
   },
   {
-    "text": "Angriffe mit dieser Waffe verursachen # bis # zusätzlichen Feuerschaden gegen blutende Gegner",
-    "ids": {
-      "explicit": "stat_2453554491"
-    }
-  },
-  {
     "text": "Angriffe mit dieser Waffe verursachen # bis # zusätzlichen physischen Schaden gegen entzündete Gegner",
     "ids": {
       "explicit": "stat_2202639361"
+    }
+  },
+  {
+    "text": "Angriffe mit dieser Waffe verursachen # bis # zusätzlichen Feuerschaden gegen blutende Gegner",
+    "ids": {
+      "explicit": "stat_2453554491"
     }
   },
   {
@@ -16357,6 +16377,24 @@
     }
   },
   {
+    "text": "#% Chance, nicht verfluchte Gegner bei Treffer mit einem zufälligen Fluch zu belegen",
+    "ids": {
+      "explicit": "stat_1726444796"
+    }
+  },
+  {
+    "text": "Euer Leben zählt als niedrig, während Ihr mit 'Verwundbarkeit' verflucht seid",
+    "ids": {
+      "explicit": "stat_2304300603"
+    }
+  },
+  {
+    "text": "Erhöhungen und Verringerungen des Lichtradius gelten auch für die Treffgenauigkeit",
+    "ids": {
+      "explicit": "stat_411986876"
+    }
+  },
+  {
     "text": "Leuchtet, wenn Ihr Euch in einem Gebiet mit einem einzigartigem Fisch befindet",
     "ids": {
       "explicit": "stat_931560398"
@@ -16366,14 +16404,6 @@
     "text": "Monster mit Silbermünzen lassen eine zusätzliche Silbermünze fallen",
     "ids": {
       "explicit": "stat_3679287686"
-    }
-  },
-  {
-    "text": "# zu minimaler Anzahl an Raserei-Ladungen",
-    "ids": {
-      "explicit": "stat_658456881",
-      "implicit": "stat_658456881",
-      "crafted": "stat_658456881"
     }
   },
   {
@@ -16421,15 +16451,21 @@
     }
   },
   {
+    "text": "Nicht-kanalisierende Fertigkeiten haben # zu Gesamtmanakosten, während Ihr unter dem Einfluss von 'Klarheit' steht",
+    "ids": {
+      "explicit": "stat_1853636813"
+    }
+  },
+  {
     "text": "#% erhöhte Angriffs- und Zaubergeschwindigkeit, wenn Ihr kürzlich einen Gegner getroffen habt",
     "ids": {
       "explicit": "stat_1483753325"
     }
   },
   {
-    "text": "Nicht-kanalisierende Fertigkeiten haben # zu Gesamtmanakosten, während Ihr unter dem Einfluss von 'Klarheit' steht",
+    "text": "Chaossschaden kann entzünden, unterkühlen und schocken",
     "ids": {
-      "explicit": "stat_1853636813"
+      "explicit": "stat_3470457445"
     }
   },
   {
@@ -16452,12 +16488,6 @@
     }
   },
   {
-    "text": "Chaossschaden kann entzünden, unterkühlen und schocken",
-    "ids": {
-      "explicit": "stat_3470457445"
-    }
-  },
-  {
     "text": "'Stolz' hat #% verringerte Manareservierung",
     "ids": {
       "explicit": "stat_250961191",
@@ -16471,23 +16501,17 @@
     }
   },
   {
+    "text": "Fügt # bis # Kälteschaden hinzu, während kein Leben reserviert ist",
+    "ids": {
+      "explicit": "stat_897996059"
+    }
+  },
+  {
     "text": "'Reinheit des Blitzes' hat #% verringerte Manareservierung",
     "ids": {
       "explicit": "stat_1285430327",
       "implicit": "stat_1285430327",
       "enchant": "stat_1285430327"
-    }
-  },
-  {
-    "text": "Euer Leben zählt als niedrig, während Ihr mit 'Verwundbarkeit' verflucht seid",
-    "ids": {
-      "explicit": "stat_2304300603"
-    }
-  },
-  {
-    "text": "Fügt # bis # Kälteschaden hinzu, während kein Leben reserviert ist",
-    "ids": {
-      "explicit": "stat_897996059"
     }
   },
   {
@@ -16617,16 +16641,16 @@
     }
   },
   {
+    "text": "Gebiet enthält einen Steinzirkel",
+    "ids": {
+      "explicit": "stat_3005800306"
+    }
+  },
+  {
     "text": "Ihr könnt nicht mit Schweigen verflucht werden",
     "ids": {
       "explicit": "stat_1654414582",
       "implicit": "stat_1654414582"
-    }
-  },
-  {
-    "text": "Gebiet enthält einen Steinzirkel",
-    "ids": {
-      "explicit": "stat_3005800306"
     }
   },
   {
@@ -16649,21 +16673,27 @@
     }
   },
   {
-    "text": "Verbündete im Umkreis haben 'Todesstoß'",
-    "ids": {
-      "explicit": "stat_1560540713"
-    }
-  },
-  {
     "text": "Eingefangene Monster haben eine zusätzliche Essenz",
     "ids": {
       "explicit": "stat_679682964"
     }
   },
   {
+    "text": "Verbündete im Umkreis haben 'Todesstoß'",
+    "ids": {
+      "explicit": "stat_1560540713"
+    }
+  },
+  {
     "text": "Gefundene Talismane in diesem Gebiet sind 1 Level höher",
     "ids": {
       "explicit": "stat_2800333900"
+    }
+  },
+  {
+    "text": "Ihr und Eure Verbündete regenerieren #% des Lebens pro Sekunde, wenn Ihr kürzlich geblockt habt",
+    "ids": {
+      "explicit": "stat_176085824"
     }
   },
   {
@@ -16694,12 +16724,6 @@
     "text": "Seltene Riss-Monster lassen einen zusätzlichen Splitter fallen",
     "ids": {
       "explicit": "stat_3097206473"
-    }
-  },
-  {
-    "text": "#% Chance, nicht verfluchte Gegner bei Treffer mit einem zufälligen Fluch zu belegen",
-    "ids": {
-      "explicit": "stat_1726444796"
     }
   },
   {
@@ -16739,27 +16763,21 @@
     }
   },
   {
-    "text": "Erhöhungen und Verringerungen des Lichtradius gelten auch für die Treffgenauigkeit",
-    "ids": {
-      "explicit": "stat_411986876"
-    }
-  },
-  {
     "text": "Feuerwiderstand ist #%",
     "ids": {
       "explicit": "stat_763311546"
     }
   },
   {
-    "text": "Gegner im Umkreis gewähren #% erhöhte Fläschchenfüllungen",
-    "ids": {
-      "explicit": "stat_3547189490"
-    }
-  },
-  {
     "text": "Seltene Monster aus Rissen haben #% Chance, einen Riss-Ring fallen zu lassen",
     "ids": {
       "explicit": "stat_4157714333"
+    }
+  },
+  {
+    "text": "Gegner im Umkreis gewähren #% erhöhte Fläschchenfüllungen",
+    "ids": {
+      "explicit": "stat_3547189490"
     }
   },
   {
@@ -16819,15 +16837,21 @@
     }
   },
   {
+    "text": "Gegner im Umkreis haben #% verlangsamte Betäubungs- und Blockerholung",
+    "ids": {
+      "explicit": "stat_3169825297"
+    }
+  },
+  {
     "text": "Gequälte Seelen haben #% verlängerte Dauer",
     "ids": {
       "explicit": "stat_663610248"
     }
   },
   {
-    "text": "Gegner im Umkreis haben #% verlangsamte Betäubungs- und Blockerholung",
+    "text": "Löst 'Elementare Abwehr' Stufe # aus, wenn Ihr einen Gegner trefft, während Ihr verflucht seid",
     "ids": {
-      "explicit": "stat_3169825297"
+      "explicit": "stat_810166817"
     }
   },
   {
@@ -16873,15 +16897,15 @@
     }
   },
   {
-    "text": "Treffer mit dieser Waffe verursachen #% erhöhten Schaden gegen eingefrorene Gegner",
-    "ids": {
-      "explicit": "stat_196313911"
-    }
-  },
-  {
     "text": "#% erhöhter maximaler Energieschild für jeden ausgerüsteten verderbten Gegenstand",
     "ids": {
       "explicit": "stat_3916980068"
+    }
+  },
+  {
+    "text": "Treffer mit dieser Waffe verursachen #% erhöhten Schaden gegen eingefrorene Gegner",
+    "ids": {
+      "explicit": "stat_196313911"
     }
   },
   {
@@ -16917,12 +16941,6 @@
     }
   },
   {
-    "text": "Löst 'Elementare Abwehr' Stufe # aus, wenn Ihr einen Gegner trefft, während Ihr verflucht seid",
-    "ids": {
-      "explicit": "stat_810166817"
-    }
-  },
-  {
     "text": "#% mehr Seltenheit enthaltener Gegenstände in Perandus-Truhen",
     "ids": {
       "explicit": "stat_3535403838"
@@ -16954,15 +16972,15 @@
     }
   },
   {
-    "text": "Treffer mit dieser Waffe verursachen #% erhöhten Schaden gegen entzündete Gegner",
-    "ids": {
-      "explicit": "stat_3095345438"
-    }
-  },
-  {
     "text": "Spieler verfügen über Ansturm während Fläschchenwirkung",
     "ids": {
       "explicit": "stat_2576546039"
+    }
+  },
+  {
+    "text": "Treffer mit dieser Waffe verursachen #% erhöhten Schaden gegen entzündete Gegner",
+    "ids": {
+      "explicit": "stat_3095345438"
     }
   },
   {
@@ -16984,9 +17002,9 @@
     }
   },
   {
-    "text": "Euer Maximum an Raserei-Ladungen entspricht Eurem Maximum an Energie-Ladungen",
+    "text": "#% erhöhter Energieschild pro Energie-Ladung",
     "ids": {
-      "explicit": "stat_2238831336"
+      "explicit": "stat_2189382346"
     }
   },
   {
@@ -17002,15 +17020,15 @@
     }
   },
   {
-    "text": "Spieler haben #% Chance bei Tötung Ansturm für 4 Sekunden zu erhalten",
-    "ids": {
-      "explicit": "stat_3563824294"
-    }
-  },
-  {
     "text": "Gegner, die Ihr auf pilzbewachsenem Boden tötet, haben #% Chance zu explodieren und 5% ihres Lebens als Chaosschaden zu verursachen",
     "ids": {
       "explicit": "stat_3550460467"
+    }
+  },
+  {
+    "text": "Spieler haben #% Chance bei Tötung Ansturm für 4 Sekunden zu erhalten",
+    "ids": {
+      "explicit": "stat_3563824294"
     }
   },
   {
@@ -17070,9 +17088,9 @@
     }
   },
   {
-    "text": "#% erhöhter Energieschild pro Energie-Ladung",
+    "text": "Euer Maximum an Raserei-Ladungen entspricht Eurem Maximum an Energie-Ladungen",
     "ids": {
-      "explicit": "stat_2189382346"
+      "explicit": "stat_2238831336"
     }
   },
   {
@@ -17088,16 +17106,16 @@
     }
   },
   {
+    "text": "Ihr und Verbündete im Umkreis fügen # bis # Chaosschaden pro weißer Fassung hinzu",
+    "ids": {
+      "explicit": "stat_3232695173"
+    }
+  },
+  {
     "text": "Abtrünnige Verbannte lassen einen zusätzlichen Juwel fallen",
     "ids": {
       "explicit": "stat_4143730600",
       "enchant": "stat_4143730600"
-    }
-  },
-  {
-    "text": "Ihr und Verbündete im Umkreis fügen # bis # Chaosschaden pro weißer Fassung hinzu",
-    "ids": {
-      "explicit": "stat_3232695173"
     }
   },
   {
@@ -17122,12 +17140,6 @@
     "text": "Gegner im Umkreis haben #% zu allen Widerständen",
     "ids": {
       "explicit": "stat_668145148"
-    }
-  },
-  {
-    "text": "Bedeutende Passive im Radius werden umgewandelt und gewähren\nstattdessen: Kreaturen haben #% erhöhte Bewegungsgeschwindigkeit",
-    "ids": {
-      "explicit": "stat_3362879252"
     }
   },
   {
@@ -17179,15 +17191,15 @@
     }
   },
   {
-    "text": "#% zu Multiplikator für kritische Treffer von Zaubern, wenn Ihr kürzlich nicht getötet habt",
-    "ids": {
-      "explicit": "stat_729430714"
-    }
-  },
-  {
     "text": "#% des durch Eure Minen verursachten Schadens werden für Euch als Leben geraubt",
     "ids": {
       "explicit": "stat_807450540"
+    }
+  },
+  {
+    "text": "#% zu Multiplikator für kritische Treffer von Zaubern, wenn Ihr kürzlich nicht getötet habt",
+    "ids": {
+      "explicit": "stat_729430714"
     }
   },
   {
@@ -17245,15 +17257,15 @@
     }
   },
   {
-    "text": "#% erhöhte Bewegungsgeschwindigkeit pro Widerstands-Ladung",
-    "ids": {
-      "explicit": "stat_2116250000"
-    }
-  },
-  {
     "text": "Ihr verfügt über Blutroter Tanz, wenn Ihr kürzlich einen kritischen Treffer gelandet habt",
     "ids": {
       "explicit": "stat_1756017808"
+    }
+  },
+  {
+    "text": "#% erhöhte Bewegungsgeschwindigkeit pro Widerstands-Ladung",
+    "ids": {
+      "explicit": "stat_2116250000"
     }
   },
   {
@@ -17263,21 +17275,15 @@
     }
   },
   {
-    "text": "Unbeeinträchtigt von Flüchen",
-    "ids": {
-      "explicit": "stat_3809896400"
-    }
-  },
-  {
     "text": "Erhaltet # Mana wenn Ihr einen verspotteten Gegner trefft",
     "ids": {
       "explicit": "stat_1834588299"
     }
   },
   {
-    "text": "Treffer ignorieren den gegnerischen Feuerwiderstand während Ihr entzündet seid",
+    "text": "Unbeeinträchtigt von Flüchen",
     "ids": {
-      "explicit": "stat_4040152475"
+      "explicit": "stat_3809896400"
     }
   },
   {
@@ -17287,15 +17293,21 @@
     }
   },
   {
-    "text": "Perandus-Monster haben #% Chance, Perandus-Münzen fallen zu lassen",
+    "text": "Treffer ignorieren den gegnerischen Feuerwiderstand während Ihr entzündet seid",
     "ids": {
-      "explicit": "stat_3689836025"
+      "explicit": "stat_4040152475"
     }
   },
   {
     "text": "#% Chance, eine Raserei-Ladung zu verlieren, wenn Ihr Schattenhaft erhaltet",
     "ids": {
       "explicit": "stat_1819086604"
+    }
+  },
+  {
+    "text": "Perandus-Monster haben #% Chance, Perandus-Münzen fallen zu lassen",
+    "ids": {
+      "explicit": "stat_3689836025"
     }
   },
   {
@@ -17311,15 +17323,15 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Kreaturengeschwindigkeit' Stufe #",
-    "ids": {
-      "explicit": "stat_995332031"
-    }
-  },
-  {
     "text": "Die Chance, Zauberschaden zu blocken, ist 'Ungünstig'",
     "ids": {
       "explicit": "stat_3551025193"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Kreaturengeschwindigkeit' Stufe #",
+    "ids": {
+      "explicit": "stat_995332031"
     }
   },
   {
@@ -17377,6 +17389,12 @@
     }
   },
   {
+    "text": "#% erhöhte Rüstung pro Widerstands-Ladung",
+    "ids": {
+      "explicit": "stat_1447080724"
+    }
+  },
+  {
     "text": "#% Chance, bei Fläschchennutzung Ansturm zu erhalten",
     "ids": {
       "explicit": "stat_1324450398"
@@ -17401,15 +17419,15 @@
     }
   },
   {
-    "text": "#% Chance, bei Erhalt einer Raserei-Ladung stattdessen bis zum Maximum an Raserei-Ladungen zu erhalten",
-    "ids": {
-      "explicit": "stat_2119664154"
-    }
-  },
-  {
     "text": "#% erhöhte kritische Trefferchance mit Zaubern, wenn Ihr kürzlich getötet habt",
     "ids": {
       "explicit": "stat_1243114410"
+    }
+  },
+  {
+    "text": "#% Chance, bei Erhalt einer Raserei-Ladung stattdessen bis zum Maximum an Raserei-Ladungen zu erhalten",
+    "ids": {
+      "explicit": "stat_2119664154"
     }
   },
   {
@@ -17467,16 +17485,16 @@
     }
   },
   {
+    "text": "#% erhöhte Angelreichweite",
+    "ids": {
+      "explicit": "stat_170497091"
+    }
+  },
+  {
     "text": "#% erhöhter Ausweichwert pro Raserei-Ladung",
     "ids": {
       "explicit": "stat_660404777",
       "implicit": "stat_660404777"
-    }
-  },
-  {
-    "text": "#% erhöhte Angelreichweite",
-    "ids": {
-      "explicit": "stat_170497091"
     }
   },
   {
@@ -17492,6 +17510,12 @@
     }
   },
   {
+    "text": "Sobald ein Spieler im nächsten Gebiet # Amok-Tötungen erreicht hat, stellt sich Euch ein mächtiges Monster entgegen",
+    "ids": {
+      "explicit": "stat_329336318"
+    }
+  },
+  {
     "text": "Perandus-Truhen werden von zusätzlichen seltenen Monstern bewacht",
     "ids": {
       "explicit": "stat_2156472123"
@@ -17501,12 +17525,6 @@
     "text": "Gebiet enthält Yama den Weißen",
     "ids": {
       "explicit": "stat_482341163"
-    }
-  },
-  {
-    "text": "Sobald ein Spieler im nächsten Gebiet # Amok-Tötungen erreicht hat, stellt sich Euch ein mächtiges Monster entgegen",
-    "ids": {
-      "explicit": "stat_329336318"
     }
   },
   {
@@ -17582,6 +17600,12 @@
     }
   },
   {
+    "text": "Erhaltet # Leben für jeden entzündeten und durch Eure Angriffe getroffenen Gegner",
+    "ids": {
+      "explicit": "stat_120895749"
+    }
+  },
+  {
     "text": "Erhält keine Füllungen während Fläschchenwirkung eines beliebigen Seelenschlitzer-Fläschchens",
     "ids": {
       "explicit": "stat_2748763342"
@@ -17591,12 +17615,6 @@
     "text": "Ihr und Verbündete im Umkreis fügen # bis # Feuerschaden pro roter Fassung hinzu",
     "ids": {
       "explicit": "stat_1666896662"
-    }
-  },
-  {
-    "text": "Erhaltet # Leben für jeden entzündeten und durch Eure Angriffe getroffenen Gegner",
-    "ids": {
-      "explicit": "stat_120895749"
     }
   },
   {
@@ -17612,12 +17630,6 @@
     }
   },
   {
-    "text": "Zaubert 'Spektralseelen' Level 20, wenn ausgerüstet",
-    "ids": {
-      "explicit": "stat_470688636"
-    }
-  },
-  {
     "text": "Fallen gelassene Gegenstände von abtrünnigen Verbannten sind vollständig verbunden",
     "ids": {
       "explicit": "stat_898094766"
@@ -17627,6 +17639,12 @@
     "text": "#% beschleunigte Abklingzeit von Fortbewegungsfertigkeiten pro Raserei-Ladung",
     "ids": {
       "explicit": "stat_3083201633"
+    }
+  },
+  {
+    "text": "Zaubert 'Spektralseelen' Level 20, wenn ausgerüstet",
+    "ids": {
+      "explicit": "stat_470688636"
     }
   },
   {
@@ -17710,15 +17728,15 @@
     }
   },
   {
-    "text": "Bei Tötung einer Blutlinien-Gruppe lässt diese einen seltenen Gegenstand fallen",
-    "ids": {
-      "explicit": "stat_2309624770"
-    }
-  },
-  {
     "text": "#% erhöhte Bewegungsgeschwindigkeit pro Energie-Ladung",
     "ids": {
       "explicit": "stat_3774108776"
+    }
+  },
+  {
+    "text": "Bei Tötung einer Blutlinien-Gruppe lässt diese einen seltenen Gegenstand fallen",
+    "ids": {
+      "explicit": "stat_2309624770"
     }
   },
   {
@@ -17761,12 +17779,6 @@
     "text": "Lebens- und Manaraub wird während Fläschchenwirkung sofort angewendet",
     "ids": {
       "explicit": "stat_1102362593"
-    }
-  },
-  {
-    "text": "#% erhöhte Rüstung pro Widerstands-Ladung",
-    "ids": {
-      "explicit": "stat_1447080724"
     }
   },
   {
@@ -17845,15 +17857,15 @@
     }
   },
   {
-    "text": "Eingefasste Fertigkeiten haben #% erhöhte Angriffsgeschwindigkeit",
-    "ids": {
-      "explicit": "stat_2881124988"
-    }
-  },
-  {
     "text": "Monster, die von gequälten Seelen besessen sind, erleiden #% erhöhten Schaden",
     "ids": {
       "explicit": "stat_261224780"
+    }
+  },
+  {
+    "text": "Eingefasste Fertigkeiten haben #% erhöhte Angriffsgeschwindigkeit",
+    "ids": {
+      "explicit": "stat_2881124988"
     }
   },
   {
@@ -17894,12 +17906,6 @@
     }
   },
   {
-    "text": "Ihr und Eure Verbündete regenerieren #% des Lebens pro Sekunde, wenn Ihr kürzlich geblockt habt",
-    "ids": {
-      "explicit": "stat_176085824"
-    }
-  },
-  {
     "text": "#% verringerter erlittener Blitzschaden",
     "ids": {
       "explicit": "stat_1276918229",
@@ -17931,12 +17937,6 @@
     }
   },
   {
-    "text": "Treffer gegen Gegner im Umkreis haben 50% erhöhte kritische Trefferchance",
-    "ids": {
-      "explicit": "stat_992435560"
-    }
-  },
-  {
     "text": "Gebiet enthält ein zusätzliches Perandus-Schmuckkästchen",
     "ids": {
       "explicit": "stat_1105638781"
@@ -17949,15 +17949,15 @@
     }
   },
   {
-    "text": "Gebiet enthält einen gequälten Aufrührer",
+    "text": "Treffer gegen Gegner im Umkreis haben 50% erhöhte kritische Trefferchance",
     "ids": {
-      "explicit": "stat_1077576866"
+      "explicit": "stat_992435560"
     }
   },
   {
-    "text": "#% erhöhte kritische Trefferchance pro Raserei-Ladung",
+    "text": "Gebiet enthält einen gequälten Aufrührer",
     "ids": {
-      "explicit": "stat_707887043"
+      "explicit": "stat_1077576866"
     }
   },
   {
@@ -17967,9 +17967,9 @@
     }
   },
   {
-    "text": "#% Chance, Gegner im Umkreis zu blenden, wenn Ihr 'Ihr Segen' erhaltet",
+    "text": "#% erhöhte kritische Trefferchance pro Raserei-Ladung",
     "ids": {
-      "explicit": "stat_2327728343"
+      "explicit": "stat_707887043"
     }
   },
   {
@@ -17979,15 +17979,21 @@
     }
   },
   {
-    "text": "Fügt Angriffen gegen entzündete Gegner # bis # physischen Schaden hinzu",
+    "text": "#% Chance, Gegner im Umkreis zu blenden, wenn Ihr 'Ihr Segen' erhaltet",
     "ids": {
-      "explicit": "stat_627339348"
+      "explicit": "stat_2327728343"
     }
   },
   {
     "text": "Erhaltet #% des physischen Schwertschadens als extra Feuerschaden",
     "ids": {
       "explicit": "stat_754005431"
+    }
+  },
+  {
+    "text": "Fügt Angriffen gegen entzündete Gegner # bis # physischen Schaden hinzu",
+    "ids": {
+      "explicit": "stat_627339348"
     }
   },
   {
@@ -18118,6 +18124,12 @@
     }
   },
   {
+    "text": "Kann während Bewegung nicht geschockt oder entzündet werden",
+    "ids": {
+      "explicit": "stat_3592330380"
+    }
+  },
+  {
     "text": "#% Chance, Angriffstreffern zu entgehen pro Widerstands-Ladung",
     "ids": {
       "explicit": "stat_1893852470"
@@ -18127,12 +18139,6 @@
     "text": "'Disziplin' reserviert kein Mana",
     "ids": {
       "explicit": "stat_3708588508"
-    }
-  },
-  {
-    "text": "Kann während Bewegung nicht geschockt oder entzündet werden",
-    "ids": {
-      "explicit": "stat_3592330380"
     }
   },
   {
@@ -18198,15 +18204,15 @@
     }
   },
   {
-    "text": "Unbeständige Kreaturen",
-    "ids": {
-      "explicit": "stat_433293234"
-    }
-  },
-  {
     "text": "#% des Schadens gegen eingefrorene Gegner werden als Leben geraubt",
     "ids": {
       "explicit": "stat_593279674"
+    }
+  },
+  {
+    "text": "Unbeständige Kreaturen",
+    "ids": {
+      "explicit": "stat_433293234"
     }
   },
   {
@@ -18229,21 +18235,27 @@
     }
   },
   {
-    "text": "# zu Ausweichwert, wenn Ihr kürzlich einen Gegner getroffen habt",
-    "ids": {
-      "explicit": "stat_2935548106"
-    }
-  },
-  {
     "text": "'Frostspurt' hat #% verlängerte Dauer",
     "ids": {
       "explicit": "stat_3941271999"
     }
   },
   {
+    "text": "# zu Ausweichwert, wenn Ihr kürzlich einen Gegner getroffen habt",
+    "ids": {
+      "explicit": "stat_2935548106"
+    }
+  },
+  {
     "text": "Gebiet enthält 3 zusätzliche magische Gruppen mit\n#% erhöhter Angriffs-, Zauber- und Bewegungsgeschwindigkeit und #% mehr fallen gelassener Gegenstände",
     "ids": {
       "explicit": "stat_2244724505"
+    }
+  },
+  {
+    "text": "Gewährt die Fertigkeit 'Frostspurt' Stufe #",
+    "ids": {
+      "explicit": "stat_2911866787"
     }
   },
   {
@@ -18259,15 +18271,15 @@
     }
   },
   {
-    "text": "Fügt # bis # physischen Schaden gegen vergiftete Gegner hinzu",
-    "ids": {
-      "explicit": "stat_424026624"
-    }
-  },
-  {
     "text": "Gebiet enthält einen zusätzlichen Reißzahn-Talisman",
     "ids": {
       "explicit": "stat_3381731475"
+    }
+  },
+  {
+    "text": "Fügt # bis # physischen Schaden gegen vergiftete Gegner hinzu",
+    "ids": {
+      "explicit": "stat_424026624"
     }
   },
   {
@@ -18289,15 +18301,15 @@
     }
   },
   {
-    "text": "#% Chance, Angriffsschaden zu blocken pro Raserei-Ladung",
-    "ids": {
-      "explicit": "stat_2148784747"
-    }
-  },
-  {
     "text": "# zu Rüstung, wenn Ihr kürzlich einen Gegner getroffen habt",
     "ids": {
       "explicit": "stat_2368149582"
+    }
+  },
+  {
+    "text": "#% Chance, Angriffsschaden zu blocken pro Raserei-Ladung",
+    "ids": {
+      "explicit": "stat_2148784747"
     }
   },
   {
@@ -18362,15 +18374,15 @@
     }
   },
   {
-    "text": "'Zorn' reserviert kein Mana",
-    "ids": {
-      "explicit": "stat_1865987277"
-    }
-  },
-  {
     "text": "Pfeiltanz",
     "ids": {
       "explicit": "stat_2606808909"
+    }
+  },
+  {
+    "text": "'Zorn' reserviert kein Mana",
+    "ids": {
+      "explicit": "stat_1865987277"
     }
   },
   {
@@ -18380,27 +18392,27 @@
     }
   },
   {
-    "text": "Eiserne Reflexe",
-    "ids": {
-      "explicit": "stat_326965591"
-    }
-  },
-  {
     "text": "'Entschlossenheit' reserviert kein Mana",
     "ids": {
       "explicit": "stat_1358697130"
     }
   },
   {
-    "text": "#% Chance, 10% des Manas wiederherzustellen, wenn Ihr eine Fertigkeit benutzt",
+    "text": "Eiserne Reflexe",
     "ids": {
-      "explicit": "stat_308309328"
+      "explicit": "stat_326965591"
     }
   },
   {
     "text": "#% Chance, Angriffstreffern zu entgehen pro Energie-Ladung",
     "ids": {
       "explicit": "stat_2163273007"
+    }
+  },
+  {
+    "text": "#% Chance, 10% des Manas wiederherzustellen, wenn Ihr eine Fertigkeit benutzt",
+    "ids": {
+      "explicit": "stat_308309328"
     }
   },
   {
@@ -18413,12 +18425,6 @@
     "text": "Fallen gelassene Gegenstände von abtrünnigen Verbannten sind verderbt",
     "ids": {
       "explicit": "stat_663447087"
-    }
-  },
-  {
-    "text": "Gewährt die Fertigkeit 'Frostspurt' Stufe #",
-    "ids": {
-      "explicit": "stat_2911866787"
     }
   },
   {
@@ -18482,15 +18488,15 @@
     }
   },
   {
-    "text": "Ignoriert alle Bewegungseinschränkungen durch Rüstungen",
-    "ids": {
-      "explicit": "stat_1311723478"
-    }
-  },
-  {
     "text": "Risse enthalten eine klammernde Hand des Rissfürsten",
     "ids": {
       "explicit": "stat_488900289"
+    }
+  },
+  {
+    "text": "Ignoriert alle Bewegungseinschränkungen durch Rüstungen",
+    "ids": {
+      "explicit": "stat_1311723478"
     }
   },
   {
@@ -18554,15 +18560,15 @@
     }
   },
   {
-    "text": "Ihr habt 'Eiserne Reflexe' während des Maximums an Raserei-Ladungen",
-    "ids": {
-      "explicit": "stat_1990354706"
-    }
-  },
-  {
     "text": "#% erhöhter Ausweichwert bei vollem Leben",
     "ids": {
       "explicit": "stat_88817332"
+    }
+  },
+  {
+    "text": "Ihr habt 'Eiserne Reflexe' während des Maximums an Raserei-Ladungen",
+    "ids": {
+      "explicit": "stat_1990354706"
     }
   },
   {
@@ -18581,6 +18587,12 @@
     "text": "Eingefasste Gemmen werden unterstützt durch 'Größere Projektilaufteilung' Stufe #",
     "ids": {
       "explicit": "stat_359450079"
+    }
+  },
+  {
+    "text": "Ihr habt 'Geist über Materie' während des Maximums an Energie-Ladungen",
+    "ids": {
+      "explicit": "stat_1876857497"
     }
   },
   {
@@ -18615,15 +18627,15 @@
     }
   },
   {
-    "text": "#% zusätzliche physische Schadensminderung während beliebiger Fläschchenwirkung",
-    "ids": {
-      "explicit": "stat_2693266036"
-    }
-  },
-  {
     "text": "Ihr könnt nun einen zusätzlichen Fluch während des Maximums an Energie-Ladungen anwenden",
     "ids": {
       "explicit": "stat_761598374"
+    }
+  },
+  {
+    "text": "#% zusätzliche physische Schadensminderung während beliebiger Fläschchenwirkung",
+    "ids": {
+      "explicit": "stat_2693266036"
     }
   },
   {
@@ -18642,12 +18654,6 @@
     "text": "Kann während Bewegung nicht unterkühlt oder eingefroren werden",
     "ids": {
       "explicit": "stat_628032624"
-    }
-  },
-  {
-    "text": "Ihr habt 'Geist über Materie' während des Maximums an Energie-Ladungen",
-    "ids": {
-      "explicit": "stat_1876857497"
     }
   },
   {
@@ -18742,15 +18748,15 @@
     }
   },
   {
-    "text": "Gewährt die Fertigkeit 'Vaal-Unreinheit des Blitzes' Stufe #",
-    "ids": {
-      "explicit": "stat_2959369472"
-    }
-  },
-  {
     "text": "Eingefasste Gemmen werden unterstützt durch 'Entflammen' Stufe #",
     "ids": {
       "explicit": "stat_1828254451"
+    }
+  },
+  {
+    "text": "Gewährt die Fertigkeit 'Vaal-Unreinheit des Blitzes' Stufe #",
+    "ids": {
+      "explicit": "stat_2959369472"
     }
   },
   {
@@ -18761,15 +18767,15 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Schaden bei vollem Leben' Stufe #",
-    "ids": {
-      "explicit": "stat_2126431157"
-    }
-  },
-  {
     "text": "Eingefasste Gemmen werden unterstützt durch 'Verfall' Stufe #",
     "ids": {
       "explicit": "stat_388696990"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Schaden bei vollem Leben' Stufe #",
+    "ids": {
+      "explicit": "stat_2126431157"
     }
   },
   {
@@ -18779,15 +18785,15 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Unterstützung: Mehrere Totems' Stufe #",
-    "ids": {
-      "explicit": "stat_807186595"
-    }
-  },
-  {
     "text": "Eingefasste Gemmen werden unterstützt durch 'Phantasma bei Tötung beschwören' Stufe #",
     "ids": {
       "explicit": "stat_3155072742"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Unterstützung: Mehrere Totems' Stufe #",
+    "ids": {
+      "explicit": "stat_807186595"
     }
   },
   {
@@ -18828,21 +18834,27 @@
     }
   },
   {
-    "text": "Fügt # bis # Feuerschaden hinzu, wenn Ihr kürzlich geblockt habt",
-    "ids": {
-      "explicit": "stat_3623716321"
-    }
-  },
-  {
     "text": "Gebiet enthält einen zusätzlichen einzigartigen Talisman",
     "ids": {
       "explicit": "stat_3956623857"
     }
   },
   {
+    "text": "Fügt # bis # Feuerschaden hinzu, wenn Ihr kürzlich geblockt habt",
+    "ids": {
+      "explicit": "stat_3623716321"
+    }
+  },
+  {
     "text": "Eingefasste Gemmen werden unterstützt durch 'Physisch zu Blitz' Stufe #",
     "ids": {
       "explicit": "stat_3327487371"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Aufspießen' Stufe #",
+    "ids": {
+      "explicit": "stat_1900098804"
     }
   },
   {
@@ -18858,21 +18870,15 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Aufspießen' Stufe #",
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Verkettung' Stufe #",
     "ids": {
-      "explicit": "stat_1900098804"
+      "explicit": "stat_2643665787"
     }
   },
   {
     "text": "Eingefasste Gemmen werden unterstützt durch 'Sperrfeuer' Stufe #",
     "ids": {
       "explicit": "stat_3827538724"
-    }
-  },
-  {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Verkettung' Stufe #",
-    "ids": {
-      "explicit": "stat_2643665787"
     }
   },
   {
@@ -18894,9 +18900,15 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Intensivieren' Stufe #",
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Aufwertung' Stufe #",
     "ids": {
-      "explicit": "stat_1876637240"
+      "explicit": "stat_2556436882"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Blutlust' Stufe #",
+    "ids": {
+      "explicit": "stat_804508379"
     }
   },
   {
@@ -18907,15 +18919,9 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Blutlust' Stufe #",
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Intensivieren' Stufe #",
     "ids": {
-      "explicit": "stat_804508379"
-    }
-  },
-  {
-    "text": "#% increased Rarity of Items found in this Area",
-    "ids": {
-      "explicit": "stat_2306002879"
+      "explicit": "stat_1876637240"
     }
   },
   {
@@ -18926,9 +18932,9 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Aufwertung' Stufe #",
+    "text": "#% increased Rarity of Items found in this Area",
     "ids": {
-      "explicit": "stat_2556436882"
+      "explicit": "stat_2306002879"
     }
   },
   {
@@ -18944,30 +18950,6 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Geladene Fallen' Stufe #",
-    "ids": {
-      "explicit": "stat_479453859"
-    }
-  },
-  {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Schneller Aufbau' Stufe #",
-    "ids": {
-      "explicit": "stat_4021476585"
-    }
-  },
-  {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Minenfeld' Stufe #",
-    "ids": {
-      "explicit": "stat_2805586447"
-    }
-  },
-  {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Knochenfrost' Stufe #",
-    "ids": {
-      "explicit": "stat_1859244771"
-    }
-  },
-  {
     "text": "Eingefasste Gemmen werden unterstützt durch 'Phantombogenschütze' Stufe #",
     "ids": {
       "explicit": "stat_3239503729"
@@ -18980,9 +18962,15 @@
     }
   },
   {
-    "text": "# zur Stufe aller Geschick-Fertigkeitengemmen",
+    "text": "Projektile durchbohren 2 zusätzliche Ziele",
     "ids": {
-      "explicit": "stat_146924886"
+      "explicit": "stat_3640956958"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Schneller Aufbau' Stufe #",
+    "ids": {
+      "explicit": "stat_4021476585"
     }
   },
   {
@@ -18992,45 +18980,39 @@
     }
   },
   {
-    "text": "# zur Stufe aller Feuer-Fertigkeitengemmen",
-    "ids": {
-      "explicit": "stat_599749213"
-    }
-  },
-  {
     "text": "Gegner im Umkreis haben #% erhöhten Feuer- und Kältewiderstand",
     "ids": {
       "explicit": "stat_4273356746"
     }
   },
   {
-    "text": "Projektile durchbohren 2 zusätzliche Ziele",
+    "text": "# zur Stufe aller Geschick-Fertigkeitengemmen",
     "ids": {
-      "explicit": "stat_3640956958"
+      "explicit": "stat_146924886"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Knochenfrost' Stufe #",
+    "ids": {
+      "explicit": "stat_1859244771"
+    }
+  },
+  {
+    "text": "# zur Stufe aller Feuer-Fertigkeitengemmen",
+    "ids": {
+      "explicit": "stat_599749213"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Minenfeld' Stufe #",
+    "ids": {
+      "explicit": "stat_2805586447"
     }
   },
   {
     "text": "Regeneriert alle 5 Sekunden #% des Lebens im Verlauf einer Sekunde",
     "ids": {
       "explicit": "stat_1242155304"
-    }
-  },
-  {
-    "text": "Ihr habt 'Unterkühlende Konfluenz' für 3 Sekunden alle 8 Sekunden",
-    "ids": {
-      "explicit": "stat_1190121450"
-    }
-  },
-  {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Energieraub' Stufe #",
-    "ids": {
-      "explicit": "stat_799443127"
-    }
-  },
-  {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Nachtklinge' Stufe #",
-    "ids": {
-      "explicit": "stat_2861649515"
     }
   },
   {
@@ -19041,21 +19023,9 @@
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Rausch' Stufe #",
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Geladene Fallen' Stufe #",
     "ids": {
-      "explicit": "stat_369650395"
-    }
-  },
-  {
-    "text": "Nova-Zauber werden am Zielort gewirkt statt um Euch herum",
-    "ids": {
-      "explicit": "stat_728246008"
-    }
-  },
-  {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Gefecht' Stufe #",
-    "ids": {
-      "explicit": "stat_694651314"
+      "explicit": "stat_479453859"
     }
   },
   {
@@ -19065,15 +19035,45 @@
     }
   },
   {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Geladene Minen' Stufe #",
+    "ids": {
+      "explicit": "stat_1365328494"
+    }
+  },
+  {
     "text": "Eingefasste Gemmen werden unterstützt durch 'Mehrfachfallen' Stufe #",
     "ids": {
       "explicit": "stat_3016436615"
     }
   },
   {
-    "text": "Eingefasste Gemmen werden unterstützt durch 'Geladene Minen' Stufe #",
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Nachtklinge' Stufe #",
     "ids": {
-      "explicit": "stat_1365328494"
+      "explicit": "stat_2861649515"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Rausch' Stufe #",
+    "ids": {
+      "explicit": "stat_369650395"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Gefecht' Stufe #",
+    "ids": {
+      "explicit": "stat_694651314"
+    }
+  },
+  {
+    "text": "Eingefasste Gemmen werden unterstützt durch 'Energieraub' Stufe #",
+    "ids": {
+      "explicit": "stat_799443127"
+    }
+  },
+  {
+    "text": "Nova-Zauber werden am Zielort gewirkt statt um Euch herum",
+    "ids": {
+      "explicit": "stat_728246008"
     }
   },
   {
@@ -19308,6 +19308,12 @@
     }
   },
   {
+    "text": "Erleidet #% des Kälteschadens durch Treffer als Feuerschaden",
+    "ids": {
+      "implicit": "stat_1189760108"
+    }
+  },
+  {
     "text": "Erleidet #% des Blitzschadens durch Treffer als Kälteschaden",
     "ids": {
       "implicit": "stat_1017730114"
@@ -19317,12 +19323,6 @@
     "text": "Erleidet #% des Kälteschadens durch Treffer als Blitzschaden",
     "ids": {
       "implicit": "stat_1313503107"
-    }
-  },
-  {
-    "text": "Erleidet #% des Kälteschadens durch Treffer als Feuerschaden",
-    "ids": {
-      "implicit": "stat_1189760108"
     }
   },
   {
@@ -19344,15 +19344,21 @@
     }
   },
   {
+    "text": "# erlittener Kälteschaden bei Treffer",
+    "ids": {
+      "implicit": "stat_261654754"
+    }
+  },
+  {
     "text": "Gewährt die Fertigkeit 'Boshaftigkeit' Stufe #",
     "ids": {
       "implicit": "stat_2148556029"
     }
   },
   {
-    "text": "# erlittener Kälteschaden bei Treffer",
+    "text": "# erlittener Blitzschaden bei Treffer",
     "ids": {
-      "implicit": "stat_261654754"
+      "implicit": "stat_465051235"
     }
   },
   {
@@ -19386,9 +19392,9 @@
     }
   },
   {
-    "text": "# erlittener Blitzschaden bei Treffer",
+    "text": "#% erhöhter Schaden während des Lebensraubs",
     "ids": {
-      "implicit": "stat_465051235"
+      "implicit": "stat_3591306273"
     }
   },
   {
@@ -19431,12 +19437,6 @@
     "text": "Gewährt die Fertigkeit Leitfähigkeit Stufe #",
     "ids": {
       "implicit": "stat_461472247"
-    }
-  },
-  {
-    "text": "#% erhöhter Schaden während des Lebensraubs",
-    "ids": {
-      "implicit": "stat_3591306273"
     }
   },
   {
@@ -19573,6 +19573,19 @@
     }
   },
   {
+    "text": "#% zur Qualität eingefasster Kälte-Gemmen",
+    "ids": {
+      "implicit": "stat_1164882313"
+    }
+  },
+  {
+    "text": "#% erhöhte Zeichen-Anheftungsreichweite",
+    "ids": {
+      "implicit": "stat_4223377453",
+      "crafted": "stat_4223377453"
+    }
+  },
+  {
     "text": "#% zur Qualität eingefasster Intelligenz-Gemmen",
     "ids": {
       "implicit": "stat_3174776455"
@@ -19606,19 +19619,6 @@
     "text": "Ausgelöste Zauber verursachen #% erhöhten Zauberschaden",
     "ids": {
       "implicit": "stat_3067892458"
-    }
-  },
-  {
-    "text": "#% erhöhte Zeichen-Anheftungsreichweite",
-    "ids": {
-      "implicit": "stat_4223377453",
-      "crafted": "stat_4223377453"
-    }
-  },
-  {
-    "text": "#% zur Qualität eingefasster Kälte-Gemmen",
-    "ids": {
-      "implicit": "stat_1164882313"
     }
   },
   {
@@ -19702,12 +19702,6 @@
     }
   },
   {
-    "text": "#% zu allen Elementarwiderständen, falls verderbt",
-    "ids": {
-      "implicit": "stat_3731630482"
-    }
-  },
-  {
     "text": "#% erhöhter physischer Schaden mit Zauberfertigkeiten",
     "ids": {
       "implicit": "stat_1430255627"
@@ -19720,21 +19714,27 @@
     }
   },
   {
+    "text": "#% zu allen Elementarwiderständen, falls verderbt",
+    "ids": {
+      "implicit": "stat_3731630482"
+    }
+  },
+  {
     "text": "#% erhöhter Feuerschaden mit Zauberfertigkeiten",
     "ids": {
       "implicit": "stat_361162316"
     }
   },
   {
-    "text": "#% erhöhter Zauberschaden pro 500 maximalem Mana",
-    "ids": {
-      "implicit": "stat_3555662994"
-    }
-  },
-  {
     "text": "#% erhöhter Angriffsschaden pro 500 maximalem Mana",
     "ids": {
       "implicit": "stat_4134865890"
+    }
+  },
+  {
+    "text": "#% erhöhter Zauberschaden pro 500 maximalem Mana",
+    "ids": {
+      "implicit": "stat_3555662994"
     }
   },
   {
@@ -19750,16 +19750,16 @@
     }
   },
   {
+    "text": "#% erhöhter Angriffsschaden, falls verderbt",
+    "ids": {
+      "implicit": "stat_2347923784"
+    }
+  },
+  {
     "text": "Skelette verursachen #%  erhöhten Schaden",
     "ids": {
       "implicit": "stat_3059357595",
       "enchant": "stat_3059357595"
-    }
-  },
-  {
-    "text": "#% erhöhter Angriffsschaden, falls verderbt",
-    "ids": {
-      "implicit": "stat_2347923784"
     }
   },
   {
@@ -19827,21 +19827,21 @@
     }
   },
   {
-    "text": "#% erhöhte kritische Trefferchance von Zaubern beim Tragen eines Stabs",
-    "ids": {
-      "implicit": "stat_140429540"
-    }
-  },
-  {
     "text": "#% erhöhte kritische Trefferchance von Zaubern beim Tragen zweier Waffen",
     "ids": {
       "implicit": "stat_1218939541"
     }
   },
   {
-    "text": "#% erhöhter physischer Schaden, während Ihr über Unheilige Macht verfügt",
+    "text": "#% erhöhte kritische Trefferchance von Zaubern beim Tragen eines Stabs",
     "ids": {
-      "implicit": "stat_1609570656"
+      "implicit": "stat_140429540"
+    }
+  },
+  {
+    "text": "#% erhöhte Treffgenauigkeit mit Schwertern",
+    "ids": {
+      "implicit": "stat_2090868905"
     }
   },
   {
@@ -19851,9 +19851,15 @@
     }
   },
   {
-    "text": "#% erhöhte Treffgenauigkeit mit Schwertern",
+    "text": "#% erhöhter physischer Schaden, während Ihr über Unheilige Macht verfügt",
     "ids": {
-      "implicit": "stat_2090868905"
+      "implicit": "stat_1609570656"
+    }
+  },
+  {
+    "text": "#% zu Multiplikator für kritische Treffer von Zaubern beim Tragen eines Schilds",
+    "ids": {
+      "implicit": "stat_2311200892"
     }
   },
   {
@@ -19869,15 +19875,9 @@
     }
   },
   {
-    "text": "#% zu Multiplikator für kritische Treffer von Zaubern beim Tragen eines Schilds",
+    "text": "#% zu Multiplikator für kritische Treffer mit Streitkolben und Zeptern",
     "ids": {
-      "implicit": "stat_2311200892"
-    }
-  },
-  {
-    "text": "#% zu Multiplikator für kritische Treffermit Äxten",
-    "ids": {
-      "implicit": "stat_4219746989"
+      "implicit": "stat_458899422"
     }
   },
   {
@@ -19887,9 +19887,9 @@
     }
   },
   {
-    "text": "#% zu Multiplikator für kritische Treffer mit Streitkolben und Zeptern",
+    "text": "#% zu Multiplikator für kritische Treffermit Äxten",
     "ids": {
-      "implicit": "stat_458899422"
+      "implicit": "stat_4219746989"
     }
   },
   {
@@ -19953,16 +19953,16 @@
     }
   },
   {
-    "text": "#% erhöhte Treffgenauigkeit mit Streitkolben und Zeptern",
-    "ids": {
-      "implicit": "stat_3208450870"
-    }
-  },
-  {
     "text": "Gegenstand fällt bei Tod, wenn ihn ein Beseelter Wächter trug",
     "ids": {
       "implicit": "stat_3909846940",
       "crafted": "stat_3909846940"
+    }
+  },
+  {
+    "text": "#% erhöhte Treffgenauigkeit mit Streitkolben und Zeptern",
+    "ids": {
+      "implicit": "stat_3208450870"
     }
   },
   {
@@ -20071,9 +20071,21 @@
     }
   },
   {
+    "text": "Fügt # bis # Feuerschaden bei kürzlicher Tötung hinzu",
+    "ids": {
+      "enchant": "stat_3077703716"
+    }
+  },
+  {
     "text": "#% Chance, Zaubertreffern zu entgehen, wenn Ihr\nkürzlich Zauberschaden erlitten habt",
     "ids": {
       "enchant": "stat_1222329688"
+    }
+  },
+  {
+    "text": "Fügt # bis # Kälteschaden bei kürzlich erlittenem Treffer hinzu",
+    "ids": {
+      "enchant": "stat_884399432"
     }
   },
   {
@@ -20086,18 +20098,6 @@
     "text": "#% Chance, Angriffstreffern zu entgehen, wenn Ihr kürzlich einen kritischen Treffer erlitten habt",
     "ids": {
       "enchant": "stat_3414398924"
-    }
-  },
-  {
-    "text": "Fügt # bis # Kälteschaden bei kürzlich erlittenem Treffer hinzu",
-    "ids": {
-      "enchant": "stat_884399432"
-    }
-  },
-  {
-    "text": "Fügt # bis # Feuerschaden bei kürzlicher Tötung hinzu",
-    "ids": {
-      "enchant": "stat_3077703716"
     }
   },
   {
@@ -20128,6 +20128,12 @@
     "text": "#% Chance, bei erlittenem Treffer 'Wort der Reflexion' auszulösen",
     "ids": {
       "enchant": "stat_2634094270"
+    }
+  },
+  {
+    "text": "#% Chance, bei Treffer 'Wort des Infernos' auszulösen",
+    "ids": {
+      "enchant": "stat_3901337328"
     }
   },
   {
@@ -20164,12 +20170,6 @@
     "text": "#% Chance, bei Treffer 'Wort der Flammen' auszulösen",
     "ids": {
       "enchant": "stat_891161612"
-    }
-  },
-  {
-    "text": "#% Chance, bei Treffer 'Wort des Infernos' auszulösen",
-    "ids": {
-      "enchant": "stat_3901337328"
     }
   },
   {
@@ -20323,15 +20323,15 @@
     }
   },
   {
-    "text": "'Blitzpfeil' trifft einen zusätzlichen Gegner",
-    "ids": {
-      "enchant": "stat_1901955093"
-    }
-  },
-  {
     "text": "#% Chance, bei Treffer 'Erlass des Zorns' auszulösen",
     "ids": {
       "enchant": "stat_1153637043"
+    }
+  },
+  {
+    "text": "'Blitzpfeil' trifft einen zusätzlichen Gegner",
+    "ids": {
+      "enchant": "stat_1901955093"
     }
   },
   {
@@ -20350,6 +20350,18 @@
     "text": "Magmakugel verkettet sich ein zusätzliches Mal",
     "ids": {
       "enchant": "stat_2589980605"
+    }
+  },
+  {
+    "text": "#% Chance, bei Treffer 'Erlass des Donners' auszulösen",
+    "ids": {
+      "enchant": "stat_603658709"
+    }
+  },
+  {
+    "text": "#% Chance, dass 'Entladung' Schaden verursacht, ohne Ladungen zu verbrauchen",
+    "ids": {
+      "enchant": "stat_1833626118"
     }
   },
   {
@@ -20425,6 +20437,12 @@
     }
   },
   {
+    "text": "#% erhöhter Flimmerschlag-Schaden pro Raserei-Ladung",
+    "ids": {
+      "enchant": "stat_3701991680"
+    }
+  },
+  {
     "text": "#% des physischen Schadens von 'Frostwelle' werden in Kälteschaden umgewandelt",
     "ids": {
       "enchant": "stat_1154155584"
@@ -20437,15 +20455,15 @@
     }
   },
   {
-    "text": "'Blitzschlag' feuert ein zusätzliches Projektil",
-    "ids": {
-      "enchant": "stat_1213035889"
-    }
-  },
-  {
     "text": "#% erhöhte Angriffsgeschwindigkeit von 'Sperrfeuer'",
     "ids": {
       "enchant": "stat_2523298357"
+    }
+  },
+  {
+    "text": "'Blitzschlag' feuert ein zusätzliches Projektil",
+    "ids": {
+      "enchant": "stat_1213035889"
     }
   },
   {
@@ -20461,9 +20479,9 @@
     }
   },
   {
-    "text": "#% Chance, dass 'Entladung' Schaden verursacht, ohne Ladungen zu verbrauchen",
+    "text": "'Lavageschossmine' feuert ein zusätzliches Projektil",
     "ids": {
-      "enchant": "stat_1833626118"
+      "enchant": "stat_841281094"
     }
   },
   {
@@ -20488,12 +20506,6 @@
     "text": "#% erhöhter Schaden von 'Flimmerschlag'",
     "ids": {
       "enchant": "stat_464448327"
-    }
-  },
-  {
-    "text": "'Lavageschossmine' feuert ein zusätzliches Projektil",
-    "ids": {
-      "enchant": "stat_841281094"
     }
   },
   {
@@ -20545,12 +20557,6 @@
     }
   },
   {
-    "text": "#% erhöhter Flimmerschlag-Schaden pro Raserei-Ladung",
-    "ids": {
-      "enchant": "stat_3701991680"
-    }
-  },
-  {
     "text": "#% erhöhter Schaden von 'Lavaschlag'",
     "ids": {
       "enchant": "stat_2038865857"
@@ -20575,6 +20581,12 @@
     }
   },
   {
+    "text": "#% Chance, bei Treffer 'Dekret der Klingen' auszulösen",
+    "ids": {
+      "enchant": "stat_165958462"
+    }
+  },
+  {
     "text": "'Spektralschildwurf' feuert ein zusätzliches Splitterprojektil",
     "ids": {
       "enchant": "stat_3608981617"
@@ -20590,6 +20602,12 @@
     "text": "#% erhöhter Schaden von 'Galvanischer Pfeil'",
     "ids": {
       "enchant": "stat_2634945088"
+    }
+  },
+  {
+    "text": "Ring von Schocknova verursacht #% erhöhten Schaden",
+    "ids": {
+      "enchant": "stat_3652051346"
     }
   },
   {
@@ -20620,12 +20638,6 @@
     "text": "#% erhöhte Angriffsgeschwindigkeit von 'Wirbelsturm'",
     "ids": {
       "enchant": "stat_835592326"
-    }
-  },
-  {
-    "text": "#% Chance, bei Treffer 'Erlass des Donners' auszulösen",
-    "ids": {
-      "enchant": "stat_603658709"
     }
   },
   {
@@ -20683,9 +20695,9 @@
     }
   },
   {
-    "text": "#% erhöhte Angriffsgeschwindigkeit von 'Elementartreffer'",
+    "text": "#% Chance, bei Treffer 'Dekret des Sturms' auszulösen",
     "ids": {
-      "enchant": "stat_1151217691"
+      "enchant": "stat_1671985305"
     }
   },
   {
@@ -20701,6 +20713,12 @@
     }
   },
   {
+    "text": "#% erhöhte Angriffsgeschwindigkeit von 'Elementartreffer'",
+    "ids": {
+      "enchant": "stat_1151217691"
+    }
+  },
+  {
     "text": "#% erhöhte kritische Trefferchance von 'Pfeilfächer'",
     "ids": {
       "enchant": "stat_1028884162"
@@ -20710,12 +20728,6 @@
     "text": "Der Schaden von 'Zeichen des Sturms' durchdringt #% Blitzwiderstand des gezeichneten Gegners",
     "ids": {
       "enchant": "stat_3318254108"
-    }
-  },
-  {
-    "text": "#% Chance, bei Treffer 'Dekret der Klingen' auszulösen",
-    "ids": {
-      "enchant": "stat_165958462"
     }
   },
   {
@@ -20737,6 +20749,12 @@
     }
   },
   {
+    "text": "'Verdammung' verursacht #% erhöhten Schaden",
+    "ids": {
+      "enchant": "stat_2206071316"
+    }
+  },
+  {
     "text": "'Altehrwürdiger Kriegshäuptling' gewährt #% erhöhten Nahkampfschaden, während aktiv",
     "ids": {
       "enchant": "stat_3543257184"
@@ -20752,12 +20770,6 @@
     "text": "'Zeichen des Sturms' hat #% Chance, ein zusätzliches Mal zu verketten",
     "ids": {
       "enchant": "stat_1510381560"
-    }
-  },
-  {
-    "text": "Ring von Schocknova verursacht #% erhöhten Schaden",
-    "ids": {
-      "enchant": "stat_3652051346"
     }
   },
   {
@@ -20782,6 +20794,12 @@
     "text": "#% erhöhter Schaden von 'Frostkugel'",
     "ids": {
       "enchant": "stat_2078274993"
+    }
+  },
+  {
+    "text": "#% Chance, 'Dekret der Gruft' auszulösen, wenn Ihr oder Eure Kreaturen töten",
+    "ids": {
+      "enchant": "stat_2187415468"
     }
   },
   {
@@ -20821,15 +20839,15 @@
     }
   },
   {
-    "text": "Verursacht #% des physischen Schadens von 'Brennender Pfeil' als extra Feuerschaden",
-    "ids": {
-      "enchant": "stat_3229580299"
-    }
-  },
-  {
     "text": "#% erhöhter Schaden von 'Erdbeben'",
     "ids": {
       "enchant": "stat_1697080607"
+    }
+  },
+  {
+    "text": "Verursacht #% des physischen Schadens von 'Brennender Pfeil' als extra Feuerschaden",
+    "ids": {
+      "enchant": "stat_3229580299"
     }
   },
   {
@@ -20905,12 +20923,6 @@
     }
   },
   {
-    "text": "'Verdammung' verursacht #% erhöhten Schaden",
-    "ids": {
-      "enchant": "stat_2206071316"
-    }
-  },
-  {
     "text": "#% Chance, bei Treffer 'Dekret des Winters' auszulösen",
     "ids": {
       "enchant": "stat_2515273888"
@@ -20935,15 +20947,21 @@
     }
   },
   {
-    "text": "'Klingenwirbel' hat #% zu Multiplikator für kritische Treffer für jede Klinge",
+    "text": "#% vergrößerter Wirkungsbereich von 'Lavaschlag'",
     "ids": {
-      "enchant": "stat_2583039202"
+      "enchant": "stat_2524620107"
     }
   },
   {
     "text": "#% erhöhte Stärkungswirkung Eurer Steingolems",
     "ids": {
       "enchant": "stat_2284801675"
+    }
+  },
+  {
+    "text": "'Klingenwirbel' hat #% zu Multiplikator für kritische Treffer für jede Klinge",
+    "ids": {
+      "enchant": "stat_2583039202"
     }
   },
   {
@@ -21043,21 +21061,9 @@
     }
   },
   {
-    "text": "#% vergrößerter Wirkungsbereich von 'Lavaschlag'",
-    "ids": {
-      "enchant": "stat_2524620107"
-    }
-  },
-  {
     "text": "#% verlängerte Dauer von 'Fesseln der Zeit'",
     "ids": {
       "enchant": "stat_888039248"
-    }
-  },
-  {
-    "text": "#% Chance, 'Dekret der Gruft' auszulösen, wenn Ihr oder Eure Kreaturen töten",
-    "ids": {
-      "enchant": "stat_2187415468"
     }
   },
   {
@@ -21076,6 +21082,12 @@
     "text": "#% erhöhte Angriffsgeschwindigkeit von 'Pfeilregen'",
     "ids": {
       "enchant": "stat_3825617457"
+    }
+  },
+  {
+    "text": "#% erhöhter Schaden von 'Raserei'",
+    "ids": {
+      "enchant": "stat_522780692"
     }
   },
   {
@@ -21133,15 +21145,15 @@
     }
   },
   {
-    "text": "#% erhöhter Schaden von 'Leichenexplosion'",
-    "ids": {
-      "enchant": "stat_3087527696"
-    }
-  },
-  {
     "text": "#% Chance, bei Treffer 'Dekret des Zorns' auszulösen",
     "ids": {
       "enchant": "stat_2252338738"
+    }
+  },
+  {
+    "text": "#% erhöhter Schaden von 'Leichenexplosion'",
+    "ids": {
+      "enchant": "stat_3087527696"
     }
   },
   {
@@ -21151,9 +21163,9 @@
     }
   },
   {
-    "text": "#% erhöhter Schaden von 'Raserei'",
+    "text": "#% erhöhte kritische Trefferchance von 'Flammenexplosion'",
     "ids": {
-      "enchant": "stat_522780692"
+      "enchant": "stat_3053448465"
     }
   },
   {
@@ -21187,12 +21199,6 @@
     }
   },
   {
-    "text": "#% erhöhte kritische Trefferchance von 'Flammenexplosion'",
-    "ids": {
-      "enchant": "stat_3053448465"
-    }
-  },
-  {
     "text": "#% erhöhte Angriffsgeschwindigkeit von 'Zweifachschlag'",
     "ids": {
       "enchant": "stat_1917107304"
@@ -21223,15 +21229,15 @@
     }
   },
   {
-    "text": "#% erhöhter Schaden von 'Feuerfalle'",
-    "ids": {
-      "enchant": "stat_181307038"
-    }
-  },
-  {
     "text": "#% vergrößerter Wirkungsbereich von 'Frostwelle'",
     "ids": {
       "enchant": "stat_88796379"
+    }
+  },
+  {
+    "text": "#% erhöhter Schaden von 'Feuerfalle'",
+    "ids": {
+      "enchant": "stat_181307038"
     }
   },
   {
@@ -21244,6 +21250,12 @@
     "text": "#% Chance, bei Treffer 'Gebot des Winters' auszulösen",
     "ids": {
       "enchant": "stat_3222886961"
+    }
+  },
+  {
+    "text": "'Explosiver Pfeil' hat #% verlängerte Dauer",
+    "ids": {
+      "enchant": "stat_3590425794"
     }
   },
   {
@@ -21283,15 +21295,15 @@
     }
   },
   {
-    "text": "#% verkürzte Dauer von 'Erdbeben'",
+    "text": "Das primäre Projektil von 'Stechender Stahl' durchbohrt 1 zusätzliches Ziel",
     "ids": {
-      "enchant": "stat_3917881666"
+      "enchant": "stat_3031985694"
     }
   },
   {
-    "text": "Eure Flammenwerfer-Türme verursachen #% erhöhten Schaden",
+    "text": "#% verkürzte Dauer von 'Erdbeben'",
     "ids": {
-      "enchant": "stat_1478321338"
+      "enchant": "stat_3917881666"
     }
   },
   {
@@ -21301,15 +21313,15 @@
     }
   },
   {
-    "text": "'Heftiger Schlag' hat #% Chance, doppelten Schaden zu verursachen",
+    "text": "Eure Flammenwerfer-Türme verursachen #% erhöhten Schaden",
     "ids": {
-      "enchant": "stat_3760588941"
+      "enchant": "stat_1478321338"
     }
   },
   {
-    "text": "Eisgolems verursachen #% erhöhten Schaden",
+    "text": "'Heftiger Schlag' hat #% Chance, doppelten Schaden zu verursachen",
     "ids": {
-      "enchant": "stat_3816405721"
+      "enchant": "stat_3760588941"
     }
   },
   {
@@ -21319,15 +21331,21 @@
     }
   },
   {
-    "text": "#% erhöhte kritische Trefferchance von 'Gewittersphäre'",
+    "text": "Eisgolems verursachen #% erhöhten Schaden",
     "ids": {
-      "enchant": "stat_168538372"
+      "enchant": "stat_3816405721"
     }
   },
   {
-    "text": "Das primäre Projektil von 'Stechender Stahl' durchbohrt 1 zusätzliches Ziel",
+    "text": "#% verlängerte Dauer von 'Verseuchung'",
     "ids": {
-      "enchant": "stat_3031985694"
+      "enchant": "stat_2565809961"
+    }
+  },
+  {
+    "text": "#% erhöhte kritische Trefferchance von 'Gewittersphäre'",
+    "ids": {
+      "enchant": "stat_168538372"
     }
   },
   {
@@ -21379,15 +21397,15 @@
     }
   },
   {
-    "text": "#% vergrößerter Wirkungsbereich von 'Erdbeben'",
-    "ids": {
-      "enchant": "stat_684174846"
-    }
-  },
-  {
     "text": "Erweckte Zombies haben #% zu Elementarwiderständen",
     "ids": {
       "enchant": "stat_2871777604"
+    }
+  },
+  {
+    "text": "#% vergrößerter Wirkungsbereich von 'Erdbeben'",
+    "ids": {
+      "enchant": "stat_684174846"
     }
   },
   {
@@ -21400,6 +21418,12 @@
     "text": "#% Chance, bei Treffer 'Gebot der Flammen' auszulösen",
     "ids": {
       "enchant": "stat_3703722637"
+    }
+  },
+  {
+    "text": "'Sturmexplosion' hat #% Chance, eine zusätzliche Kugel zu erzeugen",
+    "ids": {
+      "enchant": "stat_1898356067"
     }
   },
   {
@@ -21424,12 +21448,6 @@
     "text": "'Explosionsregen' hat #% vergrößerten Wirkungsbereich",
     "ids": {
       "enchant": "stat_574378310"
-    }
-  },
-  {
-    "text": "#% verlängerte Dauer von 'Verseuchung'",
-    "ids": {
-      "enchant": "stat_2565809961"
     }
   },
   {
@@ -21463,15 +21481,21 @@
     }
   },
   {
-    "text": "#% vergrößerter Wirkungsbereich von 'Zerreißen'",
+    "text": "#% beschleunigte Abklingzeit von 'Blitzeis'",
     "ids": {
-      "enchant": "stat_1486490067"
+      "enchant": "stat_2289367813"
     }
   },
   {
     "text": "'Geweihter Pfad' verursacht #% erhöhten Schaden",
     "ids": {
       "enchant": "stat_4047323043"
+    }
+  },
+  {
+    "text": "#% vergrößerter Wirkungsbereich von 'Zerreißen'",
+    "ids": {
+      "enchant": "stat_1486490067"
     }
   },
   {
@@ -21490,6 +21514,12 @@
     "text": "#% erhöhter Schaden von 'Heftiger Schlag'",
     "ids": {
       "enchant": "stat_954135826"
+    }
+  },
+  {
+    "text": "'Belagerungsballiste' hat #% erhöhte Angriffsgeschwindigkeit",
+    "ids": {
+      "enchant": "stat_444858149"
     }
   },
   {
@@ -21535,15 +21565,15 @@
     }
   },
   {
-    "text": "#% vergrößerter Wirkungsbereich von 'Wilder Schlag'",
-    "ids": {
-      "enchant": "stat_524936200"
-    }
-  },
-  {
     "text": "#% erhöhte Angriffsgeschwindigkeit von 'Schildansturm'",
     "ids": {
       "enchant": "stat_648343221"
+    }
+  },
+  {
+    "text": "#% vergrößerter Wirkungsbereich von 'Wilder Schlag'",
+    "ids": {
+      "enchant": "stat_524936200"
     }
   },
   {
@@ -21625,21 +21655,27 @@
     }
   },
   {
+    "text": "#% erhöhter Schaden von 'Schmetterschlag'",
+    "ids": {
+      "enchant": "stat_108883700"
+    }
+  },
+  {
     "text": "#% erhöhte Fluchwirkung von 'Verzweiflung'",
     "ids": {
       "enchant": "stat_3185156108"
     }
   },
   {
-    "text": "Eure Eiskäfig-Türme haben #% verlängerte Dauer",
-    "ids": {
-      "enchant": "stat_1056655244"
-    }
-  },
-  {
     "text": "'Explosiver Tod' verbraucht bis zu # zusätzliche Leiche",
     "ids": {
       "enchant": "stat_3034788766"
+    }
+  },
+  {
+    "text": "Eure Eiskäfig-Türme haben #% verlängerte Dauer",
+    "ids": {
+      "enchant": "stat_1056655244"
     }
   },
   {
@@ -21655,15 +21691,15 @@
     }
   },
   {
-    "text": "Schaden von 'Blitzleiterfalle' durchdringt #% Blitzwiderstand",
-    "ids": {
-      "enchant": "stat_1557531966"
-    }
-  },
-  {
     "text": "#% vergrößerter Wirkungsbereich von 'Magmakugel'",
     "ids": {
       "enchant": "stat_1646093658"
+    }
+  },
+  {
+    "text": "Schaden von 'Blitzleiterfalle' durchdringt #% Blitzwiderstand",
+    "ids": {
+      "enchant": "stat_1557531966"
     }
   },
   {
@@ -21685,9 +21721,9 @@
     }
   },
   {
-    "text": "'Belagerungsballiste' hat #% erhöhte Angriffsgeschwindigkeit",
+    "text": "#% vergrößerter Wirkungsbereich von 'Spalten'",
     "ids": {
-      "enchant": "stat_444858149"
+      "enchant": "stat_3172519570"
     }
   },
   {
@@ -21721,9 +21757,15 @@
     }
   },
   {
-    "text": "#% beschleunigte Abklingzeit von 'Blitzeis'",
+    "text": "#% erhöhter Schaden von 'Feuerschwall'",
     "ids": {
-      "enchant": "stat_2289367813"
+      "enchant": "stat_1491182794"
+    }
+  },
+  {
+    "text": "#% erhöhter Schaden von 'Blitzranken'",
+    "ids": {
+      "enchant": "stat_39356080"
     }
   },
   {
@@ -21736,12 +21778,6 @@
     "text": "Die Anfälligkeit von 'Welle der Verurteilung' wendet #% Elementarwiderstand an",
     "ids": {
       "enchant": "stat_3139672534"
-    }
-  },
-  {
-    "text": "#% erhöhter Schaden von 'Blitzranken'",
-    "ids": {
-      "enchant": "stat_39356080"
     }
   },
   {
@@ -21859,9 +21895,9 @@
     }
   },
   {
-    "text": "'Sturmexplosion' hat #% Chance, eine zusätzliche Kugel zu erzeugen",
+    "text": "#% erhöhter Schaden von 'Schildansturm'",
     "ids": {
-      "enchant": "stat_1898356067"
+      "enchant": "stat_3490662882"
     }
   },
   {
@@ -21874,18 +21910,6 @@
     "text": "#% vergrößerter Wirkungsbereich von 'Blitzeis'",
     "ids": {
       "enchant": "stat_3371538704"
-    }
-  },
-  {
-    "text": "#% erhöhter Schaden von 'Schildansturm'",
-    "ids": {
-      "enchant": "stat_3490662882"
-    }
-  },
-  {
-    "text": "#% erhöhter Schaden von 'Feuerschwall'",
-    "ids": {
-      "enchant": "stat_1491182794"
     }
   },
   {
@@ -21907,6 +21931,12 @@
     }
   },
   {
+    "text": "#% vergrößerter Wirkungsbereich von 'Rundumschlag'",
+    "ids": {
+      "enchant": "stat_4202548383"
+    }
+  },
+  {
     "text": "Steingolems verursachen #% erhöhten Schaden",
     "ids": {
       "enchant": "stat_1171483499"
@@ -21916,18 +21946,6 @@
     "text": "'Stechender Stahl' verursacht #% erhöhten Schaden",
     "ids": {
       "enchant": "stat_2159486200"
-    }
-  },
-  {
-    "text": "#% Chance, bei Treffer 'Dekret des Sturms' auszulösen",
-    "ids": {
-      "enchant": "stat_1671985305"
-    }
-  },
-  {
-    "text": "#% vergrößerter Wirkungsbereich von 'Rundumschlag'",
-    "ids": {
-      "enchant": "stat_4202548383"
     }
   },
   {
@@ -21997,15 +22015,15 @@
     }
   },
   {
-    "text": "#% erhöhter Brandschaden von 'Brandfalle'",
-    "ids": {
-      "enchant": "stat_345703394"
-    }
-  },
-  {
     "text": "#% erhöhter Schaden von 'Kinetische Explosion'",
     "ids": {
       "enchant": "stat_1007135105"
+    }
+  },
+  {
+    "text": "#% erhöhter Brandschaden von 'Brandfalle'",
+    "ids": {
+      "enchant": "stat_345703394"
     }
   },
   {
@@ -22027,21 +22045,27 @@
     }
   },
   {
-    "text": "'Eiskristallmine' hat #% erhöhte Wurfgeschwindigkeit",
-    "ids": {
-      "enchant": "stat_3162144587"
-    }
-  },
-  {
     "text": "'Verkümmern' hat #% vergrößerten Wirkungsbereich",
     "ids": {
       "enchant": "stat_1810898461"
     }
   },
   {
+    "text": "'Eiskristallmine' hat #% erhöhte Wurfgeschwindigkeit",
+    "ids": {
+      "enchant": "stat_3162144587"
+    }
+  },
+  {
     "text": "Stahlhaut-Stärkung kann #% erhöhte Schadensmenge absorbieren",
     "ids": {
       "enchant": "stat_4102483123"
+    }
+  },
+  {
+    "text": "Frostkugel hat #% Chance auf Einfrieren",
+    "ids": {
+      "enchant": "stat_2774873427"
     }
   },
   {
@@ -22060,6 +22084,12 @@
     "text": "#% erhöhter Schaden von 'Exhumieren'",
     "ids": {
       "enchant": "stat_3953599026"
+    }
+  },
+  {
+    "text": "#% erhöhter Schaden von 'Sengendes Band'",
+    "ids": {
+      "enchant": "stat_2298223148"
     }
   },
   {
@@ -22123,21 +22153,15 @@
     }
   },
   {
-    "text": "Feuerball entzündet immer",
-    "ids": {
-      "enchant": "stat_2098790581"
-    }
-  },
-  {
     "text": "'Knochenopfer' gewährt zusätzlich #% Chance, Angriffsschaden zu blocken",
     "ids": {
       "enchant": "stat_3233607638"
     }
   },
   {
-    "text": "'Wintersphäre' hat +# maximale Phasen",
+    "text": "Feuerball entzündet immer",
     "ids": {
-      "enchant": "stat_3734339018"
+      "enchant": "stat_2098790581"
     }
   },
   {
@@ -22147,21 +22171,27 @@
     }
   },
   {
+    "text": "'Wintersphäre' hat +# maximale Phasen",
+    "ids": {
+      "enchant": "stat_3734339018"
+    }
+  },
+  {
     "text": "Beschworene Todesskorpione feuern # zusätzliches Projektil",
     "ids": {
       "enchant": "stat_155429578"
     }
   },
   {
-    "text": "#% verlängerte Dauer von 'Verwundbarkeit'",
-    "ids": {
-      "enchant": "stat_3229878341"
-    }
-  },
-  {
     "text": "#% vergrößerter Wirkungsbereich von 'Schmetterschlag'",
     "ids": {
       "enchant": "stat_3061969105"
+    }
+  },
+  {
+    "text": "#% verlängerte Dauer von 'Verwundbarkeit'",
+    "ids": {
+      "enchant": "stat_3229878341"
     }
   },
   {
@@ -22186,6 +22216,12 @@
     "text": "#% erhöhter Schaden von 'Höllenschlag'",
     "ids": {
       "enchant": "stat_242838571"
+    }
+  },
+  {
+    "text": "'Kobraschlag' hat #% erhöhte Projektilgeschwindigkeit",
+    "ids": {
+      "enchant": "stat_732631533"
     }
   },
   {
@@ -22249,15 +22285,15 @@
     }
   },
   {
-    "text": "#% Chance, bei kritischem Treffer mit Eisspeer eine Energie-Ladung zu erhalten",
-    "ids": {
-      "enchant": "stat_3232905239"
-    }
-  },
-  {
     "text": "'Kriegsbanner' hat #% erhöhte Aurawirkung",
     "ids": {
       "enchant": "stat_2592211591"
+    }
+  },
+  {
+    "text": "#% Chance, bei kritischem Treffer mit Eisspeer eine Energie-Ladung zu erhalten",
+    "ids": {
+      "enchant": "stat_3232905239"
     }
   },
   {
@@ -22297,15 +22333,15 @@
     }
   },
   {
-    "text": "Schaden von 'Eisfalle' durchdringt #% Kältewiderstand",
-    "ids": {
-      "enchant": "stat_3698446010"
-    }
-  },
-  {
     "text": "'Zerschmettern' verursacht #% erhöhten Schaden",
     "ids": {
       "enchant": "stat_3901016205"
+    }
+  },
+  {
+    "text": "Schaden von 'Eisfalle' durchdringt #% Kältewiderstand",
+    "ids": {
+      "enchant": "stat_3698446010"
     }
   },
   {
@@ -22315,27 +22351,21 @@
     }
   },
   {
-    "text": "#% verlängerte Dauer von 'Mal des Assassinen'",
-    "ids": {
-      "enchant": "stat_1609523492"
-    }
-  },
-  {
     "text": "'Perforieren' erzeugt # Speer",
     "ids": {
       "enchant": "stat_760606760"
     }
   },
   {
-    "text": "#% beschleunigte Abklingzeit von 'Flammenspurt'",
+    "text": "#% verlängerte Dauer von 'Mal des Assassinen'",
     "ids": {
-      "enchant": "stat_1440798870"
+      "enchant": "stat_1609523492"
     }
   },
   {
-    "text": "#% erhöhter Schaden von 'Sengendes Band'",
+    "text": "#% beschleunigte Abklingzeit von 'Flammenspurt'",
     "ids": {
-      "enchant": "stat_2298223148"
+      "enchant": "stat_1440798870"
     }
   },
   {
@@ -22369,15 +22399,15 @@
     }
   },
   {
-    "text": "Von Euren beschwörenden Türmen beschworene Kreaturen haben #% erhöhten Schaden",
-    "ids": {
-      "enchant": "stat_850390248"
-    }
-  },
-  {
     "text": "#% erhöhter Schaden von 'Geladener Schild'",
     "ids": {
       "enchant": "stat_2121581717"
+    }
+  },
+  {
+    "text": "Von Euren beschwörenden Türmen beschworene Kreaturen haben #% erhöhten Schaden",
+    "ids": {
+      "enchant": "stat_850390248"
     }
   },
   {
@@ -22453,15 +22483,15 @@
     }
   },
   {
-    "text": "#% erhöhter Schaden von 'Gegenschlag'",
-    "ids": {
-      "enchant": "stat_4071708873"
-    }
-  },
-  {
     "text": "'Kugelblitz' feuert ein zusätzliches Projektil",
     "ids": {
       "enchant": "stat_3420683028"
+    }
+  },
+  {
+    "text": "#% erhöhter Schaden von 'Gegenschlag'",
+    "ids": {
+      "enchant": "stat_4071708873"
     }
   },
   {
@@ -22513,15 +22543,15 @@
     }
   },
   {
-    "text": "Teleportpfeil und Teleportpfeil-Klone haben #% erhöhte Angriffsgeschwindigkeit",
-    "ids": {
-      "enchant": "stat_1554597333"
-    }
-  },
-  {
     "text": "#% erhöhter Schaden von 'Doppelschlag'",
     "ids": {
       "enchant": "stat_1809965314"
+    }
+  },
+  {
+    "text": "Teleportpfeil und Teleportpfeil-Klone haben #% erhöhte Angriffsgeschwindigkeit",
+    "ids": {
+      "enchant": "stat_1554597333"
     }
   },
   {
@@ -22549,15 +22579,15 @@
     }
   },
   {
-    "text": "#% erhöhte Fluchwirkung von 'Bestrafung'",
-    "ids": {
-      "enchant": "stat_2844206732"
-    }
-  },
-  {
     "text": "Beschworene Heilige Relikte verursachen #% erhöhten Schaden",
     "ids": {
       "enchant": "stat_1152784934"
+    }
+  },
+  {
+    "text": "#% erhöhte Fluchwirkung von 'Bestrafung'",
+    "ids": {
+      "enchant": "stat_2844206732"
     }
   },
   {
@@ -22633,21 +22663,27 @@
     }
   },
   {
-    "text": "#% vergrößerter Wirkungsbereich von 'Klingenhagel'",
-    "ids": {
-      "enchant": "stat_2413715772"
-    }
-  },
-  {
     "text": "#% erhöhte Zaubergeschwindigkeit von 'Blitzteleportation'",
     "ids": {
       "enchant": "stat_1347575155"
     }
   },
   {
+    "text": "#% vergrößerter Wirkungsbereich von 'Klingenhagel'",
+    "ids": {
+      "enchant": "stat_2413715772"
+    }
+  },
+  {
     "text": "'Seuchenschlag' hat #% verlängerte Dauer",
     "ids": {
       "enchant": "stat_64670441"
+    }
+  },
+  {
+    "text": "#% beschleunigte Abklingzeit von 'Abrechnung'",
+    "ids": {
+      "enchant": "stat_804983774"
     }
   },
   {
@@ -22693,12 +22729,6 @@
     }
   },
   {
-    "text": "#% vergrößerter Wirkungsbereich von 'Spalten'",
-    "ids": {
-      "enchant": "stat_3172519570"
-    }
-  },
-  {
     "text": "#% vergrößerter Wirkungsbereich von 'Arktischer Odem'",
     "ids": {
       "enchant": "stat_3816022821"
@@ -22717,9 +22747,9 @@
     }
   },
   {
-    "text": "'Kobraschlag' hat #% erhöhte Projektilgeschwindigkeit",
+    "text": "#% zu Elementarwiderständen von Steingolem",
     "ids": {
-      "enchant": "stat_732631533"
+      "enchant": "stat_1601558321"
     }
   },
   {
@@ -22729,9 +22759,9 @@
     }
   },
   {
-    "text": "#% zu Elementarwiderständen von Steingolem",
+    "text": "Wirbel hat #% vergrößerten Wirkungsbereich beim Zaubern ausgehend von einer Frostkugel",
     "ids": {
-      "enchant": "stat_1601558321"
+      "enchant": "stat_2295263113"
     }
   },
   {
@@ -22741,9 +22771,9 @@
     }
   },
   {
-    "text": "Wirbel hat #% vergrößerten Wirkungsbereich beim Zaubern ausgehend von einer Frostkugel",
+    "text": "'Schrapnell-Balliste' hat #% erhöhte Projektilgeschwindigkeit",
     "ids": {
-      "enchant": "stat_2295263113"
+      "enchant": "stat_1213017413"
     }
   },
   {
@@ -22753,21 +22783,9 @@
     }
   },
   {
-    "text": "'Schrapnell-Balliste' hat #% erhöhte Projektilgeschwindigkeit",
-    "ids": {
-      "enchant": "stat_1213017413"
-    }
-  },
-  {
     "text": "'Flammenwerferfalle' hat eine zusätzliche Flamme",
     "ids": {
       "enchant": "stat_1452255482"
-    }
-  },
-  {
-    "text": "Frostkugel hat #% Chance auf Einfrieren",
-    "ids": {
-      "enchant": "stat_2774873427"
     }
   },
   {
@@ -22933,6 +22951,18 @@
     }
   },
   {
+    "text": "'Kettenhaken' verursacht #% erhöhten Schaden",
+    "ids": {
+      "enchant": "stat_289027663"
+    }
+  },
+  {
+    "text": "'Seismische Falle' verursacht #% erhöhten Schaden",
+    "ids": {
+      "enchant": "stat_1175282728"
+    }
+  },
+  {
     "text": "#% verlängerte Dauer von 'Frostmauer'",
     "ids": {
       "enchant": "stat_775034903"
@@ -23038,12 +23068,6 @@
     "text": "#% verlängerte Dauer von 'Feuerregen'",
     "ids": {
       "enchant": "stat_1691710359"
-    }
-  },
-  {
-    "text": "'Seismische Falle' verursacht #% erhöhten Schaden",
-    "ids": {
-      "enchant": "stat_1175282728"
     }
   },
   {
@@ -23161,12 +23185,6 @@
     }
   },
   {
-    "text": "#% beschleunigte Abklingzeit von 'Abrechnung'",
-    "ids": {
-      "enchant": "stat_804983774"
-    }
-  },
-  {
     "text": "#% erhöhte Platzierungsgeschwindigkeit von 'Altehrwürdiger Beschützer'",
     "ids": {
       "enchant": "stat_592861938"
@@ -23275,12 +23293,6 @@
     }
   },
   {
-    "text": "#% erhöhter Schaden von 'Schmetterschlag'",
-    "ids": {
-      "enchant": "stat_108883700"
-    }
-  },
-  {
     "text": "#% verlängerte Dauer von Beherrschten Wächtern",
     "ids": {
       "enchant": "stat_3772643988"
@@ -23335,12 +23347,6 @@
     }
   },
   {
-    "text": "'Explosiver Pfeil' hat #% verlängerte Dauer",
-    "ids": {
-      "enchant": "stat_3590425794"
-    }
-  },
-  {
     "text": "'Lavaschilde' hat #% verlängerte Fertigkeitseffektdauer",
     "ids": {
       "enchant": "stat_4255043252"
@@ -23383,6 +23389,12 @@
     }
   },
   {
+    "text": "Giftwirbel' hat #% Chance, eingefangene Projektile zu behalten, die mit 'Wirbelnde Klingen' abgefeuert werden",
+    "ids": {
+      "enchant": "stat_2563177940"
+    }
+  },
+  {
     "text": "'Seismische Falle' hat #% beschleunigte Abklingzeit",
     "ids": {
       "enchant": "stat_3618430531"
@@ -23407,15 +23419,15 @@
     }
   },
   {
-    "text": "Die Projektile von 'Artillerie-Balliste' fallen stattdessen in zwei senkrechten Linien",
-    "ids": {
-      "enchant": "stat_2056176052"
-    }
-  },
-  {
     "text": "'Entkräftungsfalle' hat #% erhöhte Unterkühlungswirkung",
     "ids": {
       "enchant": "stat_2530563277"
+    }
+  },
+  {
+    "text": "Die Projektile von 'Artillerie-Balliste' fallen stattdessen in zwei senkrechten Linien",
+    "ids": {
+      "enchant": "stat_2056176052"
     }
   },
   {
@@ -23425,27 +23437,21 @@
     }
   },
   {
-    "text": "#% erhöhter Schaden von 'Verbrennen' für jede Phase",
-    "ids": {
-      "enchant": "stat_4151555126"
-    }
-  },
-  {
     "text": "Von Euren Wachtürmen beschworene Kreaturen haben #% erhöhten Schaden",
     "ids": {
       "enchant": "stat_2013536039"
     }
   },
   {
-    "text": "'Gewittersphäre' hat #% erhöhte Zaubergeschwindigkeit",
+    "text": "#% erhöhter Schaden von 'Verbrennen' für jede Phase",
     "ids": {
-      "enchant": "stat_2778301298"
+      "enchant": "stat_4151555126"
     }
   },
   {
-    "text": "'Kettenhaken' verursacht #% erhöhten Schaden",
+    "text": "'Gewittersphäre' hat #% erhöhte Zaubergeschwindigkeit",
     "ids": {
-      "enchant": "stat_289027663"
+      "enchant": "stat_2778301298"
     }
   },
   {
@@ -23512,12 +23518,6 @@
     "text": "'Gewittersturmmine' hat #% erhöhte Wurfgeschwindigkeit",
     "ids": {
       "enchant": "stat_321894708"
-    }
-  },
-  {
-    "text": "Giftwirbel' hat #% Chance, eingefangene Projektile zu behalten, die mit 'Wirbelnde Klingen' abgefeuert werden",
-    "ids": {
-      "enchant": "stat_2563177940"
     }
   },
   {
@@ -23761,6 +23761,12 @@
     }
   },
   {
+    "text": "Eure Sturmgewitter-Türme verursachen #% erhöhten Schaden",
+    "ids": {
+      "enchant": "stat_1960580674"
+    }
+  },
+  {
     "text": "#% erhöhte Zaubergeschwindigkeit von 'Feuernova'",
     "ids": {
       "enchant": "stat_3211417111"
@@ -23785,15 +23791,15 @@
     }
   },
   {
-    "text": "#% erhöhter Schaden von 'Lavaschilde'",
-    "ids": {
-      "enchant": "stat_815390778"
-    }
-  },
-  {
     "text": "'Blitzleiterfalle' hat #% erhöhte Zaubergeschwindigkeit",
     "ids": {
       "enchant": "stat_535507671"
+    }
+  },
+  {
+    "text": "#% erhöhter Schaden von 'Lavaschilde'",
+    "ids": {
+      "enchant": "stat_815390778"
     }
   },
   {
@@ -23806,12 +23812,6 @@
     "text": "#% vergrößerter Wirkungsbereich von 'Vortex'",
     "ids": {
       "enchant": "stat_1730614496"
-    }
-  },
-  {
-    "text": "Eure Sturmgewitter-Türme verursachen #% erhöhten Schaden",
-    "ids": {
-      "enchant": "stat_1960580674"
     }
   },
   {
@@ -23845,6 +23845,12 @@
     }
   },
   {
+    "text": "Spieler erleiden keinen reflektierten Schaden",
+    "ids": {
+      "enchant": "stat_3151377452"
+    }
+  },
+  {
     "text": "Durch 'Beherrschender Schlag' beschworene Streiter verursachen #% erhöhten Schaden",
     "ids": {
       "enchant": "stat_4040760803"
@@ -23854,6 +23860,12 @@
     "text": "Eure verlangsamenden Türme haben #% erhöhte Wirkung",
     "ids": {
       "enchant": "stat_2109921176"
+    }
+  },
+  {
+    "text": "Eure Lichtbogen-Türme haben #% erhöhte Reichweite",
+    "ids": {
+      "enchant": "stat_1572544406"
     }
   },
   {
@@ -23893,6 +23905,12 @@
     }
   },
   {
+    "text": "Gebiet enthält # zusätzliche Gruppen von verderbten Vaal-Monstern",
+    "ids": {
+      "enchant": "stat_1867024035"
+    }
+  },
+  {
     "text": "Weist zu: # (zusätzlich)",
     "ids": {
       "enchant": "stat_3459808765"
@@ -23911,21 +23929,9 @@
     }
   },
   {
-    "text": "Eure Lichtbogen-Türme haben #% erhöhte Reichweite",
-    "ids": {
-      "enchant": "stat_1572544406"
-    }
-  },
-  {
     "text": "'Giftwirbel' verursacht #% erhöhten Schaden",
     "ids": {
       "enchant": "stat_1404787106"
-    }
-  },
-  {
-    "text": "Gebiet enthält # zusätzliche Gruppen von verderbten Vaal-Monstern",
-    "ids": {
-      "enchant": "stat_1867024035"
     }
   },
   {
@@ -24055,15 +24061,15 @@
     }
   },
   {
-    "text": "Gebiet enthält # zusätzliche Monstergruppen, die bei Tötung bekehrt werden",
-    "ids": {
-      "enchant": "stat_249139784"
-    }
-  },
-  {
     "text": "Gebiet enthält # zusätzliche Gruppen von regenerierenden Monstern",
     "ids": {
       "enchant": "stat_3059368202"
+    }
+  },
+  {
+    "text": "Gebiet enthält # zusätzliche Monstergruppen, die bei Tötung bekehrt werden",
+    "ids": {
+      "enchant": "stat_249139784"
     }
   },
   {
@@ -24229,15 +24235,15 @@
     }
   },
   {
-    "text": "Monster aus Tresoren haben #% erhöhte Menge an Gegenständen",
-    "ids": {
-      "enchant": "stat_1854137416"
-    }
-  },
-  {
     "text": "Eure Gewittersturm-Türme haben #% erhöhte Reichweite",
     "ids": {
       "enchant": "stat_1789548201"
+    }
+  },
+  {
+    "text": "Monster aus Tresoren haben #% erhöhte Menge an Gegenständen",
+    "ids": {
+      "enchant": "stat_1854137416"
     }
   },
   {
@@ -24397,15 +24403,15 @@
     }
   },
   {
-    "text": "Einzigartiger Boss lässt zusätzliche Währungsscherben fallen",
-    "ids": {
-      "enchant": "stat_1508220097"
-    }
-  },
-  {
     "text": "'Explosiver Tod' verbraucht bis zu 1 zusätzliche Leiche",
     "ids": {
       "enchant": "stat_4006050359"
+    }
+  },
+  {
+    "text": "Einzigartiger Boss lässt zusätzliche Währungsscherben fallen",
+    "ids": {
+      "enchant": "stat_1508220097"
     }
   },
   {
@@ -24415,15 +24421,21 @@
     }
   },
   {
-    "text": "Eure Sturmgewitter-Türme haben #% erhöhte Einschlagverzögerung",
+    "text": "Abtrünnige Verbannte haben #% erhöhtes maximales Leben",
     "ids": {
-      "enchant": "stat_197351228"
+      "enchant": "stat_471027242"
     }
   },
   {
     "text": "Eure verstärkenden Türme gewähren auch #% erhöhte Zaubergeschwindigkeit",
     "ids": {
       "enchant": "stat_3564606017"
+    }
+  },
+  {
+    "text": "Eure Sturmgewitter-Türme haben #% erhöhte Einschlagverzögerung",
+    "ids": {
+      "enchant": "stat_197351228"
     }
   },
   {
@@ -24469,15 +24481,15 @@
     }
   },
   {
-    "text": "Von Euren Spähtürmen beschworene Kreaturen haben #% erhöhte Bewegungsgeschwindigkeit",
-    "ids": {
-      "enchant": "stat_971955285"
-    }
-  },
-  {
     "text": "Einzigartiger Boss lässt # zusätzlichen einzigartigen Gegenstand fallen",
     "ids": {
       "enchant": "stat_3760667977"
+    }
+  },
+  {
+    "text": "Von Euren Spähtürmen beschworene Kreaturen haben #% erhöhte Bewegungsgeschwindigkeit",
+    "ids": {
+      "enchant": "stat_971955285"
     }
   },
   {
@@ -24529,6 +24541,12 @@
     }
   },
   {
+    "text": "Gebiet enthält einen zusätzlichen Gequälten Grabräuber",
+    "ids": {
+      "enchant": "stat_1463704577"
+    }
+  },
+  {
     "text": "Einzigartige Bosse von verderbten Karten lassen einen zusätzlichen Vaal-Gegenstand fallen",
     "ids": {
       "enchant": "stat_2747603858"
@@ -24538,12 +24556,6 @@
     "text": "Die ersten 3 besessenen Monster haben #% Chance, einen zusätzlichen einzigartigen Gegenstand fallen zu lassen",
     "ids": {
       "enchant": "stat_2392278281"
-    }
-  },
-  {
-    "text": "Gebiet enthält einen zusätzlichen Gequälten Grabräuber",
-    "ids": {
-      "enchant": "stat_1463704577"
     }
   },
   {
@@ -24565,12 +24577,6 @@
     }
   },
   {
-    "text": "Einzigartige Monster lassen verderbte Gegenstände fallen",
-    "ids": {
-      "enchant": "stat_804187877"
-    }
-  },
-  {
     "text": "Eure verlangsamenden Türme gewähren auch #% verringerte Aktionsgeschwindigkeit",
     "ids": {
       "enchant": "stat_3198887051"
@@ -24583,15 +24589,15 @@
     }
   },
   {
-    "text": "Vorboten lassen zusätzliche Währungsscherben fallen",
+    "text": "Einzigartige Monster lassen verderbte Gegenstände fallen",
     "ids": {
-      "enchant": "stat_906446422"
+      "enchant": "stat_804187877"
     }
   },
   {
-    "text": "Die Wirkung Eurer verlangsamenden Türme vergeht #% schneller",
+    "text": "Vorboten lassen zusätzliche Währungsscherben fallen",
     "ids": {
-      "enchant": "stat_4024383498"
+      "enchant": "stat_906446422"
     }
   },
   {
@@ -24601,9 +24607,9 @@
     }
   },
   {
-    "text": "Eure Schocknova-Türme haben #% vergrößerten Wirkungsbereich pro Wiederholung",
+    "text": "Die Wirkung Eurer verlangsamenden Türme vergeht #% schneller",
     "ids": {
-      "enchant": "stat_21144785"
+      "enchant": "stat_4024383498"
     }
   },
   {
@@ -24613,27 +24619,9 @@
     }
   },
   {
-    "text": "Eure Schocknova-Türme haben #% erhöhte Schockwirkung",
+    "text": "Eure Schocknova-Türme haben #% vergrößerten Wirkungsbereich pro Wiederholung",
     "ids": {
-      "enchant": "stat_439316158"
-    }
-  },
-  {
-    "text": "Die Qualität dieser Karte trifft auch auf die Seltenheit gefundener Gegenstände zu",
-    "ids": {
-      "enchant": "stat_4265846487"
-    }
-  },
-  {
-    "text": "Die ersten 3 besessenen Monster haben #% Chance, einen zusätzlichen verrosteten Skarabäus fallen zu lassen",
-    "ids": {
-      "enchant": "stat_3789079511"
-    }
-  },
-  {
-    "text": "Eure seismischen Türme haben eine zusätzliche Kaskade",
-    "ids": {
-      "enchant": "stat_3094610721"
+      "enchant": "stat_21144785"
     }
   },
   {
@@ -24643,9 +24631,33 @@
     }
   },
   {
+    "text": "Die Qualität dieser Karte trifft auch auf die Seltenheit gefundener Gegenstände zu",
+    "ids": {
+      "enchant": "stat_4265846487"
+    }
+  },
+  {
+    "text": "Eure Schocknova-Türme haben #% erhöhte Schockwirkung",
+    "ids": {
+      "enchant": "stat_439316158"
+    }
+  },
+  {
+    "text": "Eure seismischen Türme haben eine zusätzliche Kaskade",
+    "ids": {
+      "enchant": "stat_3094610721"
+    }
+  },
+  {
     "text": "Gebiete können Abgründe enthalten",
     "ids": {
       "enchant": "stat_3564826949"
+    }
+  },
+  {
+    "text": "Die ersten 3 besessenen Monster haben #% Chance, einen zusätzlichen verrosteten Skarabäus fallen zu lassen",
+    "ids": {
+      "enchant": "stat_3789079511"
     }
   },
   {
@@ -24661,15 +24673,15 @@
     }
   },
   {
-    "text": "Seltene Karten enthalten # zusätzliche Gruppen seltener Monster",
+    "text": "Gebiet enthält # zusätzliche Gruppen giftiger Monster",
     "ids": {
-      "enchant": "stat_3672378181"
+      "enchant": "stat_3094365680"
     }
   },
   {
-    "text": "Gebiet enthält einen zusätzliche Essenz",
+    "text": "Spieler erhalten bei Tötung eine zusätzliche Vaal-Seele",
     "ids": {
-      "enchant": "stat_395808938"
+      "enchant": "stat_3416709884"
     }
   },
   {
@@ -24679,15 +24691,33 @@
     }
   },
   {
-    "text": "Gebiet enthält # zusätzliche Gruppen giftiger Monster",
+    "text": "Seltene Karten enthalten # zusätzliche Gruppen seltener Monster",
     "ids": {
-      "enchant": "stat_3094365680"
+      "enchant": "stat_3672378181"
     }
   },
   {
-    "text": "Abtrünnige Verbannte haben #% erhöhtes maximales Leben",
+    "text": "Lebens- und Manawiederherstellung des Spielers durch Fläschchen erfolgt sofort",
     "ids": {
-      "enchant": "stat_471027242"
+      "enchant": "stat_3137138073"
+    }
+  },
+  {
+    "text": "#% erhöhter Schaden von 'Altehrwürdiger Schwertmeister'",
+    "ids": {
+      "enchant": "stat_4166834934"
+    }
+  },
+  {
+    "text": "Gebiet hat pro verwendetem Tödlichem Fragment #% Chance, Gaben der Roten Königin zu enthalten",
+    "ids": {
+      "enchant": "stat_1076056376"
+    }
+  },
+  {
+    "text": "Gebiet enthält einen zusätzliche Essenz",
+    "ids": {
+      "enchant": "stat_395808938"
     }
   },
   {
@@ -24703,45 +24733,15 @@
     }
   },
   {
-    "text": "Lebens- und Manawiederherstellung des Spielers durch Fläschchen erfolgt sofort",
-    "ids": {
-      "enchant": "stat_3137138073"
-    }
-  },
-  {
-    "text": "Gebiet hat pro verwendetem Tödlichem Fragment #% Chance, Gaben der Roten Königin zu enthalten",
-    "ids": {
-      "enchant": "stat_1076056376"
-    }
-  },
-  {
-    "text": "#% erhöhter Schaden von 'Altehrwürdiger Schwertmeister'",
-    "ids": {
-      "enchant": "stat_4166834934"
-    }
-  },
-  {
-    "text": "Spieler erhalten bei Tötung eine zusätzliche Vaal-Seele",
-    "ids": {
-      "enchant": "stat_3416709884"
-    }
-  },
-  {
-    "text": "Fallen gelassene Gegenstände von verderbten Vaal-Monstern haben #% Chance, verderbt zu sein",
-    "ids": {
-      "enchant": "stat_3045497140"
-    }
-  },
-  {
     "text": "Gebiet ist verlockend",
     "ids": {
       "enchant": "stat_2862290356"
     }
   },
   {
-    "text": "Spieler erleiden keinen reflektierten Schaden",
+    "text": "Fallen gelassene Gegenstände von verderbten Vaal-Monstern haben #% Chance, verderbt zu sein",
     "ids": {
-      "enchant": "stat_3151377452"
+      "enchant": "stat_3045497140"
     }
   },
   {
@@ -24793,15 +24793,15 @@
     }
   },
   {
-    "text": "#% zu Multiplikator für kritische Treffer, während sich ein seltener oder einzigartiger Gegner im Umkreis befindet",
-    "ids": {
-      "crafted": "stat_3992439283"
-    }
-  },
-  {
     "text": "Schockt Gegner im Umkreis für # Sekunden, wenn Ihr Fokus erhaltet",
     "ids": {
       "crafted": "stat_3031766858"
+    }
+  },
+  {
+    "text": "#% zu Multiplikator für kritische Treffer, während sich ein seltener oder einzigartiger Gegner im Umkreis befindet",
+    "ids": {
+      "crafted": "stat_3992439283"
     }
   },
   {
@@ -24811,15 +24811,21 @@
     }
   },
   {
+    "text": "#% Chance, 'Blutrausch' Stufe 1 auszulösen, wenn Ihr einen Gegner tötet",
+    "ids": {
+      "crafted": "stat_205619502"
+    }
+  },
+  {
     "text": "#% erhöhte kritische Trefferchance während Fläschchenwirkung",
     "ids": {
       "crafted": "stat_2008255263"
     }
   },
   {
-    "text": "#% Chance, 'Blutrausch' Stufe 1 auszulösen, wenn Ihr einen Gegner tötet",
+    "text": "#% erhöhte Angriffsgeschwindigkeit, während sich ein seltener oder einzigartiger Gegner im Umkreis befindet",
     "ids": {
-      "crafted": "stat_205619502"
+      "crafted": "stat_314741699"
     }
   },
   {
@@ -24832,12 +24838,6 @@
     "text": "Fügt # bis # Chaosschaden hinzu, wenn Ihr kürzlich einen kritischen Treffer gelandet habt",
     "ids": {
       "crafted": "stat_2523334466"
-    }
-  },
-  {
-    "text": "#% erhöhte Angriffsgeschwindigkeit, während sich ein seltener oder einzigartiger Gegner im Umkreis befindet",
-    "ids": {
-      "crafted": "stat_314741699"
     }
   },
   {
@@ -24877,6 +24877,12 @@
     }
   },
   {
+    "text": "# zu Rüstung während der 'Kein Seelenerhalt'-Dauer",
+    "ids": {
+      "crafted": "stat_1539825365"
+    }
+  },
+  {
     "text": "#% Chance, Angriffstreffern zu entgehen, während Ihr fokussiert seid",
     "ids": {
       "crafted": "stat_2590156965"
@@ -24886,12 +24892,6 @@
     "text": "Regeneriert #% des Lebens pro Sekunde während beliebiger Fläschchenwirkung",
     "ids": {
       "crafted": "stat_3500911418"
-    }
-  },
-  {
-    "text": "# zu Rüstung während der 'Kein Seelenerhalt'-Dauer",
-    "ids": {
-      "crafted": "stat_1539825365"
     }
   },
   {
@@ -25075,6 +25075,12 @@
     }
   },
   {
+    "text": "von Aislings Verhüllung",
+    "ids": {
+      "veiled": "mod_48007"
+    }
+  },
+  {
     "text": "von Jorgins Verhüllung",
     "ids": {
       "veiled": "mod_62955"
@@ -25090,12 +25096,6 @@
     "text": "Catarinas verhüllter",
     "ids": {
       "veiled": "mod_63772"
-    }
-  },
-  {
-    "text": "von Aislings Verhüllung",
-    "ids": {
-      "veiled": "mod_48007"
     }
   },
   {
@@ -25135,6 +25135,12 @@
     }
   },
   {
+    "text": "Rins verhüllter",
+    "ids": {
+      "veiled": "mod_6131"
+    }
+  },
+  {
     "text": "Hakus verhüllter",
     "ids": {
       "veiled": "mod_39023"
@@ -25144,12 +25150,6 @@
     "text": "Toras verhüllter",
     "ids": {
       "veiled": "mod_8541"
-    }
-  },
-  {
-    "text": "Rins verhüllter",
-    "ids": {
-      "veiled": "mod_6131"
     }
   },
   {
@@ -25261,15 +25261,15 @@
     }
   },
   {
-    "text": "Drops additional Legion Incubators",
-    "ids": {
-      "monster": "metamorph_reward_legion_incubators"
-    }
-  },
-  {
     "text": "Drops an Enchanted Helmet",
     "ids": {
       "monster": "metamorph_reward_enchanted_helmet"
+    }
+  },
+  {
+    "text": "Drops additional Legion Incubators",
+    "ids": {
+      "monster": "metamorph_reward_legion_incubators"
     }
   },
   {
@@ -25477,15 +25477,15 @@
     }
   },
   {
-    "text": "Drops a Talisman Unique Item",
-    "ids": {
-      "monster": "metamorph_reward_talisman_unique"
-    }
-  },
-  {
     "text": "Drops Itemised Prophecies",
     "ids": {
       "monster": "metamorph_reward_prophecies"
+    }
+  },
+  {
+    "text": "Drops a Talisman Unique Item",
+    "ids": {
+      "monster": "metamorph_reward_talisman_unique"
     }
   },
   {

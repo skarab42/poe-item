@@ -962,6 +962,15 @@
     }
   },
   {
+    "text": "#% al Multiplicador Global de Golpe Crítico",
+    "ids": {
+      "explicit": "stat_3556824919",
+      "implicit": "stat_3556824919",
+      "fractured": "stat_3556824919",
+      "crafted": "stat_3556824919"
+    }
+  },
+  {
     "text": "Índice de Regeneración de Maná aumentada un #%",
     "ids": {
       "explicit": "stat_789117908",
@@ -995,15 +1004,6 @@
       "implicit": "stat_4052037485",
       "fractured": "stat_4052037485",
       "crafted": "stat_4052037485"
-    }
-  },
-  {
-    "text": "#% al Multiplicador Global de Golpe Crítico",
-    "ids": {
-      "explicit": "stat_3556824919",
-      "implicit": "stat_3556824919",
-      "fractured": "stat_3556824919",
-      "crafted": "stat_3556824919"
     }
   },
   {
@@ -1096,6 +1096,14 @@
     }
   },
   {
+    "text": "# de Evasión",
+    "ids": {
+      "explicit": "stat_2144192055",
+      "fractured": "stat_2144192055",
+      "crafted": "stat_2144192055"
+    }
+  },
+  {
     "text": "Evasión aumentada un #% (Local)",
     "ids": {
       "explicit": "stat_124859000",
@@ -1166,14 +1174,6 @@
     }
   },
   {
-    "text": "# de Evasión",
-    "ids": {
-      "explicit": "stat_2144192055",
-      "fractured": "stat_2144192055",
-      "crafted": "stat_2144192055"
-    }
-  },
-  {
     "text": "Duración de Aturdimiento en Enemigos aumentada un #%",
     "ids": {
       "explicit": "stat_2517001139",
@@ -1236,6 +1236,14 @@
     }
   },
   {
+    "text": "Armadura y Evasión aumentados un #% (Local)",
+    "ids": {
+      "explicit": "stat_2451402625",
+      "fractured": "stat_2451402625",
+      "crafted": "stat_2451402625"
+    }
+  },
+  {
     "text": "Radio de Iluminación aumentado un #%",
     "ids": {
       "explicit": "stat_1263695895",
@@ -1250,14 +1258,6 @@
       "implicit": "stat_3237948413",
       "fractured": "stat_3237948413",
       "crafted": "stat_3237948413"
-    }
-  },
-  {
-    "text": "Armadura y Evasión aumentados un #% (Local)",
-    "ids": {
-      "explicit": "stat_2451402625",
-      "fractured": "stat_2451402625",
-      "crafted": "stat_2451402625"
     }
   },
   {
@@ -1357,21 +1357,21 @@
     }
   },
   {
-    "text": "Daño Degenerativo aumentado un #%",
-    "ids": {
-      "explicit": "stat_967627487",
-      "implicit": "stat_967627487",
-      "fractured": "stat_967627487",
-      "crafted": "stat_967627487"
-    }
-  },
-  {
     "text": "Daño aumentado un #%",
     "ids": {
       "explicit": "stat_2154246560",
       "implicit": "stat_2154246560",
       "fractured": "stat_2154246560",
       "crafted": "stat_2154246560"
+    }
+  },
+  {
+    "text": "Daño Degenerativo aumentado un #%",
+    "ids": {
+      "explicit": "stat_967627487",
+      "implicit": "stat_967627487",
+      "fractured": "stat_967627487",
+      "crafted": "stat_967627487"
     }
   },
   {
@@ -1408,6 +1408,12 @@
       "implicit": "stat_2866361420",
       "fractured": "stat_2866361420",
       "crafted": "stat_2866361420"
+    }
+  },
+  {
+    "text": "Los Monstruos tienen #% más Vida",
+    "ids": {
+      "explicit": "stat_95249895"
     }
   },
   {
@@ -1499,12 +1505,6 @@
       "implicit": "stat_3441501978",
       "fractured": "stat_3441501978",
       "crafted": "stat_3441501978"
-    }
-  },
-  {
-    "text": "Los Monstruos tienen #% más Vida",
-    "ids": {
-      "explicit": "stat_95249895"
     }
   },
   {
@@ -1620,6 +1620,15 @@
     }
   },
   {
+    "text": "# a Destreza e Inteligencia",
+    "ids": {
+      "explicit": "stat_2300185227",
+      "implicit": "stat_2300185227",
+      "fractured": "stat_2300185227",
+      "crafted": "stat_2300185227"
+    }
+  },
+  {
     "text": "Los Ataques tienen #% de probabilidad de causar Sangrado",
     "ids": {
       "explicit": "stat_1923879260",
@@ -1683,12 +1692,11 @@
     }
   },
   {
-    "text": "# a Destreza e Inteligencia",
+    "text": "Velocidad de Ataque con Espadas aumentada un #%",
     "ids": {
-      "explicit": "stat_2300185227",
-      "implicit": "stat_2300185227",
-      "fractured": "stat_2300185227",
-      "crafted": "stat_2300185227"
+      "explicit": "stat_3293699237",
+      "implicit": "stat_3293699237",
+      "fractured": "stat_3293699237"
     }
   },
   {
@@ -1701,11 +1709,9 @@
     }
   },
   {
-    "text": "Velocidad de Ataque con Espadas aumentada un #%",
+    "text": "Velocidad de Lanzamiento de Hechizos de los Monstruos aumentada un #%",
     "ids": {
-      "explicit": "stat_3293699237",
-      "implicit": "stat_3293699237",
-      "fractured": "stat_3293699237"
+      "explicit": "stat_2488361432"
     }
   },
   {
@@ -1724,9 +1730,26 @@
     }
   },
   {
+    "text": "#% de probabilidad de Evitar ser Congelado",
+    "ids": {
+      "explicit": "stat_1514829491",
+      "implicit": "stat_1514829491",
+      "fractured": "stat_1514829491",
+      "crafted": "stat_1514829491"
+    }
+  },
+  {
     "text": "Velocidad de Ataque de los Monstruos aumentada un #%",
     "ids": {
       "explicit": "stat_1913583994"
+    }
+  },
+  {
+    "text": "Duración de Sangrado aumentada un #%",
+    "ids": {
+      "explicit": "stat_1459321413",
+      "implicit": "stat_1459321413",
+      "fractured": "stat_1459321413"
     }
   },
   {
@@ -1778,12 +1801,6 @@
     "text": "#% más Monstruos Mágicos",
     "ids": {
       "explicit": "stat_3873704640"
-    }
-  },
-  {
-    "text": "Velocidad de Lanzamiento de Hechizos de los Monstruos aumentada un #%",
-    "ids": {
-      "explicit": "stat_2488361432"
     }
   },
   {
@@ -1905,9 +1922,24 @@
     }
   },
   {
+    "text": "Destreza aumentada un #%",
+    "ids": {
+      "explicit": "stat_4139681126",
+      "implicit": "stat_4139681126"
+    }
+  },
+  {
     "text": "Daño aumentado un #% cuando tengas la Vida Baja",
     "ids": {
       "explicit": "stat_1513447578"
+    }
+  },
+  {
+    "text": "Agrega # a # de Daño de Rayo a los Ataques con Arcos",
+    "ids": {
+      "explicit": "stat_1040269876",
+      "implicit": "stat_1040269876",
+      "fractured": "stat_1040269876"
     }
   },
   {
@@ -1946,13 +1978,6 @@
     "ids": {
       "explicit": "stat_1199429645",
       "fractured": "stat_1199429645"
-    }
-  },
-  {
-    "text": "Destreza aumentada un #%",
-    "ids": {
-      "explicit": "stat_4139681126",
-      "implicit": "stat_4139681126"
     }
   },
   {
@@ -2059,6 +2084,12 @@
     }
   },
   {
+    "text": "Los jugadores tienen Probabilidad de Bloquear reducida un #%",
+    "ids": {
+      "explicit": "stat_3729221884"
+    }
+  },
+  {
     "text": "Los Monstruos tienen #% de probabilidad de Evitar Achaques Elementales",
     "ids": {
       "explicit": "stat_322206271"
@@ -2139,6 +2170,13 @@
     }
   },
   {
+    "text": "Daño con hachas aumentado un #%",
+    "ids": {
+      "explicit": "stat_3314142259",
+      "fractured": "stat_3314142259"
+    }
+  },
+  {
     "text": "#% al Multiplicador de Golpes Críticos mientras usas Doble Empuñadura",
     "ids": {
       "explicit": "stat_2546185479",
@@ -2174,19 +2212,25 @@
     }
   },
   {
+    "text": "Agrega # a # de Daño de Hielo a Hechizos y Ataques",
+    "ids": {
+      "explicit": "stat_1662717006",
+      "implicit": "stat_1662717006"
+    }
+  },
+  {
+    "text": "Histórico",
+    "ids": {
+      "explicit": "stat_1811341815"
+    }
+  },
+  {
     "text": "#% al multiplicador de daño degenerativo de Caos",
     "ids": {
       "explicit": "stat_4055307827",
       "implicit": "stat_4055307827",
       "fractured": "stat_4055307827",
       "crafted": "stat_4055307827"
-    }
-  },
-  {
-    "text": "Agrega # a # de Daño de Hielo a Hechizos y Ataques",
-    "ids": {
-      "explicit": "stat_1662717006",
-      "implicit": "stat_1662717006"
     }
   },
   {
@@ -2245,6 +2289,13 @@
     }
   },
   {
+    "text": "Daño de ataques aumentado un #% mientras portas un escudo",
+    "ids": {
+      "explicit": "stat_1393393937",
+      "fractured": "stat_1393393937"
+    }
+  },
+  {
     "text": "Los Monstruos tienen su Probabilidad de Golpe Crítico aumentada un #%",
     "ids": {
       "explicit": "stat_2753083623"
@@ -2288,13 +2339,6 @@
     }
   },
   {
-    "text": "Daño con hachas aumentado un #%",
-    "ids": {
-      "explicit": "stat_3314142259",
-      "fractured": "stat_3314142259"
-    }
-  },
-  {
     "text": "Velocidad de Recuperación aumentada un #%",
     "ids": {
       "explicit": "stat_173226756"
@@ -2323,15 +2367,6 @@
     "ids": {
       "explicit": "stat_3152982863",
       "fractured": "stat_3152982863"
-    }
-  },
-  {
-    "text": "#% de probabilidad de Evitar ser Congelado",
-    "ids": {
-      "explicit": "stat_1514829491",
-      "implicit": "stat_1514829491",
-      "fractured": "stat_1514829491",
-      "crafted": "stat_1514829491"
     }
   },
   {
@@ -2372,20 +2407,6 @@
     }
   },
   {
-    "text": "Los jugadores tienen Probabilidad de Bloquear reducida un #%",
-    "ids": {
-      "explicit": "stat_3729221884"
-    }
-  },
-  {
-    "text": "Agrega # a # de Daño de Rayo a los Ataques con Arcos",
-    "ids": {
-      "explicit": "stat_1040269876",
-      "implicit": "stat_1040269876",
-      "fractured": "stat_1040269876"
-    }
-  },
-  {
     "text": "#% al Multiplicador de Golpe Crítico con Armas Cuerpo a Cuerpo a Una Mano",
     "ids": {
       "explicit": "stat_670153687",
@@ -2423,6 +2444,12 @@
     "text": "El Área contiene dos Jefes Únicos",
     "ids": {
       "explicit": "stat_799271621"
+    }
+  },
+  {
+    "text": "Los Monstruos tienen #% de probabilidad de evitar Veneno, Ceguera y Sangrado",
+    "ids": {
+      "explicit": "stat_2215002568"
     }
   },
   {
@@ -2571,6 +2598,12 @@
     }
   },
   {
+    "text": "Velocidad de Movimiento aumentada un #% mientras estés Quemado",
+    "ids": {
+      "explicit": "stat_581625445"
+    }
+  },
+  {
     "text": "Velocidad de Ataque con Arcos aumentada un #%",
     "ids": {
       "explicit": "stat_3759735052",
@@ -2589,14 +2622,6 @@
     "text": "Los Monstruos reflejan #% del Daño Físico",
     "ids": {
       "explicit": "stat_3464419871"
-    }
-  },
-  {
-    "text": "Duración de Sangrado aumentada un #%",
-    "ids": {
-      "explicit": "stat_1459321413",
-      "implicit": "stat_1459321413",
-      "fractured": "stat_1459321413"
     }
   },
   {
@@ -2717,6 +2742,12 @@
     }
   },
   {
+    "text": "Gana #% de Daño Físico como Daño Extra de Caos durante el efecto",
+    "ids": {
+      "explicit": "stat_2818167778"
+    }
+  },
+  {
     "text": "Probabilidad de Golpe Crítico con Armas mientras uses Doble Empuñadura aumentada un #%",
     "ids": {
       "explicit": "stat_3702513529",
@@ -2734,12 +2765,6 @@
     "ids": {
       "explicit": "stat_1445684883",
       "crafted": "stat_1445684883"
-    }
-  },
-  {
-    "text": "Velocidad de Movimiento aumentada un #% mientras estés Quemado",
-    "ids": {
-      "explicit": "stat_581625445"
     }
   },
   {
@@ -2761,6 +2786,13 @@
       "explicit": "stat_472520716",
       "implicit": "stat_472520716",
       "crafted": "stat_472520716"
+    }
+  },
+  {
+    "text": "Velocidad de Lanzamiento de Hechizos con Habilidades de Hielo aumentada un #%",
+    "ids": {
+      "explicit": "stat_928238845",
+      "fractured": "stat_928238845"
     }
   },
   {
@@ -2794,21 +2826,15 @@
     }
   },
   {
-    "text": "Gana #% de Daño Físico como Daño Extra de Caos durante el efecto",
-    "ids": {
-      "explicit": "stat_2818167778"
-    }
-  },
-  {
-    "text": "Histórico",
-    "ids": {
-      "explicit": "stat_1811341815"
-    }
-  },
-  {
     "text": "Los Jugadores están Malditos con Vulnerabilidad",
     "ids": {
       "explicit": "stat_1366534040"
+    }
+  },
+  {
+    "text": "Las Gemas Engarzadas son Asistidas por Efecto Concentrado Nivel #",
+    "ids": {
+      "explicit": "stat_2388360415"
     }
   },
   {
@@ -2846,12 +2872,6 @@
     "text": "Los Jugadores están Malditos con Cadenas Temporales",
     "ids": {
       "explicit": "stat_2326202293"
-    }
-  },
-  {
-    "text": "Las Gemas Engarzadas son Asistidas por Efecto Concentrado Nivel #",
-    "ids": {
-      "explicit": "stat_2388360415"
     }
   },
   {
@@ -2942,12 +2962,6 @@
     }
   },
   {
-    "text": "Los Monstruos tienen #% de probabilidad de evitar Veneno, Ceguera y Sangrado",
-    "ids": {
-      "explicit": "stat_2215002568"
-    }
-  },
-  {
     "text": "Las Gemas Engarzadas son Asistidas por Área de Efecto Aumentada Nivel #",
     "ids": {
       "explicit": "stat_3720936304",
@@ -3024,6 +3038,15 @@
     }
   },
   {
+    "text": "#% de probabilidad de Evitar ser Electrocutado",
+    "ids": {
+      "explicit": "stat_1871765599",
+      "implicit": "stat_1871765599",
+      "fractured": "stat_1871765599",
+      "crafted": "stat_1871765599"
+    }
+  },
+  {
     "text": "Gana #% de Daño Elemental como Daño Extra de Caos durante el efecto",
     "ids": {
       "explicit": "stat_3562241510"
@@ -3047,13 +3070,6 @@
       "explicit": "stat_3485067555",
       "implicit": "stat_3485067555",
       "crafted": "stat_3485067555"
-    }
-  },
-  {
-    "text": "Velocidad de Lanzamiento de Hechizos con Habilidades de Hielo aumentada un #%",
-    "ids": {
-      "explicit": "stat_928238845",
-      "fractured": "stat_928238845"
     }
   },
   {
@@ -3087,12 +3103,10 @@
     }
   },
   {
-    "text": "#% de probabilidad de Evitar ser Electrocutado",
+    "text": "Agrega # a # de Daño de Fuego a Hechizos y Ataques",
     "ids": {
-      "explicit": "stat_1871765599",
-      "implicit": "stat_1871765599",
-      "fractured": "stat_1871765599",
-      "crafted": "stat_1871765599"
+      "explicit": "stat_3964634628",
+      "implicit": "stat_3964634628"
     }
   },
   {
@@ -3101,13 +3115,6 @@
       "explicit": "stat_3814560373",
       "implicit": "stat_3814560373",
       "fractured": "stat_3814560373"
-    }
-  },
-  {
-    "text": "Agrega # a # de Daño de Fuego a Hechizos y Ataques",
-    "ids": {
-      "explicit": "stat_3964634628",
-      "implicit": "stat_3964634628"
     }
   },
   {
@@ -3123,6 +3130,12 @@
       "explicit": "stat_2479683456",
       "implicit": "stat_2479683456",
       "fractured": "stat_2479683456"
+    }
+  },
+  {
+    "text": "El Área es un gran Laberinto",
+    "ids": {
+      "explicit": "stat_587175996"
     }
   },
   {
@@ -3149,6 +3162,13 @@
     "text": "#% de probabilidad de Lisiar con cada Golpe",
     "ids": {
       "explicit": "stat_2763429652"
+    }
+  },
+  {
+    "text": "Gana #% de Daño que no sea de Caos como Daño extra de Caos",
+    "ids": {
+      "explicit": "stat_2063695047",
+      "crafted": "stat_2063695047"
     }
   },
   {
@@ -3203,10 +3223,25 @@
     }
   },
   {
+    "text": "Las habilidades de maldición tienen la Duración del Efecto de la habilidad aumentada un #%",
+    "ids": {
+      "explicit": "stat_1435748744",
+      "implicit": "stat_1435748744",
+      "crafted": "stat_1435748744"
+    }
+  },
+  {
     "text": "El Daño Penetra #% de las Resistencias Elementales",
     "ids": {
       "explicit": "stat_2101383955",
       "implicit": "stat_2101383955"
+    }
+  },
+  {
+    "text": "#% a la probabilidad máxima de Bloquear Daño de Ataques",
+    "ids": {
+      "explicit": "stat_4124805414",
+      "implicit": "stat_4124805414"
     }
   },
   {
@@ -3236,13 +3271,6 @@
     }
   },
   {
-    "text": "#% a la probabilidad máxima de Bloquear Daño de Ataques",
-    "ids": {
-      "explicit": "stat_4124805414",
-      "implicit": "stat_4124805414"
-    }
-  },
-  {
     "text": "#% a la probabilidad de Bloquear Daño de Ataques mientras empuñas un Báculo",
     "ids": {
       "explicit": "stat_1778298516",
@@ -3267,14 +3295,6 @@
     "ids": {
       "explicit": "stat_4188894176",
       "fractured": "stat_4188894176"
-    }
-  },
-  {
-    "text": "Las habilidades de maldición tienen la Duración del Efecto de la habilidad aumentada un #%",
-    "ids": {
-      "explicit": "stat_1435748744",
-      "implicit": "stat_1435748744",
-      "crafted": "stat_1435748744"
     }
   },
   {
@@ -3369,13 +3389,6 @@
     }
   },
   {
-    "text": "Gana #% de Daño que no sea de Caos como Daño extra de Caos",
-    "ids": {
-      "explicit": "stat_2063695047",
-      "crafted": "stat_2063695047"
-    }
-  },
-  {
     "text": "Recuperación Instantánea",
     "ids": {
       "explicit": "stat_1526933524"
@@ -3437,12 +3450,6 @@
       "implicit": "stat_4262448838",
       "fractured": "stat_4262448838",
       "crafted": "stat_4262448838"
-    }
-  },
-  {
-    "text": "El Área es un gran Laberinto",
-    "ids": {
-      "explicit": "stat_587175996"
     }
   },
   {
@@ -3515,6 +3522,12 @@
     "text": "Recarga # Carga cuando recibes un Golpe Crítico",
     "ids": {
       "explicit": "stat_3662336899"
+    }
+  },
+  {
+    "text": "# de Vida ganada por cada Enemigo golpeado por tus Hechizos",
+    "ids": {
+      "explicit": "stat_2018035324"
     }
   },
   {
@@ -3616,6 +3629,12 @@
     }
   },
   {
+    "text": "# de Vida Regenerada por segundo por cada Nivel",
+    "ids": {
+      "explicit": "stat_1384864963"
+    }
+  },
+  {
     "text": "Las Maldiciones sobre Monstruos tienen su efecto reducido un #%",
     "ids": {
       "explicit": "stat_2999796964"
@@ -3667,12 +3686,6 @@
     "text": "No tiene Engarces",
     "ids": {
       "explicit": "stat_1493091477"
-    }
-  },
-  {
-    "text": "# de Vida Regenerada por segundo por cada Nivel",
-    "ids": {
-      "explicit": "stat_1384864963"
     }
   },
   {
@@ -3758,6 +3771,12 @@
     }
   },
   {
+    "text": "El Daño de los Enemigos que te golpean es Desafortunado mientras tengas la Vida Baja",
+    "ids": {
+      "explicit": "stat_3753748365"
+    }
+  },
+  {
     "text": "#% de probabilidad de Ganar Poder Impuro por 4 segundos al Matar Cuerpo a Cuerpo",
     "ids": {
       "explicit": "stat_3166317791",
@@ -3768,6 +3787,12 @@
     "text": "Daño recibido aumentado un #% mientras tengas el Escudo de Energía Lleno",
     "ids": {
       "explicit": "stat_969865219"
+    }
+  },
+  {
+    "text": "Inmunidad a Maldiciones durante el efecto del Frasco\nElimina Maldiciones al usarse",
+    "ids": {
+      "explicit": "stat_1670623917"
     }
   },
   {
@@ -3791,15 +3816,15 @@
     }
   },
   {
-    "text": "Inmunidad a Maldiciones durante el efecto del Frasco\nElimina Maldiciones al usarse",
-    "ids": {
-      "explicit": "stat_1670623917"
-    }
-  },
-  {
     "text": "#% de Resistencia al Fuego cuando tenga Engarzada una Gema Roja",
     "ids": {
       "explicit": "stat_3051845758"
+    }
+  },
+  {
+    "text": "#% del Daño de Fuego Convertido a Daño de Caos",
+    "ids": {
+      "explicit": "stat_2731249891"
     }
   },
   {
@@ -3812,12 +3837,6 @@
     "text": "# al nivel de todas las gemas de habilidad de hechizos de rayo",
     "ids": {
       "explicit": "stat_1545858329"
-    }
-  },
-  {
-    "text": "El Daño de los Enemigos que te golpean es Desafortunado mientras tengas la Vida Baja",
-    "ids": {
-      "explicit": "stat_3753748365"
     }
   },
   {
@@ -3843,6 +3862,13 @@
     "text": "#% de Resistencia al Rayo cuando tenga Engarzada una Gema Azul",
     "ids": {
       "explicit": "stat_289814996"
+    }
+  },
+  {
+    "text": "#% del Daño Físico por Golpes recibido como Daño de Hielo",
+    "ids": {
+      "explicit": "stat_1871056256",
+      "implicit": "stat_1871056256"
     }
   },
   {
@@ -4084,13 +4110,6 @@
     }
   },
   {
-    "text": "#% del Daño Físico por Golpes recibido como Daño de Hielo",
-    "ids": {
-      "explicit": "stat_1871056256",
-      "implicit": "stat_1871056256"
-    }
-  },
-  {
     "text": "Las Gemas Engarzadas son Asistidas por Probabilidad de Sangrado Nivel #",
     "ids": {
       "explicit": "stat_4197676934"
@@ -4127,6 +4146,12 @@
     "text": "El Área contiene grietas sin puentes para atravesarlas",
     "ids": {
       "explicit": "stat_860864690"
+    }
+  },
+  {
+    "text": "Coste de Maná de Habilidades de Esbirros reducido un #%",
+    "ids": {
+      "explicit": "stat_2969128501"
     }
   },
   {
@@ -4208,6 +4233,12 @@
     }
   },
   {
+    "text": "Daño recibido aumentado un #%",
+    "ids": {
+      "explicit": "stat_3691641145"
+    }
+  },
+  {
     "text": "Efecto aumentado un #%",
     "ids": {
       "explicit": "stat_553298121"
@@ -4231,12 +4262,6 @@
       "explicit": "stat_2353576063",
       "implicit": "stat_2353576063",
       "crafted": "stat_2353576063"
-    }
-  },
-  {
-    "text": "#% del Daño de Fuego Convertido a Daño de Caos",
-    "ids": {
-      "explicit": "stat_2731249891"
     }
   },
   {
@@ -4346,6 +4371,12 @@
     }
   },
   {
+    "text": "Daño Físico Cuerpo a Cuerpo aumentado un #% por cada 10 de Destreza",
+    "ids": {
+      "explicit": "stat_2355151849"
+    }
+  },
+  {
     "text": "Los Objetos encontrados en el Área tienen #% de probabilidad de caer Corruptos",
     "ids": {
       "explicit": "stat_728267040",
@@ -4424,6 +4455,12 @@
     }
   },
   {
+    "text": "# al Rango de Armas Cuerpo a Cuerpo por Engarce Blanco",
+    "ids": {
+      "explicit": "stat_2076080860"
+    }
+  },
+  {
     "text": "Agrega # a # de Daño de Fuego a los Ataques con Garras",
     "ids": {
       "explicit": "stat_2154290807",
@@ -4431,21 +4468,9 @@
     }
   },
   {
-    "text": "# al Rango de Armas Cuerpo a Cuerpo por Engarce Blanco",
-    "ids": {
-      "explicit": "stat_2076080860"
-    }
-  },
-  {
     "text": "Velocidad de Ataque Global aumentada un #% por Engarce Verde",
     "ids": {
       "explicit": "stat_250876318"
-    }
-  },
-  {
-    "text": "Coste de Maná de Habilidades de Esbirros reducido un #%",
-    "ids": {
-      "explicit": "stat_2969128501"
     }
   },
   {
@@ -4485,6 +4510,12 @@
     "ids": {
       "explicit": "stat_1482572705",
       "implicit": "stat_1482572705"
+    }
+  },
+  {
+    "text": "Ganas una Carga de Aguante al utilizarlo",
+    "ids": {
+      "explicit": "stat_3986030307"
     }
   },
   {
@@ -4545,15 +4576,15 @@
     }
   },
   {
-    "text": "Ganas una Carga de Aguante al utilizarlo",
-    "ids": {
-      "explicit": "stat_3986030307"
-    }
-  },
-  {
     "text": "# de Vida ganada al Matar Enemigos Quemados",
     "ids": {
       "explicit": "stat_893903361"
+    }
+  },
+  {
+    "text": "Consume 1 Carga de Frenesí al utilizarlo",
+    "ids": {
+      "explicit": "stat_570159344"
     }
   },
   {
@@ -4640,6 +4671,13 @@
     }
   },
   {
+    "text": "Los Esbirros tienen #% de Resistencia al Caos",
+    "ids": {
+      "explicit": "stat_3837707023",
+      "fractured": "stat_3837707023"
+    }
+  },
+  {
     "text": "#% de probabilidad de otorgar Fervor a los Aliados cercanos al Matar",
     "ids": {
       "explicit": "stat_1924591908"
@@ -4711,6 +4749,12 @@
     }
   },
   {
+    "text": "# al nivel de todas las gemas de habilidad de hechizos de fuego",
+    "ids": {
+      "explicit": "stat_591105508"
+    }
+  },
+  {
     "text": "Daño de Ataques contra Enemigos con Sangrado aumentado un #%",
     "ids": {
       "explicit": "stat_3944782785",
@@ -4718,15 +4762,16 @@
     }
   },
   {
-    "text": "# al nivel de todas las gemas de habilidad de hechizos de fuego",
-    "ids": {
-      "explicit": "stat_591105508"
-    }
-  },
-  {
     "text": "# de Maná por cada 4 de Fuerza",
     "ids": {
       "explicit": "stat_507075051"
+    }
+  },
+  {
+    "text": "Agrega # a # de Daño de Fuego a los Ataques con Dagas",
+    "ids": {
+      "explicit": "stat_1910361436",
+      "fractured": "stat_1910361436"
     }
   },
   {
@@ -4748,13 +4793,6 @@
     "ids": {
       "explicit": "stat_429867172",
       "crafted": "stat_429867172"
-    }
-  },
-  {
-    "text": "Daño de ataques aumentado un #% mientras portas un escudo",
-    "ids": {
-      "explicit": "stat_1393393937",
-      "fractured": "stat_1393393937"
     }
   },
   {
@@ -4873,6 +4911,12 @@
     }
   },
   {
+    "text": "# al nivel de todas las gemas de habilidad de hechizos de hielo",
+    "ids": {
+      "explicit": "stat_2254480358"
+    }
+  },
+  {
     "text": "# de Vida por cada 4 de Destreza",
     "ids": {
       "explicit": "stat_2042405614"
@@ -4914,6 +4958,18 @@
     "ids": {
       "explicit": "stat_3376452528",
       "fractured": "stat_3376452528"
+    }
+  },
+  {
+    "text": "Activa Explosión Espiritual Nivel # cuando Usas una Habilidad mientras tengas una Carga de Espíritu",
+    "ids": {
+      "explicit": "stat_1992516007"
+    }
+  },
+  {
+    "text": "# al nivel de todas las gemas de habilidad de hechizos de caos",
+    "ids": {
+      "explicit": "stat_4226189338"
     }
   },
   {
@@ -4978,13 +5034,6 @@
     "ids": {
       "explicit": "stat_2671663397",
       "fractured": "stat_2671663397"
-    }
-  },
-  {
-    "text": "Agrega # a # de Daño de Fuego a los Ataques con Dagas",
-    "ids": {
-      "explicit": "stat_1910361436",
-      "fractured": "stat_1910361436"
     }
   },
   {
@@ -5083,12 +5132,6 @@
     }
   },
   {
-    "text": "Consume 1 Carga de Frenesí al utilizarlo",
-    "ids": {
-      "explicit": "stat_570159344"
-    }
-  },
-  {
     "text": "Durante el Efecto del Frasco, el Daño Penetra #% la Resistencia de cada Elemento del cual tu Resistencia Elemental Sin Límite sea la mayor",
     "ids": {
       "explicit": "stat_2444301311"
@@ -5141,6 +5184,13 @@
     }
   },
   {
+    "text": "Duración de Carga de Aguante aumentada un #%",
+    "ids": {
+      "explicit": "stat_1170174456",
+      "implicit": "stat_1170174456"
+    }
+  },
+  {
     "text": "#% del Daño de Hielo Convertido a Daño de Fuego",
     "ids": {
       "explicit": "stat_723832351"
@@ -5171,6 +5221,12 @@
     "text": "Las Habilidades Pasivas dentro del Radio pueden ser Asignadas sin estar conectadas a tu árbol",
     "ids": {
       "explicit": "stat_4077035099"
+    }
+  },
+  {
+    "text": "Velocidad de Movimiento aumentada un #% mientras tengas el Escudo de Energía Lleno",
+    "ids": {
+      "explicit": "stat_2825197711"
     }
   },
   {
@@ -5213,12 +5269,6 @@
     }
   },
   {
-    "text": "Con al menos 40 de Fuerza dentro del Radio, Hendidura otorga Fortificar con cada Golpe",
-    "ids": {
-      "explicit": "stat_1248507170"
-    }
-  },
-  {
     "text": "Agrega # a # de Daño de Rayo a los Hechizos mientras portes un Escudo",
     "ids": {
       "explicit": "stat_1801889979",
@@ -5226,9 +5276,9 @@
     }
   },
   {
-    "text": "Velocidad de Movimiento aumentada un #% mientras tengas el Escudo de Energía Lleno",
+    "text": "Con al menos 40 de Fuerza dentro del Radio, Hendidura otorga Fortificar con cada Golpe",
     "ids": {
-      "explicit": "stat_2825197711"
+      "explicit": "stat_1248507170"
     }
   },
   {
@@ -5247,13 +5297,6 @@
     "text": "El Área no contiene monstruos",
     "ids": {
       "explicit": "stat_1626998468"
-    }
-  },
-  {
-    "text": "Duración de Carga de Aguante aumentada un #%",
-    "ids": {
-      "explicit": "stat_1170174456",
-      "implicit": "stat_1170174456"
     }
   },
   {
@@ -5278,12 +5321,6 @@
     "text": "Con al menos 40 de Inteligencia dentro del Radio, Orbe de Magma dispara un Proyectil adicional",
     "ids": {
       "explicit": "stat_2542542825"
-    }
-  },
-  {
-    "text": "Daño recibido aumentado un #%",
-    "ids": {
-      "explicit": "stat_3691641145"
     }
   },
   {
@@ -5331,6 +5368,12 @@
       "explicit": "stat_3002506763",
       "implicit": "stat_3002506763",
       "fractured": "stat_3002506763"
+    }
+  },
+  {
+    "text": "El Jefe Único arroja # # Raros adicionales",
+    "ids": {
+      "explicit": "stat_2343216207"
     }
   },
   {
@@ -5383,12 +5426,6 @@
     "text": "# de Escudo de Energía ganado al Matar",
     "ids": {
       "explicit": "stat_2528955616"
-    }
-  },
-  {
-    "text": "# al nivel de todas las gemas de habilidad de hechizos de hielo",
-    "ids": {
-      "explicit": "stat_2254480358"
     }
   },
   {
@@ -5516,9 +5553,22 @@
     }
   },
   {
+    "text": "Daño de Fuego recibido aumentado un #%",
+    "ids": {
+      "explicit": "stat_3743301799",
+      "implicit": "stat_3743301799"
+    }
+  },
+  {
     "text": "Conducto",
     "ids": {
       "explicit": "stat_1994392904"
+    }
+  },
+  {
+    "text": "#% de probabilidad de otorgar una Carga de Poder a los Aliados cercanos al Matar",
+    "ids": {
+      "explicit": "stat_2367680009"
     }
   },
   {
@@ -5549,6 +5599,12 @@
     "text": "#% de probabilidad de Esquivar Golpes de Ataque por cada Carga de Frenesí",
     "ids": {
       "explicit": "stat_172894060"
+    }
+  },
+  {
+    "text": "Efecto de Bonificación otorgado por tus Gólems aumentado un #%",
+    "ids": {
+      "explicit": "stat_2109043683"
     }
   },
   {
@@ -5589,6 +5645,12 @@
     }
   },
   {
+    "text": "Las Gemas Engarzadas son Asistidas por Proyectiles Lentos Nivel #",
+    "ids": {
+      "explicit": "stat_1390285657"
+    }
+  },
+  {
     "text": "Duración de Chispa reducida un #%",
     "ids": {
       "explicit": "stat_3420284170"
@@ -5601,21 +5663,9 @@
     }
   },
   {
-    "text": "El Jefe Único arroja # # Raros adicionales",
-    "ids": {
-      "explicit": "stat_2343216207"
-    }
-  },
-  {
     "text": "Gana una Carga de Aguante cuando recibes un Golpe Crítico",
     "ids": {
       "explicit": "stat_2609824731"
-    }
-  },
-  {
-    "text": "Las Gemas Engarzadas son Asistidas por Proyectiles Lentos Nivel #",
-    "ids": {
-      "explicit": "stat_1390285657"
     }
   },
   {
@@ -5760,6 +5810,18 @@
     }
   },
   {
+    "text": "Daño Físico con Garras aumentado un #% cuando estés con Vida Baja",
+    "ids": {
+      "explicit": "stat_1081444608"
+    }
+  },
+  {
+    "text": "Índice de Precisión aumentado un #% cuando estés con Vida Baja",
+    "ids": {
+      "explicit": "stat_347697569"
+    }
+  },
+  {
     "text": "Los frascos aplicados sobre ti tienen un efecto aumentado del #%",
     "ids": {
       "explicit": "stat_114734841",
@@ -5791,10 +5853,9 @@
     }
   },
   {
-    "text": "Daño de Fuego recibido aumentado un #%",
+    "text": "Rareza de Objetos encontrados durante efectos de Frascos aumentada un #%",
     "ids": {
-      "explicit": "stat_3743301799",
-      "implicit": "stat_3743301799"
+      "explicit": "stat_1740200922"
     }
   },
   {
@@ -5808,12 +5869,6 @@
     "ids": {
       "explicit": "stat_1181129483",
       "fractured": "stat_1181129483"
-    }
-  },
-  {
-    "text": "Daño Físico con Garras aumentado un #% cuando estés con Vida Baja",
-    "ids": {
-      "explicit": "stat_1081444608"
     }
   },
   {
@@ -5861,33 +5916,15 @@
     }
   },
   {
-    "text": "Índice de Precisión aumentado un #% cuando estés con Vida Baja",
-    "ids": {
-      "explicit": "stat_347697569"
-    }
-  },
-  {
     "text": "Los Gólems tienen Velocidad de Recuperación de Tiempo de Recarga aumentada un #%",
     "ids": {
       "explicit": "stat_3246099900"
     }
   },
   {
-    "text": "Rareza de Objetos encontrados durante efectos de Frascos aumentada un #%",
-    "ids": {
-      "explicit": "stat_1740200922"
-    }
-  },
-  {
     "text": "Activa Caminata de Muerte Nivel # cuando es Equipado",
     "ids": {
       "explicit": "stat_651875072"
-    }
-  },
-  {
-    "text": "# de Vida ganada por cada Enemigo golpeado por tus Hechizos",
-    "ids": {
-      "explicit": "stat_2018035324"
     }
   },
   {
@@ -5929,13 +5966,6 @@
     }
   },
   {
-    "text": "Los Esbirros tienen #% de Resistencia al Caos",
-    "ids": {
-      "explicit": "stat_3837707023",
-      "fractured": "stat_3837707023"
-    }
-  },
-  {
     "text": "#% de Vida Regenerada por segundo mientras estés Congelado",
     "ids": {
       "explicit": "stat_2656696317"
@@ -5958,6 +5988,12 @@
     "text": "#% de Daño aumentado mientras estés Quemado",
     "ids": {
       "explicit": "stat_1686122637"
+    }
+  },
+  {
+    "text": "Daño con Veneno aumentado un #% si tienes al menos 300 de Destreza",
+    "ids": {
+      "explicit": "stat_256730087"
     }
   },
   {
@@ -6026,15 +6062,15 @@
     }
   },
   {
-    "text": "Los Ataques se Encadenan una vez más cuando está equipada en la Mano Principal",
-    "ids": {
-      "explicit": "stat_2466604008"
-    }
-  },
-  {
     "text": "# a la Evasión mientras tengas la Vida Llena",
     "ids": {
       "explicit": "stat_4082111882"
+    }
+  },
+  {
+    "text": "Los Ataques se Encadenan una vez más cuando está equipada en la Mano Principal",
+    "ids": {
+      "explicit": "stat_2466604008"
     }
   },
   {
@@ -6140,12 +6176,6 @@
     }
   },
   {
-    "text": "Daño con Veneno aumentado un #% si tienes al menos 300 de Destreza",
-    "ids": {
-      "explicit": "stat_256730087"
-    }
-  },
-  {
     "text": "Los esbirros tienen un #% de probabilidad de congelar, electrocutar y quemar",
     "ids": {
       "explicit": "stat_1994549323"
@@ -6161,6 +6191,12 @@
     "text": "Los Enemigos cercanos están Cegados",
     "ids": {
       "explicit": "stat_2826979740"
+    }
+  },
+  {
+    "text": "Rareza de Objetos Arrojados por Enemigos Congelados aumentada un #%",
+    "ids": {
+      "explicit": "stat_2138434718"
     }
   },
   {
@@ -6256,12 +6292,6 @@
     }
   },
   {
-    "text": "# al nivel de todas las gemas de habilidad de hechizos de caos",
-    "ids": {
-      "explicit": "stat_4226189338"
-    }
-  },
-  {
     "text": "Los esbirros tienen un #% de probabilidad de infligir el doble de daño",
     "ids": {
       "explicit": "stat_755922799"
@@ -6296,12 +6326,6 @@
     "text": "Vida Recuperada aumentada un #%",
     "ids": {
       "explicit": "stat_1261982764"
-    }
-  },
-  {
-    "text": "#% de probabilidad de otorgar una Carga de Poder a los Aliados cercanos al Matar",
-    "ids": {
-      "explicit": "stat_2367680009"
     }
   },
   {
@@ -6344,6 +6368,14 @@
     }
   },
   {
+    "text": "Daño de Ataques aumentado un #%",
+    "ids": {
+      "explicit": "stat_2843214518",
+      "implicit": "stat_2843214518",
+      "fractured": "stat_2843214518"
+    }
+  },
+  {
     "text": "#% de Vida Regenerada por segundo si fuiste Golpeado Recientemente",
     "ids": {
       "explicit": "stat_2201614328"
@@ -6372,12 +6404,6 @@
     "text": "Reflejar Maldiciones",
     "ids": {
       "explicit": "stat_1731672673"
-    }
-  },
-  {
-    "text": "Efecto de Bonificación otorgado por tus Gólems aumentado un #%",
-    "ids": {
-      "explicit": "stat_2109043683"
     }
   },
   {
@@ -6463,24 +6489,10 @@
     }
   },
   {
-    "text": "Rareza de Objetos Arrojados por Enemigos Congelados aumentada un #%",
-    "ids": {
-      "explicit": "stat_2138434718"
-    }
-  },
-  {
     "text": "Defensas Globales aumentadas un #%",
     "ids": {
       "explicit": "stat_1389153006",
       "implicit": "stat_1389153006"
-    }
-  },
-  {
-    "text": "Daño de Ataques aumentado un #%",
-    "ids": {
-      "explicit": "stat_2843214518",
-      "implicit": "stat_2843214518",
-      "fractured": "stat_2843214518"
     }
   },
   {
@@ -6623,12 +6635,6 @@
     }
   },
   {
-    "text": "Daño Físico Cuerpo a Cuerpo aumentado un #% por cada 10 de Destreza",
-    "ids": {
-      "explicit": "stat_2355151849"
-    }
-  },
-  {
     "text": "Los Enemigos no Pueden Absorber tu Vida",
     "ids": {
       "explicit": "stat_4293455942",
@@ -6660,15 +6666,15 @@
     }
   },
   {
-    "text": "+#% al Multiplicador Global de Golpe Crítico por Engarce Verde",
-    "ids": {
-      "explicit": "stat_35810390"
-    }
-  },
-  {
     "text": "Agrega # a # de Daño de Caos a los Hechizos y Ataques durante cualquier Efecto de Frasco",
     "ids": {
       "explicit": "stat_3519268108"
+    }
+  },
+  {
+    "text": "+#% al Multiplicador Global de Golpe Crítico por Engarce Verde",
+    "ids": {
+      "explicit": "stat_35810390"
     }
   },
   {
@@ -6702,9 +6708,10 @@
     }
   },
   {
-    "text": "Activa Explosión Espiritual Nivel # cuando Usas una Habilidad mientras tengas una Carga de Espíritu",
+    "text": "Las Gemas engarzadas están Asistidas por Inspiración nivel #",
     "ids": {
-      "explicit": "stat_1992516007"
+      "explicit": "stat_1866911844",
+      "implicit": "stat_1866911844"
     }
   },
   {
@@ -6712,13 +6719,6 @@
     "ids": {
       "explicit": "stat_1169502663",
       "implicit": "stat_1169502663"
-    }
-  },
-  {
-    "text": "Las Gemas engarzadas están Asistidas por Inspiración nivel #",
-    "ids": {
-      "explicit": "stat_1866911844",
-      "implicit": "stat_1866911844"
     }
   },
   {
@@ -6968,6 +6968,12 @@
     }
   },
   {
+    "text": "# al Nivel de las Gemas Elementales Engarzadas",
+    "ids": {
+      "explicit": "stat_3571342795"
+    }
+  },
+  {
     "text": "Velocidad de Recuperación de Tiempo de Recarga de Grito de Guerra aumentada un #%",
     "ids": {
       "explicit": "stat_4159248054"
@@ -7078,9 +7084,21 @@
     }
   },
   {
+    "text": "Las Gemas Engarzadas son Asistidas por Cascada de Hechizos Nivel #",
+    "ids": {
+      "explicit": "stat_503990161"
+    }
+  },
+  {
     "text": "Los Arcos Empujan a Rango Corto",
     "ids": {
       "explicit": "stat_3261557635"
+    }
+  },
+  {
+    "text": "Los Golpes Críticos tiene Golpe de Gracia",
+    "ids": {
+      "explicit": "stat_2996445420"
     }
   },
   {
@@ -7133,6 +7151,13 @@
     }
   },
   {
+    "text": "#% del Daño Físico por Golpes recibido como Daño de Caos",
+    "ids": {
+      "explicit": "stat_4129825612",
+      "implicit": "stat_4129825612"
+    }
+  },
+  {
     "text": "Daño de Hechizos aumentado un #% por cada 10 de Inteligencia",
     "ids": {
       "explicit": "stat_2818518881",
@@ -7146,16 +7171,16 @@
     }
   },
   {
-    "text": "Las Gemas Engarzadas son Asistidas por Cascada de Hechizos Nivel #",
-    "ids": {
-      "explicit": "stat_503990161"
-    }
-  },
-  {
     "text": "Duración de Electrocución sobre Ti reducida un #%",
     "ids": {
       "explicit": "stat_99927264",
       "implicit": "stat_99927264"
+    }
+  },
+  {
+    "text": "Otorga la Habilidad Invocar Heraldo de lo Arcano",
+    "ids": {
+      "explicit": "stat_3872739249"
     }
   },
   {
@@ -7189,12 +7214,6 @@
     "ids": {
       "explicit": "stat_3882662078",
       "fractured": "stat_3882662078"
-    }
-  },
-  {
-    "text": "Los Golpes Críticos tiene Golpe de Gracia",
-    "ids": {
-      "explicit": "stat_2996445420"
     }
   },
   {
@@ -7313,6 +7332,12 @@
     }
   },
   {
+    "text": "#% del Daño de Rayo se Absorbe como Vida durante el efecto del Frasco",
+    "ids": {
+      "explicit": "stat_2687254633"
+    }
+  },
+  {
     "text": "Los venenos que aplicas infligen su daño un #% más rápido",
     "ids": {
       "explicit": "stat_2907156609",
@@ -7332,9 +7357,9 @@
     }
   },
   {
-    "text": "Otorga la Habilidad Invocar Heraldo de lo Arcano",
+    "text": "#% de probabilidad de esquivar proyectiles mientras tengas Traspasar",
     "ids": {
-      "explicit": "stat_3872739249"
+      "explicit": "stat_3635120731"
     }
   },
   {
@@ -7369,6 +7394,12 @@
     }
   },
   {
+    "text": "Ballesta de Asedio tiene # al número máximo de Tótems invocados por cada 200 de Destreza",
+    "ids": {
+      "explicit": "stat_2125178364"
+    }
+  },
+  {
     "text": "Efecto de Ofrendas aumentado un #%",
     "ids": {
       "explicit": "stat_3191479793"
@@ -7393,12 +7424,6 @@
     }
   },
   {
-    "text": "#% del Daño de Rayo se Absorbe como Vida durante el efecto del Frasco",
-    "ids": {
-      "explicit": "stat_2687254633"
-    }
-  },
-  {
     "text": "#% de probabilidad de Cegar Enemigos con Golpes Críticos",
     "ids": {
       "explicit": "stat_3983981705"
@@ -7417,12 +7442,6 @@
     }
   },
   {
-    "text": "Ballesta de Asedio tiene # al número máximo de Tótems invocados por cada 200 de Destreza",
-    "ids": {
-      "explicit": "stat_2125178364"
-    }
-  },
-  {
     "text": "Con al menos 1000 de Fuerza, #% de Daño infligido por tus Zombis es Absorbido por ti como Vida",
     "ids": {
       "explicit": "stat_2802263253"
@@ -7432,12 +7451,6 @@
     "text": "Las Maldiciones en este objeto se reflejan hacia ti",
     "ids": {
       "explicit": "stat_32859524"
-    }
-  },
-  {
-    "text": "#% de probabilidad de esquivar proyectiles mientras tengas Traspasar",
-    "ids": {
-      "explicit": "stat_3635120731"
     }
   },
   {
@@ -7630,9 +7643,21 @@
     }
   },
   {
+    "text": "Las Gemas Engarzadas son Asistidas por Daño de Rayo Agregado Nivel #",
+    "ids": {
+      "explicit": "stat_1647529598"
+    }
+  },
+  {
     "text": "Recuperación aumentada un #% cuando tengas la Vida Baja",
     "ids": {
       "explicit": "stat_886931978"
+    }
+  },
+  {
+    "text": "#% de probabilidad de activar una habilidad engarzada cuando atacas con esta arma",
+    "ids": {
+      "explicit": "stat_209056835"
     }
   },
   {
@@ -7642,9 +7667,9 @@
     }
   },
   {
-    "text": "#% de probabilidad de activar una habilidad engarzada cuando atacas con esta arma",
+    "text": "#% de probabilidad de crear Suelo Escarchado cuando Congelas un Enemigo",
     "ids": {
-      "explicit": "stat_209056835"
+      "explicit": "stat_2901262227"
     }
   },
   {
@@ -7663,12 +7688,6 @@
     "text": "Daño de Fuego aumentado un #% si usaste una Habilidad de Hielo Recientemente",
     "ids": {
       "explicit": "stat_4167600809"
-    }
-  },
-  {
-    "text": "#% de probabilidad de crear Suelo Escarchado cuando Congelas un Enemigo",
-    "ids": {
-      "explicit": "stat_2901262227"
     }
   },
   {
@@ -7751,6 +7770,12 @@
     }
   },
   {
+    "text": "#% del Daño de Rayo Convertido a Daño de Hielo",
+    "ids": {
+      "explicit": "stat_2158060122"
+    }
+  },
+  {
     "text": "El Umbral de Aturdimiento se basa en el Escudo de Energía en vez de la Vida",
     "ids": {
       "explicit": "stat_2562665460"
@@ -7787,6 +7812,13 @@
     }
   },
   {
+    "text": "Las Gemas Engarzadas son Asistidas por Precisión Adicional Nivel #",
+    "ids": {
+      "explicit": "stat_1567462963",
+      "implicit": "stat_1567462963"
+    }
+  },
+  {
     "text": "#% al Multiplicador de Daño Degenerativo de Caos que no sea de Achaques",
     "ids": {
       "explicit": "stat_1653010703",
@@ -7802,9 +7834,9 @@
     }
   },
   {
-    "text": "Con al menos 40 de destreza dentro del radio, Aluvión dispara un proyectil adicional simultáneamente en el primer y último ataque",
+    "text": "Con al menos 40 de Inteligencia dentro del Radio, Invocar Esqueletos puede invocar hasta # Esqueletos Mago",
     "ids": {
-      "explicit": "stat_630867098"
+      "explicit": "stat_3088991881"
     }
   },
   {
@@ -7814,9 +7846,9 @@
     }
   },
   {
-    "text": "Las Gemas Engarzadas son Asistidas por Daño de Rayo Agregado Nivel #",
+    "text": "Con al menos 40 de destreza dentro del radio, Aluvión dispara un proyectil adicional simultáneamente en el primer y último ataque",
     "ids": {
-      "explicit": "stat_1647529598"
+      "explicit": "stat_630867098"
     }
   },
   {
@@ -7835,6 +7867,12 @@
     "text": "Velocidad de Recuperación de Tiempo de Recarga por lanzar Trampas aumentada un #%",
     "ids": {
       "explicit": "stat_3417757416"
+    }
+  },
+  {
+    "text": "Daño Físico con Armas aumentado un #% por cada 10 de Fuerza",
+    "ids": {
+      "explicit": "stat_2594215131"
     }
   },
   {
@@ -7871,6 +7909,12 @@
     }
   },
   {
+    "text": "Gana una Carga de Frenesí por cada 50 Muertes por Desenfreno",
+    "ids": {
+      "explicit": "stat_637690626"
+    }
+  },
+  {
     "text": "Los Proyectiles Perforan un Objetivo adicional mientras tengas Traspasar",
     "ids": {
       "explicit": "stat_97250660"
@@ -7887,12 +7931,6 @@
     "ids": {
       "explicit": "stat_105466375",
       "implicit": "stat_105466375"
-    }
-  },
-  {
-    "text": "Con al menos 40 de Inteligencia dentro del Radio, Invocar Esqueletos puede invocar hasta # Esqueletos Mago",
-    "ids": {
-      "explicit": "stat_3088991881"
     }
   },
   {
@@ -7920,15 +7958,21 @@
     }
   },
   {
-    "text": "Daño Físico con Armas aumentado un #% por cada 10 de Fuerza",
-    "ids": {
-      "explicit": "stat_2594215131"
-    }
-  },
-  {
     "text": "# segundo al Tiempo de Recarga de Invocar Esqueletos",
     "ids": {
       "explicit": "stat_3013430129"
+    }
+  },
+  {
+    "text": "Los efectos de absorción de vida no se eliminan cuando tienes la vida llena\nLos efectos de absorción de vida recuperan escudo de energía en lugar de vida si tienes la vida llena",
+    "ids": {
+      "explicit": "stat_990335387"
+    }
+  },
+  {
+    "text": "Daño de Fuego con Golpes y Achaques aumentado un #% contra Enemigos Cegados",
+    "ids": {
+      "explicit": "stat_1601181226"
     }
   },
   {
@@ -7977,12 +8021,6 @@
     "text": "# de Daño Físico recibido de Ataques de Proyectiles",
     "ids": {
       "explicit": "stat_3612407781"
-    }
-  },
-  {
-    "text": "Daño de Fuego con Golpes y Achaques aumentado un #% contra Enemigos Cegados",
-    "ids": {
-      "explicit": "stat_1601181226"
     }
   },
   {
@@ -8138,12 +8176,6 @@
     }
   },
   {
-    "text": "# al Nivel de las Gemas Elementales Engarzadas",
-    "ids": {
-      "explicit": "stat_3571342795"
-    }
-  },
-  {
     "text": "#% del Daño de Ataque Físico se Absorbe como Vida durante el efecto del Frasco",
     "ids": {
       "explicit": "stat_3111255591"
@@ -8216,6 +8248,13 @@
     }
   },
   {
+    "text": "#% del Daño Físico se Absorbe como Vida",
+    "ids": {
+      "explicit": "stat_3764265320",
+      "implicit": "stat_3764265320"
+    }
+  },
+  {
     "text": "No Infliges Daño Elemental",
     "ids": {
       "explicit": "stat_2998305364"
@@ -8231,12 +8270,6 @@
     "text": "# al máximo de Escudo de Energía por cada 5 de Fuerza",
     "ids": {
       "explicit": "stat_3788706881"
-    }
-  },
-  {
-    "text": "#% del Daño de Rayo Convertido a Daño de Hielo",
-    "ids": {
-      "explicit": "stat_2158060122"
     }
   },
   {
@@ -8357,6 +8390,12 @@
     "text": "Daño de Hechizo recibido de Enemigos Cegados reducido un #%",
     "ids": {
       "explicit": "stat_1165847826"
+    }
+  },
+  {
+    "text": "Los golpes críticos no congelan por defecto",
+    "ids": {
+      "explicit": "stat_3979476531"
     }
   },
   {
@@ -8586,6 +8625,12 @@
     }
   },
   {
+    "text": "Pierdes todas las Cargas de Aguante mientras tengas el máximo de Cargas de Aguante",
+    "ids": {
+      "explicit": "stat_3590104875"
+    }
+  },
+  {
     "text": "Otorga la Habilidad Plaga Nivel #",
     "ids": {
       "explicit": "stat_1198418726"
@@ -8609,12 +8654,6 @@
     "text": "Todo el Daño de Ataques Escarcha cuando Aturdes",
     "ids": {
       "explicit": "stat_2437193018"
-    }
-  },
-  {
-    "text": "Pierdes todas las Cargas de Aguante mientras tengas el máximo de Cargas de Aguante",
-    "ids": {
-      "explicit": "stat_3590104875"
     }
   },
   {
@@ -8700,10 +8739,9 @@
     }
   },
   {
-    "text": "#% del Daño Físico por Golpes recibido como Daño de Caos",
+    "text": "Las Electrocuciones que causes se reflejan hacia ti",
     "ids": {
-      "explicit": "stat_4129825612",
-      "implicit": "stat_4129825612"
+      "explicit": "stat_807955413"
     }
   },
   {
@@ -8731,15 +8769,15 @@
     }
   },
   {
-    "text": "Los Tótems disparan # Proyectil adicional",
-    "ids": {
-      "explicit": "stat_736847554"
-    }
-  },
-  {
     "text": "Pierdes todas las Cargas de Poder al acumular el Máximo de Cargas de Poder",
     "ids": {
       "explicit": "stat_2135899247"
+    }
+  },
+  {
+    "text": "Los Tótems disparan # Proyectil adicional",
+    "ids": {
+      "explicit": "stat_736847554"
     }
   },
   {
@@ -8787,21 +8825,9 @@
     }
   },
   {
-    "text": "Los golpes críticos no congelan por defecto",
-    "ids": {
-      "explicit": "stat_3979476531"
-    }
-  },
-  {
     "text": "Velocidad de Movimiento aumentada un #% mientras estés Electrocutado",
     "ids": {
       "explicit": "stat_542923416"
-    }
-  },
-  {
-    "text": "Las Electrocuciones que causes se reflejan hacia ti",
-    "ids": {
-      "explicit": "stat_807955413"
     }
   },
   {
@@ -8914,13 +8940,6 @@
     }
   },
   {
-    "text": "Las Gemas Engarzadas son Asistidas por Precisión Adicional Nivel #",
-    "ids": {
-      "explicit": "stat_1567462963",
-      "implicit": "stat_1567462963"
-    }
-  },
-  {
     "text": "Convicción mortal",
     "ids": {
       "explicit": "stat_1585280892"
@@ -8954,6 +8973,12 @@
     "text": "No puede Empujar Enemigos",
     "ids": {
       "explicit": "stat_2095084973"
+    }
+  },
+  {
+    "text": "# al Nivel de las Gemas de Gólem Engarzadas",
+    "ids": {
+      "explicit": "stat_3448743676"
     }
   },
   {
@@ -9032,15 +9057,15 @@
     }
   },
   {
-    "text": "Nunca Bloquea",
-    "ids": {
-      "explicit": "stat_4127720801"
-    }
-  },
-  {
     "text": "Daño de Caos aumentado un #% por cada Nivel",
     "ids": {
       "explicit": "stat_4084331136"
+    }
+  },
+  {
+    "text": "Nunca Bloquea",
+    "ids": {
+      "explicit": "stat_4127720801"
     }
   },
   {
@@ -9098,6 +9123,12 @@
     "text": "Las Gemas Engarzadas son Asistidas por Perforar Nivel #",
     "ids": {
       "explicit": "stat_2433615566"
+    }
+  },
+  {
+    "text": "#% del Daño Elemental por Golpes recibido como Daño de Caos",
+    "ids": {
+      "explicit": "stat_1175213674"
     }
   },
   {
@@ -9224,12 +9255,6 @@
     }
   },
   {
-    "text": "# al Nivel de las Gemas de Gólem Engarzadas",
-    "ids": {
-      "explicit": "stat_3448743676"
-    }
-  },
-  {
     "text": "Los aumentos y las reducciones que afectan al daño de hechizos también se aplican a los ataques",
     "ids": {
       "explicit": "stat_3811649872"
@@ -9245,12 +9270,6 @@
     "text": "Recuperas un #% de vida al final del efecto del frasco",
     "ids": {
       "explicit": "stat_4078194486"
-    }
-  },
-  {
-    "text": "#% del Daño Elemental por Golpes recibido como Daño de Caos",
-    "ids": {
-      "explicit": "stat_1175213674"
     }
   },
   {
@@ -9272,22 +9291,9 @@
     }
   },
   {
-    "text": "Gana una Carga de Frenesí por cada 50 Muertes por Desenfreno",
-    "ids": {
-      "explicit": "stat_637690626"
-    }
-  },
-  {
     "text": "Velocidad de Ataque aumentada un #% por cada 25 de Destreza",
     "ids": {
       "explicit": "stat_2241560081"
-    }
-  },
-  {
-    "text": "#% del Daño Físico se Absorbe como Vida",
-    "ids": {
-      "explicit": "stat_3764265320",
-      "implicit": "stat_3764265320"
     }
   },
   {
@@ -9315,6 +9321,12 @@
     }
   },
   {
+    "text": "#% de probabilidad de Evitar ser Congelado durante el efecto del Frasco",
+    "ids": {
+      "explicit": "stat_2872815301"
+    }
+  },
+  {
     "text": "#% de Probabilidad que las Trampas se Activen una vez adicional",
     "ids": {
       "explicit": "stat_1087710344"
@@ -9327,9 +9339,21 @@
     }
   },
   {
+    "text": "# de Fuerza por cada 1 de Fuerza de Habilidades Pasivas Asignadas dentro del Radio",
+    "ids": {
+      "explicit": "stat_552705983"
+    }
+  },
+  {
     "text": "Invoca un Guerrero Esqueleto adicional con Invocar Esqueletos",
     "ids": {
       "explicit": "stat_1589090910"
+    }
+  },
+  {
+    "text": "Los enemigos son afortunados cuando te infligen Daño de Rayo a ti",
+    "ids": {
+      "explicit": "stat_4224965099"
     }
   },
   {
@@ -9376,12 +9400,6 @@
     }
   },
   {
-    "text": "Los enemigos son afortunados cuando te infligen Daño de Rayo a ti",
-    "ids": {
-      "explicit": "stat_4224965099"
-    }
-  },
-  {
     "text": "Agrega # a # de Daño de Rayo a los Golpes contra Enemigos Quemados",
     "ids": {
       "explicit": "stat_2870108850"
@@ -9410,12 +9428,6 @@
     "ids": {
       "explicit": "stat_710372469",
       "implicit": "stat_710372469"
-    }
-  },
-  {
-    "text": "#% de probabilidad de Evitar ser Congelado durante el efecto del Frasco",
-    "ids": {
-      "explicit": "stat_2872815301"
     }
   },
   {
@@ -9499,6 +9511,12 @@
     }
   },
   {
+    "text": "La Destreza e Inteligencia de Pasivas dentro del Radio cuentan para la bonificación de Daño Físico Cuerpo a Cuerpo de Fuerza",
+    "ids": {
+      "explicit": "stat_842363566"
+    }
+  },
+  {
     "text": "El Área está habitada por Brujas del Mar y sus Engendros",
     "ids": {
       "explicit": "stat_25085466"
@@ -9514,6 +9532,12 @@
     "text": "Otorga la Habilidad Aura de Muerte Nivel #",
     "ids": {
       "explicit": "stat_825352061"
+    }
+  },
+  {
+    "text": "Las Gemas Engarzadas son Asistidas por Duración Aumentada Nivel #",
+    "ids": {
+      "explicit": "stat_407317553"
     }
   },
   {
@@ -9541,9 +9565,21 @@
     }
   },
   {
+    "text": "Los aumentos y las reducciones que afectan al daño de esbirros también te afectan a ti",
+    "ids": {
+      "explicit": "stat_1631928082"
+    }
+  },
+  {
     "text": "Coste de Maná de Levantar Espectro reducido un #%",
     "ids": {
       "explicit": "stat_262301496"
+    }
+  },
+  {
+    "text": "Área de Efecto de Ataques aumentada un #%",
+    "ids": {
+      "explicit": "stat_1840985759"
     }
   },
   {
@@ -9592,6 +9628,12 @@
     "text": "Los Gólems tienen Vida Máxima aumentada un #%",
     "ids": {
       "explicit": "stat_1750735210"
+    }
+  },
+  {
+    "text": "#% de Daño de Hechizos es Absorbido como Escudo de Energía durante el efecto del Frasco",
+    "ids": {
+      "explicit": "stat_1456464057"
     }
   },
   {
@@ -9662,12 +9704,6 @@
     }
   },
   {
-    "text": "Los aumentos y las reducciones que afectan al daño de esbirros también te afectan a ti",
-    "ids": {
-      "explicit": "stat_1631928082"
-    }
-  },
-  {
     "text": "Gana #% del Daño Físico como Daño Extra de Hielo durante el efecto",
     "ids": {
       "explicit": "stat_2661163721"
@@ -9726,12 +9762,6 @@
     }
   },
   {
-    "text": "Las Gemas Engarzadas son Asistidas por Duración Aumentada Nivel #",
-    "ids": {
-      "explicit": "stat_407317553"
-    }
-  },
-  {
     "text": "#% de probabilidad de Maldecir Enemigos con la Gema de Maldición Engarzada con cada Golpe",
     "ids": {
       "explicit": "stat_1352418057"
@@ -9786,12 +9816,6 @@
     }
   },
   {
-    "text": "#% de Daño de Hechizos es Absorbido como Escudo de Energía durante el efecto del Frasco",
-    "ids": {
-      "explicit": "stat_1456464057"
-    }
-  },
-  {
     "text": "El Área está habitada por los Vaal",
     "ids": {
       "explicit": "stat_2609768284"
@@ -9801,12 +9825,6 @@
     "text": "Huellas Celestiales",
     "ids": {
       "explicit": "stat_50381303"
-    }
-  },
-  {
-    "text": "# de Fuerza por cada 1 de Fuerza de Habilidades Pasivas Asignadas dentro del Radio",
-    "ids": {
-      "explicit": "stat_552705983"
     }
   },
   {
@@ -9828,6 +9846,12 @@
     }
   },
   {
+    "text": "Otorga la Habilidad Haz Abrasador Nivel #",
+    "ids": {
+      "explicit": "stat_1540840"
+    }
+  },
+  {
     "text": "Las Gemas Engarzadas son Asistidas por Duración Reducida Nivel #",
     "ids": {
       "explicit": "stat_2487643588"
@@ -9837,12 +9861,6 @@
     "text": "Agrega # a # de Daño de Rayo a los Hechizos por cada Carga de Poder",
     "ids": {
       "explicit": "stat_4085417083"
-    }
-  },
-  {
-    "text": "El Área tiene # oleadas de monstruos",
-    "ids": {
-      "explicit": "stat_4182502594"
     }
   },
   {
@@ -9889,21 +9907,15 @@
     }
   },
   {
-    "text": "Otorga la Habilidad Haz Abrasador Nivel #",
-    "ids": {
-      "explicit": "stat_1540840"
-    }
-  },
-  {
-    "text": "Los efectos de absorción de vida no se eliminan cuando tienes la vida llena\nLos efectos de absorción de vida recuperan escudo de energía en lugar de vida si tienes la vida llena",
-    "ids": {
-      "explicit": "stat_990335387"
-    }
-  },
-  {
     "text": "Tus esbirros esparcen Suelo Cáustico al morir, que inflige #% de tu Vida máxima como Daño de Caos por segundo",
     "ids": {
       "explicit": "stat_688802590"
+    }
+  },
+  {
+    "text": "Crea una Nube de Humo cuando tengas Desenfreno",
+    "ids": {
+      "explicit": "stat_3321583955"
     }
   },
   {
@@ -9967,6 +9979,12 @@
     }
   },
   {
+    "text": "El Área tiene # oleadas de monstruos",
+    "ids": {
+      "explicit": "stat_4182502594"
+    }
+  },
+  {
     "text": "Pierdes todas las Cargas de Aguante al ser Golpeado",
     "ids": {
       "explicit": "stat_2994477068"
@@ -10017,15 +10035,15 @@
     }
   },
   {
-    "text": "# de Daño de Fuego recibido por segundo por cada Carga de Aguante si fuiste Golpeado Recientemente",
-    "ids": {
-      "explicit": "stat_1920234902"
-    }
-  },
-  {
     "text": "Ganas Fervor por # segundos al Matar",
     "ids": {
       "explicit": "stat_1195849808"
+    }
+  },
+  {
+    "text": "# de Daño de Fuego recibido por segundo por cada Carga de Aguante si fuiste Golpeado Recientemente",
+    "ids": {
+      "explicit": "stat_1920234902"
     }
   },
   {
@@ -10137,9 +10155,27 @@
     }
   },
   {
+    "text": "# de Maná ganado al Matar un Enemigo Congelado",
+    "ids": {
+      "explicit": "stat_3304801725"
+    }
+  },
+  {
+    "text": "Daño Elemental aumentado un #% por cada Gran Espectro",
+    "ids": {
+      "explicit": "stat_3163738488"
+    }
+  },
+  {
     "text": "Otorga Aguante de Malachai, Frenesí de Malachai y Poder de Malachai durante 5 segundos cada uno, en secuencia",
     "ids": {
       "explicit": "stat_2918150296"
+    }
+  },
+  {
+    "text": "Agrega # a # de Daño de Rayo por cada Enemigo Electrocutado que Mataste Recientemente",
+    "ids": {
+      "explicit": "stat_4222857095"
     }
   },
   {
@@ -10241,12 +10277,6 @@
     }
   },
   {
-    "text": "# de Maná ganado al Matar un Enemigo Congelado",
-    "ids": {
-      "explicit": "stat_3304801725"
-    }
-  },
-  {
     "text": "Vida Máxima aumentada un #% si ningún Objeto Equipado es Corrupto",
     "ids": {
       "explicit": "stat_2217962305"
@@ -10262,12 +10292,6 @@
     "text": "Gana #% de Daño de Ataques Físicos como Daño de Rayo Extra",
     "ids": {
       "explicit": "stat_1096897481"
-    }
-  },
-  {
-    "text": "Área de Efecto de Ataques aumentada un #%",
-    "ids": {
-      "explicit": "stat_1840985759"
     }
   },
   {
@@ -10368,9 +10392,9 @@
     }
   },
   {
-    "text": "Agrega # a # de Daño de Rayo por cada Enemigo Electrocutado que Mataste Recientemente",
+    "text": "#% de probabilidad de Activar Animar Arma Guardiana Nivel 18 cuando Arma Animada Mata a un Enemigo",
     "ids": {
-      "explicit": "stat_4222857095"
+      "explicit": "stat_919960234"
     }
   },
   {
@@ -10413,12 +10437,6 @@
     "text": "#% de probabilidad de evitar Proyectiles",
     "ids": {
       "explicit": "stat_3452269808"
-    }
-  },
-  {
-    "text": "#% de probabilidad de Activar Animar Arma Guardiana Nivel 18 cuando Arma Animada Mata a un Enemigo",
-    "ids": {
-      "explicit": "stat_919960234"
     }
   },
   {
@@ -10473,6 +10491,19 @@
     "text": "Los Aliados cercanos son Afortunados cuando Dañan Enemigos",
     "ids": {
       "explicit": "stat_655871604"
+    }
+  },
+  {
+    "text": "#% a la resistencia al rayo mientras estás bajo los efectos de Heraldo de Trueno",
+    "ids": {
+      "explicit": "stat_2687017988"
+    }
+  },
+  {
+    "text": "Velocidad de Ataque aumentada un #% durante cualquier Efecto de Frasco",
+    "ids": {
+      "explicit": "stat_1365052901",
+      "implicit": "stat_1365052901"
     }
   },
   {
@@ -10592,6 +10623,12 @@
     }
   },
   {
+    "text": "Las Habilidades disparan un Proyectil adicional si fuiste Golpeado Recientemente",
+    "ids": {
+      "explicit": "stat_988207959"
+    }
+  },
+  {
     "text": "#% de probabilidad de crear una Nube de Humo al ser Golpeado",
     "ids": {
       "explicit": "stat_953314356"
@@ -10622,12 +10659,6 @@
     }
   },
   {
-    "text": "Las Habilidades disparan un Proyectil adicional si fuiste Golpeado Recientemente",
-    "ids": {
-      "explicit": "stat_988207959"
-    }
-  },
-  {
     "text": "Los Espectros tienen Vida máxima aumentada un #%",
     "ids": {
       "explicit": "stat_3035514623"
@@ -10652,15 +10683,15 @@
     }
   },
   {
-    "text": "Recuperas un #% de vida al quemar a un enemigo",
-    "ids": {
-      "explicit": "stat_3112776239"
-    }
-  },
-  {
     "text": "La Bonificación de Daño por Fuerza en su lugar otorga Daño Físico Cuerpo a Cuerpo aumentado un 3% cada 10 de Fuerza",
     "ids": {
       "explicit": "stat_1531241759"
+    }
+  },
+  {
+    "text": "Recuperas un #% de vida al quemar a un enemigo",
+    "ids": {
+      "explicit": "stat_3112776239"
     }
   },
   {
@@ -10707,12 +10738,6 @@
     }
   },
   {
-    "text": "Crea una Nube de Humo cuando tengas Desenfreno",
-    "ids": {
-      "explicit": "stat_3321583955"
-    }
-  },
-  {
     "text": "Cargas de Frascos ganadas durante cualquier Efecto de Frasco aumentadas un #%",
     "ids": {
       "explicit": "stat_662803072"
@@ -10749,16 +10774,15 @@
     }
   },
   {
-    "text": "+# a la Vida Máxima por Engarce Rojo",
+    "text": "Evasión aumentada un #% si fuiste Golpeado Recientemente",
     "ids": {
-      "explicit": "stat_4210076836"
+      "explicit": "stat_1073310669"
     }
   },
   {
-    "text": "Velocidad de Ataque aumentada un #% durante cualquier Efecto de Frasco",
+    "text": "+# a la Vida Máxima por Engarce Rojo",
     "ids": {
-      "explicit": "stat_1365052901",
-      "implicit": "stat_1365052901"
+      "explicit": "stat_4210076836"
     }
   },
   {
@@ -10883,9 +10907,10 @@
     }
   },
   {
-    "text": "Evasión aumentada un #% si fuiste Golpeado Recientemente",
+    "text": "Heraldo de Hielo tiene la reserva de maná reducida un #%",
     "ids": {
-      "explicit": "stat_1073310669"
+      "explicit": "stat_3537762266",
+      "enchant": "stat_3537762266"
     }
   },
   {
@@ -10986,13 +11011,6 @@
     }
   },
   {
-    "text": "Heraldo de Hielo tiene la reserva de maná reducida un #%",
-    "ids": {
-      "explicit": "stat_3537762266",
-      "enchant": "stat_3537762266"
-    }
-  },
-  {
     "text": "# al Índice de Evasión por cada 5 de Escudo de Energía Máximo en el Escudo equipado",
     "ids": {
       "explicit": "stat_1115914670"
@@ -11086,6 +11104,12 @@
     }
   },
   {
+    "text": "Gana una carga de Aguante, de Frenesí o de Poder cuando Bloqueas",
+    "ids": {
+      "explicit": "stat_2199099676"
+    }
+  },
+  {
     "text": "#% de probabilidad de bloquear daño de hechizos",
     "ids": {
       "explicit": "stat_19803471"
@@ -11160,9 +11184,28 @@
     }
   },
   {
+    "text": "Daño sobre Suelo Incendiado aumentado un #%",
+    "ids": {
+      "explicit": "stat_3098087057"
+    }
+  },
+  {
+    "text": "Heraldo de Ceniza tiene la reserva de maná reducida un #%",
+    "ids": {
+      "explicit": "stat_2328234364",
+      "enchant": "stat_2328234364"
+    }
+  },
+  {
     "text": "Con al menos 40 de Destreza dentro del Radio, Flecha Ardiente tiene #% de probabilidad de propagar Alquitrán si no Quema un Enemigo",
     "ids": {
       "explicit": "stat_968694760"
+    }
+  },
+  {
+    "text": "Los Centinelas de Pureza infligen daño aumentado un #%",
+    "ids": {
+      "explicit": "stat_650630047"
     }
   },
   {
@@ -11175,12 +11218,6 @@
     "text": "Velocidad de Movimiento sobre Suelo Electrocutado aumentada un #%",
     "ids": {
       "explicit": "stat_3678841229"
-    }
-  },
-  {
-    "text": "Daño Elemental aumentado un #% por cada Gran Espectro",
-    "ids": {
-      "explicit": "stat_3163738488"
     }
   },
   {
@@ -11226,15 +11263,16 @@
     }
   },
   {
-    "text": "Daño de Esbirros aumentado un #% por cada Espectro levantado",
+    "text": "# al Nivel de las Gemas de Gritos de Guerra Engarzadas",
     "ids": {
-      "explicit": "stat_3191537057"
+      "explicit": "stat_1672793731",
+      "implicit": "stat_1672793731"
     }
   },
   {
-    "text": "Estás escarchado mientras estés con sangrado",
+    "text": "Daño de Esbirros aumentado un #% por cada Espectro levantado",
     "ids": {
-      "explicit": "stat_67132951"
+      "explicit": "stat_3191537057"
     }
   },
   {
@@ -11244,15 +11282,15 @@
     }
   },
   {
-    "text": "Tus habilidades te infligen #% del Maná que gastas en el coste de maná de las Habilidades como Daño Físico",
-    "ids": {
-      "explicit": "stat_99487834"
-    }
-  },
-  {
     "text": "Aplica los achaques no dañinos como si infligieran un #% más de daño",
     "ids": {
       "explicit": "stat_1345113611"
+    }
+  },
+  {
+    "text": "Tus habilidades te infligen #% del Maná que gastas en el coste de maná de las Habilidades como Daño Físico",
+    "ids": {
+      "explicit": "stat_99487834"
     }
   },
   {
@@ -11298,15 +11336,15 @@
     }
   },
   {
-    "text": "Los Monstruos ganan # Carga de Aguante cada 20 segundos",
-    "ids": {
-      "explicit": "stat_622678123"
-    }
-  },
-  {
     "text": "Tallada para glorificar a los # nuevos fieles convertidos por el Alto Templario Dóminus",
     "ids": {
       "explicit": "pseudo_timeless_jewel_dominus"
+    }
+  },
+  {
+    "text": "Los Monstruos ganan # Carga de Aguante cada 20 segundos",
+    "ids": {
+      "explicit": "stat_622678123"
     }
   },
   {
@@ -11363,12 +11401,6 @@
     "text": "Recibes # de Daño de Fuego cuando Quemas un Enemigo",
     "ids": {
       "explicit": "stat_2518598473"
-    }
-  },
-  {
-    "text": "Gana una carga de Aguante, de Frenesí o de Poder cuando Bloqueas",
-    "ids": {
-      "explicit": "stat_2199099676"
     }
   },
   {
@@ -11463,15 +11495,21 @@
     }
   },
   {
-    "text": "Daño sobre Suelo Incendiado aumentado un #%",
+    "text": "No puedes tener Esbirros que no sean Gólems",
     "ids": {
-      "explicit": "stat_3098087057"
+      "explicit": "stat_1826605755"
     }
   },
   {
     "text": "Las Habilidades disparan un Proyectil adicional si usaste una Habilidad de Movimiento Recientemente",
     "ids": {
       "explicit": "stat_2809802678"
+    }
+  },
+  {
+    "text": "Los Gólems infligen #% menos Daño",
+    "ids": {
+      "explicit": "stat_2861397339"
     }
   },
   {
@@ -11499,15 +11537,15 @@
     }
   },
   {
-    "text": "Las Habilidades de Movimiento Engarzadas no tienen Coste de Maná",
-    "ids": {
-      "explicit": "stat_3263216405"
-    }
-  },
-  {
     "text": "#% del Daño de Ataques se Absorbe como Vida por cada Carga de Frenesí",
     "ids": {
       "explicit": "stat_3243062554"
+    }
+  },
+  {
+    "text": "Las Habilidades de Movimiento Engarzadas no tienen Coste de Maná",
+    "ids": {
+      "explicit": "stat_3263216405"
     }
   },
   {
@@ -11560,12 +11598,6 @@
     }
   },
   {
-    "text": "Los Gólems infligen #% menos Daño",
-    "ids": {
-      "explicit": "stat_2861397339"
-    }
-  },
-  {
     "text": "#% de probabilidad de Bloquear Daño de Hechizos mientras tienes la Vida Baja",
     "ids": {
       "explicit": "stat_4070519133"
@@ -11600,6 +11632,12 @@
     "text": "Tamaño de Gólems reducido un #%",
     "ids": {
       "explicit": "stat_2576412389"
+    }
+  },
+  {
+    "text": "# de Armadura mientras no tengas Avatar de Fuego",
+    "ids": {
+      "explicit": "stat_4078952782"
     }
   },
   {
@@ -11673,12 +11711,6 @@
     }
   },
   {
-    "text": "No puedes tener Esbirros que no sean Gólems",
-    "ids": {
-      "explicit": "stat_1826605755"
-    }
-  },
-  {
     "text": "Cargas de Vacío Máximas: #",
     "ids": {
       "explicit": "stat_1209237645"
@@ -11722,15 +11754,15 @@
     }
   },
   {
-    "text": "No recibes Daño Extra de Golpes Críticos",
-    "ids": {
-      "explicit": "stat_4294267596"
-    }
-  },
-  {
     "text": "#% del Daño de Rayo se Absorbe como Maná durante el efecto del Frasco",
     "ids": {
       "explicit": "stat_1454377049"
+    }
+  },
+  {
+    "text": "No recibes Daño Extra de Golpes Críticos",
+    "ids": {
+      "explicit": "stat_4294267596"
     }
   },
   {
@@ -11755,12 +11787,6 @@
     "text": "#% del Daño Físico se Convierte a Fuego mientras tengas Avatar de Fuego",
     "ids": {
       "explicit": "stat_2052379536"
-    }
-  },
-  {
-    "text": "# de Armadura mientras no tengas Avatar de Fuego",
-    "ids": {
-      "explicit": "stat_4078952782"
     }
   },
   {
@@ -11842,13 +11868,6 @@
     "text": "Área de Efecto de Habilidades utilizadas por Tótems aumentada un #%",
     "ids": {
       "explicit": "stat_869436347"
-    }
-  },
-  {
-    "text": "# al Nivel de las Gemas de Gritos de Guerra Engarzadas",
-    "ids": {
-      "explicit": "stat_1672793731",
-      "implicit": "stat_1672793731"
     }
   },
   {
@@ -11958,15 +11977,39 @@
     }
   },
   {
+    "text": "Tienes Viento a favor si has infligido un golpe crítico recientemente",
+    "ids": {
+      "explicit": "stat_1085545682"
+    }
+  },
+  {
+    "text": "Los Golpes con esta Arma tienen Golpe de Gracia contra Enemigos con Sangrado",
+    "ids": {
+      "explicit": "stat_2558253923"
+    }
+  },
+  {
     "text": "Tu Daño Físico puede Escarchar",
     "ids": {
       "explicit": "stat_2227042420"
     }
   },
   {
+    "text": "Tienes Confluencia de escarcha durante 3 segundos cada 8 segundos",
+    "ids": {
+      "explicit": "stat_1190121450"
+    }
+  },
+  {
     "text": "Activa Ofrenda de Hueso de Nivel #, Ofrenda de Carne o Ofrenda de Espíritu cada 5 segundos\nLas Habilidades de Ofrenda Activadas de esta forma también te afectan a ti",
     "ids": {
       "explicit": "stat_1663239249"
+    }
+  },
+  {
+    "text": "Reserva de Maná de Congelamiento reducida un #%",
+    "ids": {
+      "explicit": "stat_4272260340"
     }
   },
   {
@@ -12069,6 +12112,12 @@
     }
   },
   {
+    "text": "Otorga la habilidad Invocar # bestial de nivel 20",
+    "ids": {
+      "explicit": "stat_2878779644"
+    }
+  },
+  {
     "text": "Recupera #% de tu Maná máximo cuando Bloqueas",
     "ids": {
       "explicit": "stat_3041288981",
@@ -12085,12 +12134,6 @@
     "text": "Las flechas que Perforan tienen #% al Multiplicador de Golpe Crítico",
     "ids": {
       "explicit": "stat_1064778484"
-    }
-  },
-  {
-    "text": "Otorga la habilidad Invocar # bestial de nivel 20",
-    "ids": {
-      "explicit": "stat_2878779644"
     }
   },
   {
@@ -12123,12 +12166,6 @@
     "text": "Los Ataques Engarzados tienen #% al Multiplicador de Golpe Crítico",
     "ids": {
       "explicit": "stat_356456977"
-    }
-  },
-  {
-    "text": "Los Golpes con esta Arma tienen Golpe de Gracia contra Enemigos con Sangrado",
-    "ids": {
-      "explicit": "stat_2558253923"
     }
   },
   {
@@ -12199,6 +12236,13 @@
     }
   },
   {
+    "text": "Remueve Electrocución cuando usas un Frasco",
+    "ids": {
+      "explicit": "stat_561861132",
+      "implicit": "stat_561861132"
+    }
+  },
+  {
     "text": "Armadura aumentada por la Resistencia al Fuego Sin Límite",
     "ids": {
       "explicit": "stat_713266390"
@@ -12239,12 +12283,6 @@
     "text": "Los gólems invocados son agresivos",
     "ids": {
       "explicit": "stat_3630426972"
-    }
-  },
-  {
-    "text": "Reserva de Maná de Congelamiento reducida un #%",
-    "ids": {
-      "explicit": "stat_4272260340"
     }
   },
   {
@@ -12371,6 +12409,12 @@
     }
   },
   {
+    "text": "Las habilidades pasivas notables dentro del radio se transforman para\notorgar: Los esbirros tienen su velocidad de movimiento aumentada un #%",
+    "ids": {
+      "explicit": "stat_3362879252"
+    }
+  },
+  {
     "text": "Los Esbirros ganan #% de Daño Físico como Daño de Hielo Extra",
     "ids": {
       "explicit": "stat_1236638414"
@@ -12398,13 +12442,6 @@
     "text": "#% de probabilidad de ganar una Carga de Poder si Empujas un Enemigo con Daño Cuerpo a Cuerpo",
     "ids": {
       "explicit": "stat_2179619644"
-    }
-  },
-  {
-    "text": "Heraldo de Ceniza tiene la reserva de maná reducida un #%",
-    "ids": {
-      "explicit": "stat_2328234364",
-      "enchant": "stat_2328234364"
     }
   },
   {
@@ -12459,16 +12496,16 @@
     }
   },
   {
-    "text": "Los Ataques Cuerpo a Cuerpo tienen #% de probabilidad de causar Sangrado",
-    "ids": {
-      "explicit": "stat_1285056331"
-    }
-  },
-  {
     "text": "Otorga la Habilidad Celeridad Nivel #",
     "ids": {
       "explicit": "stat_1188846263",
       "implicit": "stat_1188846263"
+    }
+  },
+  {
+    "text": "Los Ataques Cuerpo a Cuerpo tienen #% de probabilidad de causar Sangrado",
+    "ids": {
+      "explicit": "stat_1285056331"
     }
   },
   {
@@ -12544,6 +12581,12 @@
     }
   },
   {
+    "text": "Pierdes todas las Cargas de Espíritu cuando recibes un Golpe Bestial",
+    "ids": {
+      "explicit": "stat_2663792764"
+    }
+  },
+  {
     "text": "Daño Elemental recibido al ser Golpeado reducido un #% por cada Carga de Aguante",
     "ids": {
       "explicit": "stat_1686913105"
@@ -12559,6 +12602,12 @@
     "text": "Índice de Regeneración de Maná aumentada un #% durante cualquier Efecto de Frasco",
     "ids": {
       "explicit": "stat_2993091567"
+    }
+  },
+  {
+    "text": "Recibe # de Daño Físico por Segundo por cada Carga de Sustracción si usaste una Habilidad Recientemente",
+    "ids": {
+      "explicit": "stat_2440172920"
     }
   },
   {
@@ -12606,12 +12655,6 @@
     }
   },
   {
-    "text": "La Destreza e Inteligencia de Pasivas dentro del Radio cuentan para la bonificación de Daño Físico Cuerpo a Cuerpo de Fuerza",
-    "ids": {
-      "explicit": "stat_842363566"
-    }
-  },
-  {
     "text": "Las Habilidades de Ataque de Proyectiles tienen Probabilidad de Golpe Crítico aumentada un #%",
     "ids": {
       "explicit": "stat_4095169720"
@@ -12648,15 +12691,15 @@
     }
   },
   {
-    "text": "Lanza una Mina adicional",
-    "ids": {
-      "explicit": "stat_2395088636"
-    }
-  },
-  {
     "text": "# de Vida Máxima por cada Nivel",
     "ids": {
       "explicit": "stat_1982144275"
+    }
+  },
+  {
+    "text": "Lanza una Mina adicional",
+    "ids": {
+      "explicit": "stat_2395088636"
     }
   },
   {
@@ -12702,15 +12745,15 @@
     }
   },
   {
-    "text": "# al Máximo de Cargas de Sustracción por cada Objeto del Antiguo o del Creador Equipado",
-    "ids": {
-      "explicit": "stat_1872128565"
-    }
-  },
-  {
     "text": "Cada 16 segundos ganas Sobrecarga Elemental durante 8 segundos",
     "ids": {
       "explicit": "stat_708913352"
+    }
+  },
+  {
+    "text": "# al Máximo de Cargas de Sustracción por cada Objeto del Antiguo o del Creador Equipado",
+    "ids": {
+      "explicit": "stat_1872128565"
     }
   },
   {
@@ -12723,12 +12766,6 @@
     "text": "Recupera #% del Escudo de Energía cuando pierdes una Carga de Espíritu",
     "ids": {
       "explicit": "stat_1996775727"
-    }
-  },
-  {
-    "text": "Pierdes todas las Cargas de Espíritu cuando recibes un Golpe Bestial",
-    "ids": {
-      "explicit": "stat_2663792764"
     }
   },
   {
@@ -12757,15 +12794,15 @@
     }
   },
   {
-    "text": "# al Máximo de Escudo de Energía por cada Nivel",
-    "ids": {
-      "explicit": "stat_3864993324"
-    }
-  },
-  {
     "text": "Heraldo de Pureza tiene Efecto de Bonificación aumentado un #%",
     "ids": {
       "explicit": "stat_2126027382"
+    }
+  },
+  {
+    "text": "# al Máximo de Escudo de Energía por cada Nivel",
+    "ids": {
+      "explicit": "stat_3864993324"
     }
   },
   {
@@ -12787,16 +12824,16 @@
     }
   },
   {
+    "text": "+#% de Resistencia al Rayo de los Monstruos",
+    "ids": {
+      "explicit": "stat_162742068"
+    }
+  },
+  {
     "text": "Otorga la Habilidad Determinación Nivel #",
     "ids": {
       "explicit": "stat_4265392510",
       "implicit": "stat_4265392510"
-    }
-  },
-  {
-    "text": "+#% de Resistencia al Rayo de los Monstruos",
-    "ids": {
-      "explicit": "stat_162742068"
     }
   },
   {
@@ -12893,15 +12930,15 @@
     }
   },
   {
-    "text": "Los jugadores están Malditos con Conductividad",
+    "text": "#% menos Duración de Animar Arma",
     "ids": {
-      "explicit": "stat_376158712"
+      "explicit": "stat_414991155"
     }
   },
   {
-    "text": "Daño Físico aumentado un #% mientras tienes Técnica Resuelta",
+    "text": "Los jugadores están Malditos con Conductividad",
     "ids": {
-      "explicit": "stat_1258679667"
+      "explicit": "stat_376158712"
     }
   },
   {
@@ -12909,6 +12946,12 @@
     "ids": {
       "explicit": "stat_1745952865",
       "implicit": "stat_1745952865"
+    }
+  },
+  {
+    "text": "Daño Físico aumentado un #% mientras tienes Técnica Resuelta",
+    "ids": {
+      "explicit": "stat_1258679667"
     }
   },
   {
@@ -12971,6 +13014,12 @@
     "text": "Reserva de Maná de Desesperación reducida un #%",
     "ids": {
       "explicit": "stat_2562564343"
+    }
+  },
+  {
+    "text": "Tienes Fervor mientras no tienes Maná Bajo",
+    "ids": {
+      "explicit": "stat_1959256242"
     }
   },
   {
@@ -13043,6 +13092,13 @@
     }
   },
   {
+    "text": "#% de Reducción al Daño Físico adicional mientras estás inmóvil",
+    "ids": {
+      "explicit": "stat_2181129193",
+      "implicit": "stat_2181129193"
+    }
+  },
+  {
     "text": "El Daño de los Enemigos que te golpean es Desafortunado mientras estés Maldito con Vulnerabilidad",
     "ids": {
       "explicit": "stat_2758554648"
@@ -13098,15 +13154,21 @@
     }
   },
   {
+    "text": "No tienes Regeneración de Vida",
+    "ids": {
+      "explicit": "stat_854225133"
+    }
+  },
+  {
     "text": "Las Gemas engarzadas están Asistidas por Escudo de carne nivel #",
     "ids": {
       "explicit": "stat_858460086"
     }
   },
   {
-    "text": "No tienes Regeneración de Vida",
+    "text": "Espacio para anillo derecho: los proyectiles de los Hechizos se Encadenan +# veces",
     "ids": {
-      "explicit": "stat_854225133"
+      "explicit": "stat_1555918911"
     }
   },
   {
@@ -13125,13 +13187,6 @@
     "text": "Tienes Traspasar si la Recarga de Escudo de Energía comenzó Recientemente",
     "ids": {
       "explicit": "stat_2632954025"
-    }
-  },
-  {
-    "text": "#% de Reducción al Daño Físico adicional mientras estás inmóvil",
-    "ids": {
-      "explicit": "stat_2181129193",
-      "implicit": "stat_2181129193"
     }
   },
   {
@@ -13280,12 +13335,6 @@
     }
   },
   {
-    "text": "#% menos Duración de Animar Arma",
-    "ids": {
-      "explicit": "stat_414991155"
-    }
-  },
-  {
     "text": "#% de probabilidad de Activar Animar Arma Nivel 20 al Matar",
     "ids": {
       "explicit": "stat_1973890509"
@@ -13322,22 +13371,9 @@
     }
   },
   {
-    "text": "Remueve Electrocución cuando usas un Frasco",
-    "ids": {
-      "explicit": "stat_561861132",
-      "implicit": "stat_561861132"
-    }
-  },
-  {
     "text": "No puede aplicar Electrocución",
     "ids": {
       "explicit": "stat_990377349"
-    }
-  },
-  {
-    "text": "#% a la resistencia al rayo mientras estás bajo los efectos de Heraldo de Trueno",
-    "ids": {
-      "explicit": "stat_2687017988"
     }
   },
   {
@@ -13366,12 +13402,6 @@
     }
   },
   {
-    "text": "Tienes Fervor mientras no tienes Maná Bajo",
-    "ids": {
-      "explicit": "stat_1959256242"
-    }
-  },
-  {
     "text": "Espacio para anillo derecho: los proyectiles de los Hechizos no se pueden Bifurcar",
     "ids": {
       "explicit": "stat_2933024469"
@@ -13384,15 +13414,23 @@
     }
   },
   {
+    "text": "#% a la probabilidad de ser Envenenado",
+    "ids": {
+      "explicit": "stat_4250009622"
+    }
+  },
+  {
     "text": "Efecto de Bonificación de Aspecto del Ave aumentado un #%",
     "ids": {
       "explicit": "stat_1746347097"
     }
   },
   {
-    "text": "#% a la probabilidad de ser Envenenado",
+    "text": "# a las Cargas de Frenesí Mínimas",
     "ids": {
-      "explicit": "stat_4250009622"
+      "explicit": "stat_658456881",
+      "implicit": "stat_658456881",
+      "crafted": "stat_658456881"
     }
   },
   {
@@ -13402,15 +13440,15 @@
     }
   },
   {
-    "text": "Las Gemas Rojas Engarzadas obtienen #% del Daño Físico como Daño Extra de Fuego",
-    "ids": {
-      "explicit": "stat_2629366488"
-    }
-  },
-  {
     "text": "+#% de Resistencia al Fuego de los Monstruos",
     "ids": {
       "explicit": "stat_2319127046"
+    }
+  },
+  {
+    "text": "Las Gemas Rojas Engarzadas obtienen #% del Daño Físico como Daño Extra de Fuego",
+    "ids": {
+      "explicit": "stat_2629366488"
     }
   },
   {
@@ -13558,9 +13596,9 @@
     }
   },
   {
-    "text": "Los Centinelas de Pureza infligen daño aumentado un #%",
+    "text": "Daño de Fuego aumentado un #% por cada 20 de Fuerza",
     "ids": {
-      "explicit": "stat_650630047"
+      "explicit": "stat_2241902512"
     }
   },
   {
@@ -13680,12 +13718,6 @@
     }
   },
   {
-    "text": "Recibe # de Daño Físico por Segundo por cada Carga de Sustracción si usaste una Habilidad Recientemente",
-    "ids": {
-      "explicit": "stat_2440172920"
-    }
-  },
-  {
     "text": "Los esbirros tienen +# al índice de precisión por cada 10 de Devoción",
     "ids": {
       "explicit": "stat_2830135449"
@@ -13716,15 +13748,15 @@
     }
   },
   {
-    "text": "Refleja las Electrocuciones aplicadas a ti a todos los Enemigos Cercanos",
-    "ids": {
-      "explicit": "stat_615884286"
-    }
-  },
-  {
     "text": "#% de probabilidad de Esquivar Golpes por Hechizos mientras estás afectado por Celeridad",
     "ids": {
       "explicit": "stat_1345136012"
+    }
+  },
+  {
+    "text": "Refleja las Electrocuciones aplicadas a ti a todos los Enemigos Cercanos",
+    "ids": {
+      "explicit": "stat_615884286"
     }
   },
   {
@@ -13756,6 +13788,12 @@
     "ids": {
       "explicit": "stat_2813626504",
       "implicit": "stat_2813626504"
+    }
+  },
+  {
+    "text": "No puedes ganar Escudo de Energía",
+    "ids": {
+      "explicit": "stat_206243615"
     }
   },
   {
@@ -13857,21 +13895,33 @@
     }
   },
   {
+    "text": "#% del daño recibido se gana como vida durante 4 segundos al recibir un golpe",
+    "ids": {
+      "explicit": "stat_1444556985"
+    }
+  },
+  {
     "text": "Mientras tengas Su Abrazo, recibe #% de tu Vida y Escudo de Energía totales Máximos como Daño de Fuego por segundo por cada Nivel",
     "ids": {
       "explicit": "stat_2442112158"
     }
   },
   {
-    "text": "Gana Su Abrazo por # segundos cuando Quemas a un Enemigo",
+    "text": "# de Vida ganada por cada Enemigo Golpeado mientras estés afectado por Vitalidad",
     "ids": {
-      "explicit": "stat_608963131"
+      "explicit": "stat_4259701244"
     }
   },
   {
     "text": "Tienes probabilidad máxima de bloquear daño de ataques si no has bloqueado recientemente",
     "ids": {
       "explicit": "stat_2584264074"
+    }
+  },
+  {
+    "text": "Gana Su Abrazo por # segundos cuando Quemas a un Enemigo",
+    "ids": {
+      "explicit": "stat_608963131"
     }
   },
   {
@@ -13926,12 +13976,6 @@
     "text": "No te afecta Vulnerabilidad mientras te afecte Determinación",
     "ids": {
       "explicit": "stat_3207781478"
-    }
-  },
-  {
-    "text": "# de Vida ganada por cada Enemigo Golpeado mientras estés afectado por Vitalidad",
-    "ids": {
-      "explicit": "stat_4259701244"
     }
   },
   {
@@ -14020,18 +14064,6 @@
     }
   },
   {
-    "text": "No puedes ganar Escudo de Energía",
-    "ids": {
-      "explicit": "stat_206243615"
-    }
-  },
-  {
-    "text": "Daño de Fuego aumentado un #% por cada 20 de Fuerza",
-    "ids": {
-      "explicit": "stat_2241902512"
-    }
-  },
-  {
     "text": "No te afecta Cadenas Temporales mientras te afecte Celeridad",
     "ids": {
       "explicit": "stat_2806391472"
@@ -14050,16 +14082,16 @@
     }
   },
   {
+    "text": "Daño de Fuego aumentado un #% mientras estés afectado por Rabia",
+    "ids": {
+      "explicit": "stat_3337107517"
+    }
+  },
+  {
     "text": "Cólera tiene Efecto de Aura aumentado un #%",
     "ids": {
       "explicit": "stat_2181791238",
       "implicit": "stat_2181791238"
-    }
-  },
-  {
-    "text": "#% del daño recibido se gana como vida durante 4 segundos al recibir un golpe",
-    "ids": {
-      "explicit": "stat_1444556985"
     }
   },
   {
@@ -14075,15 +14107,15 @@
     }
   },
   {
-    "text": "Tienes Traspasar mientras estés afectado por Celeridad",
-    "ids": {
-      "explicit": "stat_1346311588"
-    }
-  },
-  {
     "text": "Daño elemental aumentado un #% por cada 10 de Devoción",
     "ids": {
       "explicit": "stat_3103189267"
+    }
+  },
+  {
+    "text": "Tienes Traspasar mientras estés afectado por Celeridad",
+    "ids": {
+      "explicit": "stat_1346311588"
     }
   },
   {
@@ -14123,12 +14155,6 @@
     }
   },
   {
-    "text": "Espacio para anillo derecho: los proyectiles de los Hechizos se Encadenan +# veces",
-    "ids": {
-      "explicit": "stat_1555918911"
-    }
-  },
-  {
     "text": "Velocidad de recuperación de tiempo de recarga de Habilidades de Movimiento aumentada un #% mientras estés afectado por Celeridad",
     "ids": {
       "explicit": "stat_3332055899"
@@ -14138,6 +14164,12 @@
     "text": "Velocidad de Movimiento aumentada un #% mientras estés afectado por Gracia",
     "ids": {
       "explicit": "stat_3329402420"
+    }
+  },
+  {
+    "text": "Las habilidades usadas por minas tienen su área de efecto aumentada un #%",
+    "ids": {
+      "explicit": "stat_2228913626"
     }
   },
   {
@@ -14159,6 +14191,12 @@
     }
   },
   {
+    "text": "#% al Multiplicador de Golpe Crítico si infligiste un Golpe no Crítico Recientemente",
+    "ids": {
+      "explicit": "stat_1626712767"
+    }
+  },
+  {
     "text": "#% de probabilidad de duplicar la Duración de Aturdimiento",
     "ids": {
       "explicit": "stat_2622251413"
@@ -14177,15 +14215,21 @@
     }
   },
   {
-    "text": "# a la Armadura mientras estés afectado por Determinación",
+    "text": "Con # Objetos Corruptos Equipados: la Absorción de Vida se recupera basada en tu Daño de Caos",
     "ids": {
-      "explicit": "stat_3742808908"
+      "explicit": "stat_4192058279"
     }
   },
   {
     "text": "No te afecta Congelación mientras te afecte Pureza de Hielo",
     "ids": {
       "explicit": "stat_4012281889"
+    }
+  },
+  {
+    "text": "# a la Armadura mientras estés afectado por Determinación",
+    "ids": {
+      "explicit": "stat_3742808908"
     }
   },
   {
@@ -14198,6 +14242,12 @@
     "text": "Velocidad de Recuperación de Maná aumentada un #% mientras estés afectado por Claridad",
     "ids": {
       "explicit": "stat_556659145"
+    }
+  },
+  {
+    "text": "Con # Objetos Corruptos Equipados: 50% del Daño de Caos no evita el Escudo de Energía, y 50% del Daño Físico evita el Escudo de Energía",
+    "ids": {
+      "explicit": "stat_3225265684"
     }
   },
   {
@@ -14237,12 +14287,6 @@
     }
   },
   {
-    "text": "Con # Objetos Corruptos Equipados: la Absorción de Vida se recupera basada en tu Daño de Caos",
-    "ids": {
-      "explicit": "stat_4192058279"
-    }
-  },
-  {
     "text": "Los aumentos y las reducciones que afectan a la velocidad de lanzamiento de hechizos también se aplican a la velocidad de lanzamiento de trampas",
     "ids": {
       "explicit": "stat_3520223758"
@@ -14264,12 +14308,6 @@
     "text": "No te afecta Inflamabilidad mientras te afecte Pureza de Fuego",
     "ids": {
       "explicit": "stat_1173690938"
-    }
-  },
-  {
-    "text": "#% al Multiplicador de Golpe Crítico si infligiste un Golpe no Crítico Recientemente",
-    "ids": {
-      "explicit": "stat_1626712767"
     }
   },
   {
@@ -14329,15 +14367,15 @@
     }
   },
   {
-    "text": "#% a la probabilidad de Bloquear Daño de Ataques mientras tengas al menos 5 Barreras de Cangrejo",
-    "ids": {
-      "explicit": "stat_1354504703"
-    }
-  },
-  {
     "text": "Tu Daño de Hielo puede Quemar",
     "ids": {
       "explicit": "stat_3573591118"
+    }
+  },
+  {
+    "text": "#% a la probabilidad de Bloquear Daño de Ataques mientras tengas al menos 5 Barreras de Cangrejo",
+    "ids": {
+      "explicit": "stat_1354504703"
     }
   },
   {
@@ -14347,21 +14385,27 @@
     }
   },
   {
-    "text": "Recuperación total máxima por segundo de absorción de escudo de energía aumentada un #% mientras estás bajo los efectos de Fanatismo",
-    "ids": {
-      "explicit": "stat_3848992177"
-    }
-  },
-  {
     "text": "Las habilidades de viaje tienen la velocidad de tiempo de recarga aumentada en un #%",
     "ids": {
       "explicit": "stat_2308278768"
     }
   },
   {
+    "text": "Recuperación total máxima por segundo de absorción de escudo de energía aumentada un #% mientras estás bajo los efectos de Fanatismo",
+    "ids": {
+      "explicit": "stat_3848992177"
+    }
+  },
+  {
     "text": "#% a la probabilidad de Bloquear Daño de Ataques mientras tengas al menos 10 Barreras de Cangrejo",
     "ids": {
       "explicit": "stat_653107703"
+    }
+  },
+  {
+    "text": "Estás escarchado mientras estés con sangrado",
+    "ids": {
+      "explicit": "stat_67132951"
     }
   },
   {
@@ -14662,21 +14706,9 @@
     }
   },
   {
-    "text": "Con # Objetos Corruptos Equipados: 50% del Daño de Caos no evita el Escudo de Energía, y 50% del Daño Físico evita el Escudo de Energía",
-    "ids": {
-      "explicit": "stat_3225265684"
-    }
-  },
-  {
     "text": "Daño de Rayo aumentado un #% mientras estés afectado por Cólera",
     "ids": {
       "explicit": "stat_418293304"
-    }
-  },
-  {
-    "text": "Velocidad de Recarga de Escudo de Energía aumentada un #% durante cualquier Efecto de Frasco",
-    "ids": {
-      "explicit": "stat_1827657795"
     }
   },
   {
@@ -14686,21 +14718,27 @@
     }
   },
   {
+    "text": "Velocidad de Recarga de Escudo de Energía aumentada un #% durante cualquier Efecto de Frasco",
+    "ids": {
+      "explicit": "stat_1827657795"
+    }
+  },
+  {
     "text": "#% a todas las resistencias elementales por cada 10 de Devoción",
     "ids": {
       "explicit": "stat_1910205563"
     }
   },
   {
-    "text": "Los hechizos de nova tienen un #% más de área de efecto",
-    "ids": {
-      "explicit": "stat_200113086"
-    }
-  },
-  {
     "text": "No puede Absorber",
     "ids": {
       "explicit": "stat_1336164384"
+    }
+  },
+  {
+    "text": "Los hechizos de nova tienen un #% más de área de efecto",
+    "ids": {
+      "explicit": "stat_200113086"
     }
   },
   {
@@ -14819,12 +14857,6 @@
     }
   },
   {
-    "text": "Daño de Fuego aumentado un #% mientras estés afectado por Rabia",
-    "ids": {
-      "explicit": "stat_3337107517"
-    }
-  },
-  {
     "text": "Gana #% del daño elemental como daño extra de caos por cada objeto del Creador equipado",
     "ids": {
       "explicit": "stat_33348259"
@@ -14937,6 +14969,12 @@
     }
   },
   {
+    "text": "Los Ataques siempre infligen Sangrado mientras tengas Sigilo del Gato",
+    "ids": {
+      "explicit": "stat_2059771038"
+    }
+  },
+  {
     "text": "#% de probabilidad de recuperar 10% de maná cuando uses una habilidad mientras estés afectado por Claridad",
     "ids": {
       "explicit": "stat_1699077932"
@@ -14961,15 +14999,15 @@
     }
   },
   {
-    "text": "Los aumentos y las reducciones que afectan al radio de iluminación también se aplican al daño",
-    "ids": {
-      "explicit": "stat_3519807287"
-    }
-  },
-  {
     "text": "# de Escudo de Energía ganado por cada Enemigo Golpeado mientras estés afectado por Disciplina",
     "ids": {
       "explicit": "stat_3765507527"
+    }
+  },
+  {
+    "text": "Los aumentos y las reducciones que afectan al radio de iluminación también se aplican al daño",
+    "ids": {
+      "explicit": "stat_3519807287"
     }
   },
   {
@@ -15105,6 +15143,12 @@
     }
   },
   {
+    "text": "Tienes Traspasar mientras tengas Sigilo del Gato",
+    "ids": {
+      "explicit": "stat_1834455446"
+    }
+  },
+  {
     "text": "Velocidad de Movimiento aumentada un #% mientras tengas Sigilo del Gato",
     "ids": {
       "explicit": "stat_673704994"
@@ -15156,6 +15200,12 @@
     "text": "#% al Multiplicador de Golpe Crítico contra Enemigos que tengan la Vida Llena",
     "ids": {
       "explicit": "stat_2355615476"
+    }
+  },
+  {
+    "text": "Cada 16 segundos ganas Reflejos de Hierro durante 8 segundos",
+    "ids": {
+      "explicit": "stat_2200114771"
     }
   },
   {
@@ -15224,12 +15274,6 @@
     "text": "Daño aumentado un #% con Golpes y Achaques contra Enemigos afectados por 3 Telarañas",
     "ids": {
       "explicit": "stat_103928310"
-    }
-  },
-  {
-    "text": "Los Ataques siempre infligen Sangrado mientras tengas Sigilo del Gato",
-    "ids": {
-      "explicit": "stat_2059771038"
     }
   },
   {
@@ -15383,12 +15427,6 @@
     }
   },
   {
-    "text": "Tienes Viento a favor si has infligido un golpe crítico recientemente",
-    "ids": {
-      "explicit": "stat_1085545682"
-    }
-  },
-  {
     "text": "#% de probabilidad que la Recarga del Escudo de Energía comience cuando Bloqueas",
     "ids": {
       "explicit": "stat_762154651"
@@ -15425,15 +15463,15 @@
     }
   },
   {
-    "text": "# de Vida Regenerada por Segundo si tienes al menos 1000 de Escudo de Energía Máximo",
-    "ids": {
-      "explicit": "stat_1704843611"
-    }
-  },
-  {
     "text": "Resistencia al hielo aumentada un #%",
     "ids": {
       "explicit": "stat_4252311791"
+    }
+  },
+  {
+    "text": "# de Vida Regenerada por Segundo si tienes al menos 1000 de Escudo de Energía Máximo",
+    "ids": {
+      "explicit": "stat_1704843611"
     }
   },
   {
@@ -15509,6 +15547,12 @@
     }
   },
   {
+    "text": "#% del Daño de Hielo se absorbe como Escudo de Energía",
+    "ids": {
+      "explicit": "stat_1939452467"
+    }
+  },
+  {
     "text": "Cantidad de Peces Pescados aumentada un #%",
     "ids": {
       "explicit": "stat_3802667447",
@@ -15567,12 +15611,6 @@
     }
   },
   {
-    "text": "Cada 16 segundos ganas Reflejos de Hierro durante 8 segundos",
-    "ids": {
-      "explicit": "stat_2200114771"
-    }
-  },
-  {
     "text": "Resistencia al rayo aumentada un #%",
     "ids": {
       "explicit": "stat_2249211872"
@@ -15592,12 +15630,6 @@
     }
   },
   {
-    "text": "#% del Daño de Hielo se absorbe como Escudo de Energía",
-    "ids": {
-      "explicit": "stat_1939452467"
-    }
-  },
-  {
     "text": "Cólera tiene la reserva de maná reducida un #%",
     "ids": {
       "explicit": "stat_3600749521",
@@ -15614,6 +15646,12 @@
     "text": "Tus golpes intimidan enemigos durante 4 segundos mientras estás usando Orgullo",
     "ids": {
       "explicit": "stat_3772848194"
+    }
+  },
+  {
+    "text": "Manifestar Derviche Bailarín también manifiesta una copia de Derviche Bailarín",
+    "ids": {
+      "explicit": "stat_1820083363"
     }
   },
   {
@@ -15672,6 +15710,13 @@
     }
   },
   {
+    "text": "Rabia tiene la reserva de maná reducida un #%",
+    "ids": {
+      "explicit": "stat_2003753577",
+      "enchant": "stat_2003753577"
+    }
+  },
+  {
     "text": "Tienes Pacto Vaal mientras todas las gemas engarzadas son rojas",
     "ids": {
       "explicit": "stat_3242537102"
@@ -15706,12 +15751,6 @@
     "text": "Daño aumentado un #% si Congelaste un Enemigo Recientemente",
     "ids": {
       "explicit": "stat_1064477264"
-    }
-  },
-  {
-    "text": "Tienes Traspasar mientras tengas Sigilo del Gato",
-    "ids": {
-      "explicit": "stat_1834455446"
     }
   },
   {
@@ -15761,13 +15800,6 @@
     "text": "Los Monstruos del Más Allá tienen #% más Cantidad y Rareza de Objetos Arrojados",
     "ids": {
       "explicit": "stat_3422445312"
-    }
-  },
-  {
-    "text": "Rabia tiene la reserva de maná reducida un #%",
-    "ids": {
-      "explicit": "stat_2003753577",
-      "enchant": "stat_2003753577"
     }
   },
   {
@@ -15845,6 +15877,12 @@
     }
   },
   {
+    "text": "Las Habilidades de Fuego tienen #% de probabilidad de Envenenar con cada Golpe",
+    "ids": {
+      "explicit": "stat_2424717327"
+    }
+  },
+  {
     "text": "Daño físico de ataques aumentado un #% mientras usas Orgullo",
     "ids": {
       "explicit": "stat_576528026"
@@ -15869,6 +15907,12 @@
     }
   },
   {
+    "text": "Los enemigos te aplican los achaques elementales a ti en lugar de a los aliados cercanos",
+    "ids": {
+      "explicit": "stat_979288792"
+    }
+  },
+  {
     "text": "Los Talismanes encontrados en esta Área son Raros",
     "ids": {
       "explicit": "stat_1401233515"
@@ -15878,6 +15922,12 @@
     "text": "#% al multiplicador de golpe crítico mientras estás afectado por Golpe Preciso",
     "ids": {
       "explicit": "stat_1817023621"
+    }
+  },
+  {
+    "text": "Elimina Sangrado cuando usas un Grito de Guerra",
+    "ids": {
+      "explicit": "stat_3936926420"
     }
   },
   {
@@ -15912,21 +15962,9 @@
     }
   },
   {
-    "text": "Manifestar Derviche Bailarín también manifiesta una copia de Derviche Bailarín",
-    "ids": {
-      "explicit": "stat_1820083363"
-    }
-  },
-  {
     "text": "No puedes ser Electrocutado mientras estés Congelado",
     "ids": {
       "explicit": "stat_798853218"
-    }
-  },
-  {
-    "text": "Las Habilidades de Hielo tienen #% de probabilidad de Envenenar con cada Golpe",
-    "ids": {
-      "explicit": "stat_2373079502"
     }
   },
   {
@@ -15944,6 +15982,12 @@
     }
   },
   {
+    "text": "Las Habilidades de Hielo tienen #% de probabilidad de Envenenar con cada Golpe",
+    "ids": {
+      "explicit": "stat_2373079502"
+    }
+  },
+  {
     "text": "# de Vida ganada por cada Enemigo Cegado Golpeado por esta Arma",
     "ids": {
       "explicit": "stat_1649099067"
@@ -15953,12 +15997,6 @@
     "text": "El Daño Penetra #% de las Resistencias Elementales durante cualquier Efecto de Frasco",
     "ids": {
       "explicit": "stat_3392890360"
-    }
-  },
-  {
-    "text": "Las Habilidades de Fuego tienen #% de probabilidad de Envenenar con cada Golpe",
-    "ids": {
-      "explicit": "stat_2424717327"
     }
   },
   {
@@ -16017,21 +16055,15 @@
     }
   },
   {
-    "text": "Los enemigos te aplican los achaques elementales a ti en lugar de a los aliados cercanos",
-    "ids": {
-      "explicit": "stat_979288792"
-    }
-  },
-  {
-    "text": "Elimina Sangrado cuando usas un Grito de Guerra",
-    "ids": {
-      "explicit": "stat_3936926420"
-    }
-  },
-  {
     "text": "Sacrificas #% de tu vida cuando usas o activas una habilidad de hechizo",
     "ids": {
       "explicit": "stat_545408899"
+    }
+  },
+  {
+    "text": "El Daño de los enemigos que te golpean es Desafortunado mientras tengas la Vida Llena",
+    "ids": {
+      "explicit": "stat_3629143471"
     }
   },
   {
@@ -16062,12 +16094,6 @@
     "text": "#% del Daño de Fuego se absorbe como Escudo de Energía",
     "ids": {
       "explicit": "stat_3885409671"
-    }
-  },
-  {
-    "text": "El Daño de los enemigos que te golpean es Desafortunado mientras tengas la Vida Llena",
-    "ids": {
-      "explicit": "stat_3629143471"
     }
   },
   {
@@ -16138,21 +16164,15 @@
     }
   },
   {
-    "text": "Las habilidades usadas por minas tienen su área de efecto aumentada un #%",
+    "text": "Las Gemas Engarzadas tienen +3,5% de Probabilidad de Golpe Crítico",
     "ids": {
-      "explicit": "stat_2228913626"
+      "explicit": "stat_1681904129"
     }
   },
   {
     "text": "Tus esbirros usan tus frascos cuando son invocados",
     "ids": {
       "explicit": "stat_1827636152"
-    }
-  },
-  {
-    "text": "Las Gemas Engarzadas tienen +3,5% de Probabilidad de Golpe Crítico",
-    "ids": {
-      "explicit": "stat_1681904129"
     }
   },
   {
@@ -16187,15 +16207,15 @@
     }
   },
   {
-    "text": "#% de Resistencia al Caos contra el Daño Degenerativo",
-    "ids": {
-      "explicit": "stat_2266636761"
-    }
-  },
-  {
     "text": "El suelo consagrado creado durante el efecto del frasco aplica un #% de aumento al daño que reciben los enemigos",
     "ids": {
       "explicit": "stat_1866211373"
+    }
+  },
+  {
+    "text": "#% de Resistencia al Caos contra el Daño Degenerativo",
+    "ids": {
+      "explicit": "stat_2266636761"
     }
   },
   {
@@ -16254,15 +16274,15 @@
     }
   },
   {
-    "text": "Los Ataques con esta Arma infligen # a # de Daño de Fuego agregado a los Enemigos con Sangrado",
-    "ids": {
-      "explicit": "stat_2453554491"
-    }
-  },
-  {
     "text": "Los Ataques con esta Arma infligen # a # de Daño Físico agregado a Enemigos Quemados",
     "ids": {
       "explicit": "stat_2202639361"
+    }
+  },
+  {
+    "text": "Los Ataques con esta Arma infligen # a # de Daño de Fuego agregado a los Enemigos con Sangrado",
+    "ids": {
+      "explicit": "stat_2453554491"
     }
   },
   {
@@ -16388,6 +16408,24 @@
     }
   },
   {
+    "text": "#% de probabilidad de Maldecir Enemigos no Malditos con una Maldición aleatoria al Golpear",
+    "ids": {
+      "explicit": "stat_1726444796"
+    }
+  },
+  {
+    "text": "Cuando estás Maldito con Vulnerabilidad se considera que tienes Vida Baja",
+    "ids": {
+      "explicit": "stat_2304300603"
+    }
+  },
+  {
+    "text": "Los aumentos y las reducciones que afectan al radio de iluminación también se aplican a la precisión",
+    "ids": {
+      "explicit": "stat_411986876"
+    }
+  },
+  {
     "text": "Brilla mientras estés en un Área que contiene un Pez Único",
     "ids": {
       "explicit": "stat_931560398"
@@ -16397,14 +16435,6 @@
     "text": "Los Monstruos con Monedas de Plata arrojan una Moneda de Plata adicional",
     "ids": {
       "explicit": "stat_3679287686"
-    }
-  },
-  {
-    "text": "# a las Cargas de Frenesí Mínimas",
-    "ids": {
-      "explicit": "stat_658456881",
-      "implicit": "stat_658456881",
-      "crafted": "stat_658456881"
     }
   },
   {
@@ -16452,15 +16482,21 @@
     }
   },
   {
+    "text": "Las habilidades que no son de canalización tienen # al coste de maná total mientras estás afectado por Claridad",
+    "ids": {
+      "explicit": "stat_1853636813"
+    }
+  },
+  {
     "text": "Velocidades de Ataque y Lanzamiento de Hechizos aumentadas un #% si has golpeado un enemigo recientemente",
     "ids": {
       "explicit": "stat_1483753325"
     }
   },
   {
-    "text": "Las habilidades que no son de canalización tienen # al coste de maná total mientras estás afectado por Claridad",
+    "text": "El Daño de Caos puede Quemar, Escarchar y Electrocutar",
     "ids": {
-      "explicit": "stat_1853636813"
+      "explicit": "stat_3470457445"
     }
   },
   {
@@ -16483,12 +16519,6 @@
     }
   },
   {
-    "text": "El Daño de Caos puede Quemar, Escarchar y Electrocutar",
-    "ids": {
-      "explicit": "stat_3470457445"
-    }
-  },
-  {
     "text": "Orgullo tiene su reserva de maná reducida un #%",
     "ids": {
       "explicit": "stat_250961191",
@@ -16502,23 +16532,17 @@
     }
   },
   {
+    "text": "Agrega # a # de Daño de Hielo mientras no haya Vida Reservada",
+    "ids": {
+      "explicit": "stat_897996059"
+    }
+  },
+  {
     "text": "Pureza de Rayo tiene la reserva de maná reducida un #%",
     "ids": {
       "explicit": "stat_1285430327",
       "implicit": "stat_1285430327",
       "enchant": "stat_1285430327"
-    }
-  },
-  {
-    "text": "Cuando estás Maldito con Vulnerabilidad se considera que tienes Vida Baja",
-    "ids": {
-      "explicit": "stat_2304300603"
-    }
-  },
-  {
-    "text": "Agrega # a # de Daño de Hielo mientras no haya Vida Reservada",
-    "ids": {
-      "explicit": "stat_897996059"
     }
   },
   {
@@ -16648,16 +16672,16 @@
     }
   },
   {
+    "text": "El Área contiene un Círculo de Piedras",
+    "ids": {
+      "explicit": "stat_3005800306"
+    }
+  },
+  {
     "text": "No puedes ser Maldecido con Silencio",
     "ids": {
       "explicit": "stat_1654414582",
       "implicit": "stat_1654414582"
-    }
-  },
-  {
-    "text": "El Área contiene un Círculo de Piedras",
-    "ids": {
-      "explicit": "stat_3005800306"
     }
   },
   {
@@ -16680,21 +16704,27 @@
     }
   },
   {
-    "text": "Los Aliados cercanos tienen Golpe de Gracia",
-    "ids": {
-      "explicit": "stat_1560540713"
-    }
-  },
-  {
     "text": "Los Monstruos Aprisionados tienen una Esencia adicional",
     "ids": {
       "explicit": "stat_679682964"
     }
   },
   {
+    "text": "Los Aliados cercanos tienen Golpe de Gracia",
+    "ids": {
+      "explicit": "stat_1560540713"
+    }
+  },
+  {
     "text": "Los Talismanes encontrados en esta Área son de 1 Grado más alto",
     "ids": {
       "explicit": "stat_2800333900"
+    }
+  },
+  {
+    "text": "Si has bloqueado recientemente, tú y tus aliados cercanos regeneran #% de Vida por segundo",
+    "ids": {
+      "explicit": "stat_176085824"
     }
   },
   {
@@ -16725,12 +16755,6 @@
     "text": "Los Monstruos de Fisura Raros arrojan una Astilla adicional",
     "ids": {
       "explicit": "stat_3097206473"
-    }
-  },
-  {
-    "text": "#% de probabilidad de Maldecir Enemigos no Malditos con una Maldición aleatoria al Golpear",
-    "ids": {
-      "explicit": "stat_1726444796"
     }
   },
   {
@@ -16770,27 +16794,21 @@
     }
   },
   {
-    "text": "Los aumentos y las reducciones que afectan al radio de iluminación también se aplican a la precisión",
-    "ids": {
-      "explicit": "stat_411986876"
-    }
-  },
-  {
     "text": "La resistencia al fuego es del #%",
     "ids": {
       "explicit": "stat_763311546"
     }
   },
   {
-    "text": "Los enemigos cercanos otorgan Cargas de Frasco aumentadas un #%",
-    "ids": {
-      "explicit": "stat_3547189490"
-    }
-  },
-  {
     "text": "Los Monstruos Raros de Fisuras tienen #% de probabilidad de Arrojar un Anillo de Fisura",
     "ids": {
       "explicit": "stat_4157714333"
+    }
+  },
+  {
+    "text": "Los enemigos cercanos otorgan Cargas de Frasco aumentadas un #%",
+    "ids": {
+      "explicit": "stat_3547189490"
     }
   },
   {
@@ -16850,15 +16868,21 @@
     }
   },
   {
+    "text": "Los enemigos cercanos tienen Recuperación de Aturdimiento y Bloqueo reducida un #%",
+    "ids": {
+      "explicit": "stat_3169825297"
+    }
+  },
+  {
     "text": "Los Espíritus Atormentados tienen Duración aumentada un #%",
     "ids": {
       "explicit": "stat_663610248"
     }
   },
   {
-    "text": "Los enemigos cercanos tienen Recuperación de Aturdimiento y Bloqueo reducida un #%",
+    "text": "Activa Custodia Elemental Nivel # cuando Golpeas a un Enemigo mientras estás Maldito",
     "ids": {
-      "explicit": "stat_3169825297"
+      "explicit": "stat_810166817"
     }
   },
   {
@@ -16904,15 +16928,15 @@
     }
   },
   {
-    "text": "Los Golpes con esta Arma infligen Daño Aumentado un #% a los Enemigos Congelados",
-    "ids": {
-      "explicit": "stat_196313911"
-    }
-  },
-  {
     "text": "Escudo de Energía Máximo aumentado un #% por cada Objeto Corrupto equipado",
     "ids": {
       "explicit": "stat_3916980068"
+    }
+  },
+  {
+    "text": "Los Golpes con esta Arma infligen Daño Aumentado un #% a los Enemigos Congelados",
+    "ids": {
+      "explicit": "stat_196313911"
     }
   },
   {
@@ -16948,12 +16972,6 @@
     }
   },
   {
-    "text": "Activa Custodia Elemental Nivel # cuando Golpeas a un Enemigo mientras estás Maldito",
-    "ids": {
-      "explicit": "stat_810166817"
-    }
-  },
-  {
     "text": "Los Cofres Perandus tienen #% más Rareza de Objetos Arrojados",
     "ids": {
       "explicit": "stat_3535403838"
@@ -16985,15 +17003,15 @@
     }
   },
   {
-    "text": "Los Golpes con esta Arma infligen Daño Aumentado un #% a los Enemigos Quemados",
-    "ids": {
-      "explicit": "stat_3095345438"
-    }
-  },
-  {
     "text": "Los Jugadores tienen Fervor mientras usen Frascos",
     "ids": {
       "explicit": "stat_2576546039"
+    }
+  },
+  {
+    "text": "Los Golpes con esta Arma infligen Daño Aumentado un #% a los Enemigos Quemados",
+    "ids": {
+      "explicit": "stat_3095345438"
     }
   },
   {
@@ -17015,9 +17033,9 @@
     }
   },
   {
-    "text": "Tus Cargas de Frenesí máximas son iguales a tus Cargas de Poder máximas",
+    "text": "Escudo de Energía aumentado un #% por cada Carga de Poder",
     "ids": {
-      "explicit": "stat_2238831336"
+      "explicit": "stat_2189382346"
     }
   },
   {
@@ -17033,15 +17051,15 @@
     }
   },
   {
-    "text": "Los jugadores tienen #% de probabilidad de ganar Fervor por 4 segundos al Matar",
-    "ids": {
-      "explicit": "stat_3563824294"
-    }
-  },
-  {
     "text": "Los enemigos que mates en Suelo fúngico tienen una probabilidad del #% de explotar y de infligir el 5% de su vida como daño de caos",
     "ids": {
       "explicit": "stat_3550460467"
+    }
+  },
+  {
+    "text": "Los jugadores tienen #% de probabilidad de ganar Fervor por 4 segundos al Matar",
+    "ids": {
+      "explicit": "stat_3563824294"
     }
   },
   {
@@ -17101,9 +17119,9 @@
     }
   },
   {
-    "text": "Escudo de Energía aumentado un #% por cada Carga de Poder",
+    "text": "Tus Cargas de Frenesí máximas son iguales a tus Cargas de Poder máximas",
     "ids": {
-      "explicit": "stat_2189382346"
+      "explicit": "stat_2238831336"
     }
   },
   {
@@ -17119,16 +17137,16 @@
     }
   },
   {
+    "text": "Tú y tus aliados cercanos tienen de # a # de Daño agregado de Caos por Engarce Blanco",
+    "ids": {
+      "explicit": "stat_3232695173"
+    }
+  },
+  {
     "text": "Los Exiliados Renegados arrojan una Joya adicional",
     "ids": {
       "explicit": "stat_4143730600",
       "enchant": "stat_4143730600"
-    }
-  },
-  {
-    "text": "Tú y tus aliados cercanos tienen de # a # de Daño agregado de Caos por Engarce Blanco",
-    "ids": {
-      "explicit": "stat_3232695173"
     }
   },
   {
@@ -17153,12 +17171,6 @@
     "text": "Los Enemigos Cercanos tienen #% a todas las Resistencias",
     "ids": {
       "explicit": "stat_668145148"
-    }
-  },
-  {
-    "text": "Las habilidades pasivas notables dentro del radio se transforman para\notorgar: Los esbirros tienen su velocidad de movimiento aumentada un #%",
-    "ids": {
-      "explicit": "stat_3362879252"
     }
   },
   {
@@ -17210,15 +17222,15 @@
     }
   },
   {
-    "text": "#% al multiplicador de golpe crítico para hechizos si no mataste recientemente",
-    "ids": {
-      "explicit": "stat_729430714"
-    }
-  },
-  {
     "text": "#% del daño infligido por tus minas se absorbe como vida",
     "ids": {
       "explicit": "stat_807450540"
+    }
+  },
+  {
+    "text": "#% al multiplicador de golpe crítico para hechizos si no mataste recientemente",
+    "ids": {
+      "explicit": "stat_729430714"
     }
   },
   {
@@ -17276,15 +17288,15 @@
     }
   },
   {
-    "text": "Velocidad de Movimiento aumentada un #% por cada Carga de Aguante",
-    "ids": {
-      "explicit": "stat_2116250000"
-    }
-  },
-  {
     "text": "Tienes Baile Carmesí si infligiste un Golpe Crítico Recientemente",
     "ids": {
       "explicit": "stat_1756017808"
+    }
+  },
+  {
+    "text": "Velocidad de Movimiento aumentada un #% por cada Carga de Aguante",
+    "ids": {
+      "explicit": "stat_2116250000"
     }
   },
   {
@@ -17294,21 +17306,15 @@
     }
   },
   {
-    "text": "No te afectan las Maldiciones",
-    "ids": {
-      "explicit": "stat_3809896400"
-    }
-  },
-  {
     "text": "Ganas # de Maná cuando golpeas a un Enemigo Provocado",
     "ids": {
       "explicit": "stat_1834588299"
     }
   },
   {
-    "text": "Los Golpes ignoran la Resistencia al Fuego de los Monstruos Enemigos mientras estés Quemado",
+    "text": "No te afectan las Maldiciones",
     "ids": {
-      "explicit": "stat_4040152475"
+      "explicit": "stat_3809896400"
     }
   },
   {
@@ -17318,15 +17324,21 @@
     }
   },
   {
-    "text": "Los Monstruos Perandus tienen #% de probabilidad de arrojar Monedas Perandus",
+    "text": "Los Golpes ignoran la Resistencia al Fuego de los Monstruos Enemigos mientras estés Quemado",
     "ids": {
-      "explicit": "stat_3689836025"
+      "explicit": "stat_4040152475"
     }
   },
   {
     "text": "#% de probabilidad de perder una carga de poder cuando obtienes Elusivo",
     "ids": {
       "explicit": "stat_1819086604"
+    }
+  },
+  {
+    "text": "Los Monstruos Perandus tienen #% de probabilidad de arrojar Monedas Perandus",
+    "ids": {
+      "explicit": "stat_3689836025"
     }
   },
   {
@@ -17342,15 +17354,15 @@
     }
   },
   {
-    "text": "Las Gemas Engarzadas son Asistidas por Velocidad de Esbirros Nivel #",
-    "ids": {
-      "explicit": "stat_995332031"
-    }
-  },
-  {
     "text": "La probabilidad de Bloquear Daño de Hechizos es Desafortunada",
     "ids": {
       "explicit": "stat_3551025193"
+    }
+  },
+  {
+    "text": "Las Gemas Engarzadas son Asistidas por Velocidad de Esbirros Nivel #",
+    "ids": {
+      "explicit": "stat_995332031"
     }
   },
   {
@@ -17408,6 +17420,12 @@
     }
   },
   {
+    "text": "Armadura aumentada un #% por cada Carga de Aguante",
+    "ids": {
+      "explicit": "stat_1447080724"
+    }
+  },
+  {
     "text": "#% de probabilidad de ganar Fervor cuando usas un Frasco",
     "ids": {
       "explicit": "stat_1324450398"
@@ -17432,15 +17450,15 @@
     }
   },
   {
-    "text": "#% de probabilidad de que si fueras a ganar Cargas de Frenesí, en su lugar ganas hasta tu número máximo de Cargas de Frenesí",
-    "ids": {
-      "explicit": "stat_2119664154"
-    }
-  },
-  {
     "text": "Probabilidad de golpe crítico para hechizos aumentada un #% si mataste recientemente",
     "ids": {
       "explicit": "stat_1243114410"
+    }
+  },
+  {
+    "text": "#% de probabilidad de que si fueras a ganar Cargas de Frenesí, en su lugar ganas hasta tu número máximo de Cargas de Frenesí",
+    "ids": {
+      "explicit": "stat_2119664154"
     }
   },
   {
@@ -17498,16 +17516,16 @@
     }
   },
   {
+    "text": "Alcance de Pesca aumentado un #%",
+    "ids": {
+      "explicit": "stat_170497091"
+    }
+  },
+  {
     "text": "Evasión aumentada un #% por cada Carga de Frenesí",
     "ids": {
       "explicit": "stat_660404777",
       "implicit": "stat_660404777"
-    }
-  },
-  {
-    "text": "Alcance de Pesca aumentado un #%",
-    "ids": {
-      "explicit": "stat_170497091"
     }
   },
   {
@@ -17523,6 +17541,12 @@
     }
   },
   {
+    "text": "La primera vez que un Jugador alcance # Asesinatos por Desenfreno en esta Área, se enfrentará a un Monstruo Poderoso",
+    "ids": {
+      "explicit": "stat_329336318"
+    }
+  },
+  {
     "text": "Los Cofres Perandus están protegidos por monstruos Raros adicionales",
     "ids": {
       "explicit": "stat_2156472123"
@@ -17532,12 +17556,6 @@
     "text": "El Área contiene a Yama el Blanco",
     "ids": {
       "explicit": "stat_482341163"
-    }
-  },
-  {
-    "text": "La primera vez que un Jugador alcance # Asesinatos por Desenfreno en esta Área, se enfrentará a un Monstruo Poderoso",
-    "ids": {
-      "explicit": "stat_329336318"
     }
   },
   {
@@ -17613,6 +17631,12 @@
     }
   },
   {
+    "text": "# de Vida ganada por cada Enemigo Quemado golpeado por tus Ataques",
+    "ids": {
+      "explicit": "stat_120895749"
+    }
+  },
+  {
     "text": "No gana ninguna Carga durante el efecto de cualquier Frasco de Arranca Espíritus",
     "ids": {
       "explicit": "stat_2748763342"
@@ -17622,12 +17646,6 @@
     "text": "Tú y tus aliados cercanos tienen de # a # de Daño agregado de Fuego por Engarce Rojo",
     "ids": {
       "explicit": "stat_1666896662"
-    }
-  },
-  {
-    "text": "# de Vida ganada por cada Enemigo Quemado golpeado por tus Ataques",
-    "ids": {
-      "explicit": "stat_120895749"
     }
   },
   {
@@ -17643,12 +17661,6 @@
     }
   },
   {
-    "text": "Activa Espíritus Espectrales Nivel 20 cuando es Equipado",
-    "ids": {
-      "explicit": "stat_470688636"
-    }
-  },
-  {
     "text": "Los Objetos arrojados por Exiliados Renegados están completamente Vinculados",
     "ids": {
       "explicit": "stat_898094766"
@@ -17658,6 +17670,12 @@
     "text": "Recuperación de tiempo de recarga de habilidades de viaje aumentada en un #% por Carga de Frenesí",
     "ids": {
       "explicit": "stat_3083201633"
+    }
+  },
+  {
+    "text": "Activa Espíritus Espectrales Nivel 20 cuando es Equipado",
+    "ids": {
+      "explicit": "stat_470688636"
     }
   },
   {
@@ -17741,15 +17759,15 @@
     }
   },
   {
-    "text": "Cuando un Grupo de Línea de Sangre Muera, arroja un Objeto Raro",
-    "ids": {
-      "explicit": "stat_2309624770"
-    }
-  },
-  {
     "text": "Velocidad de Movimiento aumentada un #% por cada Carga de Poder",
     "ids": {
       "explicit": "stat_3774108776"
+    }
+  },
+  {
+    "text": "Cuando un Grupo de Línea de Sangre Muera, arroja un Objeto Raro",
+    "ids": {
+      "explicit": "stat_2309624770"
     }
   },
   {
@@ -17792,12 +17810,6 @@
     "text": "La absorción de vida y de maná es instantánea durante el efecto",
     "ids": {
       "explicit": "stat_1102362593"
-    }
-  },
-  {
-    "text": "Armadura aumentada un #% por cada Carga de Aguante",
-    "ids": {
-      "explicit": "stat_1447080724"
     }
   },
   {
@@ -17876,15 +17888,15 @@
     }
   },
   {
-    "text": "Las Habilidades Engarzadas tienen Velocidad de Ataque aumentada un #%",
-    "ids": {
-      "explicit": "stat_2881124988"
-    }
-  },
-  {
     "text": "Los Monstruos Poseídos por Espíritus Atormentados reciben Daño aumentado un #%",
     "ids": {
       "explicit": "stat_261224780"
+    }
+  },
+  {
+    "text": "Las Habilidades Engarzadas tienen Velocidad de Ataque aumentada un #%",
+    "ids": {
+      "explicit": "stat_2881124988"
     }
   },
   {
@@ -17925,12 +17937,6 @@
     }
   },
   {
-    "text": "Si has bloqueado recientemente, tú y tus aliados cercanos regeneran #% de Vida por segundo",
-    "ids": {
-      "explicit": "stat_176085824"
-    }
-  },
-  {
     "text": "Daño de Rayo recibido reducido un #%",
     "ids": {
       "explicit": "stat_1276918229",
@@ -17962,12 +17968,6 @@
     }
   },
   {
-    "text": "Los golpes contra enemigos cercanos tienen su probabilidad de Golpe Crítico aumentada un 50%",
-    "ids": {
-      "explicit": "stat_992435560"
-    }
-  },
-  {
     "text": "El Área contiene un Joyero Perandus adicional",
     "ids": {
       "explicit": "stat_1105638781"
@@ -17980,15 +17980,15 @@
     }
   },
   {
-    "text": "El Área contiene un Sedicionista Atormentado",
+    "text": "Los golpes contra enemigos cercanos tienen su probabilidad de Golpe Crítico aumentada un 50%",
     "ids": {
-      "explicit": "stat_1077576866"
+      "explicit": "stat_992435560"
     }
   },
   {
-    "text": "Probabilidad de Golpe Crítico aumentada un #% por cada Carga de Frenesí",
+    "text": "El Área contiene un Sedicionista Atormentado",
     "ids": {
-      "explicit": "stat_707887043"
+      "explicit": "stat_1077576866"
     }
   },
   {
@@ -17998,9 +17998,9 @@
     }
   },
   {
-    "text": "#% de probabilidad de Cegar Enemigos cercanos al ganar Su Bendición",
+    "text": "Probabilidad de Golpe Crítico aumentada un #% por cada Carga de Frenesí",
     "ids": {
-      "explicit": "stat_2327728343"
+      "explicit": "stat_707887043"
     }
   },
   {
@@ -18010,15 +18010,21 @@
     }
   },
   {
-    "text": "Agrega # a # de Daño de Fuego a los Ataques contra Enemigos Quemados",
+    "text": "#% de probabilidad de Cegar Enemigos cercanos al ganar Su Bendición",
     "ids": {
-      "explicit": "stat_627339348"
+      "explicit": "stat_2327728343"
     }
   },
   {
     "text": "Gana #% de Daño Físico con Espadas como Daño de Fuego Extra",
     "ids": {
       "explicit": "stat_754005431"
+    }
+  },
+  {
+    "text": "Agrega # a # de Daño de Fuego a los Ataques contra Enemigos Quemados",
+    "ids": {
+      "explicit": "stat_627339348"
     }
   },
   {
@@ -18149,6 +18155,12 @@
     }
   },
   {
+    "text": "No puedes ser Electrocutado o Quemado mientras te mueves",
+    "ids": {
+      "explicit": "stat_3592330380"
+    }
+  },
+  {
     "text": "#% de probabilidad de Esquivar Golpes de Ataques por cada Carga de Aguante",
     "ids": {
       "explicit": "stat_1893852470"
@@ -18158,12 +18170,6 @@
     "text": "Disciplina no Reserva Maná",
     "ids": {
       "explicit": "stat_3708588508"
-    }
-  },
-  {
-    "text": "No puedes ser Electrocutado o Quemado mientras te mueves",
-    "ids": {
-      "explicit": "stat_3592330380"
     }
   },
   {
@@ -18229,15 +18235,15 @@
     }
   },
   {
-    "text": "Inestabilidad de los Esbirros",
-    "ids": {
-      "explicit": "stat_433293234"
-    }
-  },
-  {
     "text": "#% del Daño contra Enemigos Congelados se Absorbe como Vida",
     "ids": {
       "explicit": "stat_593279674"
+    }
+  },
+  {
+    "text": "Inestabilidad de los Esbirros",
+    "ids": {
+      "explicit": "stat_433293234"
     }
   },
   {
@@ -18260,21 +18266,27 @@
     }
   },
   {
-    "text": "# al Índice de Evasión si golpeaste a un Enemigo recientemente",
-    "ids": {
-      "explicit": "stat_2935548106"
-    }
-  },
-  {
     "text": "Destello de Escarcha tiene una duración aumentada en un #%",
     "ids": {
       "explicit": "stat_3941271999"
     }
   },
   {
+    "text": "# al Índice de Evasión si golpeaste a un Enemigo recientemente",
+    "ids": {
+      "explicit": "stat_2935548106"
+    }
+  },
+  {
     "text": "El Área contiene 3 Grupos Mágicos adicionales que\ntienen Velocidad de Ataque, de Lanzamiento de Hechizos y de Movimiento aumentadas un #%, y que arrojan #% más objetos",
     "ids": {
       "explicit": "stat_2244724505"
+    }
+  },
+  {
+    "text": "Otorga la Habilidad Destello de Escarcha nivel #",
+    "ids": {
+      "explicit": "stat_2911866787"
     }
   },
   {
@@ -18290,15 +18302,15 @@
     }
   },
   {
-    "text": "Agrega de # a # de Daño Físico contra Enemigos Envenenados",
-    "ids": {
-      "explicit": "stat_424026624"
-    }
-  },
-  {
     "text": "El Área contiene un Talismán de Fauces de Colmillos adicional",
     "ids": {
       "explicit": "stat_3381731475"
+    }
+  },
+  {
+    "text": "Agrega de # a # de Daño Físico contra Enemigos Envenenados",
+    "ids": {
+      "explicit": "stat_424026624"
     }
   },
   {
@@ -18320,15 +18332,15 @@
     }
   },
   {
-    "text": "#% a la probabilidad de Bloquear Daño de Ataques por cada Carga de Frenesí",
-    "ids": {
-      "explicit": "stat_2148784747"
-    }
-  },
-  {
     "text": "# a la Armadura si golpeaste a un Enemigo recientemente",
     "ids": {
       "explicit": "stat_2368149582"
+    }
+  },
+  {
+    "text": "#% a la probabilidad de Bloquear Daño de Ataques por cada Carga de Frenesí",
+    "ids": {
+      "explicit": "stat_2148784747"
     }
   },
   {
@@ -18393,15 +18405,15 @@
     }
   },
   {
-    "text": "Cólera no Reserva Maná",
-    "ids": {
-      "explicit": "stat_1865987277"
-    }
-  },
-  {
     "text": "Baile de Flechas",
     "ids": {
       "explicit": "stat_2606808909"
+    }
+  },
+  {
+    "text": "Cólera no Reserva Maná",
+    "ids": {
+      "explicit": "stat_1865987277"
     }
   },
   {
@@ -18411,27 +18423,27 @@
     }
   },
   {
-    "text": "Reflejos de Hierro",
-    "ids": {
-      "explicit": "stat_326965591"
-    }
-  },
-  {
     "text": "Determinación no Reserva Maná",
     "ids": {
       "explicit": "stat_1358697130"
     }
   },
   {
-    "text": "#% de probabilidad de recuperar un 10% de maná cuando usas una habilidad",
+    "text": "Reflejos de Hierro",
     "ids": {
-      "explicit": "stat_308309328"
+      "explicit": "stat_326965591"
     }
   },
   {
     "text": "#% de probabilidad de Esquivar Golpes de Ataques por cada Carga de Poder",
     "ids": {
       "explicit": "stat_2163273007"
+    }
+  },
+  {
+    "text": "#% de probabilidad de recuperar un 10% de maná cuando usas una habilidad",
+    "ids": {
+      "explicit": "stat_308309328"
     }
   },
   {
@@ -18444,12 +18456,6 @@
     "text": "Los Objetos arrojados por Exiliados Renegados están Corruptos",
     "ids": {
       "explicit": "stat_663447087"
-    }
-  },
-  {
-    "text": "Otorga la Habilidad Destello de Escarcha nivel #",
-    "ids": {
-      "explicit": "stat_2911866787"
     }
   },
   {
@@ -18513,15 +18519,15 @@
     }
   },
   {
-    "text": "Ignora todas las Penalidades al Movimiento por Armadura",
-    "ids": {
-      "explicit": "stat_1311723478"
-    }
-  },
-  {
     "text": "Las Fisuras contienen un Puño Cerrado de Señor de la Fisura",
     "ids": {
       "explicit": "stat_488900289"
+    }
+  },
+  {
+    "text": "Ignora todas las Penalidades al Movimiento por Armadura",
+    "ids": {
+      "explicit": "stat_1311723478"
     }
   },
   {
@@ -18585,15 +18591,15 @@
     }
   },
   {
-    "text": "Tienes Reflejos de Acero mientras tengas el Máximo de Cargas de Frenesí",
-    "ids": {
-      "explicit": "stat_1990354706"
-    }
-  },
-  {
     "text": "Índice de evasión global aumentado un #% cuando tienes la vida llena",
     "ids": {
       "explicit": "stat_88817332"
+    }
+  },
+  {
+    "text": "Tienes Reflejos de Acero mientras tengas el Máximo de Cargas de Frenesí",
+    "ids": {
+      "explicit": "stat_1990354706"
     }
   },
   {
@@ -18612,6 +18618,12 @@
     "text": "Las Gemas Engarzadas son Asistidas por Proyectiles Múltiples Mayores Nivel #",
     "ids": {
       "explicit": "stat_359450079"
+    }
+  },
+  {
+    "text": "Tienes Mente sobre Materia mientras tengas el Máximo de Cargas de Poder",
+    "ids": {
+      "explicit": "stat_1876857497"
     }
   },
   {
@@ -18646,15 +18658,15 @@
     }
   },
   {
-    "text": "#% de Reducción de Daño Físico adicional durante cualquier Efecto de Frasco",
-    "ids": {
-      "explicit": "stat_2693266036"
-    }
-  },
-  {
     "text": "Puedes aplicar una Maldición adicional mientras tengas el máximo de Cargas de Poder",
     "ids": {
       "explicit": "stat_761598374"
+    }
+  },
+  {
+    "text": "#% de Reducción de Daño Físico adicional durante cualquier Efecto de Frasco",
+    "ids": {
+      "explicit": "stat_2693266036"
     }
   },
   {
@@ -18673,12 +18685,6 @@
     "text": "No puedes ser Escarchado o Congelado mientras te mueves",
     "ids": {
       "explicit": "stat_628032624"
-    }
-  },
-  {
-    "text": "Tienes Mente sobre Materia mientras tengas el Máximo de Cargas de Poder",
-    "ids": {
-      "explicit": "stat_1876857497"
     }
   },
   {
@@ -18779,15 +18785,15 @@
     }
   },
   {
-    "text": "Otorga Impureza de Rayo Vaal Nivel #",
-    "ids": {
-      "explicit": "stat_2959369472"
-    }
-  },
-  {
     "text": "Las Gemas Engarzadas son Asistidas por Combustión Nivel #",
     "ids": {
       "explicit": "stat_1828254451"
+    }
+  },
+  {
+    "text": "Otorga Impureza de Rayo Vaal Nivel #",
+    "ids": {
+      "explicit": "stat_2959369472"
     }
   },
   {
@@ -18798,15 +18804,15 @@
     }
   },
   {
-    "text": "Las Gemas Engarzadas son Asistidas por Daño con Vida Llena Nivel #",
-    "ids": {
-      "explicit": "stat_2126431157"
-    }
-  },
-  {
     "text": "Las Gemas Engarzadas son Asistidas por Decaimiento Nivel #",
     "ids": {
       "explicit": "stat_388696990"
+    }
+  },
+  {
+    "text": "Las Gemas Engarzadas son Asistidas por Daño con Vida Llena Nivel #",
+    "ids": {
+      "explicit": "stat_2126431157"
     }
   },
   {
@@ -18816,15 +18822,21 @@
     }
   },
   {
+    "text": "Las Gemas Engarzadas son Asistidas por Invocar Fantasma al Matar Nivel #",
+    "ids": {
+      "explicit": "stat_3155072742"
+    }
+  },
+  {
     "text": "Las Gemas Engarzadas son Asistidas por Tótems Múltiples Nivel #",
     "ids": {
       "explicit": "stat_807186595"
     }
   },
   {
-    "text": "Las Gemas Engarzadas son Asistidas por Invocar Fantasma al Matar Nivel #",
+    "text": "Los monstruos tienen #% más de vida",
     "ids": {
-      "explicit": "stat_3155072742"
+      "explicit": "stat_2710898947"
     }
   },
   {
@@ -18837,12 +18849,6 @@
     "text": "Las gemas engarzadas están asistidas por Canalización Imbuída nivel #",
     "ids": {
       "explicit": "stat_4048257027"
-    }
-  },
-  {
-    "text": "Los monstruos tienen #% más de vida",
-    "ids": {
-      "explicit": "stat_2710898947"
     }
   },
   {
@@ -18871,21 +18877,27 @@
     }
   },
   {
-    "text": "Agrega # a # de Daño de Fuego si Bloqueaste Recientemente",
-    "ids": {
-      "explicit": "stat_3623716321"
-    }
-  },
-  {
     "text": "El Área contiene un Talismán Único adicional",
     "ids": {
       "explicit": "stat_3956623857"
     }
   },
   {
+    "text": "Agrega # a # de Daño de Fuego si Bloqueaste Recientemente",
+    "ids": {
+      "explicit": "stat_3623716321"
+    }
+  },
+  {
     "text": "Las Gemas Engarzadas son Asistidas por Físico a Rayo Nivel #",
     "ids": {
       "explicit": "stat_3327487371"
+    }
+  },
+  {
+    "text": "Las gemas engarzadas están asistidas por Empalar nivel #",
+    "ids": {
+      "explicit": "stat_1900098804"
     }
   },
   {
@@ -18901,21 +18913,15 @@
     }
   },
   {
-    "text": "Las gemas engarzadas están asistidas por Empalar nivel #",
+    "text": "Las Gemas Engarzadas son Asistidas por Encadenamiento Nivel #",
     "ids": {
-      "explicit": "stat_1900098804"
+      "explicit": "stat_2643665787"
     }
   },
   {
     "text": "Las gemas engarzadas están asistidas por Aluvión de nivel #",
     "ids": {
       "explicit": "stat_3827538724"
-    }
-  },
-  {
-    "text": "Las Gemas Engarzadas son Asistidas por Encadenamiento Nivel #",
-    "ids": {
-      "explicit": "stat_2643665787"
     }
   },
   {
@@ -18937,9 +18943,15 @@
     }
   },
   {
-    "text": "Las gemas engarzadas están asistidas por Intensificar nivel #",
+    "text": "Las Gemas Engarzadas son Asistidas por Mejorar Nivel #",
     "ids": {
-      "explicit": "stat_1876637240"
+      "explicit": "stat_2556436882"
+    }
+  },
+  {
+    "text": "Las Gemas Engarzadas son Asistidas por Sed de Sangre Nivel #",
+    "ids": {
+      "explicit": "stat_804508379"
     }
   },
   {
@@ -18950,15 +18962,9 @@
     }
   },
   {
-    "text": "Las Gemas Engarzadas son Asistidas por Sed de Sangre Nivel #",
+    "text": "Las gemas engarzadas están asistidas por Intensificar nivel #",
     "ids": {
-      "explicit": "stat_804508379"
-    }
-  },
-  {
-    "text": "#% increased Rarity of Items found in this Area",
-    "ids": {
-      "explicit": "stat_2306002879"
+      "explicit": "stat_1876637240"
     }
   },
   {
@@ -18969,9 +18975,9 @@
     }
   },
   {
-    "text": "Las Gemas Engarzadas son Asistidas por Mejorar Nivel #",
+    "text": "#% increased Rarity of Items found in this Area",
     "ids": {
-      "explicit": "stat_2556436882"
+      "explicit": "stat_2306002879"
     }
   },
   {
@@ -18987,30 +18993,6 @@
     }
   },
   {
-    "text": "Las Gemas Engarzadas son Asistidas por Trampas Cargadas Nivel #",
-    "ids": {
-      "explicit": "stat_479453859"
-    }
-  },
-  {
-    "text": "Las Gemas engarzadas están Asistidas por Armado veloz nivel #",
-    "ids": {
-      "explicit": "stat_4021476585"
-    }
-  },
-  {
-    "text": "Las Gemas Engarzadas son Asistidas por Campo de Minas Nivel #",
-    "ids": {
-      "explicit": "stat_2805586447"
-    }
-  },
-  {
-    "text": "Las gemas engarzadas están asistidas por Hielahuesos nivel #",
-    "ids": {
-      "explicit": "stat_1859244771"
-    }
-  },
-  {
     "text": "Las Gemas Engarzadas son Asistidas por Arquero Ilusorio Nivel #",
     "ids": {
       "explicit": "stat_3239503729"
@@ -19023,9 +19005,15 @@
     }
   },
   {
-    "text": "# al nivel de todas las gemas de habilidad de destreza",
+    "text": "Los Proyectiles Perforan a 2 Objetivos adicionales",
     "ids": {
-      "explicit": "stat_146924886"
+      "explicit": "stat_3640956958"
+    }
+  },
+  {
+    "text": "Las Gemas engarzadas están Asistidas por Armado veloz nivel #",
+    "ids": {
+      "explicit": "stat_4021476585"
     }
   },
   {
@@ -19035,45 +19023,39 @@
     }
   },
   {
-    "text": "# al nivel de todas las gemas de habilidad de fuego",
-    "ids": {
-      "explicit": "stat_599749213"
-    }
-  },
-  {
     "text": "Los enemigos cercanos tienen las resistencias al fuego y al hielo aumentadas un #%",
     "ids": {
       "explicit": "stat_4273356746"
     }
   },
   {
-    "text": "Los Proyectiles Perforan a 2 Objetivos adicionales",
+    "text": "# al nivel de todas las gemas de habilidad de destreza",
     "ids": {
-      "explicit": "stat_3640956958"
+      "explicit": "stat_146924886"
+    }
+  },
+  {
+    "text": "Las gemas engarzadas están asistidas por Hielahuesos nivel #",
+    "ids": {
+      "explicit": "stat_1859244771"
+    }
+  },
+  {
+    "text": "# al nivel de todas las gemas de habilidad de fuego",
+    "ids": {
+      "explicit": "stat_599749213"
+    }
+  },
+  {
+    "text": "Las Gemas Engarzadas son Asistidas por Campo de Minas Nivel #",
+    "ids": {
+      "explicit": "stat_2805586447"
     }
   },
   {
     "text": "Cada 5 segundos, regeneras un #% de vida durante un segundo",
     "ids": {
       "explicit": "stat_1242155304"
-    }
-  },
-  {
-    "text": "Tienes Confluencia de escarcha durante 3 segundos cada 8 segundos",
-    "ids": {
-      "explicit": "stat_1190121450"
-    }
-  },
-  {
-    "text": "Las gemas engarzadas están asistidas por Absorción de Energía nivel #",
-    "ids": {
-      "explicit": "stat_799443127"
-    }
-  },
-  {
-    "text": "Las gemas engarzadas están asistidas por Filo de la noche nivel #",
-    "ids": {
-      "explicit": "stat_2861649515"
     }
   },
   {
@@ -19084,21 +19066,9 @@
     }
   },
   {
-    "text": "Las gemas engarzadas están asistidas por Furia nivel #",
+    "text": "Las Gemas Engarzadas son Asistidas por Trampas Cargadas Nivel #",
     "ids": {
-      "explicit": "stat_369650395"
-    }
-  },
-  {
-    "text": "Los hechizos de nova se lanzan a la ubicación objetivo en vez de a tu alrededor",
-    "ids": {
-      "explicit": "stat_728246008"
-    }
-  },
-  {
-    "text": "Las gemas engarzadas están asistidas por Combate Cerrado nivel #",
-    "ids": {
-      "explicit": "stat_694651314"
+      "explicit": "stat_479453859"
     }
   },
   {
@@ -19108,15 +19078,45 @@
     }
   },
   {
+    "text": "Las gemas engarzadas están asistidas por Minas cargadas de nivel #",
+    "ids": {
+      "explicit": "stat_1365328494"
+    }
+  },
+  {
     "text": "Las Gemas Engarzadas son Asistidas por Trampas Múltiples Nivel #",
     "ids": {
       "explicit": "stat_3016436615"
     }
   },
   {
-    "text": "Las gemas engarzadas están asistidas por Minas cargadas de nivel #",
+    "text": "Las gemas engarzadas están asistidas por Filo de la noche nivel #",
     "ids": {
-      "explicit": "stat_1365328494"
+      "explicit": "stat_2861649515"
+    }
+  },
+  {
+    "text": "Las gemas engarzadas están asistidas por Furia nivel #",
+    "ids": {
+      "explicit": "stat_369650395"
+    }
+  },
+  {
+    "text": "Las gemas engarzadas están asistidas por Combate Cerrado nivel #",
+    "ids": {
+      "explicit": "stat_694651314"
+    }
+  },
+  {
+    "text": "Las gemas engarzadas están asistidas por Absorción de Energía nivel #",
+    "ids": {
+      "explicit": "stat_799443127"
+    }
+  },
+  {
+    "text": "Los hechizos de nova se lanzan a la ubicación objetivo en vez de a tu alrededor",
+    "ids": {
+      "explicit": "stat_728246008"
     }
   },
   {
@@ -19351,6 +19351,12 @@
     }
   },
   {
+    "text": "#% del Daño de Hielo por Golpes recibido como Daño de Fuego",
+    "ids": {
+      "implicit": "stat_1189760108"
+    }
+  },
+  {
     "text": "#% del Daño de Rayo por Golpes recibido como Daño de Hielo",
     "ids": {
       "implicit": "stat_1017730114"
@@ -19360,12 +19366,6 @@
     "text": "#% del Daño de Hielo por Golpes recibido como Daño de Rayo",
     "ids": {
       "implicit": "stat_1313503107"
-    }
-  },
-  {
-    "text": "#% del Daño de Hielo por Golpes recibido como Daño de Fuego",
-    "ids": {
-      "implicit": "stat_1189760108"
     }
   },
   {
@@ -19387,15 +19387,21 @@
     }
   },
   {
+    "text": "# de Daño de Hielo recibido al recibir un golpe",
+    "ids": {
+      "implicit": "stat_261654754"
+    }
+  },
+  {
     "text": "Otorga la habilidad Malevolencia nivel #",
     "ids": {
       "implicit": "stat_2148556029"
     }
   },
   {
-    "text": "# de Daño de Hielo recibido al recibir un golpe",
+    "text": "# de Daño de Rayo recibido al ser golpeado",
     "ids": {
-      "implicit": "stat_261654754"
+      "implicit": "stat_465051235"
     }
   },
   {
@@ -19429,9 +19435,9 @@
     }
   },
   {
-    "text": "# de Daño de Rayo recibido al ser golpeado",
+    "text": "Daño aumentado un #% mientras absorbes vida",
     "ids": {
-      "implicit": "stat_465051235"
+      "implicit": "stat_3591306273"
     }
   },
   {
@@ -19474,12 +19480,6 @@
     "text": "Otorga la Habilidad Conductividad Nivel #",
     "ids": {
       "implicit": "stat_461472247"
-    }
-  },
-  {
-    "text": "Daño aumentado un #% mientras absorbes vida",
-    "ids": {
-      "implicit": "stat_3591306273"
     }
   },
   {
@@ -19616,6 +19616,19 @@
     }
   },
   {
+    "text": "#% a la calidad de las gemas de Hielo engarzadas",
+    "ids": {
+      "implicit": "stat_1164882313"
+    }
+  },
+  {
+    "text": "Rango de adhesión de Marcas aumentado un #%",
+    "ids": {
+      "implicit": "stat_4223377453",
+      "crafted": "stat_4223377453"
+    }
+  },
+  {
     "text": "#% a la calidad de las gemas de Inteligencia engarzadas",
     "ids": {
       "implicit": "stat_3174776455"
@@ -19649,19 +19662,6 @@
     "text": "Los hechizos activados infligen daño de hechizos aumentado un #%",
     "ids": {
       "implicit": "stat_3067892458"
-    }
-  },
-  {
-    "text": "Rango de adhesión de Marcas aumentado un #%",
-    "ids": {
-      "implicit": "stat_4223377453",
-      "crafted": "stat_4223377453"
-    }
-  },
-  {
-    "text": "#% a la calidad de las gemas de Hielo engarzadas",
-    "ids": {
-      "implicit": "stat_1164882313"
     }
   },
   {
@@ -19751,12 +19751,6 @@
     }
   },
   {
-    "text": "#% a todas las resistencias elementales si está corrupto",
-    "ids": {
-      "implicit": "stat_3731630482"
-    }
-  },
-  {
     "text": "Daño Físico con habilidades de hechizos aumentado un #%",
     "ids": {
       "implicit": "stat_1430255627"
@@ -19769,21 +19763,27 @@
     }
   },
   {
+    "text": "#% a todas las resistencias elementales si está corrupto",
+    "ids": {
+      "implicit": "stat_3731630482"
+    }
+  },
+  {
     "text": "Daño de Fuego con habilidades de hechizos aumentado un #%",
     "ids": {
       "implicit": "stat_361162316"
     }
   },
   {
-    "text": "Daño de hechizos aumentado un #% cada 500 de maná máximo",
-    "ids": {
-      "implicit": "stat_3555662994"
-    }
-  },
-  {
     "text": "Daño de ataques aumentado un #% por cada 500 de maná máximo",
     "ids": {
       "implicit": "stat_4134865890"
+    }
+  },
+  {
+    "text": "Daño de hechizos aumentado un #% cada 500 de maná máximo",
+    "ids": {
+      "implicit": "stat_3555662994"
     }
   },
   {
@@ -19799,16 +19799,16 @@
     }
   },
   {
+    "text": "Daño de ataques aumentado un #% si está corrupto",
+    "ids": {
+      "implicit": "stat_2347923784"
+    }
+  },
+  {
     "text": "Los Esqueletos infligen Daño aumentado un #%",
     "ids": {
       "implicit": "stat_3059357595",
       "enchant": "stat_3059357595"
-    }
-  },
-  {
-    "text": "Daño de ataques aumentado un #% si está corrupto",
-    "ids": {
-      "implicit": "stat_2347923784"
     }
   },
   {
@@ -19876,21 +19876,21 @@
     }
   },
   {
-    "text": "Probabilidad de Golpe Crítico para Hechizos aumentada un #% mientras empuñas un báculo",
-    "ids": {
-      "implicit": "stat_140429540"
-    }
-  },
-  {
     "text": "Probabilidad de Golpe Crítico para Hechizos aumentada un #% mientras usas doble empuñadura",
     "ids": {
       "implicit": "stat_1218939541"
     }
   },
   {
-    "text": "Daño físico aumentado un #% mientras tengas Poder Profano",
+    "text": "Probabilidad de Golpe Crítico para Hechizos aumentada un #% mientras empuñas un báculo",
     "ids": {
-      "implicit": "stat_1609570656"
+      "implicit": "stat_140429540"
+    }
+  },
+  {
+    "text": "Precisión con Espadas aumentada un #%",
+    "ids": {
+      "implicit": "stat_2090868905"
     }
   },
   {
@@ -19900,9 +19900,15 @@
     }
   },
   {
-    "text": "Precisión con Espadas aumentada un #%",
+    "text": "Daño físico aumentado un #% mientras tengas Poder Profano",
     "ids": {
-      "implicit": "stat_2090868905"
+      "implicit": "stat_1609570656"
+    }
+  },
+  {
+    "text": "#% al Multiplicador de Golpe Crítico para Hechizos mientras portas un escudo",
+    "ids": {
+      "implicit": "stat_2311200892"
     }
   },
   {
@@ -19918,15 +19924,9 @@
     }
   },
   {
-    "text": "#% al Multiplicador de Golpe Crítico para Hechizos mientras portas un escudo",
+    "text": "#% al multiplicador de golpe crítico con mazas y cetros",
     "ids": {
-      "implicit": "stat_2311200892"
-    }
-  },
-  {
-    "text": "#% al Multiplicador de Golpe Crítico con Hachas",
-    "ids": {
-      "implicit": "stat_4219746989"
+      "implicit": "stat_458899422"
     }
   },
   {
@@ -19936,9 +19936,9 @@
     }
   },
   {
-    "text": "#% al multiplicador de golpe crítico con mazas y cetros",
+    "text": "#% al Multiplicador de Golpe Crítico con Hachas",
     "ids": {
-      "implicit": "stat_458899422"
+      "implicit": "stat_4219746989"
     }
   },
   {
@@ -20002,16 +20002,16 @@
     }
   },
   {
-    "text": "Precisión aumentada un #% con mazas y cetros",
-    "ids": {
-      "implicit": "stat_3208450870"
-    }
-  },
-  {
     "text": "El Objeto cae al Morir si está equipado por un Guardián Animado",
     "ids": {
       "implicit": "stat_3909846940",
       "crafted": "stat_3909846940"
+    }
+  },
+  {
+    "text": "Precisión aumentada un #% con mazas y cetros",
+    "ids": {
+      "implicit": "stat_3208450870"
     }
   },
   {
@@ -20120,9 +20120,21 @@
     }
   },
   {
+    "text": "Agrega # a # de Daño de Fuego si Mataste Recientemente",
+    "ids": {
+      "enchant": "stat_3077703716"
+    }
+  },
+  {
     "text": "#% de probabilidad de Esquivar Golpes de Hechizos si has\nrecibido Daño de Hechizos Recientemente",
     "ids": {
       "enchant": "stat_1222329688"
+    }
+  },
+  {
+    "text": "Agrega # a # de Daño de Hielo si recibiste un Golpe Recientemente",
+    "ids": {
+      "enchant": "stat_884399432"
     }
   },
   {
@@ -20135,18 +20147,6 @@
     "text": "#% de probabilidad de Esquivar Golpes de Ataque si has recibido un Golpe Crítico Recientemente",
     "ids": {
       "enchant": "stat_3414398924"
-    }
-  },
-  {
-    "text": "Agrega # a # de Daño de Hielo si recibiste un Golpe Recientemente",
-    "ids": {
-      "enchant": "stat_884399432"
-    }
-  },
-  {
-    "text": "Agrega # a # de Daño de Fuego si Mataste Recientemente",
-    "ids": {
-      "enchant": "stat_3077703716"
     }
   },
   {
@@ -20186,6 +20186,12 @@
     }
   },
   {
+    "text": "#% de probabilidad de Activar Palabra de Infierno con cada Muerte",
+    "ids": {
+      "enchant": "stat_3901337328"
+    }
+  },
+  {
     "text": "#% de probabilidad de Activar Palabra de Filos con cada Golpe",
     "ids": {
       "enchant": "stat_756653426"
@@ -20219,12 +20225,6 @@
     "text": "#% de probabilidad de Activar Palabra de Llamas con cada Golpe",
     "ids": {
       "enchant": "stat_891161612"
-    }
-  },
-  {
-    "text": "#% de probabilidad de Activar Palabra de Infierno con cada Muerte",
-    "ids": {
-      "enchant": "stat_3901337328"
     }
   },
   {
@@ -20378,15 +20378,15 @@
     }
   },
   {
-    "text": "Flecha Eléctrica golpea un Enemigo adicional",
-    "ids": {
-      "enchant": "stat_1901955093"
-    }
-  },
-  {
     "text": "#% de probabilidad de Activar Edicto de Furia con cada Golpe",
     "ids": {
       "enchant": "stat_1153637043"
+    }
+  },
+  {
+    "text": "Flecha Eléctrica golpea un Enemigo adicional",
+    "ids": {
+      "enchant": "stat_1901955093"
     }
   },
   {
@@ -20405,6 +20405,18 @@
     "text": "Orbe de Magma se Encadena una vez adicional",
     "ids": {
       "enchant": "stat_2589980605"
+    }
+  },
+  {
+    "text": "#% de probabilidad Activar Edicto de Truenos al Matar",
+    "ids": {
+      "enchant": "stat_603658709"
+    }
+  },
+  {
+    "text": "#% de probabilidad de que Descarga inflija Daño sin eliminar Cargas",
+    "ids": {
+      "enchant": "stat_1833626118"
     }
   },
   {
@@ -20480,6 +20492,12 @@
     }
   },
   {
+    "text": "Daño de Golpe Repentino aumentado un #% por cada Carga de Frenesí",
+    "ids": {
+      "enchant": "stat_3701991680"
+    }
+  },
+  {
     "text": "#% del Daño Físico de Cascada Glacial se convierte en Daño de Hielo",
     "ids": {
       "enchant": "stat_1154155584"
@@ -20492,15 +20510,15 @@
     }
   },
   {
-    "text": "Golpe de Rayo dispara un Proyectil adicional",
-    "ids": {
-      "enchant": "stat_1213035889"
-    }
-  },
-  {
     "text": "Velocidad de Ataque de Aluvión aumentada un #%",
     "ids": {
       "enchant": "stat_2523298357"
+    }
+  },
+  {
+    "text": "Golpe de Rayo dispara un Proyectil adicional",
+    "ids": {
+      "enchant": "stat_1213035889"
     }
   },
   {
@@ -20516,9 +20534,9 @@
     }
   },
   {
-    "text": "#% de probabilidad de que Descarga inflija Daño sin eliminar Cargas",
+    "text": "La Mina piroclástica dispara un proyectil adicional",
     "ids": {
-      "enchant": "stat_1833626118"
+      "enchant": "stat_841281094"
     }
   },
   {
@@ -20543,12 +20561,6 @@
     "text": "Daño de Golpe Repentino aumentado un #%",
     "ids": {
       "enchant": "stat_464448327"
-    }
-  },
-  {
-    "text": "La Mina piroclástica dispara un proyectil adicional",
-    "ids": {
-      "enchant": "stat_841281094"
     }
   },
   {
@@ -20600,12 +20612,6 @@
     }
   },
   {
-    "text": "Daño de Golpe Repentino aumentado un #% por cada Carga de Frenesí",
-    "ids": {
-      "enchant": "stat_3701991680"
-    }
-  },
-  {
     "text": "Daño de Golpe Fundido aumentado un #%",
     "ids": {
       "enchant": "stat_2038865857"
@@ -20630,6 +20636,12 @@
     }
   },
   {
+    "text": "#% de probabilidad de Activar Decreto de Filos con cada Golpe",
+    "ids": {
+      "enchant": "stat_165958462"
+    }
+  },
+  {
     "text": "Lanzamiento de Escudo Espectral dispara un Proyectil Esquirla adicional",
     "ids": {
       "enchant": "stat_3608981617"
@@ -20645,6 +20657,12 @@
     "text": "Daño de Flecha galvánica aumentado un #%",
     "ids": {
       "enchant": "stat_2634945088"
+    }
+  },
+  {
+    "text": "Daño del anillo de Nova de Rayo aumentado un #%",
+    "ids": {
+      "enchant": "stat_3652051346"
     }
   },
   {
@@ -20675,12 +20693,6 @@
     "text": "Velocidad de Ataque de Ciclón aumentada un #%",
     "ids": {
       "enchant": "stat_835592326"
-    }
-  },
-  {
-    "text": "#% de probabilidad Activar Edicto de Truenos al Matar",
-    "ids": {
-      "enchant": "stat_603658709"
     }
   },
   {
@@ -20738,9 +20750,9 @@
     }
   },
   {
-    "text": "Velocidad de Ataque de Choque Elemental aumentada un #%",
+    "text": "#% de probabilidad de Activar Decreto de la Tempestad con cada Golpe",
     "ids": {
-      "enchant": "stat_1151217691"
+      "enchant": "stat_1671985305"
     }
   },
   {
@@ -20756,6 +20768,12 @@
     }
   },
   {
+    "text": "Velocidad de Ataque de Choque Elemental aumentada un #%",
+    "ids": {
+      "enchant": "stat_1151217691"
+    }
+  },
+  {
     "text": "Probabilidad de Golpe Crítico con Flecha Dividida aumentada un #%",
     "ids": {
       "enchant": "stat_1028884162"
@@ -20765,12 +20783,6 @@
     "text": "Marca de Tormentas Penetra un #% de la Resistencia al Rayo del Enemigo Marcado",
     "ids": {
       "enchant": "stat_3318254108"
-    }
-  },
-  {
-    "text": "#% de probabilidad de Activar Decreto de Filos con cada Golpe",
-    "ids": {
-      "enchant": "stat_165958462"
     }
   },
   {
@@ -20792,6 +20804,12 @@
     }
   },
   {
+    "text": "Condenación inflige Daño aumentado un #%",
+    "ids": {
+      "enchant": "stat_2206071316"
+    }
+  },
+  {
     "text": "Tótem de Cacique Ancestral otorga Daño Cuerpo a Cuerpo aumentado un #% mientras esté Atcivo",
     "ids": {
       "enchant": "stat_3543257184"
@@ -20810,12 +20828,6 @@
     }
   },
   {
-    "text": "Daño del anillo de Nova de Rayo aumentado un #%",
-    "ids": {
-      "enchant": "stat_3652051346"
-    }
-  },
-  {
     "text": "Latigazo de cobra encadena una vez adicional",
     "ids": {
       "enchant": "stat_1471796012"
@@ -20831,6 +20843,12 @@
     "text": "Daño de Descarga de Escarcha aumentado un #%",
     "ids": {
       "enchant": "stat_2078274993"
+    }
+  },
+  {
+    "text": "#% de probabilidad de Activar Decreto de la Tumba cuando tus Habilidades o Esbirros Maten",
+    "ids": {
+      "enchant": "stat_2187415468"
     }
   },
   {
@@ -20870,15 +20888,15 @@
     }
   },
   {
-    "text": "#% de Daño Físico de Flecha Ardiente ganado como Daño de Fuego Extra",
-    "ids": {
-      "enchant": "stat_3229580299"
-    }
-  },
-  {
     "text": "Daño de Terremoto aumentado un #%",
     "ids": {
       "enchant": "stat_1697080607"
+    }
+  },
+  {
+    "text": "#% de Daño Físico de Flecha Ardiente ganado como Daño de Fuego Extra",
+    "ids": {
+      "enchant": "stat_3229580299"
     }
   },
   {
@@ -20954,12 +20972,6 @@
     }
   },
   {
-    "text": "Condenación inflige Daño aumentado un #%",
-    "ids": {
-      "enchant": "stat_2206071316"
-    }
-  },
-  {
     "text": "#% de probabilidad de Activar Decreto de Invierno al ser Golpeado",
     "ids": {
       "enchant": "stat_2515273888"
@@ -20984,15 +20996,21 @@
     }
   },
   {
-    "text": "Caída de Filos tiene #% al Multiplicador de Golpe Crítico por cada cuchilla",
+    "text": "Área de Efecto de Golpe Fundido aumentada un #%",
     "ids": {
-      "enchant": "stat_2583039202"
+      "enchant": "stat_2524620107"
     }
   },
   {
     "text": "Efecto de la Bonificación otorgado por tus Gólems de Piedra aumentado un #%",
     "ids": {
       "enchant": "stat_2284801675"
+    }
+  },
+  {
+    "text": "Caída de Filos tiene #% al Multiplicador de Golpe Crítico por cada cuchilla",
+    "ids": {
+      "enchant": "stat_2583039202"
     }
   },
   {
@@ -21092,21 +21110,9 @@
     }
   },
   {
-    "text": "Área de Efecto de Golpe Fundido aumentada un #%",
-    "ids": {
-      "enchant": "stat_2524620107"
-    }
-  },
-  {
     "text": "Duración de Cadenas Temporales aumentada un #%",
     "ids": {
       "enchant": "stat_888039248"
-    }
-  },
-  {
-    "text": "#% de probabilidad de Activar Decreto de la Tumba cuando tus Habilidades o Esbirros Maten",
-    "ids": {
-      "enchant": "stat_2187415468"
     }
   },
   {
@@ -21125,6 +21131,12 @@
     "text": "Velocidad de Ataque de Lluvia de Flechas aumentada un #%",
     "ids": {
       "enchant": "stat_3825617457"
+    }
+  },
+  {
+    "text": "Daño de Frenesí aumentado un #%",
+    "ids": {
+      "enchant": "stat_522780692"
     }
   },
   {
@@ -21182,15 +21194,15 @@
     }
   },
   {
-    "text": "Daño de Detonar Muertos aumentado un #%",
-    "ids": {
-      "enchant": "stat_3087527696"
-    }
-  },
-  {
     "text": "#% de probabilidad de Activar Decreto de Furia con cada Golpe",
     "ids": {
       "enchant": "stat_2252338738"
+    }
+  },
+  {
+    "text": "Daño de Detonar Muertos aumentado un #%",
+    "ids": {
+      "enchant": "stat_3087527696"
     }
   },
   {
@@ -21200,9 +21212,9 @@
     }
   },
   {
-    "text": "Daño de Frenesí aumentado un #%",
+    "text": "Probabilidad de Golpe Crítico con Explosión de Llamas aumentada un #%",
     "ids": {
-      "enchant": "stat_522780692"
+      "enchant": "stat_3053448465"
     }
   },
   {
@@ -21236,12 +21248,6 @@
     }
   },
   {
-    "text": "Probabilidad de Golpe Crítico con Explosión de Llamas aumentada un #%",
-    "ids": {
-      "enchant": "stat_3053448465"
-    }
-  },
-  {
     "text": "Velocidad de Ataque de Golpe Dual aumentada un #%",
     "ids": {
       "enchant": "stat_1917107304"
@@ -21272,15 +21278,15 @@
     }
   },
   {
-    "text": "Daño de Trampa de Fuego aumentado un #%",
-    "ids": {
-      "enchant": "stat_181307038"
-    }
-  },
-  {
     "text": "Área de Efecto de Cascada Glacial aumentada un #%",
     "ids": {
       "enchant": "stat_88796379"
+    }
+  },
+  {
+    "text": "Daño de Trampa de Fuego aumentado un #%",
+    "ids": {
+      "enchant": "stat_181307038"
     }
   },
   {
@@ -21293,6 +21299,12 @@
     "text": "#% de probabilidad de Activar Mandamiento de Invierno al ser Golpeado",
     "ids": {
       "enchant": "stat_3222886961"
+    }
+  },
+  {
+    "text": "Flecha explosiva tiene su duración aumentada un #%",
+    "ids": {
+      "enchant": "stat_3590425794"
     }
   },
   {
@@ -21332,15 +21344,15 @@
     }
   },
   {
-    "text": "Duración de Terremoto reducida un #%",
+    "text": "El proyectil primario de Acero Empalador perfora 1 objetivo adicional",
     "ids": {
-      "enchant": "stat_3917881666"
+      "enchant": "stat_3031985694"
     }
   },
   {
-    "text": "Tus Torres lanzallamas infligen daño aumentado en un #%",
+    "text": "Duración de Terremoto reducida un #%",
     "ids": {
-      "enchant": "stat_1478321338"
+      "enchant": "stat_3917881666"
     }
   },
   {
@@ -21350,15 +21362,15 @@
     }
   },
   {
-    "text": "Golpe Pesado tiene #% de probabilidad de infligir Daño Doble",
+    "text": "Tus Torres lanzallamas infligen daño aumentado en un #%",
     "ids": {
-      "enchant": "stat_3760588941"
+      "enchant": "stat_1478321338"
     }
   },
   {
-    "text": "Los Gólems de Hielo infligen Daño aumentado un #%",
+    "text": "Golpe Pesado tiene #% de probabilidad de infligir Daño Doble",
     "ids": {
-      "enchant": "stat_3816405721"
+      "enchant": "stat_3760588941"
     }
   },
   {
@@ -21368,15 +21380,21 @@
     }
   },
   {
-    "text": "Probabilidad de Golpe Crítico con Orbe de Tormentas aumentada un #%",
+    "text": "Los Gólems de Hielo infligen Daño aumentado un #%",
     "ids": {
-      "enchant": "stat_168538372"
+      "enchant": "stat_3816405721"
     }
   },
   {
-    "text": "El proyectil primario de Acero Empalador perfora 1 objetivo adicional",
+    "text": "Duración de Contagio aumentada un #%",
     "ids": {
-      "enchant": "stat_3031985694"
+      "enchant": "stat_2565809961"
+    }
+  },
+  {
+    "text": "Probabilidad de Golpe Crítico con Orbe de Tormentas aumentada un #%",
+    "ids": {
+      "enchant": "stat_168538372"
     }
   },
   {
@@ -21428,15 +21446,15 @@
     }
   },
   {
-    "text": "Área de Efecto de Terremoto aumentada un #%",
-    "ids": {
-      "enchant": "stat_684174846"
-    }
-  },
-  {
     "text": "Los zombis levantados tienen #% a las resistencias elementales",
     "ids": {
       "enchant": "stat_2871777604"
+    }
+  },
+  {
+    "text": "Área de Efecto de Terremoto aumentada un #%",
+    "ids": {
+      "enchant": "stat_684174846"
     }
   },
   {
@@ -21449,6 +21467,12 @@
     "text": "#% de probabilidad de Activar Mandamiento de Llamas con cada Golpe",
     "ids": {
       "enchant": "stat_3703722637"
+    }
+  },
+  {
+    "text": "Estallido de Tormenta tiene #% de probabilidad de crear un orbe adicional",
+    "ids": {
+      "enchant": "stat_1898356067"
     }
   },
   {
@@ -21473,12 +21497,6 @@
     "text": "Lluvia de estallidos tiene su área de efecto aumentada un #%",
     "ids": {
       "enchant": "stat_574378310"
-    }
-  },
-  {
-    "text": "Duración de Contagio aumentada un #%",
-    "ids": {
-      "enchant": "stat_2565809961"
     }
   },
   {
@@ -21512,15 +21530,21 @@
     }
   },
   {
-    "text": "Radio de Desgarro aumentado un #%",
+    "text": "Velocidad de Recarga de Ruptura de Hielo aumentada un #%",
     "ids": {
-      "enchant": "stat_1486490067"
+      "enchant": "stat_2289367813"
     }
   },
   {
     "text": "Camino Consagrado inflige Daño aumentado un #%",
     "ids": {
       "enchant": "stat_4047323043"
+    }
+  },
+  {
+    "text": "Radio de Desgarro aumentado un #%",
+    "ids": {
+      "enchant": "stat_1486490067"
     }
   },
   {
@@ -21539,6 +21563,12 @@
     "text": "Daño de Golpe Pesado aumentado un #%",
     "ids": {
       "enchant": "stat_954135826"
+    }
+  },
+  {
+    "text": "Balista de asedio tiene su velocidad de ataque aumentada un #%",
+    "ids": {
+      "enchant": "stat_444858149"
     }
   },
   {
@@ -21584,15 +21614,15 @@
     }
   },
   {
-    "text": "Área de Efecto de Golpe Salvaje aumentada un #%",
-    "ids": {
-      "enchant": "stat_524936200"
-    }
-  },
-  {
     "text": "Velocidad de Ataque de Carga con Escudo aumentada un #%",
     "ids": {
       "enchant": "stat_648343221"
+    }
+  },
+  {
+    "text": "Área de Efecto de Golpe Salvaje aumentada un #%",
+    "ids": {
+      "enchant": "stat_524936200"
     }
   },
   {
@@ -21674,21 +21704,27 @@
     }
   },
   {
+    "text": "Daño de Impacto Sísmico aumentado un #%",
+    "ids": {
+      "enchant": "stat_108883700"
+    }
+  },
+  {
     "text": "Efecto de Maldición de Desesperación aumentado un #%",
     "ids": {
       "enchant": "stat_3185156108"
     }
   },
   {
-    "text": "Tus Torres de jaula glacial tienen su duración aumentada en un #%",
-    "ids": {
-      "enchant": "stat_1056655244"
-    }
-  },
-  {
     "text": "Muertos volátiles consume hasta # cadáver adicional",
     "ids": {
       "enchant": "stat_3034788766"
+    }
+  },
+  {
+    "text": "Tus Torres de jaula glacial tienen su duración aumentada en un #%",
+    "ids": {
+      "enchant": "stat_1056655244"
     }
   },
   {
@@ -21704,15 +21740,15 @@
     }
   },
   {
-    "text": "El Daño de Trampa de Rayo Penetra #% de Resistencia al Rayo",
-    "ids": {
-      "enchant": "stat_1557531966"
-    }
-  },
-  {
     "text": "Área de Efecto de Orbe de Magma aumentada un #%",
     "ids": {
       "enchant": "stat_1646093658"
+    }
+  },
+  {
+    "text": "El Daño de Trampa de Rayo Penetra #% de Resistencia al Rayo",
+    "ids": {
+      "enchant": "stat_1557531966"
     }
   },
   {
@@ -21734,9 +21770,9 @@
     }
   },
   {
-    "text": "Balista de asedio tiene su velocidad de ataque aumentada un #%",
+    "text": "Área de Efecto de Hendidura aumentado un #%",
     "ids": {
-      "enchant": "stat_444858149"
+      "enchant": "stat_3172519570"
     }
   },
   {
@@ -21770,9 +21806,15 @@
     }
   },
   {
-    "text": "Velocidad de Recarga de Ruptura de Hielo aumentada un #%",
+    "text": "Daño de Oleada de Llamas aumentado un #%",
     "ids": {
-      "enchant": "stat_2289367813"
+      "enchant": "stat_1491182794"
+    }
+  },
+  {
+    "text": "Daño de Centellas aumentado un #%",
+    "ids": {
+      "enchant": "stat_39356080"
     }
   },
   {
@@ -21785,12 +21827,6 @@
     "text": "La exposición de Ola de Condena aplica #% de resistencia elemental",
     "ids": {
       "enchant": "stat_3139672534"
-    }
-  },
-  {
-    "text": "Daño de Centellas aumentado un #%",
-    "ids": {
-      "enchant": "stat_39356080"
     }
   },
   {
@@ -21908,9 +21944,9 @@
     }
   },
   {
-    "text": "Estallido de Tormenta tiene #% de probabilidad de crear un orbe adicional",
+    "text": "Daño de Carga con Escudo aumentado un #%",
     "ids": {
-      "enchant": "stat_1898356067"
+      "enchant": "stat_3490662882"
     }
   },
   {
@@ -21923,18 +21959,6 @@
     "text": "Área de Efecto de Ruptura de Hielo aumentada un #%",
     "ids": {
       "enchant": "stat_3371538704"
-    }
-  },
-  {
-    "text": "Daño de Carga con Escudo aumentado un #%",
-    "ids": {
-      "enchant": "stat_3490662882"
-    }
-  },
-  {
-    "text": "Daño de Oleada de Llamas aumentado un #%",
-    "ids": {
-      "enchant": "stat_1491182794"
     }
   },
   {
@@ -21956,6 +21980,12 @@
     }
   },
   {
+    "text": "Área de Efecto de Barrido aumentada un #%",
+    "ids": {
+      "enchant": "stat_4202548383"
+    }
+  },
+  {
     "text": "Los Gólems de Piedra infligen Daño aumentado un #%",
     "ids": {
       "enchant": "stat_1171483499"
@@ -21965,18 +21995,6 @@
     "text": "Acero Empalador inflige Daño aumentado un #%",
     "ids": {
       "enchant": "stat_2159486200"
-    }
-  },
-  {
-    "text": "#% de probabilidad de Activar Decreto de la Tempestad con cada Golpe",
-    "ids": {
-      "enchant": "stat_1671985305"
-    }
-  },
-  {
-    "text": "Área de Efecto de Barrido aumentada un #%",
-    "ids": {
-      "enchant": "stat_4202548383"
     }
   },
   {
@@ -22046,15 +22064,15 @@
     }
   },
   {
-    "text": "Daño de Incendio de Trampa de Fuego aumentado un #%",
-    "ids": {
-      "enchant": "stat_345703394"
-    }
-  },
-  {
     "text": "Daño de Explosión Cinética aumentado un #%",
     "ids": {
       "enchant": "stat_1007135105"
+    }
+  },
+  {
+    "text": "Daño de Incendio de Trampa de Fuego aumentado un #%",
+    "ids": {
+      "enchant": "stat_345703394"
     }
   },
   {
@@ -22076,21 +22094,27 @@
     }
   },
   {
-    "text": "La mina de carámbano tiene su velocidad de lanzamiento aumentada en un #%",
-    "ids": {
-      "enchant": "stat_3162144587"
-    }
-  },
-  {
     "text": "Marchitar tiene su Área de Efecto aumentada un #%",
     "ids": {
       "enchant": "stat_1810898461"
     }
   },
   {
+    "text": "La mina de carámbano tiene su velocidad de lanzamiento aumentada en un #%",
+    "ids": {
+      "enchant": "stat_3162144587"
+    }
+  },
+  {
     "text": "La bonificación de Piel de Acero tiene la cantidad de daño que puede recibir aumentada un #%",
     "ids": {
       "enchant": "stat_4102483123"
+    }
+  },
+  {
+    "text": "Descarga de Escarcha tiene #% de probabilidad de Congelar",
+    "ids": {
+      "enchant": "stat_2774873427"
     }
   },
   {
@@ -22109,6 +22133,12 @@
     "text": "Daño de Exhumar aumentado un #%",
     "ids": {
       "enchant": "stat_3953599026"
+    }
+  },
+  {
+    "text": "Daño de Atadura Abrasadora aumentado un #%",
+    "ids": {
+      "enchant": "stat_2298223148"
     }
   },
   {
@@ -22172,21 +22202,15 @@
     }
   },
   {
-    "text": "Bola de Fuego Siempre Quema",
-    "ids": {
-      "enchant": "stat_2098790581"
-    }
-  },
-  {
     "text": "Ofrenda de Hueso otorga un #% adicional a la probabilidad de Bloquear Daño de Ataques",
     "ids": {
       "enchant": "stat_3233607638"
     }
   },
   {
-    "text": "Orbe Invernal tiene +# a las Fases máximas",
+    "text": "Bola de Fuego Siempre Quema",
     "ids": {
-      "enchant": "stat_3734339018"
+      "enchant": "stat_2098790581"
     }
   },
   {
@@ -22196,21 +22220,27 @@
     }
   },
   {
+    "text": "Orbe Invernal tiene +# a las Fases máximas",
+    "ids": {
+      "enchant": "stat_3734339018"
+    }
+  },
+  {
     "text": "El Arácnido de Agonía invocado dispara # Proyectil adicional",
     "ids": {
       "enchant": "stat_155429578"
     }
   },
   {
-    "text": "Duración de Vulnerabilidad aumentada un #%",
-    "ids": {
-      "enchant": "stat_3229878341"
-    }
-  },
-  {
     "text": "Área de Efecto de Impacto Sísmico aumentada un #%",
     "ids": {
       "enchant": "stat_3061969105"
+    }
+  },
+  {
+    "text": "Duración de Vulnerabilidad aumentada un #%",
+    "ids": {
+      "enchant": "stat_3229878341"
     }
   },
   {
@@ -22235,6 +22265,12 @@
     "text": "Daño de Embate Infernal aumentado un #%",
     "ids": {
       "enchant": "stat_242838571"
+    }
+  },
+  {
+    "text": "Latigazo de cobra tiene velocidad de proyectiles aumentada en un #%",
+    "ids": {
+      "enchant": "stat_732631533"
     }
   },
   {
@@ -22298,15 +22334,15 @@
     }
   },
   {
-    "text": "#% de Probabilidad de ganar una Carga de Poder con cada Golpe Crítico con Lanza de Hielo",
-    "ids": {
-      "enchant": "stat_3232905239"
-    }
-  },
-  {
     "text": "Estandarte de Guerra tiene efecto de Aura aumentado un #%",
     "ids": {
       "enchant": "stat_2592211591"
+    }
+  },
+  {
+    "text": "#% de Probabilidad de ganar una Carga de Poder con cada Golpe Crítico con Lanza de Hielo",
+    "ids": {
+      "enchant": "stat_3232905239"
     }
   },
   {
@@ -22346,15 +22382,15 @@
     }
   },
   {
-    "text": "El Daño de Trampa de Hielo Penetra #% de Resistencia al Hielo",
-    "ids": {
-      "enchant": "stat_3698446010"
-    }
-  },
-  {
     "text": "Aniquilación inflige Daño aumentado un #%",
     "ids": {
       "enchant": "stat_3901016205"
+    }
+  },
+  {
+    "text": "El Daño de Trampa de Hielo Penetra #% de Resistencia al Hielo",
+    "ids": {
+      "enchant": "stat_3698446010"
     }
   },
   {
@@ -22364,27 +22400,21 @@
     }
   },
   {
-    "text": "Duración de Símbolo del Asesino aumentada un #%",
-    "ids": {
-      "enchant": "stat_1609523492"
-    }
-  },
-  {
     "text": "Perforación crea # pincho",
     "ids": {
       "enchant": "stat_760606760"
     }
   },
   {
-    "text": "Velocidad de Recarga de Embestida de Llamas aumentada un #%",
+    "text": "Duración de Símbolo del Asesino aumentada un #%",
     "ids": {
-      "enchant": "stat_1440798870"
+      "enchant": "stat_1609523492"
     }
   },
   {
-    "text": "Daño de Atadura Abrasadora aumentado un #%",
+    "text": "Velocidad de Recarga de Embestida de Llamas aumentada un #%",
     "ids": {
-      "enchant": "stat_2298223148"
+      "enchant": "stat_1440798870"
     }
   },
   {
@@ -22418,15 +22448,15 @@
     }
   },
   {
-    "text": "Los esbirros invocados por tus Torres invocadoras tienen su daño aumentado un #%",
-    "ids": {
-      "enchant": "stat_850390248"
-    }
-  },
-  {
     "text": "Daño de Escudo de Tempestad aumentado un #%",
     "ids": {
       "enchant": "stat_2121581717"
+    }
+  },
+  {
+    "text": "Los esbirros invocados por tus Torres invocadoras tienen su daño aumentado un #%",
+    "ids": {
+      "enchant": "stat_850390248"
     }
   },
   {
@@ -22502,15 +22532,15 @@
     }
   },
   {
-    "text": "Daño de Represalia aumentado un #%",
-    "ids": {
-      "enchant": "stat_4071708873"
-    }
-  },
-  {
     "text": "Bola de Rayos dispara un Proyectil adicional",
     "ids": {
       "enchant": "stat_3420683028"
+    }
+  },
+  {
+    "text": "Daño de Represalia aumentado un #%",
+    "ids": {
+      "enchant": "stat_4071708873"
     }
   },
   {
@@ -22562,15 +22592,15 @@
     }
   },
   {
-    "text": "Velocidad de Ataque de Flecha Parpadeante y de los clones de Flecha Parpadeante aumentada un #%",
-    "ids": {
-      "enchant": "stat_1554597333"
-    }
-  },
-  {
     "text": "Daño de Golpe Doble aumentado un #%",
     "ids": {
       "enchant": "stat_1809965314"
+    }
+  },
+  {
+    "text": "Velocidad de Ataque de Flecha Parpadeante y de los clones de Flecha Parpadeante aumentada un #%",
+    "ids": {
+      "enchant": "stat_1554597333"
     }
   },
   {
@@ -22598,15 +22628,15 @@
     }
   },
   {
-    "text": "Efecto de Maldición de Castigo aumentado un #%",
-    "ids": {
-      "enchant": "stat_2844206732"
-    }
-  },
-  {
     "text": "Las Reliquias Sagradas invocadas infligen Daño aumentado un #%",
     "ids": {
       "enchant": "stat_1152784934"
+    }
+  },
+  {
+    "text": "Efecto de Maldición de Castigo aumentado un #%",
+    "ids": {
+      "enchant": "stat_2844206732"
     }
   },
   {
@@ -22682,21 +22712,27 @@
     }
   },
   {
-    "text": "Área de Efecto de Caída de Filos aumentada un #%",
-    "ids": {
-      "enchant": "stat_2413715772"
-    }
-  },
-  {
     "text": "Velocidad de Lanzamiento de Teletransporte de Rayo aumentada un #%",
     "ids": {
       "enchant": "stat_1347575155"
     }
   },
   {
+    "text": "Área de Efecto de Caída de Filos aumentada un #%",
+    "ids": {
+      "enchant": "stat_2413715772"
+    }
+  },
+  {
     "text": "Golpe pestilente tiene su duración aumentada en un #%",
     "ids": {
       "enchant": "stat_64670441"
+    }
+  },
+  {
+    "text": "Velocidad de Recarga de Contraataque aumentada un #%",
+    "ids": {
+      "enchant": "stat_804983774"
     }
   },
   {
@@ -22742,12 +22778,6 @@
     }
   },
   {
-    "text": "Área de Efecto de Hendidura aumentado un #%",
-    "ids": {
-      "enchant": "stat_3172519570"
-    }
-  },
-  {
     "text": "Área de Efecto de Aliento Ártico aumentada un #%",
     "ids": {
       "enchant": "stat_3816022821"
@@ -22766,9 +22796,9 @@
     }
   },
   {
-    "text": "Latigazo de cobra tiene velocidad de proyectiles aumentada en un #%",
+    "text": "#% a las Resistencias Elementales de Gólem de Piedra",
     "ids": {
-      "enchant": "stat_732631533"
+      "enchant": "stat_1601558321"
     }
   },
   {
@@ -22778,9 +22808,9 @@
     }
   },
   {
-    "text": "#% a las Resistencias Elementales de Gólem de Piedra",
+    "text": "El Vórtice tiene Área de Efecto aumentada un #% cuando se Lanza en Descarga de Escarcha",
     "ids": {
-      "enchant": "stat_1601558321"
+      "enchant": "stat_2295263113"
     }
   },
   {
@@ -22790,9 +22820,9 @@
     }
   },
   {
-    "text": "El Vórtice tiene Área de Efecto aumentada un #% cuando se Lanza en Descarga de Escarcha",
+    "text": "Balista de metralla tiene su velocidad de proyectiles aumentada un #%",
     "ids": {
-      "enchant": "stat_2295263113"
+      "enchant": "stat_1213017413"
     }
   },
   {
@@ -22802,21 +22832,9 @@
     }
   },
   {
-    "text": "Balista de metralla tiene su velocidad de proyectiles aumentada un #%",
-    "ids": {
-      "enchant": "stat_1213017413"
-    }
-  },
-  {
     "text": "Trampa de Lanzallamas tiene una Llama adicional",
     "ids": {
       "enchant": "stat_1452255482"
-    }
-  },
-  {
-    "text": "Descarga de Escarcha tiene #% de probabilidad de Congelar",
-    "ids": {
-      "enchant": "stat_2774873427"
     }
   },
   {
@@ -22982,6 +23000,18 @@
     }
   },
   {
+    "text": "Gancho de cadena inflige su daño aumentado un #%",
+    "ids": {
+      "enchant": "stat_289027663"
+    }
+  },
+  {
+    "text": "Trampa Sísmica inflige Daño aumentado un #%",
+    "ids": {
+      "enchant": "stat_1175282728"
+    }
+  },
+  {
     "text": "Duración de Muro de Hielo aumentada un #%",
     "ids": {
       "enchant": "stat_775034903"
@@ -23087,12 +23117,6 @@
     "text": "Duración de Tormenta de Fuego aumentada un #%",
     "ids": {
       "enchant": "stat_1691710359"
-    }
-  },
-  {
-    "text": "Trampa Sísmica inflige Daño aumentado un #%",
-    "ids": {
-      "enchant": "stat_1175282728"
     }
   },
   {
@@ -23210,12 +23234,6 @@
     }
   },
   {
-    "text": "Velocidad de Recarga de Contraataque aumentada un #%",
-    "ids": {
-      "enchant": "stat_804983774"
-    }
-  },
-  {
     "text": "Velocidad de Colocación de Tótem de Protector Ancestral aumentada un #%",
     "ids": {
       "enchant": "stat_592861938"
@@ -23324,12 +23342,6 @@
     }
   },
   {
-    "text": "Daño de Impacto Sísmico aumentado un #%",
-    "ids": {
-      "enchant": "stat_108883700"
-    }
-  },
-  {
     "text": "Duración de Centinela de Dominancia aumentada un #%",
     "ids": {
       "enchant": "stat_3772643988"
@@ -23384,12 +23396,6 @@
     }
   },
   {
-    "text": "Flecha explosiva tiene su duración aumentada un #%",
-    "ids": {
-      "enchant": "stat_3590425794"
-    }
-  },
-  {
     "text": "Coraza fundida tiene la duración del efecto de la habilidad aumentada un #%",
     "ids": {
       "enchant": "stat_4255043252"
@@ -23432,6 +23438,12 @@
     }
   },
   {
+    "text": "Espiral de veneno tiene un #% de probabilidad de que conserves los proyectiles atrapados cuando los lanzas con Filos giratorios",
+    "ids": {
+      "enchant": "stat_2563177940"
+    }
+  },
+  {
     "text": "Trampa Sísmica tiene Velocidad de Recuperación de Tiempo de Recarga aumentada un #%",
     "ids": {
       "enchant": "stat_3618430531"
@@ -23456,15 +23468,15 @@
     }
   },
   {
-    "text": "En vez de eso, los proyectiles de Balista de artillería caen en dos líneas perpendiculares",
-    "ids": {
-      "enchant": "stat_2056176052"
-    }
-  },
-  {
     "text": "Trampa de Absorción tiene Efecto de Escarchamiento aumentado un #%",
     "ids": {
       "enchant": "stat_2530563277"
+    }
+  },
+  {
+    "text": "En vez de eso, los proyectiles de Balista de artillería caen en dos líneas perpendiculares",
+    "ids": {
+      "enchant": "stat_2056176052"
     }
   },
   {
@@ -23474,27 +23486,21 @@
     }
   },
   {
-    "text": "Daño de Incinerar aumentado un #% por cada fase",
-    "ids": {
-      "enchant": "stat_4151555126"
-    }
-  },
-  {
     "text": "Los esbirros invocados por tus Torres de centinela tienen daño aumentado un #%",
     "ids": {
       "enchant": "stat_2013536039"
     }
   },
   {
-    "text": "Orbe de Tormentas tiene Velocidad de Lanzamiento de Hechizos aumentada un #%",
+    "text": "Daño de Incinerar aumentado un #% por cada fase",
     "ids": {
-      "enchant": "stat_2778301298"
+      "enchant": "stat_4151555126"
     }
   },
   {
-    "text": "Gancho de cadena inflige su daño aumentado un #%",
+    "text": "Orbe de Tormentas tiene Velocidad de Lanzamiento de Hechizos aumentada un #%",
     "ids": {
-      "enchant": "stat_289027663"
+      "enchant": "stat_2778301298"
     }
   },
   {
@@ -23561,12 +23567,6 @@
     "text": "La Mina de tormenta explosiva tiene su velocidad de lanzamiento aumentada en un #%",
     "ids": {
       "enchant": "stat_321894708"
-    }
-  },
-  {
-    "text": "Espiral de veneno tiene un #% de probabilidad de que conserves los proyectiles atrapados cuando los lanzas con Filos giratorios",
-    "ids": {
-      "enchant": "stat_2563177940"
     }
   },
   {
@@ -23810,6 +23810,12 @@
     }
   },
   {
+    "text": "Tus torres de tormenta eléctrica infligen daño aumentado un #%",
+    "ids": {
+      "enchant": "stat_1960580674"
+    }
+  },
+  {
     "text": "Velocidad de Lanzamiento de Nova de Fuego aumentada un #%",
     "ids": {
       "enchant": "stat_3211417111"
@@ -23834,15 +23840,15 @@
     }
   },
   {
-    "text": "Daño de Coraza Fundida aumentado un #%",
-    "ids": {
-      "enchant": "stat_815390778"
-    }
-  },
-  {
     "text": "Trampa de Pararrayos tiene Velocidad de Lanzamiento de Hechizos aumentada un #%",
     "ids": {
       "enchant": "stat_535507671"
+    }
+  },
+  {
+    "text": "Daño de Coraza Fundida aumentado un #%",
+    "ids": {
+      "enchant": "stat_815390778"
     }
   },
   {
@@ -23855,12 +23861,6 @@
     "text": "Área de Efecto de Vórtice aumentada un #%",
     "ids": {
       "enchant": "stat_1730614496"
-    }
-  },
-  {
-    "text": "Tus torres de tormenta eléctrica infligen daño aumentado un #%",
-    "ids": {
-      "enchant": "stat_1960580674"
     }
   },
   {
@@ -23894,6 +23894,12 @@
     }
   },
   {
+    "text": "Los jugadores no pueden recibir Daño Reflejado",
+    "ids": {
+      "enchant": "stat_3151377452"
+    }
+  },
+  {
     "text": "Los Centinelas de Dominancia invocados infligen Daño aumentado un #%",
     "ids": {
       "enchant": "stat_4040760803"
@@ -23903,6 +23909,12 @@
     "text": "Tus Torres temporales tienen su efecto aumentado un #%",
     "ids": {
       "enchant": "stat_2109921176"
+    }
+  },
+  {
+    "text": "Tus Torres de arco eléctrico tienen su rango aumentado en un #%",
+    "ids": {
+      "enchant": "stat_1572544406"
     }
   },
   {
@@ -23942,6 +23954,12 @@
     }
   },
   {
+    "text": "El área contiene # grupos adicionales de monstruos corruptos vaal",
+    "ids": {
+      "enchant": "stat_1867024035"
+    }
+  },
+  {
     "text": "Asigna # (Adicional)",
     "ids": {
       "enchant": "stat_3459808765"
@@ -23960,21 +23978,9 @@
     }
   },
   {
-    "text": "Tus Torres de arco eléctrico tienen su rango aumentado en un #%",
-    "ids": {
-      "enchant": "stat_1572544406"
-    }
-  },
-  {
     "text": "Espiral de veneno inflige daño aumentado en un #%",
     "ids": {
       "enchant": "stat_1404787106"
-    }
-  },
-  {
-    "text": "El área contiene # grupos adicionales de monstruos corruptos vaal",
-    "ids": {
-      "enchant": "stat_1867024035"
     }
   },
   {
@@ -24104,15 +24110,15 @@
     }
   },
   {
-    "text": "El área contiene # grupos adicionales de monstruos que se convierten al morir",
-    "ids": {
-      "enchant": "stat_249139784"
-    }
-  },
-  {
     "text": "El área contiene # grupos adicionales de monstruos que se curan",
     "ids": {
       "enchant": "stat_3059368202"
+    }
+  },
+  {
+    "text": "El área contiene # grupos adicionales de monstruos que se convierten al morir",
+    "ids": {
+      "enchant": "stat_249139784"
     }
   },
   {
@@ -24284,15 +24290,15 @@
     }
   },
   {
-    "text": "Los Monstruos de Cajas Fuertes tienen Cantidad de Objetos aumentada un #%",
-    "ids": {
-      "enchant": "stat_1854137416"
-    }
-  },
-  {
     "text": "Tus torres de Tormenta eléctrica tienen su rango aumentado un #%",
     "ids": {
       "enchant": "stat_1789548201"
+    }
+  },
+  {
+    "text": "Los Monstruos de Cajas Fuertes tienen Cantidad de Objetos aumentada un #%",
+    "ids": {
+      "enchant": "stat_1854137416"
     }
   },
   {
@@ -24452,15 +24458,15 @@
     }
   },
   {
-    "text": "El jefe único arroja esquirlas de objetos monetarios adicionales",
-    "ids": {
-      "enchant": "stat_1508220097"
-    }
-  },
-  {
     "text": "Muertos volátiles consume hasta 1 cadáver adicional",
     "ids": {
       "enchant": "stat_4006050359"
+    }
+  },
+  {
+    "text": "El jefe único arroja esquirlas de objetos monetarios adicionales",
+    "ids": {
+      "enchant": "stat_1508220097"
     }
   },
   {
@@ -24470,15 +24476,21 @@
     }
   },
   {
-    "text": "Tus torres de tormenta eléctrica tienen una demora de impacto aumentada un #%",
+    "text": "Los Exiliados Renegados tienen Vida Máxima aumentada un #%",
     "ids": {
-      "enchant": "stat_197351228"
+      "enchant": "stat_471027242"
     }
   },
   {
     "text": "Tus Torres potenciadoras también otorgan velocidad de lanzamiento de hechizos aumentada en un #%",
     "ids": {
       "enchant": "stat_3564606017"
+    }
+  },
+  {
+    "text": "Tus torres de tormenta eléctrica tienen una demora de impacto aumentada un #%",
+    "ids": {
+      "enchant": "stat_197351228"
     }
   },
   {
@@ -24524,15 +24536,15 @@
     }
   },
   {
-    "text": "Los esbirros invocados por tus Torres vigía tienen su velocidad de movimiento aumentada un #%",
-    "ids": {
-      "enchant": "stat_971955285"
-    }
-  },
-  {
     "text": "El Jefe Único arroja # Objeto Único adicional",
     "ids": {
       "enchant": "stat_3760667977"
+    }
+  },
+  {
+    "text": "Los esbirros invocados por tus Torres vigía tienen su velocidad de movimiento aumentada un #%",
+    "ids": {
+      "enchant": "stat_971955285"
     }
   },
   {
@@ -24584,6 +24596,12 @@
     }
   },
   {
+    "text": "El área contiene un Ladrón de Tumbas Atormentado adicional",
+    "ids": {
+      "enchant": "stat_1463704577"
+    }
+  },
+  {
     "text": "Los jefes únicos de los mapas corruptos arrojan un objeto vaal adicional",
     "ids": {
       "enchant": "stat_2747603858"
@@ -24593,12 +24611,6 @@
     "text": "Los primeros 3 monstruos poseídos tienen un #% de probabilidad de arrojar un objeto único adicional",
     "ids": {
       "enchant": "stat_2392278281"
-    }
-  },
-  {
-    "text": "El área contiene un Ladrón de Tumbas Atormentado adicional",
-    "ids": {
-      "enchant": "stat_1463704577"
     }
   },
   {
@@ -24620,12 +24632,6 @@
     }
   },
   {
-    "text": "Los Monstruos Únicos arrojan Objetos Corruptos",
-    "ids": {
-      "enchant": "stat_804187877"
-    }
-  },
-  {
     "text": "Tus Torres temporales también te otorgan velocidad de acción reducida un #%",
     "ids": {
       "enchant": "stat_3198887051"
@@ -24638,15 +24644,15 @@
     }
   },
   {
-    "text": "Los heraldos arrojan esquirlas de objetos monetarios adicionales",
+    "text": "Los Monstruos Únicos arrojan Objetos Corruptos",
     "ids": {
-      "enchant": "stat_906446422"
+      "enchant": "stat_804187877"
     }
   },
   {
-    "text": "Los efectos de tus Torres temporales decaen un #% más rápido",
+    "text": "Los heraldos arrojan esquirlas de objetos monetarios adicionales",
     "ids": {
-      "enchant": "stat_4024383498"
+      "enchant": "stat_906446422"
     }
   },
   {
@@ -24656,9 +24662,9 @@
     }
   },
   {
-    "text": "Tus Torres de nova de rayo tienen su área de efecto por repetición aumentada un #%",
+    "text": "Los efectos de tus Torres temporales decaen un #% más rápido",
     "ids": {
-      "enchant": "stat_21144785"
+      "enchant": "stat_4024383498"
     }
   },
   {
@@ -24668,27 +24674,9 @@
     }
   },
   {
-    "text": "Tus Torres de nova de rayo tienen su efecto de aturdimiento aumentado un #%",
+    "text": "Tus Torres de nova de rayo tienen su área de efecto por repetición aumentada un #%",
     "ids": {
-      "enchant": "stat_439316158"
-    }
-  },
-  {
-    "text": "La Calidad de este Mapa también se aplica a la Rareza de los Objetos encontrados",
-    "ids": {
-      "enchant": "stat_4265846487"
-    }
-  },
-  {
-    "text": "Los primeros 3 monstruos poseídos tienen un #% de probabilidad de arrojar un Escarabajo oxidado adicional",
-    "ids": {
-      "enchant": "stat_3789079511"
-    }
-  },
-  {
-    "text": "Tus Torres sísmicas tienen un temblor adicional",
-    "ids": {
-      "enchant": "stat_3094610721"
+      "enchant": "stat_21144785"
     }
   },
   {
@@ -24698,9 +24686,33 @@
     }
   },
   {
+    "text": "La Calidad de este Mapa también se aplica a la Rareza de los Objetos encontrados",
+    "ids": {
+      "enchant": "stat_4265846487"
+    }
+  },
+  {
+    "text": "Tus Torres de nova de rayo tienen su efecto de aturdimiento aumentado un #%",
+    "ids": {
+      "enchant": "stat_439316158"
+    }
+  },
+  {
+    "text": "Tus Torres sísmicas tienen un temblor adicional",
+    "ids": {
+      "enchant": "stat_3094610721"
+    }
+  },
+  {
     "text": "Las Áreas pueden contener Abismos",
     "ids": {
       "enchant": "stat_3564826949"
+    }
+  },
+  {
+    "text": "Los primeros 3 monstruos poseídos tienen un #% de probabilidad de arrojar un Escarabajo oxidado adicional",
+    "ids": {
+      "enchant": "stat_3789079511"
     }
   },
   {
@@ -24716,15 +24728,15 @@
     }
   },
   {
-    "text": "Los mapas raros contienen # grupos adicionales de monstruos raros",
+    "text": "El área contiene # grupos adicionales de monstruos venenosos",
     "ids": {
-      "enchant": "stat_3672378181"
+      "enchant": "stat_3094365680"
     }
   },
   {
-    "text": "El Área contiene una Esencia adicional",
+    "text": "Los jugadores ganan un alma vaal adicional al matar",
     "ids": {
-      "enchant": "stat_395808938"
+      "enchant": "stat_3416709884"
     }
   },
   {
@@ -24734,15 +24746,33 @@
     }
   },
   {
-    "text": "El área contiene # grupos adicionales de monstruos venenosos",
+    "text": "Los mapas raros contienen # grupos adicionales de monstruos raros",
     "ids": {
-      "enchant": "stat_3094365680"
+      "enchant": "stat_3672378181"
     }
   },
   {
-    "text": "Los Exiliados Renegados tienen Vida Máxima aumentada un #%",
+    "text": "La Recuperación de Vida y de Maná de los Jugadores por Frascos es instantánea",
     "ids": {
-      "enchant": "stat_471027242"
+      "enchant": "stat_3137138073"
+    }
+  },
+  {
+    "text": "Daño de Tótem de Maestro de Armas Ancestral aumentado un #%",
+    "ids": {
+      "enchant": "stat_4166834934"
+    }
+  },
+  {
+    "text": "El área tiene #% de probabilidad de contener Regalos de la Reina Roja por cada Fragmento Mortal usado",
+    "ids": {
+      "enchant": "stat_1076056376"
+    }
+  },
+  {
+    "text": "El Área contiene una Esencia adicional",
+    "ids": {
+      "enchant": "stat_395808938"
     }
   },
   {
@@ -24758,45 +24788,15 @@
     }
   },
   {
-    "text": "La Recuperación de Vida y de Maná de los Jugadores por Frascos es instantánea",
-    "ids": {
-      "enchant": "stat_3137138073"
-    }
-  },
-  {
-    "text": "El área tiene #% de probabilidad de contener Regalos de la Reina Roja por cada Fragmento Mortal usado",
-    "ids": {
-      "enchant": "stat_1076056376"
-    }
-  },
-  {
-    "text": "Daño de Tótem de Maestro de Armas Ancestral aumentado un #%",
-    "ids": {
-      "enchant": "stat_4166834934"
-    }
-  },
-  {
-    "text": "Los jugadores ganan un alma vaal adicional al matar",
-    "ids": {
-      "enchant": "stat_3416709884"
-    }
-  },
-  {
-    "text": "Los objetos arrojados por los monstruos vaal corruptos tienen #% de probabilidad de estar corruptos",
-    "ids": {
-      "enchant": "stat_3045497140"
-    }
-  },
-  {
     "text": "El Área es Atrayente",
     "ids": {
       "enchant": "stat_2862290356"
     }
   },
   {
-    "text": "Los jugadores no pueden recibir Daño Reflejado",
+    "text": "Los objetos arrojados por los monstruos vaal corruptos tienen #% de probabilidad de estar corruptos",
     "ids": {
-      "enchant": "stat_3151377452"
+      "enchant": "stat_3045497140"
     }
   },
   {
@@ -24854,15 +24854,15 @@
     }
   },
   {
-    "text": "#% al Multiplicador de Golpe Crítico mientras haya un Enemigo Raro o Único Cercano",
-    "ids": {
-      "crafted": "stat_3992439283"
-    }
-  },
-  {
     "text": "Electrocuta a los Enemigos Cercanos durante # Segundos cuando te Concentras",
     "ids": {
       "crafted": "stat_3031766858"
+    }
+  },
+  {
+    "text": "#% al Multiplicador de Golpe Crítico mientras haya un Enemigo Raro o Único Cercano",
+    "ids": {
+      "crafted": "stat_3992439283"
     }
   },
   {
@@ -24872,15 +24872,21 @@
     }
   },
   {
+    "text": "#% de probabilidad de Activar Furia de Sangre Nivel 1 cuando Matas a un Enemigo",
+    "ids": {
+      "crafted": "stat_205619502"
+    }
+  },
+  {
     "text": "Probabilidad de Golpe Crítico aumentada un #% durante el Efecto del Frasco",
     "ids": {
       "crafted": "stat_2008255263"
     }
   },
   {
-    "text": "#% de probabilidad de Activar Furia de Sangre Nivel 1 cuando Matas a un Enemigo",
+    "text": "Velocidad de Ataque aumentada un #% mientras haya un enemigo Raro o Único cerca",
     "ids": {
-      "crafted": "stat_205619502"
+      "crafted": "stat_314741699"
     }
   },
   {
@@ -24893,12 +24899,6 @@
     "text": "Agrega # a # de Daño de Caos si has infligido un Golpe Crítico Recientemente",
     "ids": {
       "crafted": "stat_2523334466"
-    }
-  },
-  {
-    "text": "Velocidad de Ataque aumentada un #% mientras haya un enemigo Raro o Único cerca",
-    "ids": {
-      "crafted": "stat_314741699"
     }
   },
   {
@@ -24938,6 +24938,12 @@
     }
   },
   {
+    "text": "# a la Armadura durante la Prevención de Obtención de Almas",
+    "ids": {
+      "crafted": "stat_1539825365"
+    }
+  },
+  {
     "text": "#% a la probabilidad de Esquivar Golpes de Ataques mientras estés Concentrado",
     "ids": {
       "crafted": "stat_2590156965"
@@ -24947,12 +24953,6 @@
     "text": "#% de Vida Regenerada por segundo durante cualquier Efecto de Frasco",
     "ids": {
       "crafted": "stat_3500911418"
-    }
-  },
-  {
-    "text": "# a la Armadura durante la Prevención de Obtención de Almas",
-    "ids": {
-      "crafted": "stat_1539825365"
     }
   },
   {
@@ -25142,6 +25142,12 @@
     }
   },
   {
+    "text": "de la Encriptación de Aisling",
+    "ids": {
+      "veiled": "mod_48007"
+    }
+  },
+  {
     "text": "de la Encriptación de Jorgin",
     "ids": {
       "veiled": "mod_62955"
@@ -25157,12 +25163,6 @@
     "text": "Encriptado de Catarina",
     "ids": {
       "veiled": "mod_63772"
-    }
-  },
-  {
-    "text": "de la Encriptación de Aisling",
-    "ids": {
-      "veiled": "mod_48007"
     }
   },
   {
@@ -25202,6 +25202,12 @@
     }
   },
   {
+    "text": "Encriptado de Rin",
+    "ids": {
+      "veiled": "mod_6131"
+    }
+  },
+  {
     "text": "Encriptado de Haku",
     "ids": {
       "veiled": "mod_39023"
@@ -25211,12 +25217,6 @@
     "text": "Encriptado de Tora",
     "ids": {
       "veiled": "mod_8541"
-    }
-  },
-  {
-    "text": "Encriptado de Rin",
-    "ids": {
-      "veiled": "mod_6131"
     }
   },
   {
@@ -25328,15 +25328,15 @@
     }
   },
   {
-    "text": "Drops additional Legion Incubators",
-    "ids": {
-      "monster": "metamorph_reward_legion_incubators"
-    }
-  },
-  {
     "text": "Drops an Enchanted Helmet",
     "ids": {
       "monster": "metamorph_reward_enchanted_helmet"
+    }
+  },
+  {
+    "text": "Drops additional Legion Incubators",
+    "ids": {
+      "monster": "metamorph_reward_legion_incubators"
     }
   },
   {
@@ -25544,15 +25544,15 @@
     }
   },
   {
-    "text": "Drops a Talisman Unique Item",
-    "ids": {
-      "monster": "metamorph_reward_talisman_unique"
-    }
-  },
-  {
     "text": "Drops Itemised Prophecies",
     "ids": {
       "monster": "metamorph_reward_prophecies"
+    }
+  },
+  {
+    "text": "Drops a Talisman Unique Item",
+    "ids": {
+      "monster": "metamorph_reward_talisman_unique"
     }
   },
   {

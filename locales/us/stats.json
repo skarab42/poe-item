@@ -977,6 +977,15 @@
     }
   },
   {
+    "text": "#% to Global Critical Strike Multiplier",
+    "ids": {
+      "explicit": "stat_3556824919",
+      "implicit": "stat_3556824919",
+      "fractured": "stat_3556824919",
+      "crafted": "stat_3556824919"
+    }
+  },
+  {
     "text": "# to Accuracy Rating",
     "ids": {
       "explicit": "stat_803737631",
@@ -1001,15 +1010,6 @@
       "implicit": "stat_4052037485",
       "fractured": "stat_4052037485",
       "crafted": "stat_4052037485"
-    }
-  },
-  {
-    "text": "#% to Global Critical Strike Multiplier",
-    "ids": {
-      "explicit": "stat_3556824919",
-      "implicit": "stat_3556824919",
-      "fractured": "stat_3556824919",
-      "crafted": "stat_3556824919"
     }
   },
   {
@@ -1093,6 +1093,14 @@
     }
   },
   {
+    "text": "# to Evasion Rating",
+    "ids": {
+      "explicit": "stat_2144192055",
+      "fractured": "stat_2144192055",
+      "crafted": "stat_2144192055"
+    }
+  },
+  {
     "text": "#% increased Evasion Rating (Local)",
     "ids": {
       "explicit": "stat_124859000",
@@ -1151,14 +1159,6 @@
       "implicit": "stat_691932474",
       "fractured": "stat_691932474",
       "crafted": "stat_691932474"
-    }
-  },
-  {
-    "text": "# to Evasion Rating",
-    "ids": {
-      "explicit": "stat_2144192055",
-      "fractured": "stat_2144192055",
-      "crafted": "stat_2144192055"
     }
   },
   {
@@ -1224,19 +1224,19 @@
     }
   },
   {
-    "text": "#% increased Light Radius",
-    "ids": {
-      "explicit": "stat_1263695895",
-      "implicit": "stat_1263695895",
-      "fractured": "stat_1263695895"
-    }
-  },
-  {
     "text": "#% increased Armour and Evasion (Local)",
     "ids": {
       "explicit": "stat_2451402625",
       "fractured": "stat_2451402625",
       "crafted": "stat_2451402625"
+    }
+  },
+  {
+    "text": "#% increased Light Radius",
+    "ids": {
+      "explicit": "stat_1263695895",
+      "implicit": "stat_1263695895",
+      "fractured": "stat_1263695895"
     }
   },
   {
@@ -1336,21 +1336,21 @@
     }
   },
   {
-    "text": "#% increased Damage over Time",
-    "ids": {
-      "explicit": "stat_967627487",
-      "implicit": "stat_967627487",
-      "fractured": "stat_967627487",
-      "crafted": "stat_967627487"
-    }
-  },
-  {
     "text": "#% increased Damage",
     "ids": {
       "explicit": "stat_2154246560",
       "implicit": "stat_2154246560",
       "fractured": "stat_2154246560",
       "crafted": "stat_2154246560"
+    }
+  },
+  {
+    "text": "#% increased Damage over Time",
+    "ids": {
+      "explicit": "stat_967627487",
+      "implicit": "stat_967627487",
+      "fractured": "stat_967627487",
+      "crafted": "stat_967627487"
     }
   },
   {
@@ -1387,6 +1387,12 @@
       "implicit": "stat_2866361420",
       "fractured": "stat_2866361420",
       "crafted": "stat_2866361420"
+    }
+  },
+  {
+    "text": "#% more Monster Life",
+    "ids": {
+      "explicit": "stat_2710898947"
     }
   },
   {
@@ -1478,12 +1484,6 @@
       "implicit": "stat_3441501978",
       "fractured": "stat_3441501978",
       "crafted": "stat_3441501978"
-    }
-  },
-  {
-    "text": "#% more Monster Life",
-    "ids": {
-      "explicit": "stat_2710898947"
     }
   },
   {
@@ -1599,6 +1599,15 @@
     }
   },
   {
+    "text": "# to Dexterity and Intelligence",
+    "ids": {
+      "explicit": "stat_2300185227",
+      "implicit": "stat_2300185227",
+      "fractured": "stat_2300185227",
+      "crafted": "stat_2300185227"
+    }
+  },
+  {
     "text": "# Life gained for each Enemy hit by Attacks",
     "ids": {
       "explicit": "stat_821021828",
@@ -1670,12 +1679,11 @@
     }
   },
   {
-    "text": "# to Dexterity and Intelligence",
+    "text": "#% increased Attack Speed with Swords",
     "ids": {
-      "explicit": "stat_2300185227",
-      "implicit": "stat_2300185227",
-      "fractured": "stat_2300185227",
-      "crafted": "stat_2300185227"
+      "explicit": "stat_3293699237",
+      "implicit": "stat_3293699237",
+      "fractured": "stat_3293699237"
     }
   },
   {
@@ -1688,11 +1696,9 @@
     }
   },
   {
-    "text": "#% increased Attack Speed with Swords",
+    "text": "#% increased Monster Cast Speed",
     "ids": {
-      "explicit": "stat_3293699237",
-      "implicit": "stat_3293699237",
-      "fractured": "stat_3293699237"
+      "explicit": "stat_2488361432"
     }
   },
   {
@@ -1711,9 +1717,26 @@
     }
   },
   {
+    "text": "#% chance to Avoid being Frozen",
+    "ids": {
+      "explicit": "stat_1514829491",
+      "implicit": "stat_1514829491",
+      "fractured": "stat_1514829491",
+      "crafted": "stat_1514829491"
+    }
+  },
+  {
     "text": "#% increased Monster Attack Speed",
     "ids": {
       "explicit": "stat_1913583994"
+    }
+  },
+  {
+    "text": "#% increased Bleeding Duration",
+    "ids": {
+      "explicit": "stat_1459321413",
+      "implicit": "stat_1459321413",
+      "fractured": "stat_1459321413"
     }
   },
   {
@@ -1765,12 +1788,6 @@
     "text": "#% more Magic Monsters",
     "ids": {
       "explicit": "stat_3873704640"
-    }
-  },
-  {
-    "text": "#% increased Monster Cast Speed",
-    "ids": {
-      "explicit": "stat_2488361432"
     }
   },
   {
@@ -1892,9 +1909,24 @@
     }
   },
   {
+    "text": "#% increased Dexterity",
+    "ids": {
+      "explicit": "stat_4139681126",
+      "implicit": "stat_4139681126"
+    }
+  },
+  {
     "text": "#% increased Damage when on Low Life",
     "ids": {
       "explicit": "stat_1513447578"
+    }
+  },
+  {
+    "text": "Adds # to # Lightning Damage to Bow Attacks",
+    "ids": {
+      "explicit": "stat_1040269876",
+      "implicit": "stat_1040269876",
+      "fractured": "stat_1040269876"
     }
   },
   {
@@ -1933,13 +1965,6 @@
     "ids": {
       "explicit": "stat_1199429645",
       "fractured": "stat_1199429645"
-    }
-  },
-  {
-    "text": "#% increased Dexterity",
-    "ids": {
-      "explicit": "stat_4139681126",
-      "implicit": "stat_4139681126"
     }
   },
   {
@@ -2046,6 +2071,12 @@
     }
   },
   {
+    "text": "Players have #% reduced Chance to Block",
+    "ids": {
+      "explicit": "stat_3729221884"
+    }
+  },
+  {
     "text": "Monsters have #% chance to Avoid Elemental Ailments",
     "ids": {
       "explicit": "stat_322206271"
@@ -2126,6 +2157,13 @@
     }
   },
   {
+    "text": "#% increased Damage with Axes",
+    "ids": {
+      "explicit": "stat_3314142259",
+      "fractured": "stat_3314142259"
+    }
+  },
+  {
     "text": "#% to Critical Strike Multiplier while Dual Wielding",
     "ids": {
       "explicit": "stat_2546185479",
@@ -2161,19 +2199,25 @@
     }
   },
   {
+    "text": "Adds # to # Cold Damage to Spells and Attacks",
+    "ids": {
+      "explicit": "stat_1662717006",
+      "implicit": "stat_1662717006"
+    }
+  },
+  {
+    "text": "Historic",
+    "ids": {
+      "explicit": "stat_1811341815"
+    }
+  },
+  {
     "text": "#% to Chaos Damage over Time Multiplier",
     "ids": {
       "explicit": "stat_4055307827",
       "implicit": "stat_4055307827",
       "fractured": "stat_4055307827",
       "crafted": "stat_4055307827"
-    }
-  },
-  {
-    "text": "Adds # to # Cold Damage to Spells and Attacks",
-    "ids": {
-      "explicit": "stat_1662717006",
-      "implicit": "stat_1662717006"
     }
   },
   {
@@ -2232,6 +2276,13 @@
     }
   },
   {
+    "text": "#% increased Attack Damage while holding a Shield",
+    "ids": {
+      "explicit": "stat_1393393937",
+      "fractured": "stat_1393393937"
+    }
+  },
+  {
     "text": "Monsters have #% increased Critical Strike Chance",
     "ids": {
       "explicit": "stat_2753083623"
@@ -2275,13 +2326,6 @@
     }
   },
   {
-    "text": "#% increased Damage with Axes",
-    "ids": {
-      "explicit": "stat_3314142259",
-      "fractured": "stat_3314142259"
-    }
-  },
-  {
     "text": "#% increased Recovery rate",
     "ids": {
       "explicit": "stat_173226756"
@@ -2310,15 +2354,6 @@
     "ids": {
       "explicit": "stat_3152982863",
       "fractured": "stat_3152982863"
-    }
-  },
-  {
-    "text": "#% chance to Avoid being Frozen",
-    "ids": {
-      "explicit": "stat_1514829491",
-      "implicit": "stat_1514829491",
-      "fractured": "stat_1514829491",
-      "crafted": "stat_1514829491"
     }
   },
   {
@@ -2359,20 +2394,6 @@
     }
   },
   {
-    "text": "Players have #% reduced Chance to Block",
-    "ids": {
-      "explicit": "stat_3729221884"
-    }
-  },
-  {
-    "text": "Adds # to # Lightning Damage to Bow Attacks",
-    "ids": {
-      "explicit": "stat_1040269876",
-      "implicit": "stat_1040269876",
-      "fractured": "stat_1040269876"
-    }
-  },
-  {
     "text": "#% to Critical Strike Multiplier with One Handed Melee Weapons",
     "ids": {
       "explicit": "stat_670153687",
@@ -2410,6 +2431,12 @@
     "text": "Area contains two Unique Bosses",
     "ids": {
       "explicit": "stat_799271621"
+    }
+  },
+  {
+    "text": "Monsters have a #% chance to avoid Poison, Blind, and Bleeding",
+    "ids": {
+      "explicit": "stat_2215002568"
     }
   },
   {
@@ -2558,6 +2585,12 @@
     }
   },
   {
+    "text": "#% increased Movement Speed while Ignited",
+    "ids": {
+      "explicit": "stat_581625445"
+    }
+  },
+  {
     "text": "#% increased Attack Speed with Bows",
     "ids": {
       "explicit": "stat_3759735052",
@@ -2576,14 +2609,6 @@
     "text": "Monsters reflect #% of Physical Damage",
     "ids": {
       "explicit": "stat_3464419871"
-    }
-  },
-  {
-    "text": "#% increased Bleeding Duration",
-    "ids": {
-      "explicit": "stat_1459321413",
-      "implicit": "stat_1459321413",
-      "fractured": "stat_1459321413"
     }
   },
   {
@@ -2704,6 +2729,12 @@
     }
   },
   {
+    "text": "Gain #% of Physical Damage as Extra Chaos Damage during effect",
+    "ids": {
+      "explicit": "stat_2818167778"
+    }
+  },
+  {
     "text": "#% increased Weapon Critical Strike Chance while Dual Wielding",
     "ids": {
       "explicit": "stat_3702513529",
@@ -2721,12 +2752,6 @@
     "ids": {
       "explicit": "stat_1445684883",
       "crafted": "stat_1445684883"
-    }
-  },
-  {
-    "text": "#% increased Movement Speed while Ignited",
-    "ids": {
-      "explicit": "stat_581625445"
     }
   },
   {
@@ -2748,6 +2773,13 @@
       "explicit": "stat_472520716",
       "implicit": "stat_472520716",
       "crafted": "stat_472520716"
+    }
+  },
+  {
+    "text": "#% increased Cast Speed with Cold Skills",
+    "ids": {
+      "explicit": "stat_928238845",
+      "fractured": "stat_928238845"
     }
   },
   {
@@ -2781,21 +2813,15 @@
     }
   },
   {
-    "text": "Gain #% of Physical Damage as Extra Chaos Damage during effect",
-    "ids": {
-      "explicit": "stat_2818167778"
-    }
-  },
-  {
-    "text": "Historic",
-    "ids": {
-      "explicit": "stat_1811341815"
-    }
-  },
-  {
     "text": "Players are Cursed with Vulnerability",
     "ids": {
       "explicit": "stat_1366534040"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Concentrated Effect",
+    "ids": {
+      "explicit": "stat_2388360415"
     }
   },
   {
@@ -2833,12 +2859,6 @@
     "text": "Players are Cursed with Temporal Chains",
     "ids": {
       "explicit": "stat_2326202293"
-    }
-  },
-  {
-    "text": "Socketed Gems are Supported by Level # Concentrated Effect",
-    "ids": {
-      "explicit": "stat_2388360415"
     }
   },
   {
@@ -2929,12 +2949,6 @@
     }
   },
   {
-    "text": "Monsters have a #% chance to avoid Poison, Blind, and Bleeding",
-    "ids": {
-      "explicit": "stat_2215002568"
-    }
-  },
-  {
     "text": "Socketed Gems are Supported by Level # Increased Area of Effect",
     "ids": {
       "explicit": "stat_3720936304",
@@ -3011,6 +3025,15 @@
     }
   },
   {
+    "text": "#% chance to Avoid being Shocked",
+    "ids": {
+      "explicit": "stat_1871765599",
+      "implicit": "stat_1871765599",
+      "fractured": "stat_1871765599",
+      "crafted": "stat_1871765599"
+    }
+  },
+  {
     "text": "Gain #% of Elemental Damage as Extra Chaos Damage during effect",
     "ids": {
       "explicit": "stat_3562241510"
@@ -3034,13 +3057,6 @@
       "explicit": "stat_3485067555",
       "implicit": "stat_3485067555",
       "crafted": "stat_3485067555"
-    }
-  },
-  {
-    "text": "#% increased Cast Speed with Cold Skills",
-    "ids": {
-      "explicit": "stat_928238845",
-      "fractured": "stat_928238845"
     }
   },
   {
@@ -3074,12 +3090,10 @@
     }
   },
   {
-    "text": "#% chance to Avoid being Shocked",
+    "text": "Adds # to # Fire Damage to Spells and Attacks",
     "ids": {
-      "explicit": "stat_1871765599",
-      "implicit": "stat_1871765599",
-      "fractured": "stat_1871765599",
-      "crafted": "stat_1871765599"
+      "explicit": "stat_3964634628",
+      "implicit": "stat_3964634628"
     }
   },
   {
@@ -3088,13 +3102,6 @@
       "explicit": "stat_3814560373",
       "implicit": "stat_3814560373",
       "fractured": "stat_3814560373"
-    }
-  },
-  {
-    "text": "Adds # to # Fire Damage to Spells and Attacks",
-    "ids": {
-      "explicit": "stat_3964634628",
-      "implicit": "stat_3964634628"
     }
   },
   {
@@ -3110,6 +3117,12 @@
       "explicit": "stat_2479683456",
       "implicit": "stat_2479683456",
       "fractured": "stat_2479683456"
+    }
+  },
+  {
+    "text": "Area is a large Maze",
+    "ids": {
+      "explicit": "stat_587175996"
     }
   },
   {
@@ -3136,6 +3149,13 @@
     "text": "#% chance to Maim on Hit",
     "ids": {
       "explicit": "stat_2763429652"
+    }
+  },
+  {
+    "text": "Gain #% of Non-Chaos Damage as extra Chaos Damage",
+    "ids": {
+      "explicit": "stat_2063695047",
+      "crafted": "stat_2063695047"
     }
   },
   {
@@ -3190,10 +3210,25 @@
     }
   },
   {
+    "text": "Curse Skills have #% increased Skill Effect Duration",
+    "ids": {
+      "explicit": "stat_1435748744",
+      "implicit": "stat_1435748744",
+      "crafted": "stat_1435748744"
+    }
+  },
+  {
     "text": "Damage Penetrates #% Elemental Resistances",
     "ids": {
       "explicit": "stat_2101383955",
       "implicit": "stat_2101383955"
+    }
+  },
+  {
+    "text": "#% to maximum Chance to Block Attack Damage",
+    "ids": {
+      "explicit": "stat_4124805414",
+      "implicit": "stat_4124805414"
     }
   },
   {
@@ -3223,13 +3258,6 @@
     }
   },
   {
-    "text": "#% to maximum Chance to Block Attack Damage",
-    "ids": {
-      "explicit": "stat_4124805414",
-      "implicit": "stat_4124805414"
-    }
-  },
-  {
     "text": "#% Chance to Block Attack Damage while wielding a Staff",
     "ids": {
       "explicit": "stat_1778298516",
@@ -3254,14 +3282,6 @@
     "ids": {
       "explicit": "stat_4188894176",
       "fractured": "stat_4188894176"
-    }
-  },
-  {
-    "text": "Curse Skills have #% increased Skill Effect Duration",
-    "ids": {
-      "explicit": "stat_1435748744",
-      "implicit": "stat_1435748744",
-      "crafted": "stat_1435748744"
     }
   },
   {
@@ -3356,13 +3376,6 @@
     }
   },
   {
-    "text": "Gain #% of Non-Chaos Damage as extra Chaos Damage",
-    "ids": {
-      "explicit": "stat_2063695047",
-      "crafted": "stat_2063695047"
-    }
-  },
-  {
     "text": "Instant Recovery",
     "ids": {
       "explicit": "stat_1526933524"
@@ -3424,12 +3437,6 @@
       "implicit": "stat_4262448838",
       "fractured": "stat_4262448838",
       "crafted": "stat_4262448838"
-    }
-  },
-  {
-    "text": "Area is a large Maze",
-    "ids": {
-      "explicit": "stat_587175996"
     }
   },
   {
@@ -3502,6 +3509,12 @@
     "text": "Recharges # Charge when you take a Critical Strike",
     "ids": {
       "explicit": "stat_3662336899"
+    }
+  },
+  {
+    "text": "# Life gained for each Enemy hit by your Spells",
+    "ids": {
+      "explicit": "stat_2018035324"
     }
   },
   {
@@ -3603,6 +3616,12 @@
     }
   },
   {
+    "text": "Regenerate # Life per second per Level",
+    "ids": {
+      "explicit": "stat_1384864963"
+    }
+  },
+  {
     "text": "Curses have #% reduced effect on Monsters",
     "ids": {
       "explicit": "stat_2999796964"
@@ -3654,12 +3673,6 @@
     "text": "Has no Sockets",
     "ids": {
       "explicit": "stat_1493091477"
-    }
-  },
-  {
-    "text": "Regenerate # Life per second per Level",
-    "ids": {
-      "explicit": "stat_1384864963"
     }
   },
   {
@@ -3745,6 +3758,12 @@
     }
   },
   {
+    "text": "Damage from Enemies Hitting you is Unlucky while you are on Low Life",
+    "ids": {
+      "explicit": "stat_3753748365"
+    }
+  },
+  {
     "text": "#% chance to Gain Unholy Might for 4 seconds on Melee Kill",
     "ids": {
       "explicit": "stat_3166317791",
@@ -3755,6 +3774,12 @@
     "text": "#% increased Damage taken while on Full Energy Shield",
     "ids": {
       "explicit": "stat_969865219"
+    }
+  },
+  {
+    "text": "Immune to Curses during Flask effect\nRemoves Curses on use",
+    "ids": {
+      "explicit": "stat_1670623917"
     }
   },
   {
@@ -3778,15 +3803,15 @@
     }
   },
   {
-    "text": "Immune to Curses during Flask effect\nRemoves Curses on use",
-    "ids": {
-      "explicit": "stat_1670623917"
-    }
-  },
-  {
     "text": "#% to Fire Resistance when Socketed with a Red Gem",
     "ids": {
       "explicit": "stat_3051845758"
+    }
+  },
+  {
+    "text": "#% of Fire Damage Converted to Chaos Damage",
+    "ids": {
+      "explicit": "stat_2731249891"
     }
   },
   {
@@ -3799,12 +3824,6 @@
     "text": "# to Level of all Lightning Spell Skill Gems",
     "ids": {
       "explicit": "stat_1545858329"
-    }
-  },
-  {
-    "text": "Damage from Enemies Hitting you is Unlucky while you are on Low Life",
-    "ids": {
-      "explicit": "stat_3753748365"
     }
   },
   {
@@ -3830,6 +3849,13 @@
     "text": "#% to Lightning Resistance when Socketed with a Blue Gem",
     "ids": {
       "explicit": "stat_289814996"
+    }
+  },
+  {
+    "text": "#% of Physical Damage from Hits taken as Cold Damage",
+    "ids": {
+      "explicit": "stat_1871056256",
+      "implicit": "stat_1871056256"
     }
   },
   {
@@ -4071,13 +4097,6 @@
     }
   },
   {
-    "text": "#% of Physical Damage from Hits taken as Cold Damage",
-    "ids": {
-      "explicit": "stat_1871056256",
-      "implicit": "stat_1871056256"
-    }
-  },
-  {
     "text": "Socketed Gems are Supported by Level # Chance To Bleed",
     "ids": {
       "explicit": "stat_4197676934"
@@ -4114,6 +4133,12 @@
     "text": "Area contains unbridged gaps to cross",
     "ids": {
       "explicit": "stat_860864690"
+    }
+  },
+  {
+    "text": "#% reduced Mana Cost of Minion Skills",
+    "ids": {
+      "explicit": "stat_2969128501"
     }
   },
   {
@@ -4189,6 +4214,12 @@
     }
   },
   {
+    "text": "#% increased Damage taken",
+    "ids": {
+      "explicit": "stat_3691641145"
+    }
+  },
+  {
     "text": "#% increased effect",
     "ids": {
       "explicit": "stat_553298121"
@@ -4212,12 +4243,6 @@
       "explicit": "stat_2353576063",
       "implicit": "stat_2353576063",
       "crafted": "stat_2353576063"
-    }
-  },
-  {
-    "text": "#% of Fire Damage Converted to Chaos Damage",
-    "ids": {
-      "explicit": "stat_2731249891"
     }
   },
   {
@@ -4327,6 +4352,12 @@
     }
   },
   {
+    "text": "#% increased Melee Physical Damage per 10 Dexterity",
+    "ids": {
+      "explicit": "stat_2355151849"
+    }
+  },
+  {
     "text": "Found Items have a #% chance to drop Corrupted in Area",
     "ids": {
       "explicit": "stat_728267040",
@@ -4405,6 +4436,12 @@
     }
   },
   {
+    "text": "# to Melee Weapon Range per White Socket",
+    "ids": {
+      "explicit": "stat_2076080860"
+    }
+  },
+  {
     "text": "Adds # to # Fire Damage to Claw Attacks",
     "ids": {
       "explicit": "stat_2154290807",
@@ -4412,21 +4449,9 @@
     }
   },
   {
-    "text": "# to Melee Weapon Range per White Socket",
-    "ids": {
-      "explicit": "stat_2076080860"
-    }
-  },
-  {
     "text": "#% increased Global Attack Speed per Green Socket",
     "ids": {
       "explicit": "stat_250876318"
-    }
-  },
-  {
-    "text": "#% reduced Mana Cost of Minion Skills",
-    "ids": {
-      "explicit": "stat_2969128501"
     }
   },
   {
@@ -4466,6 +4491,12 @@
     "ids": {
       "explicit": "stat_1482572705",
       "implicit": "stat_1482572705"
+    }
+  },
+  {
+    "text": "You gain an Endurance Charge on use",
+    "ids": {
+      "explicit": "stat_3986030307"
     }
   },
   {
@@ -4526,15 +4557,15 @@
     }
   },
   {
-    "text": "You gain an Endurance Charge on use",
-    "ids": {
-      "explicit": "stat_3986030307"
-    }
-  },
-  {
     "text": "# Life gained on Killing Ignited Enemies",
     "ids": {
       "explicit": "stat_893903361"
+    }
+  },
+  {
+    "text": "Consumes 1 Frenzy Charge on use",
+    "ids": {
+      "explicit": "stat_570159344"
     }
   },
   {
@@ -4621,6 +4652,13 @@
     }
   },
   {
+    "text": "Minions have #% to Chaos Resistance",
+    "ids": {
+      "explicit": "stat_3837707023",
+      "fractured": "stat_3837707023"
+    }
+  },
+  {
     "text": "#% chance to grant Onslaught to nearby Enemies on Kill",
     "ids": {
       "explicit": "stat_1924591908"
@@ -4692,6 +4730,12 @@
     }
   },
   {
+    "text": "# to Level of all Fire Spell Skill Gems",
+    "ids": {
+      "explicit": "stat_591105508"
+    }
+  },
+  {
     "text": "#% increased Attack Damage against Bleeding Enemies",
     "ids": {
       "explicit": "stat_3944782785",
@@ -4699,15 +4743,16 @@
     }
   },
   {
-    "text": "# to Level of all Fire Spell Skill Gems",
-    "ids": {
-      "explicit": "stat_591105508"
-    }
-  },
-  {
     "text": "# Mana per 4 Strength",
     "ids": {
       "explicit": "stat_507075051"
+    }
+  },
+  {
+    "text": "Adds # to # Fire Damage to Dagger Attacks",
+    "ids": {
+      "explicit": "stat_1910361436",
+      "fractured": "stat_1910361436"
     }
   },
   {
@@ -4729,13 +4774,6 @@
     "ids": {
       "explicit": "stat_429867172",
       "crafted": "stat_429867172"
-    }
-  },
-  {
-    "text": "#% increased Attack Damage while holding a Shield",
-    "ids": {
-      "explicit": "stat_1393393937",
-      "fractured": "stat_1393393937"
     }
   },
   {
@@ -4854,6 +4892,12 @@
     }
   },
   {
+    "text": "# to Level of all Cold Spell Skill Gems",
+    "ids": {
+      "explicit": "stat_2254480358"
+    }
+  },
+  {
     "text": "# Life per 4 Dexterity",
     "ids": {
       "explicit": "stat_2042405614"
@@ -4895,6 +4939,18 @@
     "ids": {
       "explicit": "stat_3376452528",
       "fractured": "stat_3376452528"
+    }
+  },
+  {
+    "text": "Trigger Level # Spirit Burst when you Use a Skill while you have a Spirit Charge",
+    "ids": {
+      "explicit": "stat_1992516007"
+    }
+  },
+  {
+    "text": "# to Level of all Chaos Spell Skill Gems",
+    "ids": {
+      "explicit": "stat_4226189338"
     }
   },
   {
@@ -4959,13 +5015,6 @@
     "ids": {
       "explicit": "stat_2671663397",
       "fractured": "stat_2671663397"
-    }
-  },
-  {
-    "text": "Adds # to # Fire Damage to Dagger Attacks",
-    "ids": {
-      "explicit": "stat_1910361436",
-      "fractured": "stat_1910361436"
     }
   },
   {
@@ -5064,12 +5113,6 @@
     }
   },
   {
-    "text": "Consumes 1 Frenzy Charge on use",
-    "ids": {
-      "explicit": "stat_570159344"
-    }
-  },
-  {
     "text": "During Flask Effect, Damage Penetrates #% Resistance of each Element for which your Uncapped Elemental Resistance is highest",
     "ids": {
       "explicit": "stat_2444301311"
@@ -5122,6 +5165,13 @@
     }
   },
   {
+    "text": "#% increased Endurance Charge Duration",
+    "ids": {
+      "explicit": "stat_1170174456",
+      "implicit": "stat_1170174456"
+    }
+  },
+  {
     "text": "#% of Cold Damage Converted to Fire Damage",
     "ids": {
       "explicit": "stat_723832351"
@@ -5152,6 +5202,12 @@
     "text": "Passives in Radius can be Allocated without being connected to your tree",
     "ids": {
       "explicit": "stat_4077035099"
+    }
+  },
+  {
+    "text": "#% increased Movement Speed while on Full Energy Shield",
+    "ids": {
+      "explicit": "stat_2825197711"
     }
   },
   {
@@ -5194,12 +5250,6 @@
     }
   },
   {
-    "text": "With at least 40 Strength in Radius, Cleave grants Fortify on Hit",
-    "ids": {
-      "explicit": "stat_1248507170"
-    }
-  },
-  {
     "text": "Adds # to # Lightning Damage to Spells while holding a Shield",
     "ids": {
       "explicit": "stat_1801889979",
@@ -5207,9 +5257,9 @@
     }
   },
   {
-    "text": "#% increased Movement Speed while on Full Energy Shield",
+    "text": "With at least 40 Strength in Radius, Cleave grants Fortify on Hit",
     "ids": {
-      "explicit": "stat_2825197711"
+      "explicit": "stat_1248507170"
     }
   },
   {
@@ -5228,13 +5278,6 @@
     "text": "Area contains no monsters",
     "ids": {
       "explicit": "stat_1626998468"
-    }
-  },
-  {
-    "text": "#% increased Endurance Charge Duration",
-    "ids": {
-      "explicit": "stat_1170174456",
-      "implicit": "stat_1170174456"
     }
   },
   {
@@ -5259,12 +5302,6 @@
     "text": "With at least 40 Intelligence in Radius, Magma Orb fires an additional Projectile",
     "ids": {
       "explicit": "stat_2542542825"
-    }
-  },
-  {
-    "text": "#% increased Damage taken",
-    "ids": {
-      "explicit": "stat_3691641145"
     }
   },
   {
@@ -5312,6 +5349,12 @@
       "explicit": "stat_3002506763",
       "implicit": "stat_3002506763",
       "fractured": "stat_3002506763"
+    }
+  },
+  {
+    "text": "Unique Boss drops # additional Rare #",
+    "ids": {
+      "explicit": "stat_2343216207"
     }
   },
   {
@@ -5364,12 +5407,6 @@
     "text": "# Energy Shield gained on Kill",
     "ids": {
       "explicit": "stat_2528955616"
-    }
-  },
-  {
-    "text": "# to Level of all Cold Spell Skill Gems",
-    "ids": {
-      "explicit": "stat_2254480358"
     }
   },
   {
@@ -5497,9 +5534,22 @@
     }
   },
   {
+    "text": "#% increased Fire Damage taken",
+    "ids": {
+      "explicit": "stat_3743301799",
+      "implicit": "stat_3743301799"
+    }
+  },
+  {
     "text": "Conduit",
     "ids": {
       "explicit": "stat_1994392904"
+    }
+  },
+  {
+    "text": "#% chance to grant a Power Charge to nearby Allies on Kill",
+    "ids": {
+      "explicit": "stat_2367680009"
     }
   },
   {
@@ -5530,6 +5580,12 @@
     "text": "#% chance to Dodge Attack Hits per Frenzy Charge",
     "ids": {
       "explicit": "stat_172894060"
+    }
+  },
+  {
+    "text": "#% increased Effect of Buffs granted by your Golems",
+    "ids": {
+      "explicit": "stat_2109043683"
     }
   },
   {
@@ -5570,6 +5626,12 @@
     }
   },
   {
+    "text": "Socketed Gems are Supported by Level # Slower Projectiles",
+    "ids": {
+      "explicit": "stat_1390285657"
+    }
+  },
+  {
     "text": "#% reduced Spark Duration",
     "ids": {
       "explicit": "stat_3420284170"
@@ -5582,21 +5644,9 @@
     }
   },
   {
-    "text": "Unique Boss drops # additional Rare #",
-    "ids": {
-      "explicit": "stat_2343216207"
-    }
-  },
-  {
     "text": "Gain an Endurance Charge when you take a Critical Strike",
     "ids": {
       "explicit": "stat_2609824731"
-    }
-  },
-  {
-    "text": "Socketed Gems are Supported by Level # Slower Projectiles",
-    "ids": {
-      "explicit": "stat_1390285657"
     }
   },
   {
@@ -5741,6 +5791,18 @@
     }
   },
   {
+    "text": "#% increased Claw Physical Damage when on Low Life",
+    "ids": {
+      "explicit": "stat_1081444608"
+    }
+  },
+  {
+    "text": "#% increased Accuracy Rating when on Low Life",
+    "ids": {
+      "explicit": "stat_347697569"
+    }
+  },
+  {
     "text": "Flasks applied to you have #% increased Effect",
     "ids": {
       "explicit": "stat_114734841",
@@ -5772,10 +5834,9 @@
     }
   },
   {
-    "text": "#% increased Fire Damage taken",
+    "text": "#% increased Rarity of Items found during Flask effect",
     "ids": {
-      "explicit": "stat_3743301799",
-      "implicit": "stat_3743301799"
+      "explicit": "stat_1740200922"
     }
   },
   {
@@ -5789,12 +5850,6 @@
     "ids": {
       "explicit": "stat_1181129483",
       "fractured": "stat_1181129483"
-    }
-  },
-  {
-    "text": "#% increased Claw Physical Damage when on Low Life",
-    "ids": {
-      "explicit": "stat_1081444608"
     }
   },
   {
@@ -5842,33 +5897,15 @@
     }
   },
   {
-    "text": "#% increased Accuracy Rating when on Low Life",
-    "ids": {
-      "explicit": "stat_347697569"
-    }
-  },
-  {
     "text": "Golems have #% increased Cooldown Recovery Speed",
     "ids": {
       "explicit": "stat_3246099900"
     }
   },
   {
-    "text": "#% increased Rarity of Items found during Flask effect",
-    "ids": {
-      "explicit": "stat_1740200922"
-    }
-  },
-  {
     "text": "Triggers Level # Death Walk when Equipped",
     "ids": {
       "explicit": "stat_651875072"
-    }
-  },
-  {
-    "text": "# Life gained for each Enemy hit by your Spells",
-    "ids": {
-      "explicit": "stat_2018035324"
     }
   },
   {
@@ -5910,13 +5947,6 @@
     }
   },
   {
-    "text": "Minions have #% to Chaos Resistance",
-    "ids": {
-      "explicit": "stat_3837707023",
-      "fractured": "stat_3837707023"
-    }
-  },
-  {
     "text": "Regenerate #% of Life per second while Frozen",
     "ids": {
       "explicit": "stat_2656696317"
@@ -5939,6 +5969,12 @@
     "text": "#% increased Damage while Ignited",
     "ids": {
       "explicit": "stat_1686122637"
+    }
+  },
+  {
+    "text": "#% increased Damage with Poison if you have at least 300 Dexterity",
+    "ids": {
+      "explicit": "stat_256730087"
     }
   },
   {
@@ -6007,15 +6043,15 @@
     }
   },
   {
-    "text": "Attacks Chain an additional time when in Main Hand",
-    "ids": {
-      "explicit": "stat_2466604008"
-    }
-  },
-  {
     "text": "# to Evasion Rating while on Full Life",
     "ids": {
       "explicit": "stat_4082111882"
+    }
+  },
+  {
+    "text": "Attacks Chain an additional time when in Main Hand",
+    "ids": {
+      "explicit": "stat_2466604008"
     }
   },
   {
@@ -6121,12 +6157,6 @@
     }
   },
   {
-    "text": "#% increased Damage with Poison if you have at least 300 Dexterity",
-    "ids": {
-      "explicit": "stat_256730087"
-    }
-  },
-  {
     "text": "Minions have #% chance to Freeze, Shock and Ignite",
     "ids": {
       "explicit": "stat_1994549323"
@@ -6142,6 +6172,12 @@
     "text": "Nearby Enemies are Blinded",
     "ids": {
       "explicit": "stat_2826979740"
+    }
+  },
+  {
+    "text": "#% increased Rarity of Items Dropped by Frozen Enemies",
+    "ids": {
+      "explicit": "stat_2138434718"
     }
   },
   {
@@ -6237,12 +6273,6 @@
     }
   },
   {
-    "text": "# to Level of all Chaos Spell Skill Gems",
-    "ids": {
-      "explicit": "stat_4226189338"
-    }
-  },
-  {
     "text": "Minions have #% chance to deal Double Damage",
     "ids": {
       "explicit": "stat_755922799"
@@ -6277,12 +6307,6 @@
     "text": "#% increased Life Recovered",
     "ids": {
       "explicit": "stat_1261982764"
-    }
-  },
-  {
-    "text": "#% chance to grant a Power Charge to nearby Allies on Kill",
-    "ids": {
-      "explicit": "stat_2367680009"
     }
   },
   {
@@ -6325,6 +6349,14 @@
     }
   },
   {
+    "text": "#% increased Attack Damage",
+    "ids": {
+      "explicit": "stat_2843214518",
+      "implicit": "stat_2843214518",
+      "fractured": "stat_2843214518"
+    }
+  },
+  {
     "text": "Regenerate #% of Life per second if you have been Hit Recently",
     "ids": {
       "explicit": "stat_2201614328"
@@ -6353,12 +6385,6 @@
     "text": "Curse Reflection",
     "ids": {
       "explicit": "stat_1731672673"
-    }
-  },
-  {
-    "text": "#% increased Effect of Buffs granted by your Golems",
-    "ids": {
-      "explicit": "stat_2109043683"
     }
   },
   {
@@ -6444,24 +6470,10 @@
     }
   },
   {
-    "text": "#% increased Rarity of Items Dropped by Frozen Enemies",
-    "ids": {
-      "explicit": "stat_2138434718"
-    }
-  },
-  {
     "text": "#% increased Global Defences",
     "ids": {
       "explicit": "stat_1389153006",
       "implicit": "stat_1389153006"
-    }
-  },
-  {
-    "text": "#% increased Attack Damage",
-    "ids": {
-      "explicit": "stat_2843214518",
-      "implicit": "stat_2843214518",
-      "fractured": "stat_2843214518"
     }
   },
   {
@@ -6597,12 +6609,6 @@
     }
   },
   {
-    "text": "#% increased Melee Physical Damage per 10 Dexterity",
-    "ids": {
-      "explicit": "stat_2355151849"
-    }
-  },
-  {
     "text": "Enemies Cannot Leech Life From you",
     "ids": {
       "explicit": "stat_4293455942",
@@ -6634,15 +6640,15 @@
     }
   },
   {
-    "text": "+#% to Global Critical Strike Multiplier per Green Socket",
-    "ids": {
-      "explicit": "stat_35810390"
-    }
-  },
-  {
     "text": "Adds # to # Chaos Damage to Spells and Attacks during any Flask Effect",
     "ids": {
       "explicit": "stat_3519268108"
+    }
+  },
+  {
+    "text": "+#% to Global Critical Strike Multiplier per Green Socket",
+    "ids": {
+      "explicit": "stat_35810390"
     }
   },
   {
@@ -6676,9 +6682,10 @@
     }
   },
   {
-    "text": "Trigger Level # Spirit Burst when you Use a Skill while you have a Spirit Charge",
+    "text": "Socketed Gems are Supported by Level # Inspiration",
     "ids": {
-      "explicit": "stat_1992516007"
+      "explicit": "stat_1866911844",
+      "implicit": "stat_1866911844"
     }
   },
   {
@@ -6686,13 +6693,6 @@
     "ids": {
       "explicit": "stat_1169502663",
       "implicit": "stat_1169502663"
-    }
-  },
-  {
-    "text": "Socketed Gems are Supported by Level # Inspiration",
-    "ids": {
-      "explicit": "stat_1866911844",
-      "implicit": "stat_1866911844"
     }
   },
   {
@@ -6942,6 +6942,12 @@
     }
   },
   {
+    "text": "# to Level of Socketed Elemental Gems",
+    "ids": {
+      "explicit": "stat_3571342795"
+    }
+  },
+  {
     "text": "#% increased Warcry Cooldown Recovery Speed",
     "ids": {
       "explicit": "stat_4159248054"
@@ -7052,9 +7058,21 @@
     }
   },
   {
+    "text": "Socketed Gems are Supported by Level # Spell Cascade",
+    "ids": {
+      "explicit": "stat_503990161"
+    }
+  },
+  {
     "text": "Bow Knockback at Close Range",
     "ids": {
       "explicit": "stat_3261557635"
+    }
+  },
+  {
+    "text": "Critical Strikes have Culling Strike",
+    "ids": {
+      "explicit": "stat_2996445420"
     }
   },
   {
@@ -7107,6 +7125,13 @@
     }
   },
   {
+    "text": "#% of Physical Damage from Hits taken as Chaos Damage",
+    "ids": {
+      "explicit": "stat_4129825612",
+      "implicit": "stat_4129825612"
+    }
+  },
+  {
     "text": "#% increased Spell Damage per 10 Intelligence",
     "ids": {
       "explicit": "stat_2818518881",
@@ -7120,16 +7145,16 @@
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Spell Cascade",
-    "ids": {
-      "explicit": "stat_503990161"
-    }
-  },
-  {
     "text": "#% reduced Shock Duration on you",
     "ids": {
       "explicit": "stat_99927264",
       "implicit": "stat_99927264"
+    }
+  },
+  {
+    "text": "Grants Summon Harbinger of the Arcane Skill",
+    "ids": {
+      "explicit": "stat_3872739249"
     }
   },
   {
@@ -7163,12 +7188,6 @@
     "ids": {
       "explicit": "stat_3882662078",
       "fractured": "stat_3882662078"
-    }
-  },
-  {
-    "text": "Critical Strikes have Culling Strike",
-    "ids": {
-      "explicit": "stat_2996445420"
     }
   },
   {
@@ -7287,6 +7306,12 @@
     }
   },
   {
+    "text": "#% of Lightning Damage Leeched as Life during Flask effect",
+    "ids": {
+      "explicit": "stat_2687254633"
+    }
+  },
+  {
     "text": "Poisons you inflict deal Damage #% faster",
     "ids": {
       "explicit": "stat_2907156609",
@@ -7306,9 +7331,9 @@
     }
   },
   {
-    "text": "Grants Summon Harbinger of the Arcane Skill",
+    "text": "#% chance to Avoid Projectiles while Phasing",
     "ids": {
-      "explicit": "stat_3872739249"
+      "explicit": "stat_3635120731"
     }
   },
   {
@@ -7343,6 +7368,12 @@
     }
   },
   {
+    "text": "Siege Ballista has # to maximum number of Summoned Totems per 200 Dexterity",
+    "ids": {
+      "explicit": "stat_2125178364"
+    }
+  },
+  {
     "text": "#% increased effect of Offerings",
     "ids": {
       "explicit": "stat_3191479793"
@@ -7367,12 +7398,6 @@
     }
   },
   {
-    "text": "#% of Lightning Damage Leeched as Life during Flask effect",
-    "ids": {
-      "explicit": "stat_2687254633"
-    }
-  },
-  {
     "text": "#% chance to Blind Enemies on Critical Strike",
     "ids": {
       "explicit": "stat_3983981705"
@@ -7391,12 +7416,6 @@
     }
   },
   {
-    "text": "Siege Ballista has # to maximum number of Summoned Totems per 200 Dexterity",
-    "ids": {
-      "explicit": "stat_2125178364"
-    }
-  },
-  {
     "text": "With at least 1000 Strength, #% of Damage dealt by your Raised Zombies is Leeched to you as Life",
     "ids": {
       "explicit": "stat_2802263253"
@@ -7406,12 +7425,6 @@
     "text": "Curses in this item are reflected back to you",
     "ids": {
       "explicit": "stat_32859524"
-    }
-  },
-  {
-    "text": "#% chance to Avoid Projectiles while Phasing",
-    "ids": {
-      "explicit": "stat_3635120731"
     }
   },
   {
@@ -7604,9 +7617,21 @@
     }
   },
   {
+    "text": "Socketed Gems are Supported by Level # Added Lightning Damage",
+    "ids": {
+      "explicit": "stat_1647529598"
+    }
+  },
+  {
     "text": "#% increased Recovery when on Low Life",
     "ids": {
       "explicit": "stat_886931978"
+    }
+  },
+  {
+    "text": "#% chance to Trigger a Socketed Spell when you Attack with this Weapon",
+    "ids": {
+      "explicit": "stat_209056835"
     }
   },
   {
@@ -7616,9 +7641,9 @@
     }
   },
   {
-    "text": "#% chance to Trigger a Socketed Spell when you Attack with this Weapon",
+    "text": "#% chance to create Chilled Ground when you Freeze an Enemy",
     "ids": {
-      "explicit": "stat_209056835"
+      "explicit": "stat_2901262227"
     }
   },
   {
@@ -7637,12 +7662,6 @@
     "text": "#% increased Fire Damage if you have used a Cold Skill Recently",
     "ids": {
       "explicit": "stat_4167600809"
-    }
-  },
-  {
-    "text": "#% chance to create Chilled Ground when you Freeze an Enemy",
-    "ids": {
-      "explicit": "stat_2901262227"
     }
   },
   {
@@ -7725,6 +7744,12 @@
     }
   },
   {
+    "text": "#% of Lightning Damage Converted to Cold Damage",
+    "ids": {
+      "explicit": "stat_2158060122"
+    }
+  },
+  {
     "text": "Stun Threshold is based on Energy Shield instead of Life",
     "ids": {
       "explicit": "stat_2562665460"
@@ -7761,6 +7786,13 @@
     }
   },
   {
+    "text": "Socketed Gems are supported by Level # Additional Accuracy",
+    "ids": {
+      "explicit": "stat_1567462963",
+      "implicit": "stat_1567462963"
+    }
+  },
+  {
     "text": "#% to Non-Ailment Chaos Damage over Time Multiplier",
     "ids": {
       "explicit": "stat_1653010703",
@@ -7776,9 +7808,9 @@
     }
   },
   {
-    "text": "With at least 40 Dexterity in Radius, Barrage fires an additional projectile simultaneously on the first and final attacks",
+    "text": "With at least 40 Intelligence in Radius, Summon Skeletons can Summon up to # Skeleton Mages",
     "ids": {
-      "explicit": "stat_630867098"
+      "explicit": "stat_3088991881"
     }
   },
   {
@@ -7788,9 +7820,9 @@
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Added Lightning Damage",
+    "text": "With at least 40 Dexterity in Radius, Barrage fires an additional projectile simultaneously on the first and final attacks",
     "ids": {
-      "explicit": "stat_1647529598"
+      "explicit": "stat_630867098"
     }
   },
   {
@@ -7809,6 +7841,12 @@
     "text": "#% increased Cooldown Recovery Speed for throwing Traps",
     "ids": {
       "explicit": "stat_3417757416"
+    }
+  },
+  {
+    "text": "#% increased Physical Weapon Damage per 10 Strength",
+    "ids": {
+      "explicit": "stat_2594215131"
     }
   },
   {
@@ -7845,6 +7883,12 @@
     }
   },
   {
+    "text": "Gain a Frenzy Charge on every 50th Rampage Kill",
+    "ids": {
+      "explicit": "stat_637690626"
+    }
+  },
+  {
     "text": "Projectiles Pierce an additional Target while you have Phasing",
     "ids": {
       "explicit": "stat_97250660"
@@ -7861,12 +7905,6 @@
     "ids": {
       "explicit": "stat_105466375",
       "implicit": "stat_105466375"
-    }
-  },
-  {
-    "text": "With at least 40 Intelligence in Radius, Summon Skeletons can Summon up to # Skeleton Mages",
-    "ids": {
-      "explicit": "stat_3088991881"
     }
   },
   {
@@ -7894,15 +7932,21 @@
     }
   },
   {
-    "text": "#% increased Physical Weapon Damage per 10 Strength",
-    "ids": {
-      "explicit": "stat_2594215131"
-    }
-  },
-  {
     "text": "# second to Summon Skeleton Cooldown",
     "ids": {
       "explicit": "stat_3013430129"
+    }
+  },
+  {
+    "text": "Life Leech effects are not removed at Full Life\nLife Leech effects Recover Energy Shield instead while on Full Life",
+    "ids": {
+      "explicit": "stat_990335387"
+    }
+  },
+  {
+    "text": "#% increased Fire Damage with Hits and Ailments against Blinded Enemies",
+    "ids": {
+      "explicit": "stat_1601181226"
     }
   },
   {
@@ -7951,12 +7995,6 @@
     "text": "# Physical Damage taken from Projectile Attacks",
     "ids": {
       "explicit": "stat_3612407781"
-    }
-  },
-  {
-    "text": "#% increased Fire Damage with Hits and Ailments against Blinded Enemies",
-    "ids": {
-      "explicit": "stat_1601181226"
     }
   },
   {
@@ -8112,12 +8150,6 @@
     }
   },
   {
-    "text": "# to Level of Socketed Elemental Gems",
-    "ids": {
-      "explicit": "stat_3571342795"
-    }
-  },
-  {
     "text": "#% of Physical Attack Damage Leeched as Life during Flask effect",
     "ids": {
       "explicit": "stat_3111255591"
@@ -8190,6 +8222,13 @@
     }
   },
   {
+    "text": "#% of Physical Damage Leeched as Life",
+    "ids": {
+      "explicit": "stat_3764265320",
+      "implicit": "stat_3764265320"
+    }
+  },
+  {
     "text": "Deal no Elemental Damage",
     "ids": {
       "explicit": "stat_2998305364"
@@ -8205,12 +8244,6 @@
     "text": "# maximum Energy Shield per 5 Strength",
     "ids": {
       "explicit": "stat_3788706881"
-    }
-  },
-  {
-    "text": "#% of Lightning Damage Converted to Cold Damage",
-    "ids": {
-      "explicit": "stat_2158060122"
     }
   },
   {
@@ -8331,6 +8364,12 @@
     "text": "#% reduced Spell Damage taken from Blinded Enemies",
     "ids": {
       "explicit": "stat_1165847826"
+    }
+  },
+  {
+    "text": "Critical Strikes do not inherently Freeze",
+    "ids": {
+      "explicit": "stat_3979476531"
     }
   },
   {
@@ -8560,6 +8599,12 @@
     }
   },
   {
+    "text": "You lose all Endurance Charges on reaching maximum Endurance Charges",
+    "ids": {
+      "explicit": "stat_3590104875"
+    }
+  },
+  {
     "text": "Grants Level # Blight Skill",
     "ids": {
       "explicit": "stat_1198418726"
@@ -8583,12 +8628,6 @@
     "text": "All Attack Damage Chills when you Stun",
     "ids": {
       "explicit": "stat_2437193018"
-    }
-  },
-  {
-    "text": "You lose all Endurance Charges on reaching maximum Endurance Charges",
-    "ids": {
-      "explicit": "stat_3590104875"
     }
   },
   {
@@ -8674,10 +8713,9 @@
     }
   },
   {
-    "text": "#% of Physical Damage from Hits taken as Chaos Damage",
+    "text": "Shocks you cause are reflected back to you",
     "ids": {
-      "explicit": "stat_4129825612",
-      "implicit": "stat_4129825612"
+      "explicit": "stat_807955413"
     }
   },
   {
@@ -8705,15 +8743,15 @@
     }
   },
   {
-    "text": "Totems fire # additional Projectile",
-    "ids": {
-      "explicit": "stat_736847554"
-    }
-  },
-  {
     "text": "Lose all Power Charges on reaching Maximum Power Charges",
     "ids": {
       "explicit": "stat_2135899247"
+    }
+  },
+  {
+    "text": "Totems fire # additional Projectile",
+    "ids": {
+      "explicit": "stat_736847554"
     }
   },
   {
@@ -8761,21 +8799,9 @@
     }
   },
   {
-    "text": "Critical Strikes do not inherently Freeze",
-    "ids": {
-      "explicit": "stat_3979476531"
-    }
-  },
-  {
     "text": "#% increased Movement Speed while Shocked",
     "ids": {
       "explicit": "stat_542923416"
-    }
-  },
-  {
-    "text": "Shocks you cause are reflected back to you",
-    "ids": {
-      "explicit": "stat_807955413"
     }
   },
   {
@@ -8888,13 +8914,6 @@
     }
   },
   {
-    "text": "Socketed Gems are supported by Level # Additional Accuracy",
-    "ids": {
-      "explicit": "stat_1567462963",
-      "implicit": "stat_1567462963"
-    }
-  },
-  {
     "text": "Mortal Conviction",
     "ids": {
       "explicit": "stat_1585280892"
@@ -8928,6 +8947,12 @@
     "text": "Cannot Knock Enemies Back",
     "ids": {
       "explicit": "stat_2095084973"
+    }
+  },
+  {
+    "text": "# to Level of Socketed Golem Gems",
+    "ids": {
+      "explicit": "stat_3448743676"
     }
   },
   {
@@ -9006,15 +9031,15 @@
     }
   },
   {
-    "text": "Cannot Block",
-    "ids": {
-      "explicit": "stat_4127720801"
-    }
-  },
-  {
     "text": "#% increased Chaos Damage per Level",
     "ids": {
       "explicit": "stat_4084331136"
+    }
+  },
+  {
+    "text": "Cannot Block",
+    "ids": {
+      "explicit": "stat_4127720801"
     }
   },
   {
@@ -9072,6 +9097,12 @@
     "text": "Socketed Gems are Supported by Level # Pierce",
     "ids": {
       "explicit": "stat_254728692"
+    }
+  },
+  {
+    "text": "#% of Elemental Damage from Hits taken as Chaos Damage",
+    "ids": {
+      "explicit": "stat_1175213674"
     }
   },
   {
@@ -9198,12 +9229,6 @@
     }
   },
   {
-    "text": "# to Level of Socketed Golem Gems",
-    "ids": {
-      "explicit": "stat_3448743676"
-    }
-  },
-  {
     "text": "Increases and Reductions to Spell Damage also apply to Attacks",
     "ids": {
       "explicit": "stat_3811649872"
@@ -9219,12 +9244,6 @@
     "text": "Recover #% of Life at the end of the Flask Effect",
     "ids": {
       "explicit": "stat_4078194486"
-    }
-  },
-  {
-    "text": "#% of Elemental Damage from Hits taken as Chaos Damage",
-    "ids": {
-      "explicit": "stat_1175213674"
     }
   },
   {
@@ -9246,22 +9265,9 @@
     }
   },
   {
-    "text": "Gain a Frenzy Charge on every 50th Rampage Kill",
-    "ids": {
-      "explicit": "stat_637690626"
-    }
-  },
-  {
     "text": "#% increased Attack Speed per 25 Dexterity",
     "ids": {
       "explicit": "stat_2241560081"
-    }
-  },
-  {
-    "text": "#% of Physical Damage Leeched as Life",
-    "ids": {
-      "explicit": "stat_3764265320",
-      "implicit": "stat_3764265320"
     }
   },
   {
@@ -9289,6 +9295,12 @@
     }
   },
   {
+    "text": "#% chance to Avoid being Frozen during Flask effect",
+    "ids": {
+      "explicit": "stat_2872815301"
+    }
+  },
+  {
     "text": "#% Chance for Traps to Trigger an additional time",
     "ids": {
       "explicit": "stat_1087710344"
@@ -9301,9 +9313,21 @@
     }
   },
   {
+    "text": "# Strength per 1 Strength on Allocated Passives in Radius",
+    "ids": {
+      "explicit": "stat_552705983"
+    }
+  },
+  {
     "text": "Summon an additional Skeleton Warrior with Summon Skeleton",
     "ids": {
       "explicit": "stat_1589090910"
+    }
+  },
+  {
+    "text": "Lightning Damage from Enemies Hitting you is Lucky",
+    "ids": {
+      "explicit": "stat_4224965099"
     }
   },
   {
@@ -9350,12 +9374,6 @@
     }
   },
   {
-    "text": "Lightning Damage from Enemies Hitting you is Lucky",
-    "ids": {
-      "explicit": "stat_4224965099"
-    }
-  },
-  {
     "text": "Adds # to # Lightning Damage to Hits against Ignited Enemies",
     "ids": {
       "explicit": "stat_2870108850"
@@ -9384,12 +9402,6 @@
     "ids": {
       "explicit": "stat_710372469",
       "implicit": "stat_710372469"
-    }
-  },
-  {
-    "text": "#% chance to Avoid being Frozen during Flask effect",
-    "ids": {
-      "explicit": "stat_2872815301"
     }
   },
   {
@@ -9473,6 +9485,12 @@
     }
   },
   {
+    "text": "Dexterity and Intelligence from passives in Radius count towards Strength Melee Damage bonus",
+    "ids": {
+      "explicit": "stat_842363566"
+    }
+  },
+  {
     "text": "Area is inhabited by Sea Witches and their Spawn",
     "ids": {
       "explicit": "stat_25085466"
@@ -9488,6 +9506,12 @@
     "text": "Grants Level # Death Aura Skill",
     "ids": {
       "explicit": "stat_825352061"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Increased Duration",
+    "ids": {
+      "explicit": "stat_407317553"
     }
   },
   {
@@ -9515,9 +9539,21 @@
     }
   },
   {
+    "text": "Increases and Reductions to Minion Damage also affect you",
+    "ids": {
+      "explicit": "stat_1631928082"
+    }
+  },
+  {
     "text": "#% reduced Mana Cost of Raise Spectre",
     "ids": {
       "explicit": "stat_262301496"
+    }
+  },
+  {
+    "text": "#% increased Area of Effect for Attacks",
+    "ids": {
+      "explicit": "stat_1840985759"
     }
   },
   {
@@ -9566,6 +9602,12 @@
     "text": "Golems have #% increased Maximum Life",
     "ids": {
       "explicit": "stat_1750735210"
+    }
+  },
+  {
+    "text": "#% of Spell Damage Leeched as Energy Shield during Flask effect",
+    "ids": {
+      "explicit": "stat_1456464057"
     }
   },
   {
@@ -9636,12 +9678,6 @@
     }
   },
   {
-    "text": "Increases and Reductions to Minion Damage also affect you",
-    "ids": {
-      "explicit": "stat_1631928082"
-    }
-  },
-  {
     "text": "Gain #% of Physical Damage as Extra Cold Damage during effect",
     "ids": {
       "explicit": "stat_2661163721"
@@ -9700,12 +9736,6 @@
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Increased Duration",
-    "ids": {
-      "explicit": "stat_407317553"
-    }
-  },
-  {
     "text": "#% chance to Curse Enemies with Socketed Curse Gem on Hit",
     "ids": {
       "explicit": "stat_1352418057"
@@ -9760,12 +9790,6 @@
     }
   },
   {
-    "text": "#% of Spell Damage Leeched as Energy Shield during Flask effect",
-    "ids": {
-      "explicit": "stat_1456464057"
-    }
-  },
-  {
     "text": "Area is inhabited by the Vaal",
     "ids": {
       "explicit": "stat_2609768284"
@@ -9775,12 +9799,6 @@
     "text": "Celestial Footprints",
     "ids": {
       "explicit": "stat_50381303"
-    }
-  },
-  {
-    "text": "# Strength per 1 Strength on Allocated Passives in Radius",
-    "ids": {
-      "explicit": "stat_552705983"
     }
   },
   {
@@ -9802,6 +9820,12 @@
     }
   },
   {
+    "text": "Grants Level # Scorching Ray Skill",
+    "ids": {
+      "explicit": "stat_1540840"
+    }
+  },
+  {
     "text": "Socketed Gems are Supported by Level # Less Duration",
     "ids": {
       "explicit": "stat_2487643588"
@@ -9811,12 +9835,6 @@
     "text": "Adds # to # Lightning Damage to Spells per Power Charge",
     "ids": {
       "explicit": "stat_4085417083"
-    }
-  },
-  {
-    "text": "Area has # waves of monsters",
-    "ids": {
-      "explicit": "stat_4182502594"
     }
   },
   {
@@ -9863,21 +9881,15 @@
     }
   },
   {
-    "text": "Grants Level # Scorching Ray Skill",
-    "ids": {
-      "explicit": "stat_1540840"
-    }
-  },
-  {
-    "text": "Life Leech effects are not removed at Full Life\nLife Leech effects Recover Energy Shield instead while on Full Life",
-    "ids": {
-      "explicit": "stat_990335387"
-    }
-  },
-  {
     "text": "Your Minions spread Caustic Ground on Death, dealing #% of their maximum Life as Chaos Damage per second",
     "ids": {
       "explicit": "stat_688802590"
+    }
+  },
+  {
+    "text": "Creates a Smoke Cloud on Rampage",
+    "ids": {
+      "explicit": "stat_3321583955"
     }
   },
   {
@@ -9941,6 +9953,12 @@
     }
   },
   {
+    "text": "Area has # waves of monsters",
+    "ids": {
+      "explicit": "stat_4182502594"
+    }
+  },
+  {
     "text": "You lose all Endurance Charges when Hit",
     "ids": {
       "explicit": "stat_2994477068"
@@ -9991,15 +10009,15 @@
     }
   },
   {
-    "text": "# Fire Damage taken per second per Endurance Charge if you've been Hit Recently",
-    "ids": {
-      "explicit": "stat_1920234902"
-    }
-  },
-  {
     "text": "You gain Onslaught for # seconds on Kill",
     "ids": {
       "explicit": "stat_1195849808"
+    }
+  },
+  {
+    "text": "# Fire Damage taken per second per Endurance Charge if you've been Hit Recently",
+    "ids": {
+      "explicit": "stat_1920234902"
     }
   },
   {
@@ -10111,9 +10129,27 @@
     }
   },
   {
+    "text": "# Mana gained on Killing a Frozen Enemy",
+    "ids": {
+      "explicit": "stat_3304801725"
+    }
+  },
+  {
+    "text": "#% increased Elemental Damage per Grand Spectrum",
+    "ids": {
+      "explicit": "stat_3163738488"
+    }
+  },
+  {
     "text": "Grants Malachai's Endurance, Frenzy and Power for 6 seconds each, in sequence",
     "ids": {
       "explicit": "stat_2918150296"
+    }
+  },
+  {
+    "text": "Adds # to # Lightning Damage for each Shocked Enemy you've Killed Recently",
+    "ids": {
+      "explicit": "stat_4222857095"
     }
   },
   {
@@ -10216,12 +10252,6 @@
     }
   },
   {
-    "text": "# Mana gained on Killing a Frozen Enemy",
-    "ids": {
-      "explicit": "stat_3304801725"
-    }
-  },
-  {
     "text": "#% increased Maximum Life if no Equipped Items are Corrupted",
     "ids": {
       "explicit": "stat_2217962305"
@@ -10237,12 +10267,6 @@
     "text": "Gain #% of Physical Attack Damage as Extra Lightning Damage",
     "ids": {
       "explicit": "stat_1096897481"
-    }
-  },
-  {
-    "text": "#% increased Area of Effect for Attacks",
-    "ids": {
-      "explicit": "stat_1840985759"
     }
   },
   {
@@ -10343,9 +10367,9 @@
     }
   },
   {
-    "text": "Adds # to # Lightning Damage for each Shocked Enemy you've Killed Recently",
+    "text": "#% chance to Trigger Level 18 Animate Guardian's Weapon when Animated Weapon Kills an Enemy",
     "ids": {
-      "explicit": "stat_4222857095"
+      "explicit": "stat_919960234"
     }
   },
   {
@@ -10388,12 +10412,6 @@
     "text": "#% chance to avoid Projectiles",
     "ids": {
       "explicit": "stat_3452269808"
-    }
-  },
-  {
-    "text": "#% chance to Trigger Level 18 Animate Guardian's Weapon when Animated Weapon Kills an Enemy",
-    "ids": {
-      "explicit": "stat_919960234"
     }
   },
   {
@@ -10448,6 +10466,19 @@
     "text": "Nearby Allies' Damage with Hits is Lucky",
     "ids": {
       "explicit": "stat_655871604"
+    }
+  },
+  {
+    "text": "#% to Lightning Resistance while affected by Herald of Thunder",
+    "ids": {
+      "explicit": "stat_2687017988"
+    }
+  },
+  {
+    "text": "#% increased Attack Speed during any Flask Effect",
+    "ids": {
+      "explicit": "stat_1365052901",
+      "implicit": "stat_1365052901"
     }
   },
   {
@@ -10567,6 +10598,12 @@
     }
   },
   {
+    "text": "Skills fire an additional Projectile if you've been Hit Recently",
+    "ids": {
+      "explicit": "stat_988207959"
+    }
+  },
+  {
     "text": "#% chance to create a Smoke Cloud when Hit",
     "ids": {
       "explicit": "stat_953314356"
@@ -10597,12 +10634,6 @@
     }
   },
   {
-    "text": "Skills fire an additional Projectile if you've been Hit Recently",
-    "ids": {
-      "explicit": "stat_988207959"
-    }
-  },
-  {
     "text": "Spectres have #% increased maximum Life",
     "ids": {
       "explicit": "stat_3035514623"
@@ -10627,15 +10658,15 @@
     }
   },
   {
-    "text": "Recover #% of Life when you Ignite an Enemy",
-    "ids": {
-      "explicit": "stat_3112776239"
-    }
-  },
-  {
     "text": "Strength's Damage Bonus instead grants 3% increased Melee\nPhysical Damage per 10 Strength",
     "ids": {
       "explicit": "stat_1531241759"
+    }
+  },
+  {
+    "text": "Recover #% of Life when you Ignite an Enemy",
+    "ids": {
+      "explicit": "stat_3112776239"
     }
   },
   {
@@ -10682,12 +10713,6 @@
     }
   },
   {
-    "text": "Creates a Smoke Cloud on Rampage",
-    "ids": {
-      "explicit": "stat_3321583955"
-    }
-  },
-  {
     "text": "#% increased Flask Charges gained during any Flask Effect",
     "ids": {
       "explicit": "stat_662803072"
@@ -10724,16 +10749,15 @@
     }
   },
   {
-    "text": "+# to Maximum Life per Red Socket",
+    "text": "#% increased Evasion Rating if you have been Hit Recently",
     "ids": {
-      "explicit": "stat_4210076836"
+      "explicit": "stat_1073310669"
     }
   },
   {
-    "text": "#% increased Attack Speed during any Flask Effect",
+    "text": "+# to Maximum Life per Red Socket",
     "ids": {
-      "explicit": "stat_1365052901",
-      "implicit": "stat_1365052901"
+      "explicit": "stat_4210076836"
     }
   },
   {
@@ -10858,9 +10882,10 @@
     }
   },
   {
-    "text": "#% increased Evasion Rating if you have been Hit Recently",
+    "text": "Herald of Ice has #% reduced Mana Reservation",
     "ids": {
-      "explicit": "stat_1073310669"
+      "explicit": "stat_3537762266",
+      "enchant": "stat_3537762266"
     }
   },
   {
@@ -10961,13 +10986,6 @@
     }
   },
   {
-    "text": "Herald of Ice has #% reduced Mana Reservation",
-    "ids": {
-      "explicit": "stat_3537762266",
-      "enchant": "stat_3537762266"
-    }
-  },
-  {
     "text": "# to Evasion Rating per 5 Maximum Energy Shield on Equipped Shield",
     "ids": {
       "explicit": "stat_1115914670"
@@ -11061,6 +11079,12 @@
     }
   },
   {
+    "text": "Gain an Endurance, Frenzy or Power charge when you Block",
+    "ids": {
+      "explicit": "stat_2199099676"
+    }
+  },
+  {
     "text": "Avatar of Fire",
     "ids": {
       "explicit": "stat_346029096"
@@ -11136,9 +11160,28 @@
     }
   },
   {
+    "text": "#% increased Damage on Burning Ground",
+    "ids": {
+      "explicit": "stat_3098087057"
+    }
+  },
+  {
+    "text": "Herald of Ash has #% reduced Mana Reservation",
+    "ids": {
+      "explicit": "stat_2328234364",
+      "enchant": "stat_2328234364"
+    }
+  },
+  {
     "text": "With at least 40 Dexterity in Radius, Burning Arrow has a #% chance to spread Tar if it does not Ignite an Enemy",
     "ids": {
       "explicit": "stat_968694760"
+    }
+  },
+  {
+    "text": "Sentinels of Purity deal #% increased Damage",
+    "ids": {
+      "explicit": "stat_650630047"
     }
   },
   {
@@ -11151,12 +11194,6 @@
     "text": "#% increased Movement Speed on Shocked Ground",
     "ids": {
       "explicit": "stat_3678841229"
-    }
-  },
-  {
-    "text": "#% increased Elemental Damage per Grand Spectrum",
-    "ids": {
-      "explicit": "stat_3163738488"
     }
   },
   {
@@ -11202,15 +11239,16 @@
     }
   },
   {
-    "text": "#% increased Minion Damage per Raised Spectre",
+    "text": "# to Level of Socketed Warcry Gems",
     "ids": {
-      "explicit": "stat_3191537057"
+      "explicit": "stat_1672793731",
+      "implicit": "stat_1672793731"
     }
   },
   {
-    "text": "You are Chilled while you are Bleeding",
+    "text": "#% increased Minion Damage per Raised Spectre",
     "ids": {
-      "explicit": "stat_67132951"
+      "explicit": "stat_3191537057"
     }
   },
   {
@@ -11220,15 +11258,15 @@
     }
   },
   {
-    "text": "Your Skills deal you #% of Mana Spent on Skill Mana Costs as Physical Damage",
-    "ids": {
-      "explicit": "stat_99487834"
-    }
-  },
-  {
     "text": "Inflict non-Damaging Ailments as though dealing #% more Damage",
     "ids": {
       "explicit": "stat_1345113611"
+    }
+  },
+  {
+    "text": "Your Skills deal you #% of Mana Spent on Skill Mana Costs as Physical Damage",
+    "ids": {
+      "explicit": "stat_99487834"
     }
   },
   {
@@ -11274,15 +11312,15 @@
     }
   },
   {
-    "text": "Monsters gain # Endurance Charge every 20 seconds",
-    "ids": {
-      "explicit": "stat_622678123"
-    }
-  },
-  {
     "text": "Carved to glorify # new faithful converted by High Templar Dominus",
     "ids": {
       "explicit": "pseudo_timeless_jewel_dominus"
+    }
+  },
+  {
+    "text": "Monsters gain # Endurance Charge every 20 seconds",
+    "ids": {
+      "explicit": "stat_622678123"
     }
   },
   {
@@ -11339,12 +11377,6 @@
     "text": "Take # Fire Damage when you Ignite an Enemy",
     "ids": {
       "explicit": "stat_2518598473"
-    }
-  },
-  {
-    "text": "Gain an Endurance, Frenzy or Power charge when you Block",
-    "ids": {
-      "explicit": "stat_2199099676"
     }
   },
   {
@@ -11439,15 +11471,21 @@
     }
   },
   {
-    "text": "#% increased Damage on Burning Ground",
+    "text": "You cannot have non-Golem Minions",
     "ids": {
-      "explicit": "stat_3098087057"
+      "explicit": "stat_1826605755"
     }
   },
   {
     "text": "Skills fire an additional Projectile if you've used a Movement Skill Recently",
     "ids": {
       "explicit": "stat_2809802678"
+    }
+  },
+  {
+    "text": "Golems Deal #% less Damage",
+    "ids": {
+      "explicit": "stat_2861397339"
     }
   },
   {
@@ -11475,15 +11513,15 @@
     }
   },
   {
-    "text": "Socketed Movement Skills have no Mana Cost",
-    "ids": {
-      "explicit": "stat_3263216405"
-    }
-  },
-  {
     "text": "#% of Attack Damage Leeched as Life per Frenzy Charge",
     "ids": {
       "explicit": "stat_3243062554"
+    }
+  },
+  {
+    "text": "Socketed Movement Skills have no Mana Cost",
+    "ids": {
+      "explicit": "stat_3263216405"
     }
   },
   {
@@ -11536,12 +11574,6 @@
     }
   },
   {
-    "text": "Golems Deal #% less Damage",
-    "ids": {
-      "explicit": "stat_2861397339"
-    }
-  },
-  {
     "text": "#% increased Effect of non-Keystone Passive Skills in Radius",
     "ids": {
       "explicit": "stat_607548408"
@@ -11571,6 +11603,12 @@
     "text": "#% reduced Golem Size",
     "ids": {
       "explicit": "stat_2576412389"
+    }
+  },
+  {
+    "text": "# Armour while you do not have Avatar of Fire",
+    "ids": {
+      "explicit": "stat_4078952782"
     }
   },
   {
@@ -11644,12 +11682,6 @@
     }
   },
   {
-    "text": "You cannot have non-Golem Minions",
-    "ids": {
-      "explicit": "stat_1826605755"
-    }
-  },
-  {
     "text": "# Maximum Void Charges",
     "ids": {
       "explicit": "stat_1209237645"
@@ -11693,15 +11725,15 @@
     }
   },
   {
-    "text": "Take no Extra Damage from Critical Strikes",
-    "ids": {
-      "explicit": "stat_4294267596"
-    }
-  },
-  {
     "text": "#% of Lightning Damage Leeched as Mana during Flask effect",
     "ids": {
       "explicit": "stat_1454377049"
+    }
+  },
+  {
+    "text": "Take no Extra Damage from Critical Strikes",
+    "ids": {
+      "explicit": "stat_4294267596"
     }
   },
   {
@@ -11726,12 +11758,6 @@
     "text": "#% of Physical Damage Converted to Fire while you have Avatar of Fire",
     "ids": {
       "explicit": "stat_2052379536"
-    }
-  },
-  {
-    "text": "# Armour while you do not have Avatar of Fire",
-    "ids": {
-      "explicit": "stat_4078952782"
     }
   },
   {
@@ -11813,13 +11839,6 @@
     "text": "#% increased Area of Effect for Skills used by Totems",
     "ids": {
       "explicit": "stat_869436347"
-    }
-  },
-  {
-    "text": "# to Level of Socketed Warcry Gems",
-    "ids": {
-      "explicit": "stat_1672793731",
-      "implicit": "stat_1672793731"
     }
   },
   {
@@ -11922,15 +11941,39 @@
     }
   },
   {
+    "text": "You have Tailwind if you have dealt a Critical Strike Recently",
+    "ids": {
+      "explicit": "stat_1085545682"
+    }
+  },
+  {
+    "text": "Hits with this Weapon have Culling Strike against Bleeding Enemies",
+    "ids": {
+      "explicit": "stat_2558253923"
+    }
+  },
+  {
     "text": "Your Physical Damage can Chill",
     "ids": {
       "explicit": "stat_2227042420"
     }
   },
   {
+    "text": "You have Chilling Conflux for 3 seconds every 8 seconds",
+    "ids": {
+      "explicit": "stat_1190121450"
+    }
+  },
+  {
     "text": "Trigger Level # Bone Offering, Flesh Offering or Spirit Offering every 5 seconds\nOffering Skills Triggered this way also affect you",
     "ids": {
       "explicit": "stat_1663239249"
+    }
+  },
+  {
+    "text": "Frostbite has #% reduced Mana Reservation",
+    "ids": {
+      "explicit": "stat_4272260340"
     }
   },
   {
@@ -12033,6 +12076,12 @@
     }
   },
   {
+    "text": "Grants Level 20 Summon Bestial # Skill",
+    "ids": {
+      "explicit": "stat_2878779644"
+    }
+  },
+  {
     "text": "Recover #% of your maximum Mana when you Block",
     "ids": {
       "explicit": "stat_3041288981",
@@ -12049,12 +12098,6 @@
     "text": "Arrows that Pierce have #% to Critical Strike Multiplier",
     "ids": {
       "explicit": "stat_1064778484"
-    }
-  },
-  {
-    "text": "Grants Level 20 Summon Bestial # Skill",
-    "ids": {
-      "explicit": "stat_2878779644"
     }
   },
   {
@@ -12087,12 +12130,6 @@
     "text": "Socketed Attacks have #% to Critical Strike Multiplier",
     "ids": {
       "explicit": "stat_356456977"
-    }
-  },
-  {
-    "text": "Hits with this Weapon have Culling Strike against Bleeding Enemies",
-    "ids": {
-      "explicit": "stat_2558253923"
     }
   },
   {
@@ -12163,6 +12200,13 @@
     }
   },
   {
+    "text": "Remove Shock when you use a Flask",
+    "ids": {
+      "explicit": "stat_561861132",
+      "implicit": "stat_561861132"
+    }
+  },
+  {
     "text": "Armour is increased by Uncapped Fire Resistance",
     "ids": {
       "explicit": "stat_713266390"
@@ -12203,12 +12247,6 @@
     "text": "Summoned Golems are Aggressive",
     "ids": {
       "explicit": "stat_3630426972"
-    }
-  },
-  {
-    "text": "Frostbite has #% reduced Mana Reservation",
-    "ids": {
-      "explicit": "stat_4272260340"
     }
   },
   {
@@ -12328,6 +12366,12 @@
     }
   },
   {
+    "text": "Notable Passive Skills in Radius are Transformed to\ninstead grant: Minions have #% increased Movement Speed",
+    "ids": {
+      "explicit": "stat_3362879252"
+    }
+  },
+  {
     "text": "Minions gain #% of Physical Damage as Extra Cold Damage",
     "ids": {
       "explicit": "stat_1236638414"
@@ -12355,13 +12399,6 @@
     "text": "#% chance to gain a Power Charge if you Knock an Enemy Back with Melee Damage",
     "ids": {
       "explicit": "stat_2179619644"
-    }
-  },
-  {
-    "text": "Herald of Ash has #% reduced Mana Reservation",
-    "ids": {
-      "explicit": "stat_2328234364",
-      "enchant": "stat_2328234364"
     }
   },
   {
@@ -12416,16 +12453,16 @@
     }
   },
   {
-    "text": "Melee Attacks have #% chance to cause Bleeding",
-    "ids": {
-      "explicit": "stat_1285056331"
-    }
-  },
-  {
     "text": "Grants Level # Haste Skill",
     "ids": {
       "explicit": "stat_1188846263",
       "implicit": "stat_1188846263"
+    }
+  },
+  {
+    "text": "Melee Attacks have #% chance to cause Bleeding",
+    "ids": {
+      "explicit": "stat_1285056331"
     }
   },
   {
@@ -12501,6 +12538,12 @@
     }
   },
   {
+    "text": "You lose all Spirit Charges when taking a Savage Hit",
+    "ids": {
+      "explicit": "stat_2663792764"
+    }
+  },
+  {
     "text": "#% reduced Elemental Damage taken from Hits per Endurance Charge",
     "ids": {
       "explicit": "stat_1686913105"
@@ -12516,6 +12559,12 @@
     "text": "#% increased Mana Regeneration Rate during any Flask Effect",
     "ids": {
       "explicit": "stat_2993091567"
+    }
+  },
+  {
+    "text": "Take # Physical Damage per Second per Siphoning Charge if you've used a Skill Recently",
+    "ids": {
+      "explicit": "stat_2440172920"
     }
   },
   {
@@ -12563,12 +12612,6 @@
     }
   },
   {
-    "text": "Dexterity and Intelligence from passives in Radius count towards Strength Melee Damage bonus",
-    "ids": {
-      "explicit": "stat_842363566"
-    }
-  },
-  {
     "text": "Projectile Attack Skills have #% increased Critical Strike Chance",
     "ids": {
       "explicit": "stat_4095169720"
@@ -12605,15 +12648,15 @@
     }
   },
   {
-    "text": "Throw an additional Mine",
-    "ids": {
-      "explicit": "stat_2395088636"
-    }
-  },
-  {
     "text": "# Maximum Life per Level",
     "ids": {
       "explicit": "stat_1982144275"
+    }
+  },
+  {
+    "text": "Throw an additional Mine",
+    "ids": {
+      "explicit": "stat_2395088636"
     }
   },
   {
@@ -12659,15 +12702,15 @@
     }
   },
   {
-    "text": "# to Maximum Siphoning Charges per Elder or Shaper Item Equipped",
-    "ids": {
-      "explicit": "stat_1872128565"
-    }
-  },
-  {
     "text": "Every 16 seconds you gain Elemental Overload for 8 seconds",
     "ids": {
       "explicit": "stat_708913352"
+    }
+  },
+  {
+    "text": "# to Maximum Siphoning Charges per Elder or Shaper Item Equipped",
+    "ids": {
+      "explicit": "stat_1872128565"
     }
   },
   {
@@ -12680,12 +12723,6 @@
     "text": "Recover #% of Energy Shield when you lose a Spirit Charge",
     "ids": {
       "explicit": "stat_1996775727"
-    }
-  },
-  {
-    "text": "You lose all Spirit Charges when taking a Savage Hit",
-    "ids": {
-      "explicit": "stat_2663792764"
     }
   },
   {
@@ -12714,15 +12751,15 @@
     }
   },
   {
-    "text": "# Maximum Energy Shield per Level",
-    "ids": {
-      "explicit": "stat_3864993324"
-    }
-  },
-  {
     "text": "Herald of Purity has #% increased Buff Effect",
     "ids": {
       "explicit": "stat_2126027382"
+    }
+  },
+  {
+    "text": "# Maximum Energy Shield per Level",
+    "ids": {
+      "explicit": "stat_3864993324"
     }
   },
   {
@@ -12744,16 +12781,16 @@
     }
   },
   {
+    "text": "+#% Monster Lightning Resistance",
+    "ids": {
+      "explicit": "stat_162742068"
+    }
+  },
+  {
     "text": "Grants Level # Determination Skill",
     "ids": {
       "explicit": "stat_4265392510",
       "implicit": "stat_4265392510"
-    }
-  },
-  {
-    "text": "+#% Monster Lightning Resistance",
-    "ids": {
-      "explicit": "stat_162742068"
     }
   },
   {
@@ -12850,15 +12887,15 @@
     }
   },
   {
-    "text": "Players are Cursed with Conductivity",
+    "text": "#% less Animate Weapon Duration",
     "ids": {
-      "explicit": "stat_376158712"
+      "explicit": "stat_414991155"
     }
   },
   {
-    "text": "#% increased Physical Damage while you have Resolute Technique",
+    "text": "Players are Cursed with Conductivity",
     "ids": {
-      "explicit": "stat_1258679667"
+      "explicit": "stat_376158712"
     }
   },
   {
@@ -12866,6 +12903,12 @@
     "ids": {
       "explicit": "stat_1745952865",
       "implicit": "stat_1745952865"
+    }
+  },
+  {
+    "text": "#% increased Physical Damage while you have Resolute Technique",
+    "ids": {
+      "explicit": "stat_1258679667"
     }
   },
   {
@@ -12928,6 +12971,12 @@
     "text": "Despair has #% reduced Mana Reservation",
     "ids": {
       "explicit": "stat_2562564343"
+    }
+  },
+  {
+    "text": "You have Onslaught while not on Low Mana",
+    "ids": {
+      "explicit": "stat_1959256242"
     }
   },
   {
@@ -13000,6 +13049,13 @@
     }
   },
   {
+    "text": "#% additional Physical Damage Reduction while stationary",
+    "ids": {
+      "explicit": "stat_2181129193",
+      "implicit": "stat_2181129193"
+    }
+  },
+  {
     "text": "Damage from Enemies Hitting you is Unlucky while you are Cursed with Vulnerability",
     "ids": {
       "explicit": "stat_2758554648"
@@ -13055,15 +13111,21 @@
     }
   },
   {
+    "text": "You have no Life Regeneration",
+    "ids": {
+      "explicit": "stat_854225133"
+    }
+  },
+  {
     "text": "Socketed Gems are Supported by Level # Meat Shield",
     "ids": {
       "explicit": "stat_858460086"
     }
   },
   {
-    "text": "You have no Life Regeneration",
+    "text": "Right ring slot: Projectiles from Spells Chain +# times",
     "ids": {
-      "explicit": "stat_854225133"
+      "explicit": "stat_1555918911"
     }
   },
   {
@@ -13082,13 +13144,6 @@
     "text": "You have Phasing if Energy Shield Recharge has started Recently",
     "ids": {
       "explicit": "stat_2632954025"
-    }
-  },
-  {
-    "text": "#% additional Physical Damage Reduction while stationary",
-    "ids": {
-      "explicit": "stat_2181129193",
-      "implicit": "stat_2181129193"
     }
   },
   {
@@ -13237,12 +13292,6 @@
     }
   },
   {
-    "text": "#% less Animate Weapon Duration",
-    "ids": {
-      "explicit": "stat_414991155"
-    }
-  },
-  {
     "text": "#% chance to Trigger Level 20 Animate Weapon on Kill",
     "ids": {
       "explicit": "stat_1973890509"
@@ -13279,22 +13328,9 @@
     }
   },
   {
-    "text": "Remove Shock when you use a Flask",
-    "ids": {
-      "explicit": "stat_561861132",
-      "implicit": "stat_561861132"
-    }
-  },
-  {
     "text": "Cannot inflict Shock",
     "ids": {
       "explicit": "stat_990377349"
-    }
-  },
-  {
-    "text": "#% to Lightning Resistance while affected by Herald of Thunder",
-    "ids": {
-      "explicit": "stat_2687017988"
     }
   },
   {
@@ -13323,12 +13359,6 @@
     }
   },
   {
-    "text": "You have Onslaught while not on Low Mana",
-    "ids": {
-      "explicit": "stat_1959256242"
-    }
-  },
-  {
     "text": "Right ring slot: Projectiles from Spells cannot Fork",
     "ids": {
       "explicit": "stat_2933024469"
@@ -13341,15 +13371,23 @@
     }
   },
   {
+    "text": "#% chance to be Poisoned",
+    "ids": {
+      "explicit": "stat_4250009622"
+    }
+  },
+  {
     "text": "#% increased Aspect of the Avian Buff Effect",
     "ids": {
       "explicit": "stat_1746347097"
     }
   },
   {
-    "text": "#% chance to be Poisoned",
+    "text": "# to Minimum Frenzy Charges",
     "ids": {
-      "explicit": "stat_4250009622"
+      "explicit": "stat_658456881",
+      "implicit": "stat_658456881",
+      "crafted": "stat_658456881"
     }
   },
   {
@@ -13359,15 +13397,15 @@
     }
   },
   {
-    "text": "Socketed Red Gems get #% Physical Damage as Extra Fire Damage",
-    "ids": {
-      "explicit": "stat_2629366488"
-    }
-  },
-  {
     "text": "+#% Monster Fire Resistance",
     "ids": {
       "explicit": "stat_2319127046"
+    }
+  },
+  {
+    "text": "Socketed Red Gems get #% Physical Damage as Extra Fire Damage",
+    "ids": {
+      "explicit": "stat_2629366488"
     }
   },
   {
@@ -13515,9 +13553,9 @@
     }
   },
   {
-    "text": "Sentinels of Purity deal #% increased Damage",
+    "text": "#% increased Fire Damage per 20 Strength",
     "ids": {
-      "explicit": "stat_650630047"
+      "explicit": "stat_2241902512"
     }
   },
   {
@@ -13637,12 +13675,6 @@
     }
   },
   {
-    "text": "Take # Physical Damage per Second per Siphoning Charge if you've used a Skill Recently",
-    "ids": {
-      "explicit": "stat_2440172920"
-    }
-  },
-  {
     "text": "Minions have +# to Accuracy Rating per 10 Devotion",
     "ids": {
       "explicit": "stat_2830135449"
@@ -13673,15 +13705,15 @@
     }
   },
   {
-    "text": "Reflect Shocks applied to you to all Nearby Enemies",
-    "ids": {
-      "explicit": "stat_615884286"
-    }
-  },
-  {
     "text": "#% chance to Dodge Spell Hits while affected by Haste",
     "ids": {
       "explicit": "stat_1345136012"
+    }
+  },
+  {
+    "text": "Reflect Shocks applied to you to all Nearby Enemies",
+    "ids": {
+      "explicit": "stat_615884286"
     }
   },
   {
@@ -13713,6 +13745,12 @@
     "ids": {
       "explicit": "stat_2813626504",
       "implicit": "stat_2813626504"
+    }
+  },
+  {
+    "text": "Cannot gain Energy Shield",
+    "ids": {
+      "explicit": "stat_206243615"
     }
   },
   {
@@ -13814,21 +13852,33 @@
     }
   },
   {
+    "text": "#% of Damage taken gained as Life over 4 seconds when Hit",
+    "ids": {
+      "explicit": "stat_1444556985"
+    }
+  },
+  {
     "text": "While in Her Embrace, take #% of your total Maximum Life and Energy Shield as Fire Damage per second per Level",
     "ids": {
       "explicit": "stat_2442112158"
     }
   },
   {
-    "text": "Gain Her Embrace for # seconds when you Ignite an Enemy",
+    "text": "# Life gained for each Enemy Hit while affected by Vitality",
     "ids": {
-      "explicit": "stat_608963131"
+      "explicit": "stat_4259701244"
     }
   },
   {
     "text": "You are at Maximum Chance to Block Attack Damage if you have not Blocked Recently",
     "ids": {
       "explicit": "stat_2584264074"
+    }
+  },
+  {
+    "text": "Gain Her Embrace for # seconds when you Ignite an Enemy",
+    "ids": {
+      "explicit": "stat_608963131"
     }
   },
   {
@@ -13883,12 +13933,6 @@
     "text": "Unaffected by Vulnerability while affected by Determination",
     "ids": {
       "explicit": "stat_3207781478"
-    }
-  },
-  {
-    "text": "# Life gained for each Enemy Hit while affected by Vitality",
-    "ids": {
-      "explicit": "stat_4259701244"
     }
   },
   {
@@ -13977,18 +14021,6 @@
     }
   },
   {
-    "text": "Cannot gain Energy Shield",
-    "ids": {
-      "explicit": "stat_206243615"
-    }
-  },
-  {
-    "text": "#% increased Fire Damage per 20 Strength",
-    "ids": {
-      "explicit": "stat_2241902512"
-    }
-  },
-  {
     "text": "Unaffected by Temporal Chains while affected by Haste",
     "ids": {
       "explicit": "stat_2806391472"
@@ -14007,16 +14039,16 @@
     }
   },
   {
+    "text": "#% increased Fire Damage while affected by Anger",
+    "ids": {
+      "explicit": "stat_3337107517"
+    }
+  },
+  {
     "text": "Wrath has #% increased Aura Effect",
     "ids": {
       "explicit": "stat_2181791238",
       "implicit": "stat_2181791238"
-    }
-  },
-  {
-    "text": "#% of Damage taken gained as Life over 4 seconds when Hit",
-    "ids": {
-      "explicit": "stat_1444556985"
     }
   },
   {
@@ -14032,15 +14064,15 @@
     }
   },
   {
-    "text": "You have Phasing while affected by Haste",
-    "ids": {
-      "explicit": "stat_1346311588"
-    }
-  },
-  {
     "text": "#% increased Elemental Damage per 10 Devotion",
     "ids": {
       "explicit": "stat_3103189267"
+    }
+  },
+  {
+    "text": "You have Phasing while affected by Haste",
+    "ids": {
+      "explicit": "stat_1346311588"
     }
   },
   {
@@ -14080,12 +14112,6 @@
     }
   },
   {
-    "text": "Right ring slot: Projectiles from Spells Chain +# times",
-    "ids": {
-      "explicit": "stat_1555918911"
-    }
-  },
-  {
     "text": "#% increased cooldown recovery speed of Movement Skills used while affected by Haste",
     "ids": {
       "explicit": "stat_3332055899"
@@ -14095,6 +14121,12 @@
     "text": "#% increased Movement Speed while affected by Grace",
     "ids": {
       "explicit": "stat_3329402420"
+    }
+  },
+  {
+    "text": "Skills used by Mines have #% increased Area of Effect",
+    "ids": {
+      "explicit": "stat_2228913626"
     }
   },
   {
@@ -14116,6 +14148,12 @@
     }
   },
   {
+    "text": "#% to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently",
+    "ids": {
+      "explicit": "stat_1626712767"
+    }
+  },
+  {
     "text": "#% chance to double Stun Duration",
     "ids": {
       "explicit": "stat_2622251413"
@@ -14128,15 +14166,21 @@
     }
   },
   {
-    "text": "# to Armour while affected by Determination",
+    "text": "With # Corrupted Items Equipped: Life Leech recovers based on your Chaos Damage instead",
     "ids": {
-      "explicit": "stat_3742808908"
+      "explicit": "stat_4192058279"
     }
   },
   {
     "text": "Unaffected by Frostbite while affected by Purity of Ice",
     "ids": {
       "explicit": "stat_4012281889"
+    }
+  },
+  {
+    "text": "# to Armour while affected by Determination",
+    "ids": {
+      "explicit": "stat_3742808908"
     }
   },
   {
@@ -14149,6 +14193,12 @@
     "text": "#% increased Mana Recovery Rate while affected by Clarity",
     "ids": {
       "explicit": "stat_556659145"
+    }
+  },
+  {
+    "text": "With # Corrupted Items Equipped: 50% of Chaos Damage does not bypass Energy Shield, and 50% of Physical Damage bypasses Energy Shield",
+    "ids": {
+      "explicit": "stat_3225265684"
     }
   },
   {
@@ -14188,12 +14238,6 @@
     }
   },
   {
-    "text": "With # Corrupted Items Equipped: Life Leech recovers based on your Chaos Damage instead",
-    "ids": {
-      "explicit": "stat_4192058279"
-    }
-  },
-  {
     "text": "Increases and Reductions to Cast Speed also Apply to Trap Throwing Speed",
     "ids": {
       "explicit": "stat_3520223758"
@@ -14215,12 +14259,6 @@
     "text": "Unaffected by Flammability while affected by Purity of Fire",
     "ids": {
       "explicit": "stat_1173690938"
-    }
-  },
-  {
-    "text": "#% to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently",
-    "ids": {
-      "explicit": "stat_1626712767"
     }
   },
   {
@@ -14280,15 +14318,15 @@
     }
   },
   {
-    "text": "#% Chance to Block Attack Damage while you have at least 5 Crab Barriers",
-    "ids": {
-      "explicit": "stat_1354504703"
-    }
-  },
-  {
     "text": "Your Cold Damage can Ignite",
     "ids": {
       "explicit": "stat_3573591118"
+    }
+  },
+  {
+    "text": "#% Chance to Block Attack Damage while you have at least 5 Crab Barriers",
+    "ids": {
+      "explicit": "stat_1354504703"
     }
   },
   {
@@ -14298,21 +14336,27 @@
     }
   },
   {
-    "text": "#% increased Maximum total Recovery per second from Energy Shield Leech while affected by Zealotry",
-    "ids": {
-      "explicit": "stat_3848992177"
-    }
-  },
-  {
     "text": "Travel Skills have #% increased Cooldown Recovery Speed",
     "ids": {
       "explicit": "stat_2308278768"
     }
   },
   {
+    "text": "#% increased Maximum total Recovery per second from Energy Shield Leech while affected by Zealotry",
+    "ids": {
+      "explicit": "stat_3848992177"
+    }
+  },
+  {
     "text": "#% Chance to Block Attack Damage while you have at least 10 Crab Barriers",
     "ids": {
       "explicit": "stat_653107703"
+    }
+  },
+  {
+    "text": "You are Chilled while you are Bleeding",
+    "ids": {
+      "explicit": "stat_67132951"
     }
   },
   {
@@ -14613,21 +14657,9 @@
     }
   },
   {
-    "text": "With # Corrupted Items Equipped: 50% of Chaos Damage does not bypass Energy Shield, and 50% of Physical Damage bypasses Energy Shield",
-    "ids": {
-      "explicit": "stat_3225265684"
-    }
-  },
-  {
     "text": "#% increased Lightning Damage while affected by Wrath",
     "ids": {
       "explicit": "stat_418293304"
-    }
-  },
-  {
-    "text": "#% increased Energy Shield Recharge Rate during any Flask Effect",
-    "ids": {
-      "explicit": "stat_1827657795"
     }
   },
   {
@@ -14637,21 +14669,27 @@
     }
   },
   {
+    "text": "#% increased Energy Shield Recharge Rate during any Flask Effect",
+    "ids": {
+      "explicit": "stat_1827657795"
+    }
+  },
+  {
     "text": "#% to all Elemental Resistances per 10 Devotion",
     "ids": {
       "explicit": "stat_1910205563"
     }
   },
   {
-    "text": "Nova Spells have #% more Area of Effect",
-    "ids": {
-      "explicit": "stat_200113086"
-    }
-  },
-  {
     "text": "Cannot Leech",
     "ids": {
       "explicit": "stat_1336164384"
+    }
+  },
+  {
+    "text": "Nova Spells have #% more Area of Effect",
+    "ids": {
+      "explicit": "stat_200113086"
     }
   },
   {
@@ -14770,12 +14808,6 @@
     }
   },
   {
-    "text": "#% increased Fire Damage while affected by Anger",
-    "ids": {
-      "explicit": "stat_3337107517"
-    }
-  },
-  {
     "text": "Gain #% of Elemental Damage as Extra Chaos Damage per Shaper Item Equipped",
     "ids": {
       "explicit": "stat_33348259"
@@ -14888,6 +14920,12 @@
     }
   },
   {
+    "text": "Attacks always inflict Bleeding while you have Cat's Stealth",
+    "ids": {
+      "explicit": "stat_2059771038"
+    }
+  },
+  {
     "text": "#% chance to Recover 10% of Mana when you use a Skill while affected by Clarity",
     "ids": {
       "explicit": "stat_1699077932"
@@ -14912,15 +14950,15 @@
     }
   },
   {
-    "text": "Increases and Reductions to Light Radius also apply to Damage",
-    "ids": {
-      "explicit": "stat_3519807287"
-    }
-  },
-  {
     "text": "# Energy Shield gained for each Enemy Hit while affected by Discipline",
     "ids": {
       "explicit": "stat_3765507527"
+    }
+  },
+  {
+    "text": "Increases and Reductions to Light Radius also apply to Damage",
+    "ids": {
+      "explicit": "stat_3519807287"
     }
   },
   {
@@ -15056,6 +15094,12 @@
     }
   },
   {
+    "text": "You have Phasing while you have Cat's Stealth",
+    "ids": {
+      "explicit": "stat_1834455446"
+    }
+  },
+  {
     "text": "#% increased Movement Speed while you have Cat's Stealth",
     "ids": {
       "explicit": "stat_673704994"
@@ -15107,6 +15151,12 @@
     "text": "#% to Critical Strike Multiplier against Enemies that are on Full Life",
     "ids": {
       "explicit": "stat_2355615476"
+    }
+  },
+  {
+    "text": "Every 16 seconds you gain Iron Reflexes for 8 seconds",
+    "ids": {
+      "explicit": "stat_2200114771"
     }
   },
   {
@@ -15175,12 +15225,6 @@
     "text": "#% increased Damage with Hits and Ailments against Enemies affected by 3 Spider's Webs",
     "ids": {
       "explicit": "stat_103928310"
-    }
-  },
-  {
-    "text": "Attacks always inflict Bleeding while you have Cat's Stealth",
-    "ids": {
-      "explicit": "stat_2059771038"
     }
   },
   {
@@ -15334,12 +15378,6 @@
     }
   },
   {
-    "text": "You have Tailwind if you have dealt a Critical Strike Recently",
-    "ids": {
-      "explicit": "stat_1085545682"
-    }
-  },
-  {
     "text": "#% chance for Energy Shield Recharge to start when you Block",
     "ids": {
       "explicit": "stat_762154651"
@@ -15376,15 +15414,15 @@
     }
   },
   {
-    "text": "Regenerate # Life per second if you have at least 1000 Maximum Energy Shield",
-    "ids": {
-      "explicit": "stat_1704843611"
-    }
-  },
-  {
     "text": "#% increased Cold Resistance",
     "ids": {
       "explicit": "stat_4252311791"
+    }
+  },
+  {
+    "text": "Regenerate # Life per second if you have at least 1000 Maximum Energy Shield",
+    "ids": {
+      "explicit": "stat_1704843611"
     }
   },
   {
@@ -15460,6 +15498,12 @@
     }
   },
   {
+    "text": "#% of Cold Damage Leeched as Energy Shield",
+    "ids": {
+      "explicit": "stat_1939452467"
+    }
+  },
+  {
     "text": "#% increased Quantity of Fish Caught",
     "ids": {
       "explicit": "stat_3802667447",
@@ -15518,12 +15562,6 @@
     }
   },
   {
-    "text": "Every 16 seconds you gain Iron Reflexes for 8 seconds",
-    "ids": {
-      "explicit": "stat_2200114771"
-    }
-  },
-  {
     "text": "#% increased Lightning Resistance",
     "ids": {
       "explicit": "stat_2249211872"
@@ -15543,12 +15581,6 @@
     }
   },
   {
-    "text": "#% of Cold Damage Leeched as Energy Shield",
-    "ids": {
-      "explicit": "stat_1939452467"
-    }
-  },
-  {
     "text": "Wrath has #% reduced Mana Reservation",
     "ids": {
       "explicit": "stat_3600749521",
@@ -15565,6 +15597,12 @@
     "text": "Your Hits Intimidate Enemies for 4 seconds while you are using Pride",
     "ids": {
       "explicit": "stat_3772848194"
+    }
+  },
+  {
+    "text": "Manifest Dancing Dervish also manifests a copy of Dancing Dervish",
+    "ids": {
+      "explicit": "stat_1820083363"
     }
   },
   {
@@ -15623,6 +15661,13 @@
     }
   },
   {
+    "text": "Anger has #% reduced Mana Reservation",
+    "ids": {
+      "explicit": "stat_2003753577",
+      "enchant": "stat_2003753577"
+    }
+  },
+  {
     "text": "You have Vaal Pact while all Socketed Gems are Red",
     "ids": {
       "explicit": "stat_3242537102"
@@ -15657,12 +15702,6 @@
     "text": "#% increased Damage if you've Frozen an Enemy Recently",
     "ids": {
       "explicit": "stat_1064477264"
-    }
-  },
-  {
-    "text": "You have Phasing while you have Cat's Stealth",
-    "ids": {
-      "explicit": "stat_1834455446"
     }
   },
   {
@@ -15706,13 +15745,6 @@
     "text": "Monsters from Beyond have #% more Quantity and Rarity of Dropped Items",
     "ids": {
       "explicit": "stat_3422445312"
-    }
-  },
-  {
-    "text": "Anger has #% reduced Mana Reservation",
-    "ids": {
-      "explicit": "stat_2003753577",
-      "enchant": "stat_2003753577"
     }
   },
   {
@@ -15790,6 +15822,12 @@
     }
   },
   {
+    "text": "Fire Skills have #% chance to Poison on Hit",
+    "ids": {
+      "explicit": "stat_2424717327"
+    }
+  },
+  {
     "text": "#% increased Attack Physical Damage while using Pride",
     "ids": {
       "explicit": "stat_576528026"
@@ -15814,6 +15852,12 @@
     }
   },
   {
+    "text": "Enemies inflict Elemental Ailments on you instead of nearby Allies",
+    "ids": {
+      "explicit": "stat_979288792"
+    }
+  },
+  {
     "text": "Talismans found in this Area are Rare",
     "ids": {
       "explicit": "stat_1401233515"
@@ -15823,6 +15867,12 @@
     "text": "#% to Critical Strike Multiplier while affected by Precision",
     "ids": {
       "explicit": "stat_1817023621"
+    }
+  },
+  {
+    "text": "Removes Bleeding when you use a Warcry",
+    "ids": {
+      "explicit": "stat_3936926420"
     }
   },
   {
@@ -15857,21 +15907,9 @@
     }
   },
   {
-    "text": "Manifest Dancing Dervish also manifests a copy of Dancing Dervish",
-    "ids": {
-      "explicit": "stat_1820083363"
-    }
-  },
-  {
     "text": "You cannot be Shocked while Frozen",
     "ids": {
       "explicit": "stat_798853218"
-    }
-  },
-  {
-    "text": "Cold Skills have #% chance to Poison on Hit",
-    "ids": {
-      "explicit": "stat_2373079502"
     }
   },
   {
@@ -15889,6 +15927,12 @@
     }
   },
   {
+    "text": "Cold Skills have #% chance to Poison on Hit",
+    "ids": {
+      "explicit": "stat_2373079502"
+    }
+  },
+  {
     "text": "# Life gained for each Blinded Enemy Hit by this Weapon",
     "ids": {
       "explicit": "stat_1649099067"
@@ -15898,12 +15942,6 @@
     "text": "Damage Penetrates #% Elemental Resistances during any Flask Effect",
     "ids": {
       "explicit": "stat_3392890360"
-    }
-  },
-  {
-    "text": "Fire Skills have #% chance to Poison on Hit",
-    "ids": {
-      "explicit": "stat_2424717327"
     }
   },
   {
@@ -15962,21 +16000,15 @@
     }
   },
   {
-    "text": "Enemies inflict Elemental Ailments on you instead of nearby Allies",
-    "ids": {
-      "explicit": "stat_979288792"
-    }
-  },
-  {
-    "text": "Removes Bleeding when you use a Warcry",
-    "ids": {
-      "explicit": "stat_3936926420"
-    }
-  },
-  {
     "text": "Sacrifice #% of your Life when you Use or Trigger a Spell Skill",
     "ids": {
       "explicit": "stat_545408899"
+    }
+  },
+  {
+    "text": "Damage from Enemies Hitting you is Unlucky while you are on Full Life",
+    "ids": {
+      "explicit": "stat_3629143471"
     }
   },
   {
@@ -16007,12 +16039,6 @@
     "text": "#% of Fire Damage Leeched as Energy Shield",
     "ids": {
       "explicit": "stat_3885409671"
-    }
-  },
-  {
-    "text": "Damage from Enemies Hitting you is Unlucky while you are on Full Life",
-    "ids": {
-      "explicit": "stat_3629143471"
     }
   },
   {
@@ -16083,21 +16109,15 @@
     }
   },
   {
-    "text": "Skills used by Mines have #% increased Area of Effect",
+    "text": "Socketed Gems have +3.5% Critical Strike Chance",
     "ids": {
-      "explicit": "stat_2228913626"
+      "explicit": "stat_1681904129"
     }
   },
   {
     "text": "Your Minions use your Flasks when summoned",
     "ids": {
       "explicit": "stat_1827636152"
-    }
-  },
-  {
-    "text": "Socketed Gems have +3.5% Critical Strike Chance",
-    "ids": {
-      "explicit": "stat_1681904129"
     }
   },
   {
@@ -16132,15 +16152,15 @@
     }
   },
   {
-    "text": "#% Chaos Resistance against Damage Over Time",
-    "ids": {
-      "explicit": "stat_2266636761"
-    }
-  },
-  {
     "text": "Consecrated Ground created during Effect applies #% increased Damage taken to Enemies",
     "ids": {
       "explicit": "stat_1866211373"
+    }
+  },
+  {
+    "text": "#% Chaos Resistance against Damage Over Time",
+    "ids": {
+      "explicit": "stat_2266636761"
     }
   },
   {
@@ -16199,15 +16219,15 @@
     }
   },
   {
-    "text": "Attacks with this Weapon deal # to # added Fire Damage to Bleeding Enemies",
-    "ids": {
-      "explicit": "stat_2453554491"
-    }
-  },
-  {
     "text": "Attacks with this Weapon deal # to # added Physical Damage to Ignited Enemies",
     "ids": {
       "explicit": "stat_2202639361"
+    }
+  },
+  {
+    "text": "Attacks with this Weapon deal # to # added Fire Damage to Bleeding Enemies",
+    "ids": {
+      "explicit": "stat_2453554491"
     }
   },
   {
@@ -16333,6 +16353,24 @@
     }
   },
   {
+    "text": "#% chance to Curse non-Cursed Enemies with a random Curse on Hit",
+    "ids": {
+      "explicit": "stat_1726444796"
+    }
+  },
+  {
+    "text": "You count as on Low Life while you are Cursed with Vulnerability",
+    "ids": {
+      "explicit": "stat_2304300603"
+    }
+  },
+  {
+    "text": "Increases and Reductions to Light Radius also apply to Accuracy",
+    "ids": {
+      "explicit": "stat_411986876"
+    }
+  },
+  {
     "text": "Glows while in an Area containing a Unique Fish",
     "ids": {
       "explicit": "stat_931560398"
@@ -16342,14 +16380,6 @@
     "text": "Monsters with Silver Coins drop an additional Silver Coin",
     "ids": {
       "explicit": "stat_3679287686"
-    }
-  },
-  {
-    "text": "# to Minimum Frenzy Charges",
-    "ids": {
-      "explicit": "stat_658456881",
-      "implicit": "stat_658456881",
-      "crafted": "stat_658456881"
     }
   },
   {
@@ -16397,15 +16427,21 @@
     }
   },
   {
+    "text": "Non-Channelling Skills have # to Total Mana Cost while affected by Clarity",
+    "ids": {
+      "explicit": "stat_1853636813"
+    }
+  },
+  {
     "text": "#% increased Attack and Cast Speed if you've Hit an Enemy Recently",
     "ids": {
       "explicit": "stat_1483753325"
     }
   },
   {
-    "text": "Non-Channelling Skills have # to Total Mana Cost while affected by Clarity",
+    "text": "Chaos Damage can Ignite, Chill and Shock",
     "ids": {
-      "explicit": "stat_1853636813"
+      "explicit": "stat_3470457445"
     }
   },
   {
@@ -16428,12 +16464,6 @@
     }
   },
   {
-    "text": "Chaos Damage can Ignite, Chill and Shock",
-    "ids": {
-      "explicit": "stat_3470457445"
-    }
-  },
-  {
     "text": "Pride has #% reduced Mana Reservation",
     "ids": {
       "explicit": "stat_250961191",
@@ -16447,23 +16477,17 @@
     }
   },
   {
+    "text": "Adds # to # Cold Damage to Spells while no Life is Reserved",
+    "ids": {
+      "explicit": "stat_897996059"
+    }
+  },
+  {
     "text": "Purity of Lightning has #% reduced Mana Reservation",
     "ids": {
       "explicit": "stat_1285430327",
       "implicit": "stat_1285430327",
       "enchant": "stat_1285430327"
-    }
-  },
-  {
-    "text": "You count as on Low Life while you are Cursed with Vulnerability",
-    "ids": {
-      "explicit": "stat_2304300603"
-    }
-  },
-  {
-    "text": "Adds # to # Cold Damage to Spells while no Life is Reserved",
-    "ids": {
-      "explicit": "stat_897996059"
     }
   },
   {
@@ -16593,16 +16617,16 @@
     }
   },
   {
+    "text": "Area contains a Stone Circle",
+    "ids": {
+      "explicit": "stat_3005800306"
+    }
+  },
+  {
     "text": "You cannot be Cursed with Silence",
     "ids": {
       "explicit": "stat_1654414582",
       "implicit": "stat_1654414582"
-    }
-  },
-  {
-    "text": "Area contains a Stone Circle",
-    "ids": {
-      "explicit": "stat_3005800306"
     }
   },
   {
@@ -16625,21 +16649,27 @@
     }
   },
   {
-    "text": "Nearby Allies have Culling Strike",
-    "ids": {
-      "explicit": "stat_1560540713"
-    }
-  },
-  {
     "text": "Imprisoned Monsters have an additional Essence",
     "ids": {
       "explicit": "stat_679682964"
     }
   },
   {
+    "text": "Nearby Allies have Culling Strike",
+    "ids": {
+      "explicit": "stat_1560540713"
+    }
+  },
+  {
     "text": "Talismans found in this Area are 1 Tier higher",
     "ids": {
       "explicit": "stat_2800333900"
+    }
+  },
+  {
+    "text": "If you have Blocked Recently, you and nearby Allies Regenerate #% of Life per second",
+    "ids": {
+      "explicit": "stat_176085824"
     }
   },
   {
@@ -16670,12 +16700,6 @@
     "text": "Rare Breach Monsters drop an additional Splinter",
     "ids": {
       "explicit": "stat_3097206473"
-    }
-  },
-  {
-    "text": "#% chance to Curse non-Cursed Enemies with a random Curse on Hit",
-    "ids": {
-      "explicit": "stat_1726444796"
     }
   },
   {
@@ -16715,27 +16739,21 @@
     }
   },
   {
-    "text": "Increases and Reductions to Light Radius also apply to Accuracy",
-    "ids": {
-      "explicit": "stat_411986876"
-    }
-  },
-  {
     "text": "Fire Resistance is #%",
     "ids": {
       "explicit": "stat_763311546"
     }
   },
   {
-    "text": "Nearby Enemies grant #% increased Flask Charges",
-    "ids": {
-      "explicit": "stat_3547189490"
-    }
-  },
-  {
     "text": "Rare Monsters from Breaches have a #% chance to Drop a Breach Ring",
     "ids": {
       "explicit": "stat_4157714333"
+    }
+  },
+  {
+    "text": "Nearby Enemies grant #% increased Flask Charges",
+    "ids": {
+      "explicit": "stat_3547189490"
     }
   },
   {
@@ -16795,15 +16813,21 @@
     }
   },
   {
+    "text": "Nearby Enemies have #% reduced Stun and Block Recovery",
+    "ids": {
+      "explicit": "stat_3169825297"
+    }
+  },
+  {
     "text": "Tormented Spirits have #% increased Duration",
     "ids": {
       "explicit": "stat_663610248"
     }
   },
   {
-    "text": "Nearby Enemies have #% reduced Stun and Block Recovery",
+    "text": "Trigger Level # Elemental Warding when you Hit an Enemy while Cursed",
     "ids": {
-      "explicit": "stat_3169825297"
+      "explicit": "stat_810166817"
     }
   },
   {
@@ -16849,15 +16873,15 @@
     }
   },
   {
-    "text": "Hits with this Weapon deal #% increased Damage to Frozen Enemies",
-    "ids": {
-      "explicit": "stat_196313911"
-    }
-  },
-  {
     "text": "#% increased Maximum Energy Shield for each Corrupted Item Equipped",
     "ids": {
       "explicit": "stat_3916980068"
+    }
+  },
+  {
+    "text": "Hits with this Weapon deal #% increased Damage to Frozen Enemies",
+    "ids": {
+      "explicit": "stat_196313911"
     }
   },
   {
@@ -16893,12 +16917,6 @@
     }
   },
   {
-    "text": "Trigger Level # Elemental Warding when you Hit an Enemy while Cursed",
-    "ids": {
-      "explicit": "stat_810166817"
-    }
-  },
-  {
     "text": "Perandus Chests have #% more Rarity of Items Dropped",
     "ids": {
       "explicit": "stat_3535403838"
@@ -16930,15 +16948,15 @@
     }
   },
   {
-    "text": "Hits with this Weapon deal #% increased Damage to Ignited Enemies",
-    "ids": {
-      "explicit": "stat_3095345438"
-    }
-  },
-  {
     "text": "Players have Onslaught while using Flasks",
     "ids": {
       "explicit": "stat_2576546039"
+    }
+  },
+  {
+    "text": "Hits with this Weapon deal #% increased Damage to Ignited Enemies",
+    "ids": {
+      "explicit": "stat_3095345438"
     }
   },
   {
@@ -16960,9 +16978,9 @@
     }
   },
   {
-    "text": "Your Maximum Frenzy Charges is equal to your Maximum Power Charges",
+    "text": "#% increased Energy Shield per Power Charge",
     "ids": {
-      "explicit": "stat_2238831336"
+      "explicit": "stat_2189382346"
     }
   },
   {
@@ -16978,15 +16996,15 @@
     }
   },
   {
-    "text": "Players have a #% chance to gain Onslaught on Kill For 4 seconds",
-    "ids": {
-      "explicit": "stat_3563824294"
-    }
-  },
-  {
     "text": "Enemies on Fungal Ground you Kill have #% chance to Explode, dealing 5% of their Life as Chaos Damage",
     "ids": {
       "explicit": "stat_3550460467"
+    }
+  },
+  {
+    "text": "Players have a #% chance to gain Onslaught on Kill For 4 seconds",
+    "ids": {
+      "explicit": "stat_3563824294"
     }
   },
   {
@@ -17046,9 +17064,9 @@
     }
   },
   {
-    "text": "#% increased Energy Shield per Power Charge",
+    "text": "Your Maximum Frenzy Charges is equal to your Maximum Power Charges",
     "ids": {
-      "explicit": "stat_2189382346"
+      "explicit": "stat_2238831336"
     }
   },
   {
@@ -17064,16 +17082,16 @@
     }
   },
   {
+    "text": "You and Nearby Allies have # to # added Chaos Damage per White Socket",
+    "ids": {
+      "explicit": "stat_3232695173"
+    }
+  },
+  {
     "text": "Rogue Exiles drop an additional Jewel",
     "ids": {
       "explicit": "stat_4143730600",
       "enchant": "stat_4143730600"
-    }
-  },
-  {
-    "text": "You and Nearby Allies have # to # added Chaos Damage per White Socket",
-    "ids": {
-      "explicit": "stat_3232695173"
     }
   },
   {
@@ -17098,12 +17116,6 @@
     "text": "Nearby Enemies have #% to all Resistances",
     "ids": {
       "explicit": "stat_668145148"
-    }
-  },
-  {
-    "text": "Notable Passive Skills in Radius are Transformed to\ninstead grant: Minions have #% increased Movement Speed",
-    "ids": {
-      "explicit": "stat_3362879252"
     }
   },
   {
@@ -17155,15 +17167,15 @@
     }
   },
   {
-    "text": "#% to Critical Strike Multiplier for Spells if you haven't Killed Recently",
-    "ids": {
-      "explicit": "stat_729430714"
-    }
-  },
-  {
     "text": "#% of Damage dealt by your Mines is Leeched to you as Life",
     "ids": {
       "explicit": "stat_807450540"
+    }
+  },
+  {
+    "text": "#% to Critical Strike Multiplier for Spells if you haven't Killed Recently",
+    "ids": {
+      "explicit": "stat_729430714"
     }
   },
   {
@@ -17221,15 +17233,15 @@
     }
   },
   {
-    "text": "#% increased Movement Speed per Endurance Charge",
-    "ids": {
-      "explicit": "stat_2116250000"
-    }
-  },
-  {
     "text": "You have Crimson Dance if you have dealt a Critical Strike Recently",
     "ids": {
       "explicit": "stat_1756017808"
+    }
+  },
+  {
+    "text": "#% increased Movement Speed per Endurance Charge",
+    "ids": {
+      "explicit": "stat_2116250000"
     }
   },
   {
@@ -17239,21 +17251,15 @@
     }
   },
   {
-    "text": "Unaffected by Curses",
-    "ids": {
-      "explicit": "stat_3809896400"
-    }
-  },
-  {
     "text": "Gain # Mana when you hit a Taunted Enemy",
     "ids": {
       "explicit": "stat_1834588299"
     }
   },
   {
-    "text": "Hits ignore Enemy Monster Fire Resistance while you are Ignited",
+    "text": "Unaffected by Curses",
     "ids": {
-      "explicit": "stat_4040152475"
+      "explicit": "stat_3809896400"
     }
   },
   {
@@ -17263,15 +17269,21 @@
     }
   },
   {
-    "text": "Perandus Monsters have a #% chance to drop Perandus Coins",
+    "text": "Hits ignore Enemy Monster Fire Resistance while you are Ignited",
     "ids": {
-      "explicit": "stat_3689836025"
+      "explicit": "stat_4040152475"
     }
   },
   {
     "text": "#% chance to lose a Power Charge when you gain Elusive",
     "ids": {
       "explicit": "stat_1819086604"
+    }
+  },
+  {
+    "text": "Perandus Monsters have a #% chance to drop Perandus Coins",
+    "ids": {
+      "explicit": "stat_3689836025"
     }
   },
   {
@@ -17287,15 +17299,15 @@
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Minion Speed",
-    "ids": {
-      "explicit": "stat_995332031"
-    }
-  },
-  {
     "text": "Chance to Block Spell Damage is Unlucky",
     "ids": {
       "explicit": "stat_3551025193"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Minion Speed",
+    "ids": {
+      "explicit": "stat_995332031"
     }
   },
   {
@@ -17353,6 +17365,12 @@
     }
   },
   {
+    "text": "#% increased Armour per Endurance Charge",
+    "ids": {
+      "explicit": "stat_1447080724"
+    }
+  },
+  {
     "text": "#% chance to gain Onslaught when you use a Flask",
     "ids": {
       "explicit": "stat_1324450398"
@@ -17377,15 +17395,15 @@
     }
   },
   {
-    "text": "#% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges",
-    "ids": {
-      "explicit": "stat_2119664154"
-    }
-  },
-  {
     "text": "#% increased Critical Strike Chance for Spells if you've Killed Recently",
     "ids": {
       "explicit": "stat_1243114410"
+    }
+  },
+  {
+    "text": "#% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges",
+    "ids": {
+      "explicit": "stat_2119664154"
     }
   },
   {
@@ -17443,16 +17461,16 @@
     }
   },
   {
+    "text": "#% increased Fishing Range",
+    "ids": {
+      "explicit": "stat_170497091"
+    }
+  },
+  {
     "text": "#% increased Evasion Rating per Frenzy Charge",
     "ids": {
       "explicit": "stat_660404777",
       "implicit": "stat_660404777"
-    }
-  },
-  {
-    "text": "#% increased Fishing Range",
-    "ids": {
-      "explicit": "stat_170497091"
     }
   },
   {
@@ -17468,6 +17486,12 @@
     }
   },
   {
+    "text": "The first time a Player reaches # Rampage Kills in this Area, they will encounter a Powerful Monster",
+    "ids": {
+      "explicit": "stat_329336318"
+    }
+  },
+  {
     "text": "Perandus Chests are guarded by additional Rare monsters",
     "ids": {
       "explicit": "stat_2156472123"
@@ -17477,12 +17501,6 @@
     "text": "Area contains Yama the White",
     "ids": {
       "explicit": "stat_482341163"
-    }
-  },
-  {
-    "text": "The first time a Player reaches # Rampage Kills in this Area, they will encounter a Powerful Monster",
-    "ids": {
-      "explicit": "stat_329336318"
     }
   },
   {
@@ -17558,6 +17576,12 @@
     }
   },
   {
+    "text": "# Life gained for each Ignited Enemy hit by your Attacks",
+    "ids": {
+      "explicit": "stat_120895749"
+    }
+  },
+  {
     "text": "Gains no Charges during effect of any Soul Ripper Flask",
     "ids": {
       "explicit": "stat_2748763342"
@@ -17567,12 +17591,6 @@
     "text": "You and Nearby Allies have # to # added Fire Damage per Red Socket",
     "ids": {
       "explicit": "stat_1666896662"
-    }
-  },
-  {
-    "text": "# Life gained for each Ignited Enemy hit by your Attacks",
-    "ids": {
-      "explicit": "stat_120895749"
     }
   },
   {
@@ -17588,12 +17606,6 @@
     }
   },
   {
-    "text": "Triggers Level 20 Spectral Spirits when Equipped",
-    "ids": {
-      "explicit": "stat_470688636"
-    }
-  },
-  {
     "text": "Items dropped by Rogue Exiles are fully Linked",
     "ids": {
       "explicit": "stat_898094766"
@@ -17603,6 +17615,12 @@
     "text": "#% increased Cooldown Recovery of Travel Skills per Frenzy Charge",
     "ids": {
       "explicit": "stat_3083201633"
+    }
+  },
+  {
+    "text": "Triggers Level 20 Spectral Spirits when Equipped",
+    "ids": {
+      "explicit": "stat_470688636"
     }
   },
   {
@@ -17686,15 +17704,15 @@
     }
   },
   {
-    "text": "When a Bloodline Pack is Slain, it drops a Rare Item",
-    "ids": {
-      "explicit": "stat_2309624770"
-    }
-  },
-  {
     "text": "#% increased Movement Speed per Power Charge",
     "ids": {
       "explicit": "stat_3774108776"
+    }
+  },
+  {
+    "text": "When a Bloodline Pack is Slain, it drops a Rare Item",
+    "ids": {
+      "explicit": "stat_2309624770"
     }
   },
   {
@@ -17737,12 +17755,6 @@
     "text": "Life and Mana Leech are instant during effect",
     "ids": {
       "explicit": "stat_1102362593"
-    }
-  },
-  {
-    "text": "#% increased Armour per Endurance Charge",
-    "ids": {
-      "explicit": "stat_1447080724"
     }
   },
   {
@@ -17821,15 +17833,15 @@
     }
   },
   {
-    "text": "Socketed Skills have #% increased Attack Speed",
-    "ids": {
-      "explicit": "stat_2881124988"
-    }
-  },
-  {
     "text": "Monsters Possessed by Tormented Spirits take #% increased Damage",
     "ids": {
       "explicit": "stat_261224780"
+    }
+  },
+  {
+    "text": "Socketed Skills have #% increased Attack Speed",
+    "ids": {
+      "explicit": "stat_2881124988"
     }
   },
   {
@@ -17870,12 +17882,6 @@
     }
   },
   {
-    "text": "If you have Blocked Recently, you and nearby Allies Regenerate #% of Life per second",
-    "ids": {
-      "explicit": "stat_176085824"
-    }
-  },
-  {
     "text": "#% reduced Lightning Damage taken",
     "ids": {
       "explicit": "stat_1276918229",
@@ -17907,12 +17913,6 @@
     }
   },
   {
-    "text": "Hits against Nearby Enemies have 50% increased Critical Strike Chance",
-    "ids": {
-      "explicit": "stat_992435560"
-    }
-  },
-  {
     "text": "Area contains an additional Perandus Jewellery Box",
     "ids": {
       "explicit": "stat_1105638781"
@@ -17925,15 +17925,15 @@
     }
   },
   {
-    "text": "Area contains a Tormented Seditionist",
+    "text": "Hits against Nearby Enemies have 50% increased Critical Strike Chance",
     "ids": {
-      "explicit": "stat_1077576866"
+      "explicit": "stat_992435560"
     }
   },
   {
-    "text": "#% increased Critical Strike Chance per Frenzy Charge",
+    "text": "Area contains a Tormented Seditionist",
     "ids": {
-      "explicit": "stat_707887043"
+      "explicit": "stat_1077576866"
     }
   },
   {
@@ -17943,9 +17943,9 @@
     }
   },
   {
-    "text": "#% chance to Blind nearby Enemies when gaining Her Blessing",
+    "text": "#% increased Critical Strike Chance per Frenzy Charge",
     "ids": {
-      "explicit": "stat_2327728343"
+      "explicit": "stat_707887043"
     }
   },
   {
@@ -17955,15 +17955,21 @@
     }
   },
   {
-    "text": "Adds # to # Fire Damage to Attacks against Ignited Enemies",
+    "text": "#% chance to Blind nearby Enemies when gaining Her Blessing",
     "ids": {
-      "explicit": "stat_627339348"
+      "explicit": "stat_2327728343"
     }
   },
   {
     "text": "Gain #% of Sword Physical Damage as Extra Fire Damage",
     "ids": {
       "explicit": "stat_754005431"
+    }
+  },
+  {
+    "text": "Adds # to # Fire Damage to Attacks against Ignited Enemies",
+    "ids": {
+      "explicit": "stat_627339348"
     }
   },
   {
@@ -18094,6 +18100,12 @@
     }
   },
   {
+    "text": "Cannot be Shocked or Ignited while moving",
+    "ids": {
+      "explicit": "stat_3592330380"
+    }
+  },
+  {
     "text": "#% chance to Dodge Attack Hits per Endurance Charge",
     "ids": {
       "explicit": "stat_1893852470"
@@ -18103,12 +18115,6 @@
     "text": "Discipline Reserves no Mana",
     "ids": {
       "explicit": "stat_3708588508"
-    }
-  },
-  {
-    "text": "Cannot be Shocked or Ignited while moving",
-    "ids": {
-      "explicit": "stat_3592330380"
     }
   },
   {
@@ -18174,15 +18180,15 @@
     }
   },
   {
-    "text": "Minion Instability",
-    "ids": {
-      "explicit": "stat_433293234"
-    }
-  },
-  {
     "text": "#% of Damage against Frozen Enemies Leeched as Life",
     "ids": {
       "explicit": "stat_593279674"
+    }
+  },
+  {
+    "text": "Minion Instability",
+    "ids": {
+      "explicit": "stat_433293234"
     }
   },
   {
@@ -18205,21 +18211,27 @@
     }
   },
   {
-    "text": "# to Evasion Rating if Hit an Enemy Recently",
-    "ids": {
-      "explicit": "stat_2935548106"
-    }
-  },
-  {
     "text": "Frostblink has #% increased Duration",
     "ids": {
       "explicit": "stat_3941271999"
     }
   },
   {
+    "text": "# to Evasion Rating if Hit an Enemy Recently",
+    "ids": {
+      "explicit": "stat_2935548106"
+    }
+  },
+  {
     "text": "Area contains 3 additional Magic Packs which\nhave #% increased Attack, Cast and Movement Speed, and drop #% more items",
     "ids": {
       "explicit": "stat_2244724505"
+    }
+  },
+  {
+    "text": "Grants Level # Frostblink Skill",
+    "ids": {
+      "explicit": "stat_2911866787"
     }
   },
   {
@@ -18235,15 +18247,15 @@
     }
   },
   {
-    "text": "Adds # to # Physical Damage against Poisoned Enemies",
-    "ids": {
-      "explicit": "stat_424026624"
-    }
-  },
-  {
     "text": "Area contains an additional Fangjaw Talisman",
     "ids": {
       "explicit": "stat_3381731475"
+    }
+  },
+  {
+    "text": "Adds # to # Physical Damage against Poisoned Enemies",
+    "ids": {
+      "explicit": "stat_424026624"
     }
   },
   {
@@ -18265,15 +18277,15 @@
     }
   },
   {
-    "text": "#% Chance to Block Attack Damage per Frenzy Charge",
-    "ids": {
-      "explicit": "stat_2148784747"
-    }
-  },
-  {
     "text": "# to Armour if you've Hit an Enemy Recently",
     "ids": {
       "explicit": "stat_2368149582"
+    }
+  },
+  {
+    "text": "#% Chance to Block Attack Damage per Frenzy Charge",
+    "ids": {
+      "explicit": "stat_2148784747"
     }
   },
   {
@@ -18338,15 +18350,15 @@
     }
   },
   {
-    "text": "Wrath Reserves no Mana",
-    "ids": {
-      "explicit": "stat_1865987277"
-    }
-  },
-  {
     "text": "Arrow Dancing",
     "ids": {
       "explicit": "stat_2606808909"
+    }
+  },
+  {
+    "text": "Wrath Reserves no Mana",
+    "ids": {
+      "explicit": "stat_1865987277"
     }
   },
   {
@@ -18356,27 +18368,27 @@
     }
   },
   {
-    "text": "Iron Reflexes",
-    "ids": {
-      "explicit": "stat_326965591"
-    }
-  },
-  {
     "text": "Determination Reserves no Mana",
     "ids": {
       "explicit": "stat_1358697130"
     }
   },
   {
-    "text": "#% chance to Recover 10% of Mana when you use a Skill",
+    "text": "Iron Reflexes",
     "ids": {
-      "explicit": "stat_308309328"
+      "explicit": "stat_326965591"
     }
   },
   {
     "text": "#% chance to Dodge Attack Hits per Power Charge",
     "ids": {
       "explicit": "stat_2163273007"
+    }
+  },
+  {
+    "text": "#% chance to Recover 10% of Mana when you use a Skill",
+    "ids": {
+      "explicit": "stat_308309328"
     }
   },
   {
@@ -18389,12 +18401,6 @@
     "text": "Items dropped by Rogue Exiles are Corrupted",
     "ids": {
       "explicit": "stat_663447087"
-    }
-  },
-  {
-    "text": "Grants Level # Frostblink Skill",
-    "ids": {
-      "explicit": "stat_2911866787"
     }
   },
   {
@@ -18458,15 +18464,15 @@
     }
   },
   {
-    "text": "Ignore all Movement Penalties from Armour",
-    "ids": {
-      "explicit": "stat_1311723478"
-    }
-  },
-  {
     "text": "Breaches contain a Breachlord's Clasped Hand",
     "ids": {
       "explicit": "stat_488900289"
+    }
+  },
+  {
+    "text": "Ignore all Movement Penalties from Armour",
+    "ids": {
+      "explicit": "stat_1311723478"
     }
   },
   {
@@ -18530,15 +18536,15 @@
     }
   },
   {
-    "text": "You have Iron Reflexes while at maximum Frenzy Charges",
-    "ids": {
-      "explicit": "stat_1990354706"
-    }
-  },
-  {
     "text": "#% increased Global Evasion Rating when on Full Life",
     "ids": {
       "explicit": "stat_88817332"
+    }
+  },
+  {
+    "text": "You have Iron Reflexes while at maximum Frenzy Charges",
+    "ids": {
+      "explicit": "stat_1990354706"
     }
   },
   {
@@ -18557,6 +18563,12 @@
     "text": "Socketed Gems are Supported by Level # Greater Multiple Projectiles",
     "ids": {
       "explicit": "stat_359450079"
+    }
+  },
+  {
+    "text": "You have Mind over Matter while at maximum Power Charges",
+    "ids": {
+      "explicit": "stat_1876857497"
     }
   },
   {
@@ -18591,15 +18603,15 @@
     }
   },
   {
-    "text": "#% additional Physical Damage Reduction during any Flask Effect",
-    "ids": {
-      "explicit": "stat_2693266036"
-    }
-  },
-  {
     "text": "You can apply an additional Curse while at maximum Power Charges",
     "ids": {
       "explicit": "stat_761598374"
+    }
+  },
+  {
+    "text": "#% additional Physical Damage Reduction during any Flask Effect",
+    "ids": {
+      "explicit": "stat_2693266036"
     }
   },
   {
@@ -18618,12 +18630,6 @@
     "text": "Cannot be Chilled or Frozen while moving",
     "ids": {
       "explicit": "stat_628032624"
-    }
-  },
-  {
-    "text": "You have Mind over Matter while at maximum Power Charges",
-    "ids": {
-      "explicit": "stat_1876857497"
     }
   },
   {
@@ -18724,15 +18730,15 @@
     }
   },
   {
-    "text": "Grants Level # Vaal Impurity of Lightning Skill",
-    "ids": {
-      "explicit": "stat_2959369472"
-    }
-  },
-  {
     "text": "Socketed Gems are Supported by Level # Combustion",
     "ids": {
       "explicit": "stat_1828254451"
+    }
+  },
+  {
+    "text": "Grants Level # Vaal Impurity of Lightning Skill",
+    "ids": {
+      "explicit": "stat_2959369472"
     }
   },
   {
@@ -18743,15 +18749,15 @@
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Damage On Full Life",
-    "ids": {
-      "explicit": "stat_2126431157"
-    }
-  },
-  {
     "text": "Socketed Gems are Supported by Level # Decay",
     "ids": {
       "explicit": "stat_388696990"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Damage On Full Life",
+    "ids": {
+      "explicit": "stat_2126431157"
     }
   },
   {
@@ -18761,15 +18767,21 @@
     }
   },
   {
+    "text": "Socketed Gems are Supported by Level # Summon Phantasm",
+    "ids": {
+      "explicit": "stat_3155072742"
+    }
+  },
+  {
     "text": "Socketed Gems are Supported by Level # Multiple Totems",
     "ids": {
       "explicit": "stat_807186595"
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Summon Phantasm",
+    "text": "Socketed Gems are supported by Level # Pierce",
     "ids": {
-      "explicit": "stat_3155072742"
+      "explicit": "stat_2433615566"
     }
   },
   {
@@ -18782,12 +18794,6 @@
     "text": "Socketed Gems are Supported by Level # Infused Channelling",
     "ids": {
       "explicit": "stat_4048257027"
-    }
-  },
-  {
-    "text": "Socketed Gems are supported by Level # Pierce",
-    "ids": {
-      "explicit": "stat_2433615566"
     }
   },
   {
@@ -18816,21 +18822,27 @@
     }
   },
   {
-    "text": "Adds # to # Fire Damage if you've Blocked Recently",
-    "ids": {
-      "explicit": "stat_3623716321"
-    }
-  },
-  {
     "text": "Area contains an additional Unique Talisman",
     "ids": {
       "explicit": "stat_3956623857"
     }
   },
   {
+    "text": "Adds # to # Fire Damage if you've Blocked Recently",
+    "ids": {
+      "explicit": "stat_3623716321"
+    }
+  },
+  {
     "text": "Socketed Gems are Supported by Level # Physical To Lightning",
     "ids": {
       "explicit": "stat_3327487371"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Impale",
+    "ids": {
+      "explicit": "stat_1900098804"
     }
   },
   {
@@ -18846,21 +18858,15 @@
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Impale",
+    "text": "Socketed Gems are Supported by Level # Chain",
     "ids": {
-      "explicit": "stat_1900098804"
+      "explicit": "stat_2643665787"
     }
   },
   {
     "text": "Socketed Gems are Supported by Level # Barrage",
     "ids": {
       "explicit": "stat_3827538724"
-    }
-  },
-  {
-    "text": "Socketed Gems are Supported by Level # Chain",
-    "ids": {
-      "explicit": "stat_2643665787"
     }
   },
   {
@@ -18882,9 +18888,15 @@
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Intensify",
+    "text": "Socketed Gems are Supported by Level # Enhance",
     "ids": {
-      "explicit": "stat_1876637240"
+      "explicit": "stat_2556436882"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Bloodlust",
+    "ids": {
+      "explicit": "stat_804508379"
     }
   },
   {
@@ -18895,15 +18907,9 @@
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Bloodlust",
+    "text": "Socketed Gems are Supported by Level # Intensify",
     "ids": {
-      "explicit": "stat_804508379"
-    }
-  },
-  {
-    "text": "#% increased Rarity of Items found in this Area",
-    "ids": {
-      "explicit": "stat_2306002879"
+      "explicit": "stat_1876637240"
     }
   },
   {
@@ -18914,9 +18920,9 @@
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Enhance",
+    "text": "#% increased Rarity of Items found in this Area",
     "ids": {
-      "explicit": "stat_2556436882"
+      "explicit": "stat_2306002879"
     }
   },
   {
@@ -18932,30 +18938,6 @@
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Charged Traps",
-    "ids": {
-      "explicit": "stat_479453859"
-    }
-  },
-  {
-    "text": "Socketed Gems are Supported by Level # Swift Assembly",
-    "ids": {
-      "explicit": "stat_4021476585"
-    }
-  },
-  {
-    "text": "Socketed Gems are Supported by Level # Minefield",
-    "ids": {
-      "explicit": "stat_2805586447"
-    }
-  },
-  {
-    "text": "Socketed Gems are Supported by Level # Bonechill",
-    "ids": {
-      "explicit": "stat_1859244771"
-    }
-  },
-  {
     "text": "Socketed Gems are Supported by Level # Mirage Archer",
     "ids": {
       "explicit": "stat_3239503729"
@@ -18968,9 +18950,15 @@
     }
   },
   {
-    "text": "# to Level of all Dexterity Skill Gems",
+    "text": "Projectiles Pierce 2 additional Targets",
     "ids": {
-      "explicit": "stat_146924886"
+      "explicit": "stat_3640956958"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Swift Assembly",
+    "ids": {
+      "explicit": "stat_4021476585"
     }
   },
   {
@@ -18980,45 +18968,39 @@
     }
   },
   {
-    "text": "# to Level of all Fire Skill Gems",
-    "ids": {
-      "explicit": "stat_599749213"
-    }
-  },
-  {
     "text": "Nearby Enemies have #% increased Fire and Cold Resistances",
     "ids": {
       "explicit": "stat_4273356746"
     }
   },
   {
-    "text": "Projectiles Pierce 2 additional Targets",
+    "text": "# to Level of all Dexterity Skill Gems",
     "ids": {
-      "explicit": "stat_3640956958"
+      "explicit": "stat_146924886"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Bonechill",
+    "ids": {
+      "explicit": "stat_1859244771"
+    }
+  },
+  {
+    "text": "# to Level of all Fire Skill Gems",
+    "ids": {
+      "explicit": "stat_599749213"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Minefield",
+    "ids": {
+      "explicit": "stat_2805586447"
     }
   },
   {
     "text": "Every 5 seconds, Regenerate #% of Life over one second",
     "ids": {
       "explicit": "stat_1242155304"
-    }
-  },
-  {
-    "text": "You have Chilling Conflux for 3 seconds every 8 seconds",
-    "ids": {
-      "explicit": "stat_1190121450"
-    }
-  },
-  {
-    "text": "Socketed Gems are Supported by Level # Energy Leech",
-    "ids": {
-      "explicit": "stat_799443127"
-    }
-  },
-  {
-    "text": "Socketed Gems are Supported by Level # Nightblade",
-    "ids": {
-      "explicit": "stat_2861649515"
     }
   },
   {
@@ -19029,21 +19011,9 @@
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Rage",
+    "text": "Socketed Gems are Supported by Level # Charged Traps",
     "ids": {
-      "explicit": "stat_369650395"
-    }
-  },
-  {
-    "text": "Nova Spells Cast at the targeted location instead of around you",
-    "ids": {
-      "explicit": "stat_728246008"
-    }
-  },
-  {
-    "text": "Socketed Gems are Supported by Level # Close Combat",
-    "ids": {
-      "explicit": "stat_694651314"
+      "explicit": "stat_479453859"
     }
   },
   {
@@ -19053,15 +19023,45 @@
     }
   },
   {
+    "text": "Socketed Gems are Supported by Level # Charged Mines",
+    "ids": {
+      "explicit": "stat_1365328494"
+    }
+  },
+  {
     "text": "Socketed Gems are Supported by Level # Multiple Traps",
     "ids": {
       "explicit": "stat_3016436615"
     }
   },
   {
-    "text": "Socketed Gems are Supported by Level # Charged Mines",
+    "text": "Socketed Gems are Supported by Level # Nightblade",
     "ids": {
-      "explicit": "stat_1365328494"
+      "explicit": "stat_2861649515"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Rage",
+    "ids": {
+      "explicit": "stat_369650395"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Close Combat",
+    "ids": {
+      "explicit": "stat_694651314"
+    }
+  },
+  {
+    "text": "Socketed Gems are Supported by Level # Energy Leech",
+    "ids": {
+      "explicit": "stat_799443127"
+    }
+  },
+  {
+    "text": "Nova Spells Cast at the targeted location instead of around you",
+    "ids": {
+      "explicit": "stat_728246008"
     }
   },
   {
@@ -19296,6 +19296,12 @@
     }
   },
   {
+    "text": "#% of Cold Damage from Hits taken as Fire Damage",
+    "ids": {
+      "implicit": "stat_1189760108"
+    }
+  },
+  {
     "text": "#% of Lightning Damage from Hits taken as Cold Damage",
     "ids": {
       "implicit": "stat_1017730114"
@@ -19305,12 +19311,6 @@
     "text": "#% of Cold Damage from Hits taken as Lightning Damage",
     "ids": {
       "implicit": "stat_1313503107"
-    }
-  },
-  {
-    "text": "#% of Cold Damage from Hits taken as Fire Damage",
-    "ids": {
-      "implicit": "stat_1189760108"
     }
   },
   {
@@ -19332,15 +19332,21 @@
     }
   },
   {
+    "text": "# Cold Damage taken from Hits",
+    "ids": {
+      "implicit": "stat_261654754"
+    }
+  },
+  {
     "text": "Grants Level # Malevolence Skill",
     "ids": {
       "implicit": "stat_2148556029"
     }
   },
   {
-    "text": "# Cold Damage taken from Hits",
+    "text": "# Lightning Damage taken from Hits",
     "ids": {
-      "implicit": "stat_261654754"
+      "implicit": "stat_465051235"
     }
   },
   {
@@ -19374,9 +19380,9 @@
     }
   },
   {
-    "text": "# Lightning Damage taken from Hits",
+    "text": "#% increased Damage while Leeching Life",
     "ids": {
-      "implicit": "stat_465051235"
+      "implicit": "stat_3591306273"
     }
   },
   {
@@ -19419,12 +19425,6 @@
     "text": "Grants Level # Conductivity Skill",
     "ids": {
       "implicit": "stat_461472247"
-    }
-  },
-  {
-    "text": "#% increased Damage while Leeching Life",
-    "ids": {
-      "implicit": "stat_3591306273"
     }
   },
   {
@@ -19561,6 +19561,19 @@
     }
   },
   {
+    "text": "#% to Quality of Socketed Cold Gems",
+    "ids": {
+      "implicit": "stat_1164882313"
+    }
+  },
+  {
+    "text": "#% increased Brand Attachment range",
+    "ids": {
+      "implicit": "stat_4223377453",
+      "crafted": "stat_4223377453"
+    }
+  },
+  {
     "text": "#% to Quality of Socketed Intelligence Gems",
     "ids": {
       "implicit": "stat_3174776455"
@@ -19594,19 +19607,6 @@
     "text": "Triggered Spells deal #% increased Spell Damage",
     "ids": {
       "implicit": "stat_3067892458"
-    }
-  },
-  {
-    "text": "#% increased Brand Attachment range",
-    "ids": {
-      "implicit": "stat_4223377453",
-      "crafted": "stat_4223377453"
-    }
-  },
-  {
-    "text": "#% to Quality of Socketed Cold Gems",
-    "ids": {
-      "implicit": "stat_1164882313"
     }
   },
   {
@@ -19696,12 +19696,6 @@
     }
   },
   {
-    "text": "#% to all Elemental Resistances if Corrupted",
-    "ids": {
-      "implicit": "stat_3731630482"
-    }
-  },
-  {
     "text": "#% increased Physical Damage with Spell Skills",
     "ids": {
       "implicit": "stat_1430255627"
@@ -19714,21 +19708,27 @@
     }
   },
   {
+    "text": "#% to all Elemental Resistances if Corrupted",
+    "ids": {
+      "implicit": "stat_3731630482"
+    }
+  },
+  {
     "text": "#% increased Fire Damage with Spell Skills",
     "ids": {
       "implicit": "stat_361162316"
     }
   },
   {
-    "text": "#% increased Spell Damage per 500 Maximum Mana",
-    "ids": {
-      "implicit": "stat_3555662994"
-    }
-  },
-  {
     "text": "#% increased Attack Damage per 500 Maximum Mana",
     "ids": {
       "implicit": "stat_4134865890"
+    }
+  },
+  {
+    "text": "#% increased Spell Damage per 500 Maximum Mana",
+    "ids": {
+      "implicit": "stat_3555662994"
     }
   },
   {
@@ -19744,16 +19744,16 @@
     }
   },
   {
+    "text": "#% increased Attack Damage if Corrupted",
+    "ids": {
+      "implicit": "stat_2347923784"
+    }
+  },
+  {
     "text": "Skeletons deal #% increased Damage",
     "ids": {
       "implicit": "stat_3059357595",
       "enchant": "stat_3059357595"
-    }
-  },
-  {
-    "text": "#% increased Attack Damage if Corrupted",
-    "ids": {
-      "implicit": "stat_2347923784"
     }
   },
   {
@@ -19821,21 +19821,21 @@
     }
   },
   {
-    "text": "#% increased Critical Strike Chance for Spells while wielding a Staff",
-    "ids": {
-      "implicit": "stat_140429540"
-    }
-  },
-  {
     "text": "#% increased Critical Strike Chance for Spells while Dual Wielding",
     "ids": {
       "implicit": "stat_1218939541"
     }
   },
   {
-    "text": "#% increased Physical Damage while you have Unholy Might",
+    "text": "#% increased Critical Strike Chance for Spells while wielding a Staff",
     "ids": {
-      "implicit": "stat_1609570656"
+      "implicit": "stat_140429540"
+    }
+  },
+  {
+    "text": "#% increased Accuracy Rating with Swords",
+    "ids": {
+      "implicit": "stat_2090868905"
     }
   },
   {
@@ -19845,9 +19845,15 @@
     }
   },
   {
-    "text": "#% increased Accuracy Rating with Swords",
+    "text": "#% increased Physical Damage while you have Unholy Might",
     "ids": {
-      "implicit": "stat_2090868905"
+      "implicit": "stat_1609570656"
+    }
+  },
+  {
+    "text": "#% to Critical Strike Multiplier for Spells while holding a Shield",
+    "ids": {
+      "implicit": "stat_2311200892"
     }
   },
   {
@@ -19863,15 +19869,9 @@
     }
   },
   {
-    "text": "#% to Critical Strike Multiplier for Spells while holding a Shield",
+    "text": "#% to Critical Strike Multiplier with Maces and Sceptres",
     "ids": {
-      "implicit": "stat_2311200892"
-    }
-  },
-  {
-    "text": "#% to Critical Strike Multiplier with Axes",
-    "ids": {
-      "implicit": "stat_4219746989"
+      "implicit": "stat_458899422"
     }
   },
   {
@@ -19881,9 +19881,9 @@
     }
   },
   {
-    "text": "#% to Critical Strike Multiplier with Maces and Sceptres",
+    "text": "#% to Critical Strike Multiplier with Axes",
     "ids": {
-      "implicit": "stat_458899422"
+      "implicit": "stat_4219746989"
     }
   },
   {
@@ -19947,16 +19947,16 @@
     }
   },
   {
-    "text": "#% increased Accuracy Rating with Maces and Sceptres",
-    "ids": {
-      "implicit": "stat_3208450870"
-    }
-  },
-  {
     "text": "Item drops on Death if Equipped by an Animated Guardian",
     "ids": {
       "implicit": "stat_3909846940",
       "crafted": "stat_3909846940"
+    }
+  },
+  {
+    "text": "#% increased Accuracy Rating with Maces and Sceptres",
+    "ids": {
+      "implicit": "stat_3208450870"
     }
   },
   {
@@ -20065,9 +20065,21 @@
     }
   },
   {
+    "text": "Adds # to # Fire Damage if you've Killed Recently",
+    "ids": {
+      "enchant": "stat_3077703716"
+    }
+  },
+  {
     "text": "#% chance to Dodge Spell Hits if you've\ntaken Spell Damage Recently",
     "ids": {
       "enchant": "stat_1222329688"
+    }
+  },
+  {
+    "text": "Adds # to # Cold Damage if you've been Hit Recently",
+    "ids": {
+      "enchant": "stat_884399432"
     }
   },
   {
@@ -20080,18 +20092,6 @@
     "text": "#% Chance to Dodge Attack Hits if you've taken a Critical Strike Recently",
     "ids": {
       "enchant": "stat_3414398924"
-    }
-  },
-  {
-    "text": "Adds # to # Cold Damage if you've been Hit Recently",
-    "ids": {
-      "enchant": "stat_884399432"
-    }
-  },
-  {
-    "text": "Adds # to # Fire Damage if you've Killed Recently",
-    "ids": {
-      "enchant": "stat_3077703716"
     }
   },
   {
@@ -20131,6 +20131,12 @@
     }
   },
   {
+    "text": "#% chance to Trigger Word of Inferno on Kill",
+    "ids": {
+      "enchant": "stat_3901337328"
+    }
+  },
+  {
     "text": "#% chance to Trigger Word of Blades on Hit",
     "ids": {
       "enchant": "stat_756653426"
@@ -20164,12 +20170,6 @@
     "text": "#% chance to Trigger Word of Flames on Hit",
     "ids": {
       "enchant": "stat_891161612"
-    }
-  },
-  {
-    "text": "#% chance to Trigger Word of Inferno on Kill",
-    "ids": {
-      "enchant": "stat_3901337328"
     }
   },
   {
@@ -20323,15 +20323,15 @@
     }
   },
   {
-    "text": "Lightning Arrow hits an additional Enemy",
-    "ids": {
-      "enchant": "stat_1901955093"
-    }
-  },
-  {
     "text": "#% chance to Trigger Edict of Fury on Hit",
     "ids": {
       "enchant": "stat_1153637043"
+    }
+  },
+  {
+    "text": "Lightning Arrow hits an additional Enemy",
+    "ids": {
+      "enchant": "stat_1901955093"
     }
   },
   {
@@ -20350,6 +20350,18 @@
     "text": "Magma Orb Chains an additional time",
     "ids": {
       "enchant": "stat_2589980605"
+    }
+  },
+  {
+    "text": "#% chance to Trigger Edict of Thunder on Kill",
+    "ids": {
+      "enchant": "stat_603658709"
+    }
+  },
+  {
+    "text": "#% chance for Discharge to deal Damage without removing Charges",
+    "ids": {
+      "enchant": "stat_1833626118"
     }
   },
   {
@@ -20425,6 +20437,12 @@
     }
   },
   {
+    "text": "#% increased Flicker Strike Damage per Frenzy Charge",
+    "ids": {
+      "enchant": "stat_3701991680"
+    }
+  },
+  {
     "text": "#% of Glacial Cascade Physical Damage Converted to Cold Damage",
     "ids": {
       "enchant": "stat_1154155584"
@@ -20437,15 +20455,15 @@
     }
   },
   {
-    "text": "Lightning Strike fires an additional Projectile",
-    "ids": {
-      "enchant": "stat_1213035889"
-    }
-  },
-  {
     "text": "#% increased Barrage Attack Speed",
     "ids": {
       "enchant": "stat_2523298357"
+    }
+  },
+  {
+    "text": "Lightning Strike fires an additional Projectile",
+    "ids": {
+      "enchant": "stat_1213035889"
     }
   },
   {
@@ -20461,9 +20479,9 @@
     }
   },
   {
-    "text": "#% chance for Discharge to deal Damage without removing Charges",
+    "text": "Pyroclast Mine fires an additional Projectile",
     "ids": {
-      "enchant": "stat_1833626118"
+      "enchant": "stat_841281094"
     }
   },
   {
@@ -20488,12 +20506,6 @@
     "text": "#% increased Flicker Strike Damage",
     "ids": {
       "enchant": "stat_464448327"
-    }
-  },
-  {
-    "text": "Pyroclast Mine fires an additional Projectile",
-    "ids": {
-      "enchant": "stat_841281094"
     }
   },
   {
@@ -20545,12 +20557,6 @@
     }
   },
   {
-    "text": "#% increased Flicker Strike Damage per Frenzy Charge",
-    "ids": {
-      "enchant": "stat_3701991680"
-    }
-  },
-  {
     "text": "#% increased Molten Strike Damage",
     "ids": {
       "enchant": "stat_2038865857"
@@ -20575,6 +20581,12 @@
     }
   },
   {
+    "text": "#% chance to Trigger Decree of Blades on Hit",
+    "ids": {
+      "enchant": "stat_165958462"
+    }
+  },
+  {
     "text": "Spectral Shield Throw fires an additional Shard Projectile",
     "ids": {
       "enchant": "stat_3608981617"
@@ -20590,6 +20602,12 @@
     "text": "#% increased Galvanic Arrow Damage",
     "ids": {
       "enchant": "stat_2634945088"
+    }
+  },
+  {
+    "text": "Shock Nova ring deals #% increased Damage",
+    "ids": {
+      "enchant": "stat_3652051346"
     }
   },
   {
@@ -20620,12 +20638,6 @@
     "text": "#% increased Cyclone Attack Speed",
     "ids": {
       "enchant": "stat_835592326"
-    }
-  },
-  {
-    "text": "#% chance to Trigger Edict of Thunder on Kill",
-    "ids": {
-      "enchant": "stat_603658709"
     }
   },
   {
@@ -20683,9 +20695,9 @@
     }
   },
   {
-    "text": "#% increased Elemental Hit Attack Speed",
+    "text": "#% chance to Trigger Decree of the Tempest on Hit",
     "ids": {
-      "enchant": "stat_1151217691"
+      "enchant": "stat_1671985305"
     }
   },
   {
@@ -20701,6 +20713,12 @@
     }
   },
   {
+    "text": "#% increased Elemental Hit Attack Speed",
+    "ids": {
+      "enchant": "stat_1151217691"
+    }
+  },
+  {
     "text": "#% increased Split Arrow Critical Strike Chance",
     "ids": {
       "enchant": "stat_1028884162"
@@ -20710,12 +20728,6 @@
     "text": "Storm Brand Damage Penetrates #% of Branded Enemy's Lightning Resistance",
     "ids": {
       "enchant": "stat_3318254108"
-    }
-  },
-  {
-    "text": "#% chance to Trigger Decree of Blades on Hit",
-    "ids": {
-      "enchant": "stat_165958462"
     }
   },
   {
@@ -20737,6 +20749,12 @@
     }
   },
   {
+    "text": "Bane deals #% increased Damage",
+    "ids": {
+      "enchant": "stat_2206071316"
+    }
+  },
+  {
     "text": "Ancestral Warchief Totem grants #% increased Melee Damage while Active",
     "ids": {
       "enchant": "stat_3543257184"
@@ -20752,12 +20770,6 @@
     "text": "Storm Brand has a #% chance to Chain an additional time",
     "ids": {
       "enchant": "stat_1510381560"
-    }
-  },
-  {
-    "text": "Shock Nova ring deals #% increased Damage",
-    "ids": {
-      "enchant": "stat_3652051346"
     }
   },
   {
@@ -20782,6 +20794,12 @@
     "text": "#% increased Frostbolt Damage",
     "ids": {
       "enchant": "stat_2078274993"
+    }
+  },
+  {
+    "text": "#% chance to Trigger Decree of the Grave when your Skills or Minions Kill",
+    "ids": {
+      "enchant": "stat_2187415468"
     }
   },
   {
@@ -20821,15 +20839,15 @@
     }
   },
   {
-    "text": "#% of Burning Arrow Physical Damage gained as Extra Fire Damage",
-    "ids": {
-      "enchant": "stat_3229580299"
-    }
-  },
-  {
     "text": "#% increased Earthquake Damage",
     "ids": {
       "enchant": "stat_1697080607"
+    }
+  },
+  {
+    "text": "#% of Burning Arrow Physical Damage gained as Extra Fire Damage",
+    "ids": {
+      "enchant": "stat_3229580299"
     }
   },
   {
@@ -20905,12 +20923,6 @@
     }
   },
   {
-    "text": "Bane deals #% increased Damage",
-    "ids": {
-      "enchant": "stat_2206071316"
-    }
-  },
-  {
     "text": "#% chance to Trigger Decree of Winter when Hit",
     "ids": {
       "enchant": "stat_2515273888"
@@ -20935,15 +20947,21 @@
     }
   },
   {
-    "text": "Blade Vortex has #% to Critical Strike Multiplier for each blade",
+    "text": "#% increased Molten Strike Area of Effect",
     "ids": {
-      "enchant": "stat_2583039202"
+      "enchant": "stat_2524620107"
     }
   },
   {
     "text": "#% increased Effect of the Buff granted by your Stone Golems",
     "ids": {
       "enchant": "stat_2284801675"
+    }
+  },
+  {
+    "text": "Blade Vortex has #% to Critical Strike Multiplier for each blade",
+    "ids": {
+      "enchant": "stat_2583039202"
     }
   },
   {
@@ -21043,21 +21061,9 @@
     }
   },
   {
-    "text": "#% increased Molten Strike Area of Effect",
-    "ids": {
-      "enchant": "stat_2524620107"
-    }
-  },
-  {
     "text": "#% increased Temporal Chains Duration",
     "ids": {
       "enchant": "stat_888039248"
-    }
-  },
-  {
-    "text": "#% chance to Trigger Decree of the Grave when your Skills or Minions Kill",
-    "ids": {
-      "enchant": "stat_2187415468"
     }
   },
   {
@@ -21076,6 +21082,12 @@
     "text": "#% increased Rain of Arrows Attack Speed",
     "ids": {
       "enchant": "stat_3825617457"
+    }
+  },
+  {
+    "text": "#% increased Frenzy Damage",
+    "ids": {
+      "enchant": "stat_522780692"
     }
   },
   {
@@ -21133,15 +21145,15 @@
     }
   },
   {
-    "text": "#% increased Detonate Dead Damage",
-    "ids": {
-      "enchant": "stat_3087527696"
-    }
-  },
-  {
     "text": "#% chance to Trigger Decree of Fury on Hit",
     "ids": {
       "enchant": "stat_2252338738"
+    }
+  },
+  {
+    "text": "#% increased Detonate Dead Damage",
+    "ids": {
+      "enchant": "stat_3087527696"
     }
   },
   {
@@ -21151,9 +21163,9 @@
     }
   },
   {
-    "text": "#% increased Frenzy Damage",
+    "text": "#% increased Flameblast Critical Strike Chance",
     "ids": {
-      "enchant": "stat_522780692"
+      "enchant": "stat_3053448465"
     }
   },
   {
@@ -21187,12 +21199,6 @@
     }
   },
   {
-    "text": "#% increased Flameblast Critical Strike Chance",
-    "ids": {
-      "enchant": "stat_3053448465"
-    }
-  },
-  {
     "text": "#% increased Dual Strike Attack Speed",
     "ids": {
       "enchant": "stat_1917107304"
@@ -21223,15 +21229,15 @@
     }
   },
   {
-    "text": "#% increased Fire Trap Damage",
-    "ids": {
-      "enchant": "stat_181307038"
-    }
-  },
-  {
     "text": "#% increased Glacial Cascade Area of Effect",
     "ids": {
       "enchant": "stat_88796379"
+    }
+  },
+  {
+    "text": "#% increased Fire Trap Damage",
+    "ids": {
+      "enchant": "stat_181307038"
     }
   },
   {
@@ -21244,6 +21250,12 @@
     "text": "#% chance to Trigger Commandment of Winter when Hit",
     "ids": {
       "enchant": "stat_3222886961"
+    }
+  },
+  {
+    "text": "Explosive Arrow has #% increased Duration",
+    "ids": {
+      "enchant": "stat_3590425794"
     }
   },
   {
@@ -21283,15 +21295,15 @@
     }
   },
   {
-    "text": "#% reduced Earthquake Duration",
+    "text": "Lancing Steel's primary Projectile Pierces 1 additional Target",
     "ids": {
-      "enchant": "stat_3917881666"
+      "enchant": "stat_3031985694"
     }
   },
   {
-    "text": "Your Flamethrower Towers deal #% increased Damage",
+    "text": "#% reduced Earthquake Duration",
     "ids": {
-      "enchant": "stat_1478321338"
+      "enchant": "stat_3917881666"
     }
   },
   {
@@ -21301,15 +21313,15 @@
     }
   },
   {
-    "text": "Heavy Strike has a #% chance to deal Double Damage",
+    "text": "Your Flamethrower Towers deal #% increased Damage",
     "ids": {
-      "enchant": "stat_3760588941"
+      "enchant": "stat_1478321338"
     }
   },
   {
-    "text": "Ice Golems deal #% increased Damage",
+    "text": "Heavy Strike has a #% chance to deal Double Damage",
     "ids": {
-      "enchant": "stat_3816405721"
+      "enchant": "stat_3760588941"
     }
   },
   {
@@ -21319,15 +21331,21 @@
     }
   },
   {
-    "text": "#% increased Orb of Storms Critical Strike Chance",
+    "text": "Ice Golems deal #% increased Damage",
     "ids": {
-      "enchant": "stat_168538372"
+      "enchant": "stat_3816405721"
     }
   },
   {
-    "text": "Lancing Steel's primary Projectile Pierces 1 additional Target",
+    "text": "#% increased Contagion Duration",
     "ids": {
-      "enchant": "stat_3031985694"
+      "enchant": "stat_2565809961"
+    }
+  },
+  {
+    "text": "#% increased Orb of Storms Critical Strike Chance",
+    "ids": {
+      "enchant": "stat_168538372"
     }
   },
   {
@@ -21379,15 +21397,15 @@
     }
   },
   {
-    "text": "#% increased Earthquake Area of Effect",
-    "ids": {
-      "enchant": "stat_684174846"
-    }
-  },
-  {
     "text": "Raised Zombies have #% to Elemental Resistances",
     "ids": {
       "enchant": "stat_2871777604"
+    }
+  },
+  {
+    "text": "#% increased Earthquake Area of Effect",
+    "ids": {
+      "enchant": "stat_684174846"
     }
   },
   {
@@ -21400,6 +21418,12 @@
     "text": "#% chance to Trigger Commandment of Flames on Hit",
     "ids": {
       "enchant": "stat_3703722637"
+    }
+  },
+  {
+    "text": "Storm Burst has a #% chance to create an additional Orb",
+    "ids": {
+      "enchant": "stat_1898356067"
     }
   },
   {
@@ -21424,12 +21448,6 @@
     "text": "Blast Rain has #% increased Area of Effect",
     "ids": {
       "enchant": "stat_574378310"
-    }
-  },
-  {
-    "text": "#% increased Contagion Duration",
-    "ids": {
-      "enchant": "stat_2565809961"
     }
   },
   {
@@ -21463,15 +21481,21 @@
     }
   },
   {
-    "text": "#% increased Reave Radius",
+    "text": "#% increased Cold Snap Cooldown Recovery Speed",
     "ids": {
-      "enchant": "stat_1486490067"
+      "enchant": "stat_2289367813"
     }
   },
   {
     "text": "Consecrated Path deals #% increased Damage",
     "ids": {
       "enchant": "stat_4047323043"
+    }
+  },
+  {
+    "text": "#% increased Reave Radius",
+    "ids": {
+      "enchant": "stat_1486490067"
     }
   },
   {
@@ -21490,6 +21514,12 @@
     "text": "#% increased Heavy Strike Damage",
     "ids": {
       "enchant": "stat_954135826"
+    }
+  },
+  {
+    "text": "Siege Ballista has #% increased Attack Speed",
+    "ids": {
+      "enchant": "stat_444858149"
     }
   },
   {
@@ -21535,15 +21565,15 @@
     }
   },
   {
-    "text": "#% increased Wild Strike Area of Effect",
-    "ids": {
-      "enchant": "stat_524936200"
-    }
-  },
-  {
     "text": "#% increased Shield Charge Attack Speed",
     "ids": {
       "enchant": "stat_648343221"
+    }
+  },
+  {
+    "text": "#% increased Wild Strike Area of Effect",
+    "ids": {
+      "enchant": "stat_524936200"
     }
   },
   {
@@ -21625,21 +21655,27 @@
     }
   },
   {
+    "text": "#% increased Ground Slam Damage",
+    "ids": {
+      "enchant": "stat_108883700"
+    }
+  },
+  {
     "text": "#% increased Despair Curse Effect",
     "ids": {
       "enchant": "stat_3185156108"
     }
   },
   {
-    "text": "Your Glacial Cage Towers have #% increased Duration",
-    "ids": {
-      "enchant": "stat_1056655244"
-    }
-  },
-  {
     "text": "Volatile Dead Consumes up to # additional corpse",
     "ids": {
       "enchant": "stat_3034788766"
+    }
+  },
+  {
+    "text": "Your Glacial Cage Towers have #% increased Duration",
+    "ids": {
+      "enchant": "stat_1056655244"
     }
   },
   {
@@ -21655,15 +21691,15 @@
     }
   },
   {
-    "text": "Lightning Trap Damage Penetrates #% Lightning Resistance",
-    "ids": {
-      "enchant": "stat_1557531966"
-    }
-  },
-  {
     "text": "#% increased Magma Orb Area of Effect",
     "ids": {
       "enchant": "stat_1646093658"
+    }
+  },
+  {
+    "text": "Lightning Trap Damage Penetrates #% Lightning Resistance",
+    "ids": {
+      "enchant": "stat_1557531966"
     }
   },
   {
@@ -21685,9 +21721,9 @@
     }
   },
   {
-    "text": "Siege Ballista has #% increased Attack Speed",
+    "text": "#% increased Cleave Area of Effect",
     "ids": {
-      "enchant": "stat_444858149"
+      "enchant": "stat_3172519570"
     }
   },
   {
@@ -21721,9 +21757,15 @@
     }
   },
   {
-    "text": "#% increased Cold Snap Cooldown Recovery Speed",
+    "text": "#% increased Flame Surge Damage",
     "ids": {
-      "enchant": "stat_2289367813"
+      "enchant": "stat_1491182794"
+    }
+  },
+  {
+    "text": "#% increased Lightning Tendrils Damage",
+    "ids": {
+      "enchant": "stat_39356080"
     }
   },
   {
@@ -21736,12 +21778,6 @@
     "text": "Wave of Conviction's Exposure applies #% Elemental Resistance",
     "ids": {
       "enchant": "stat_3139672534"
-    }
-  },
-  {
-    "text": "#% increased Lightning Tendrils Damage",
-    "ids": {
-      "enchant": "stat_39356080"
     }
   },
   {
@@ -21859,9 +21895,9 @@
     }
   },
   {
-    "text": "Storm Burst has a #% chance to create an additional Orb",
+    "text": "#% increased Shield Charge Damage",
     "ids": {
-      "enchant": "stat_1898356067"
+      "enchant": "stat_3490662882"
     }
   },
   {
@@ -21874,18 +21910,6 @@
     "text": "#% increased Cold Snap Area of Effect",
     "ids": {
       "enchant": "stat_3371538704"
-    }
-  },
-  {
-    "text": "#% increased Shield Charge Damage",
-    "ids": {
-      "enchant": "stat_3490662882"
-    }
-  },
-  {
-    "text": "#% increased Flame Surge Damage",
-    "ids": {
-      "enchant": "stat_1491182794"
     }
   },
   {
@@ -21907,6 +21931,12 @@
     }
   },
   {
+    "text": "#% increased Sweep Area of Effect",
+    "ids": {
+      "enchant": "stat_4202548383"
+    }
+  },
+  {
     "text": "Stone Golems deal #% increased Damage",
     "ids": {
       "enchant": "stat_1171483499"
@@ -21916,18 +21946,6 @@
     "text": "Lancing Steel deals #% increased Damage",
     "ids": {
       "enchant": "stat_2159486200"
-    }
-  },
-  {
-    "text": "#% chance to Trigger Decree of the Tempest on Hit",
-    "ids": {
-      "enchant": "stat_1671985305"
-    }
-  },
-  {
-    "text": "#% increased Sweep Area of Effect",
-    "ids": {
-      "enchant": "stat_4202548383"
     }
   },
   {
@@ -21997,15 +22015,15 @@
     }
   },
   {
-    "text": "#% increased Fire Trap Burning Damage",
-    "ids": {
-      "enchant": "stat_345703394"
-    }
-  },
-  {
     "text": "#% increased Kinetic Blast Damage",
     "ids": {
       "enchant": "stat_1007135105"
+    }
+  },
+  {
+    "text": "#% increased Fire Trap Burning Damage",
+    "ids": {
+      "enchant": "stat_345703394"
     }
   },
   {
@@ -22027,21 +22045,27 @@
     }
   },
   {
-    "text": "Icicle Mine has #% increased Throwing Speed",
-    "ids": {
-      "enchant": "stat_3162144587"
-    }
-  },
-  {
     "text": "Wither has #% increased Area of Effect",
     "ids": {
       "enchant": "stat_1810898461"
     }
   },
   {
+    "text": "Icicle Mine has #% increased Throwing Speed",
+    "ids": {
+      "enchant": "stat_3162144587"
+    }
+  },
+  {
     "text": "Steelskin Buff can take #% increased amount of Damage",
     "ids": {
       "enchant": "stat_4102483123"
+    }
+  },
+  {
+    "text": "Frostbolt has #% chance to Freeze",
+    "ids": {
+      "enchant": "stat_2774873427"
     }
   },
   {
@@ -22060,6 +22084,12 @@
     "text": "#% increased Unearth Damage",
     "ids": {
       "enchant": "stat_3953599026"
+    }
+  },
+  {
+    "text": "#% increased Searing Bond Damage",
+    "ids": {
+      "enchant": "stat_2298223148"
     }
   },
   {
@@ -22123,21 +22153,15 @@
     }
   },
   {
-    "text": "Fireball Always Ignites",
-    "ids": {
-      "enchant": "stat_2098790581"
-    }
-  },
-  {
     "text": "Bone Offering grants an additional #% Chance to Block Attack Damage",
     "ids": {
       "enchant": "stat_3233607638"
     }
   },
   {
-    "text": "Winter Orb has +# Maximum Stages",
+    "text": "Fireball Always Ignites",
     "ids": {
-      "enchant": "stat_3734339018"
+      "enchant": "stat_2098790581"
     }
   },
   {
@@ -22147,21 +22171,27 @@
     }
   },
   {
+    "text": "Winter Orb has +# Maximum Stages",
+    "ids": {
+      "enchant": "stat_3734339018"
+    }
+  },
+  {
     "text": "Summoned Agony Crawler fires # additional Projectile",
     "ids": {
       "enchant": "stat_155429578"
     }
   },
   {
-    "text": "#% increased Vulnerability Duration",
-    "ids": {
-      "enchant": "stat_3229878341"
-    }
-  },
-  {
     "text": "#% increased Ground Slam Area of Effect",
     "ids": {
       "enchant": "stat_3061969105"
+    }
+  },
+  {
+    "text": "#% increased Vulnerability Duration",
+    "ids": {
+      "enchant": "stat_3229878341"
     }
   },
   {
@@ -22186,6 +22216,12 @@
     "text": "#% increased Infernal Blow Damage",
     "ids": {
       "enchant": "stat_242838571"
+    }
+  },
+  {
+    "text": "Cobra Lash has #% increased Projectile Speed",
+    "ids": {
+      "enchant": "stat_732631533"
     }
   },
   {
@@ -22249,15 +22285,15 @@
     }
   },
   {
-    "text": "#% Chance to gain a Power Charge on Critical Strike with Ice Spear",
-    "ids": {
-      "enchant": "stat_3232905239"
-    }
-  },
-  {
     "text": "War Banner has #% increased Aura Effect",
     "ids": {
       "enchant": "stat_2592211591"
+    }
+  },
+  {
+    "text": "#% Chance to gain a Power Charge on Critical Strike with Ice Spear",
+    "ids": {
+      "enchant": "stat_3232905239"
     }
   },
   {
@@ -22297,15 +22333,15 @@
     }
   },
   {
-    "text": "Ice Trap Damage Penetrates #% Cold Resistance",
-    "ids": {
-      "enchant": "stat_3698446010"
-    }
-  },
-  {
     "text": "Smite deals #% increased Damage",
     "ids": {
       "enchant": "stat_3901016205"
+    }
+  },
+  {
+    "text": "Ice Trap Damage Penetrates #% Cold Resistance",
+    "ids": {
+      "enchant": "stat_3698446010"
     }
   },
   {
@@ -22315,27 +22351,21 @@
     }
   },
   {
-    "text": "#% increased Assassin's Mark Duration",
-    "ids": {
-      "enchant": "stat_1609523492"
-    }
-  },
-  {
     "text": "Perforate creates # Spike",
     "ids": {
       "enchant": "stat_760606760"
     }
   },
   {
-    "text": "#% increased Flame Dash Cooldown Recovery Speed",
+    "text": "#% increased Assassin's Mark Duration",
     "ids": {
-      "enchant": "stat_1440798870"
+      "enchant": "stat_1609523492"
     }
   },
   {
-    "text": "#% increased Searing Bond Damage",
+    "text": "#% increased Flame Dash Cooldown Recovery Speed",
     "ids": {
-      "enchant": "stat_2298223148"
+      "enchant": "stat_1440798870"
     }
   },
   {
@@ -22369,15 +22399,15 @@
     }
   },
   {
-    "text": "Minions summoned by Your Summoning Towers have #% increased Damage",
-    "ids": {
-      "enchant": "stat_850390248"
-    }
-  },
-  {
     "text": "#% increased Tempest Shield Damage",
     "ids": {
       "enchant": "stat_2121581717"
+    }
+  },
+  {
+    "text": "Minions summoned by Your Summoning Towers have #% increased Damage",
+    "ids": {
+      "enchant": "stat_850390248"
     }
   },
   {
@@ -22453,15 +22483,15 @@
     }
   },
   {
-    "text": "#% increased Riposte Damage",
-    "ids": {
-      "enchant": "stat_4071708873"
-    }
-  },
-  {
     "text": "Ball Lightning fires an additional Projectile",
     "ids": {
       "enchant": "stat_3420683028"
+    }
+  },
+  {
+    "text": "#% increased Riposte Damage",
+    "ids": {
+      "enchant": "stat_4071708873"
     }
   },
   {
@@ -22513,15 +22543,15 @@
     }
   },
   {
-    "text": "Blink Arrow and Blink Arrow Clones have #% increased Attack Speed",
-    "ids": {
-      "enchant": "stat_1554597333"
-    }
-  },
-  {
     "text": "#% increased Double Strike Damage",
     "ids": {
       "enchant": "stat_1809965314"
+    }
+  },
+  {
+    "text": "Blink Arrow and Blink Arrow Clones have #% increased Attack Speed",
+    "ids": {
+      "enchant": "stat_1554597333"
     }
   },
   {
@@ -22549,15 +22579,15 @@
     }
   },
   {
-    "text": "#% increased Punishment Curse Effect",
-    "ids": {
-      "enchant": "stat_2844206732"
-    }
-  },
-  {
     "text": "Summoned Holy Relics deal #% increased Damage",
     "ids": {
       "enchant": "stat_1152784934"
+    }
+  },
+  {
+    "text": "#% increased Punishment Curse Effect",
+    "ids": {
+      "enchant": "stat_2844206732"
     }
   },
   {
@@ -22633,21 +22663,27 @@
     }
   },
   {
-    "text": "#% increased Bladefall Area of Effect",
-    "ids": {
-      "enchant": "stat_2413715772"
-    }
-  },
-  {
     "text": "#% increased Lightning Warp Cast Speed",
     "ids": {
       "enchant": "stat_1347575155"
     }
   },
   {
+    "text": "#% increased Bladefall Area of Effect",
+    "ids": {
+      "enchant": "stat_2413715772"
+    }
+  },
+  {
     "text": "Pestilent Strike has #% increased Duration",
     "ids": {
       "enchant": "stat_64670441"
+    }
+  },
+  {
+    "text": "#% increased Reckoning Cooldown Recovery Speed",
+    "ids": {
+      "enchant": "stat_804983774"
     }
   },
   {
@@ -22693,12 +22729,6 @@
     }
   },
   {
-    "text": "#% increased Cleave Area of Effect",
-    "ids": {
-      "enchant": "stat_3172519570"
-    }
-  },
-  {
     "text": "#% increased Arctic Breath Area of Effect",
     "ids": {
       "enchant": "stat_3816022821"
@@ -22717,9 +22747,9 @@
     }
   },
   {
-    "text": "Cobra Lash has #% increased Projectile Speed",
+    "text": "#% to Stone Golem Elemental Resistances",
     "ids": {
-      "enchant": "stat_732631533"
+      "enchant": "stat_1601558321"
     }
   },
   {
@@ -22729,9 +22759,9 @@
     }
   },
   {
-    "text": "#% to Stone Golem Elemental Resistances",
+    "text": "Vortex has #% increased Area of Effect when Cast on Frostbolt",
     "ids": {
-      "enchant": "stat_1601558321"
+      "enchant": "stat_2295263113"
     }
   },
   {
@@ -22741,9 +22771,9 @@
     }
   },
   {
-    "text": "Vortex has #% increased Area of Effect when Cast on Frostbolt",
+    "text": "Shrapnel Ballista has #% increased Projectile Speed",
     "ids": {
-      "enchant": "stat_2295263113"
+      "enchant": "stat_1213017413"
     }
   },
   {
@@ -22753,21 +22783,9 @@
     }
   },
   {
-    "text": "Shrapnel Ballista has #% increased Projectile Speed",
-    "ids": {
-      "enchant": "stat_1213017413"
-    }
-  },
-  {
     "text": "Flamethrower Trap has an additional Flame",
     "ids": {
       "enchant": "stat_1452255482"
-    }
-  },
-  {
-    "text": "Frostbolt has #% chance to Freeze",
-    "ids": {
-      "enchant": "stat_2774873427"
     }
   },
   {
@@ -22933,6 +22951,18 @@
     }
   },
   {
+    "text": "Chain Hook deals #% increased Damage",
+    "ids": {
+      "enchant": "stat_289027663"
+    }
+  },
+  {
+    "text": "Seismic Trap deals #% increased Damage",
+    "ids": {
+      "enchant": "stat_1175282728"
+    }
+  },
+  {
     "text": "#% increased Frost Wall Duration",
     "ids": {
       "enchant": "stat_775034903"
@@ -23038,12 +23068,6 @@
     "text": "#% increased Firestorm Duration",
     "ids": {
       "enchant": "stat_1691710359"
-    }
-  },
-  {
-    "text": "Seismic Trap deals #% increased Damage",
-    "ids": {
-      "enchant": "stat_1175282728"
     }
   },
   {
@@ -23161,12 +23185,6 @@
     }
   },
   {
-    "text": "#% increased Reckoning Cooldown Recovery Speed",
-    "ids": {
-      "enchant": "stat_804983774"
-    }
-  },
-  {
     "text": "#% increased Ancestral Protector Totem Placement Speed",
     "ids": {
       "enchant": "stat_592861938"
@@ -23275,12 +23293,6 @@
     }
   },
   {
-    "text": "#% increased Ground Slam Damage",
-    "ids": {
-      "enchant": "stat_108883700"
-    }
-  },
-  {
     "text": "#% increased Sentinel of Dominance Duration",
     "ids": {
       "enchant": "stat_3772643988"
@@ -23335,12 +23347,6 @@
     }
   },
   {
-    "text": "Explosive Arrow has #% increased Duration",
-    "ids": {
-      "enchant": "stat_3590425794"
-    }
-  },
-  {
     "text": "Molten Shell has #% increased Skill Effect Duration",
     "ids": {
       "enchant": "stat_4255043252"
@@ -23383,6 +23389,12 @@
     }
   },
   {
+    "text": "Venom Gyre has a #% chance to keep caught Projectiles fired by using Whirling Blades",
+    "ids": {
+      "enchant": "stat_2563177940"
+    }
+  },
+  {
     "text": "Seismic Trap has #% increased Cooldown Recovery Speed",
     "ids": {
       "enchant": "stat_3618430531"
@@ -23407,15 +23419,15 @@
     }
   },
   {
-    "text": "Artillery Ballista Projectiles fall in two perpendicular lines instead",
-    "ids": {
-      "enchant": "stat_2056176052"
-    }
-  },
-  {
     "text": "Siphoning Trap has #% increased Chill Effect",
     "ids": {
       "enchant": "stat_2530563277"
+    }
+  },
+  {
+    "text": "Artillery Ballista Projectiles fall in two perpendicular lines instead",
+    "ids": {
+      "enchant": "stat_2056176052"
     }
   },
   {
@@ -23425,27 +23437,21 @@
     }
   },
   {
-    "text": "#% increased Incinerate Damage for each stage",
-    "ids": {
-      "enchant": "stat_4151555126"
-    }
-  },
-  {
     "text": "Minions summoned by Your Sentinel Towers have #% increased Damage",
     "ids": {
       "enchant": "stat_2013536039"
     }
   },
   {
-    "text": "Orb of Storms has #% increased Cast Speed",
+    "text": "#% increased Incinerate Damage for each stage",
     "ids": {
-      "enchant": "stat_2778301298"
+      "enchant": "stat_4151555126"
     }
   },
   {
-    "text": "Chain Hook deals #% increased Damage",
+    "text": "Orb of Storms has #% increased Cast Speed",
     "ids": {
-      "enchant": "stat_289027663"
+      "enchant": "stat_2778301298"
     }
   },
   {
@@ -23512,12 +23518,6 @@
     "text": "Stormblast Mine has #% increased Throwing Speed",
     "ids": {
       "enchant": "stat_321894708"
-    }
-  },
-  {
-    "text": "Venom Gyre has a #% chance to keep caught Projectiles fired by using Whirling Blades",
-    "ids": {
-      "enchant": "stat_2563177940"
     }
   },
   {
@@ -23761,6 +23761,12 @@
     }
   },
   {
+    "text": "Your Lightning Storm Towers deal #% increased Damage",
+    "ids": {
+      "enchant": "stat_1960580674"
+    }
+  },
+  {
     "text": "#% increased Fire Nova Cast Speed",
     "ids": {
       "enchant": "stat_3211417111"
@@ -23785,15 +23791,15 @@
     }
   },
   {
-    "text": "#% increased Molten Shell Damage",
-    "ids": {
-      "enchant": "stat_815390778"
-    }
-  },
-  {
     "text": "Lightning Spire Trap has #% increased Cast Speed",
     "ids": {
       "enchant": "stat_535507671"
+    }
+  },
+  {
+    "text": "#% increased Molten Shell Damage",
+    "ids": {
+      "enchant": "stat_815390778"
     }
   },
   {
@@ -23806,12 +23812,6 @@
     "text": "#% increased Vortex Area of Effect",
     "ids": {
       "enchant": "stat_1730614496"
-    }
-  },
-  {
-    "text": "Your Lightning Storm Towers deal #% increased Damage",
-    "ids": {
-      "enchant": "stat_1960580674"
     }
   },
   {
@@ -23845,6 +23845,12 @@
     }
   },
   {
+    "text": "Players cannot take Reflected Damage",
+    "ids": {
+      "enchant": "stat_3151377452"
+    }
+  },
+  {
     "text": "Summoned Sentinels of Dominance deal #% increased Damage",
     "ids": {
       "enchant": "stat_4040760803"
@@ -23854,6 +23860,12 @@
     "text": "Your Temporal Towers have #% increased Effect",
     "ids": {
       "enchant": "stat_2109921176"
+    }
+  },
+  {
+    "text": "Your Arc Towers have #% increased Range",
+    "ids": {
+      "enchant": "stat_1572544406"
     }
   },
   {
@@ -23893,6 +23905,12 @@
     }
   },
   {
+    "text": "Area contains # additional packs of Corrupted Vaal Monsters",
+    "ids": {
+      "enchant": "stat_1867024035"
+    }
+  },
+  {
     "text": "Allocates # (Additional)",
     "ids": {
       "enchant": "stat_3459808765"
@@ -23911,21 +23929,9 @@
     }
   },
   {
-    "text": "Your Arc Towers have #% increased Range",
-    "ids": {
-      "enchant": "stat_1572544406"
-    }
-  },
-  {
     "text": "Venom Gyre deals #% increased Damage",
     "ids": {
       "enchant": "stat_1404787106"
-    }
-  },
-  {
-    "text": "Area contains # additional packs of Corrupted Vaal Monsters",
-    "ids": {
-      "enchant": "stat_1867024035"
     }
   },
   {
@@ -24055,15 +24061,15 @@
     }
   },
   {
-    "text": "Area contains # additional packs of Monsters that Convert when Killed",
-    "ids": {
-      "enchant": "stat_249139784"
-    }
-  },
-  {
     "text": "Area contains # additional packs of Monsters that Heal",
     "ids": {
       "enchant": "stat_3059368202"
+    }
+  },
+  {
+    "text": "Area contains # additional packs of Monsters that Convert when Killed",
+    "ids": {
+      "enchant": "stat_249139784"
     }
   },
   {
@@ -24235,15 +24241,15 @@
     }
   },
   {
-    "text": "Strongbox Monsters have #% increased Item Quantity",
-    "ids": {
-      "enchant": "stat_1854137416"
-    }
-  },
-  {
     "text": "Your Lightning Storm Towers have #% increased Range",
     "ids": {
       "enchant": "stat_1789548201"
+    }
+  },
+  {
+    "text": "Strongbox Monsters have #% increased Item Quantity",
+    "ids": {
+      "enchant": "stat_1854137416"
     }
   },
   {
@@ -24403,15 +24409,15 @@
     }
   },
   {
-    "text": "Unique Boss drops additional Currency Shards",
-    "ids": {
-      "enchant": "stat_1508220097"
-    }
-  },
-  {
     "text": "Volatile Dead Consumes up to 1 additional corpse",
     "ids": {
       "enchant": "stat_4006050359"
+    }
+  },
+  {
+    "text": "Unique Boss drops additional Currency Shards",
+    "ids": {
+      "enchant": "stat_1508220097"
     }
   },
   {
@@ -24421,15 +24427,21 @@
     }
   },
   {
-    "text": "Your Lightning Storm Towers have #% increased Impact Delay",
+    "text": "Rogue Exiles have #% increased Maximum Life",
     "ids": {
-      "enchant": "stat_197351228"
+      "enchant": "stat_471027242"
     }
   },
   {
     "text": "Your Empowering Towers also grant #% increased Cast Speed",
     "ids": {
       "enchant": "stat_3564606017"
+    }
+  },
+  {
+    "text": "Your Lightning Storm Towers have #% increased Impact Delay",
+    "ids": {
+      "enchant": "stat_197351228"
     }
   },
   {
@@ -24475,15 +24487,15 @@
     }
   },
   {
-    "text": "Minions summoned by Your Scout Towers have #% increased Movement Speed",
-    "ids": {
-      "enchant": "stat_971955285"
-    }
-  },
-  {
     "text": "Unique Boss drops # additional Unique Item",
     "ids": {
       "enchant": "stat_3760667977"
+    }
+  },
+  {
+    "text": "Minions summoned by Your Scout Towers have #% increased Movement Speed",
+    "ids": {
+      "enchant": "stat_971955285"
     }
   },
   {
@@ -24535,6 +24547,12 @@
     }
   },
   {
+    "text": "Area contains an additional Tormented Graverobber",
+    "ids": {
+      "enchant": "stat_1463704577"
+    }
+  },
+  {
     "text": "Unique Bosses of Corrupted Maps drop an additional Vaal Item",
     "ids": {
       "enchant": "stat_2747603858"
@@ -24544,12 +24562,6 @@
     "text": "The First 3 Possessed Monsters have a #% chance to drop an additional Unique Item",
     "ids": {
       "enchant": "stat_2392278281"
-    }
-  },
-  {
-    "text": "Area contains an additional Tormented Graverobber",
-    "ids": {
-      "enchant": "stat_1463704577"
     }
   },
   {
@@ -24571,12 +24583,6 @@
     }
   },
   {
-    "text": "Unique Monsters drop Corrupted Items",
-    "ids": {
-      "enchant": "stat_804187877"
-    }
-  },
-  {
     "text": "Your Temporal Towers also grant you #% reduced action speed",
     "ids": {
       "enchant": "stat_3198887051"
@@ -24589,15 +24595,15 @@
     }
   },
   {
-    "text": "Harbingers drop additional Currency Shards",
+    "text": "Unique Monsters drop Corrupted Items",
     "ids": {
-      "enchant": "stat_906446422"
+      "enchant": "stat_804187877"
     }
   },
   {
-    "text": "Your Temporal Towers effects decay #% faster",
+    "text": "Harbingers drop additional Currency Shards",
     "ids": {
-      "enchant": "stat_4024383498"
+      "enchant": "stat_906446422"
     }
   },
   {
@@ -24607,9 +24613,9 @@
     }
   },
   {
-    "text": "Your Shock Nova Towers have #% increased area of effect per repeat",
+    "text": "Your Temporal Towers effects decay #% faster",
     "ids": {
-      "enchant": "stat_21144785"
+      "enchant": "stat_4024383498"
     }
   },
   {
@@ -24619,27 +24625,9 @@
     }
   },
   {
-    "text": "Your Shock Nova Towers have #% increased effect of Shock",
+    "text": "Your Shock Nova Towers have #% increased area of effect per repeat",
     "ids": {
-      "enchant": "stat_439316158"
-    }
-  },
-  {
-    "text": "This Map's Quality also applies to Rarity of Items found",
-    "ids": {
-      "enchant": "stat_4265846487"
-    }
-  },
-  {
-    "text": "The First 3 Possessed Monsters have a #% chance to drop an additional Rusted Scarab",
-    "ids": {
-      "enchant": "stat_3789079511"
-    }
-  },
-  {
-    "text": "Your Seismic Towers have an additional Cascade",
-    "ids": {
-      "enchant": "stat_3094610721"
+      "enchant": "stat_21144785"
     }
   },
   {
@@ -24649,9 +24637,33 @@
     }
   },
   {
+    "text": "This Map's Quality also applies to Rarity of Items found",
+    "ids": {
+      "enchant": "stat_4265846487"
+    }
+  },
+  {
+    "text": "Your Shock Nova Towers have #% increased effect of Shock",
+    "ids": {
+      "enchant": "stat_439316158"
+    }
+  },
+  {
+    "text": "Your Seismic Towers have an additional Cascade",
+    "ids": {
+      "enchant": "stat_3094610721"
+    }
+  },
+  {
     "text": "Areas can contain Abysses",
     "ids": {
       "enchant": "stat_3564826949"
+    }
+  },
+  {
+    "text": "The First 3 Possessed Monsters have a #% chance to drop an additional Rusted Scarab",
+    "ids": {
+      "enchant": "stat_3789079511"
     }
   },
   {
@@ -24667,15 +24679,15 @@
     }
   },
   {
-    "text": "Rare Maps contain # additional Rare Monster packs",
+    "text": "Area contains # additional packs of Poisonous Monsters",
     "ids": {
-      "enchant": "stat_3672378181"
+      "enchant": "stat_3094365680"
     }
   },
   {
-    "text": "Area contains an additional Essence",
+    "text": "Players gain an additional Vaal Soul on Kill",
     "ids": {
-      "enchant": "stat_395808938"
+      "enchant": "stat_3416709884"
     }
   },
   {
@@ -24685,15 +24697,33 @@
     }
   },
   {
-    "text": "Area contains # additional packs of Poisonous Monsters",
+    "text": "Rare Maps contain # additional Rare Monster packs",
     "ids": {
-      "enchant": "stat_3094365680"
+      "enchant": "stat_3672378181"
     }
   },
   {
-    "text": "Rogue Exiles have #% increased Maximum Life",
+    "text": "Player's Life and Mana Recovery from Flasks are instant",
     "ids": {
-      "enchant": "stat_471027242"
+      "enchant": "stat_3137138073"
+    }
+  },
+  {
+    "text": "#% increased Ancestral Blademaster Totem Damage",
+    "ids": {
+      "enchant": "stat_4166834934"
+    }
+  },
+  {
+    "text": "Area has #% chance to contain Gifts of the Red Queen per Mortal Fragment used",
+    "ids": {
+      "enchant": "stat_1076056376"
+    }
+  },
+  {
+    "text": "Area contains an additional Essence",
+    "ids": {
+      "enchant": "stat_395808938"
     }
   },
   {
@@ -24709,45 +24739,15 @@
     }
   },
   {
-    "text": "Player's Life and Mana Recovery from Flasks are instant",
-    "ids": {
-      "enchant": "stat_3137138073"
-    }
-  },
-  {
-    "text": "Area has #% chance to contain Gifts of the Red Queen per Mortal Fragment used",
-    "ids": {
-      "enchant": "stat_1076056376"
-    }
-  },
-  {
-    "text": "#% increased Ancestral Blademaster Totem Damage",
-    "ids": {
-      "enchant": "stat_4166834934"
-    }
-  },
-  {
-    "text": "Players gain an additional Vaal Soul on Kill",
-    "ids": {
-      "enchant": "stat_3416709884"
-    }
-  },
-  {
-    "text": "Items dropped by Corrupted Vaal Monsters have #% chance to be Corrupted",
-    "ids": {
-      "enchant": "stat_3045497140"
-    }
-  },
-  {
     "text": "Area is Alluring",
     "ids": {
       "enchant": "stat_2862290356"
     }
   },
   {
-    "text": "Players cannot take Reflected Damage",
+    "text": "Items dropped by Corrupted Vaal Monsters have #% chance to be Corrupted",
     "ids": {
-      "enchant": "stat_3151377452"
+      "enchant": "stat_3045497140"
     }
   },
   {
@@ -24799,15 +24799,15 @@
     }
   },
   {
-    "text": "#% Critical Strike Multiplier while a Rare or Unique Enemy is Nearby",
-    "ids": {
-      "crafted": "stat_3992439283"
-    }
-  },
-  {
     "text": "Shock nearby Enemies for # Seconds when you Focus",
     "ids": {
       "crafted": "stat_3031766858"
+    }
+  },
+  {
+    "text": "#% Critical Strike Multiplier while a Rare or Unique Enemy is Nearby",
+    "ids": {
+      "crafted": "stat_3992439283"
     }
   },
   {
@@ -24817,15 +24817,21 @@
     }
   },
   {
+    "text": "#% chance to Trigger Level 1 Blood Rage when you Kill an Enemy",
+    "ids": {
+      "crafted": "stat_205619502"
+    }
+  },
+  {
     "text": "#% increased Critical Strike Chance during Flask Effect",
     "ids": {
       "crafted": "stat_2008255263"
     }
   },
   {
-    "text": "#% chance to Trigger Level 1 Blood Rage when you Kill an Enemy",
+    "text": "#% increased Attack Speed while a Rare or Unique Enemy is Nearby",
     "ids": {
-      "crafted": "stat_205619502"
+      "crafted": "stat_314741699"
     }
   },
   {
@@ -24838,12 +24844,6 @@
     "text": "Adds # to # Chaos Damage if you've dealt a Critical Strike Recently",
     "ids": {
       "crafted": "stat_2523334466"
-    }
-  },
-  {
-    "text": "#% increased Attack Speed while a Rare or Unique Enemy is Nearby",
-    "ids": {
-      "crafted": "stat_314741699"
     }
   },
   {
@@ -24883,6 +24883,12 @@
     }
   },
   {
+    "text": "# to Armour during Soul Gain Prevention",
+    "ids": {
+      "crafted": "stat_1539825365"
+    }
+  },
+  {
     "text": "#% chance to Dodge Attack Hits while Focussed",
     "ids": {
       "crafted": "stat_2590156965"
@@ -24892,12 +24898,6 @@
     "text": "Regenerate #% of Life per second during any Flask Effect",
     "ids": {
       "crafted": "stat_3500911418"
-    }
-  },
-  {
-    "text": "# to Armour during Soul Gain Prevention",
-    "ids": {
-      "crafted": "stat_1539825365"
     }
   },
   {
@@ -25087,6 +25087,12 @@
     }
   },
   {
+    "text": "of Aisling's Veil",
+    "ids": {
+      "veiled": "mod_48007"
+    }
+  },
+  {
     "text": "of Jorgin's Veil",
     "ids": {
       "veiled": "mod_62955"
@@ -25102,12 +25108,6 @@
     "text": "Catarina's Veiled",
     "ids": {
       "veiled": "mod_63772"
-    }
-  },
-  {
-    "text": "of Aisling's Veil",
-    "ids": {
-      "veiled": "mod_48007"
     }
   },
   {
@@ -25147,6 +25147,12 @@
     }
   },
   {
+    "text": "Rin's Veiled",
+    "ids": {
+      "veiled": "mod_6131"
+    }
+  },
+  {
     "text": "Haku's Veiled",
     "ids": {
       "veiled": "mod_39023"
@@ -25156,12 +25162,6 @@
     "text": "Tora's Veiled",
     "ids": {
       "veiled": "mod_8541"
-    }
-  },
-  {
-    "text": "Rin's Veiled",
-    "ids": {
-      "veiled": "mod_6131"
     }
   },
   {
@@ -25273,15 +25273,15 @@
     }
   },
   {
-    "text": "Drops additional Legion Incubators",
-    "ids": {
-      "monster": "metamorph_reward_legion_incubators"
-    }
-  },
-  {
     "text": "Drops an Enchanted Helmet",
     "ids": {
       "monster": "metamorph_reward_enchanted_helmet"
+    }
+  },
+  {
+    "text": "Drops additional Legion Incubators",
+    "ids": {
+      "monster": "metamorph_reward_legion_incubators"
     }
   },
   {
@@ -25489,15 +25489,15 @@
     }
   },
   {
-    "text": "Drops a Talisman Unique Item",
-    "ids": {
-      "monster": "metamorph_reward_talisman_unique"
-    }
-  },
-  {
     "text": "Drops Itemised Prophecies",
     "ids": {
       "monster": "metamorph_reward_prophecies"
+    }
+  },
+  {
+    "text": "Drops a Talisman Unique Item",
+    "ids": {
+      "monster": "metamorph_reward_talisman_unique"
     }
   },
   {
