@@ -66,7 +66,7 @@ function getState(self, block, label) {
   }
 }
 
-function getElementalDamageTypes(self) {
+function processElementalDamage(self) {
   if (!self.item.stats.elementalDamage) {
     return null;
   }
@@ -81,8 +81,11 @@ function getElementalDamageTypes(self) {
   const matches = [...self.blocks.matchAll(regexp)];
 
   elementalDamage.forEach((damage, i) => {
-    damage.element = matches[i][3].toLowerCase();
+    const element = matches[i][3].toLowerCase();
+    self.item.stats[`${element}Damage`] = damage;
   });
+
+  delete self.item.stats.elementalDamage;
 }
 
 export default function getStats() {
@@ -96,10 +99,10 @@ export default function getStats() {
     getState(this, block, "Weapon Range");
     getState(this, block, "Physical Damage");
     getState(this, block, "Elemental Damage");
+    processElementalDamage(this);
     getState(this, block, "Chaos Damage");
     getState(this, block, "Attacks per Second");
     getState(this, block, "Critical Strike Chance");
-    getElementalDamageTypes(this);
     return null;
   }
 
