@@ -40,7 +40,7 @@ function parseItem(item) {
     value = error.message;
   }
   editor.session.setValue(value);
-  editor.session.foldAll(1);
+  // editor.session.foldAll(1);
 }
 
 function onInputChange() {
