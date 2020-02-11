@@ -11,31 +11,36 @@ i18n.set(
 
 // GUI
 const $input = document.querySelector("#input");
-const $output = document.querySelector("#output");
 
 $input.addEventListener("input", onInputChange);
 $input.addEventListener("focus", $input.select);
-$output.addEventListener("focus", $output.select);
 
 $input.value = localStorage.getItem("PoEItem") || "";
 $input.setAttribute("placeholder", i18n.__("demo.inputPlaceholder"));
+
+const editor = ace.edit("editor"); // eslint-disable-line
+editor.session.setMode("ace/mode/json");
+editor.setReadOnly(true);
 
 // Parse
 function parseItem(item) {
   item = item.trim();
   $input.value = item;
-  $output.value = "";
+  editor.session.setValue("");
   localStorage.setItem("PoEItem", item);
   if (!item.length) return;
+  let value = "";
   try {
     console.log("parseItem:", { item });
     const data = itemParser.parse(item);
-    $output.value = JSON.stringify(data, null, "  ");
+    value = JSON.stringify(data, null, "  ");
     $input.setAttribute("placeholder", i18n.__("demo.inputPlaceholder"));
   } catch (error) {
     console.error(error);
-    $output.value = error.message;
+    value = error.message;
   }
+  editor.session.setValue(value);
+  editor.session.foldAll(1);
 }
 
 function onInputChange() {
