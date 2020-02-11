@@ -8,7 +8,10 @@
       "Level": "level",
       "Str": "strength",
       "Dex": "dexterity",
-      "Int": "intelligence"
+      "Int": "intelligence",
+      "Strength": "strength",
+      "Dexterity": "dexterity",
+      "Intelligence": "intelligence"
     }
   },
 

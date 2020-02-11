@@ -44,7 +44,10 @@
       "Niveau": "level",
       "For": "strength",
       "Dex": "dexterity",
-      "Int": "intelligence"
+      "Int": "intelligence",
+      "Strength": "strength",
+      "Dexterity": "dexterity",
+      "Intelligence": "intelligence"
     }
   },
 
