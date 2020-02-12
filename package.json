@@ -1,6 +1,6 @@
 {
   "name": "poe-item",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Path of Exile Item Parser",
   "source": "./src/index.js",
   "main": "./dist/poe-item.js",
