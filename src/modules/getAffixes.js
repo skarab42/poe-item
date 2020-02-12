@@ -28,12 +28,15 @@ const localStats = {
 };
 
 function normalizeStat(stat, localWord) {
-  const isLocalStatPattern = ` (${localWord})`;
-  stat.isLocal = stat.text.includes(isLocalStatPattern);
+  const clone = { ...stat };
+  const isLocalStatPattern = new RegExp(` \\(${localWord}\\)$`);
+  clone.isLocal = clone.text.match(isLocalStatPattern);
 
-  if (stat.isLocal) {
-    stat.text = stat.text.replace(isLocalStatPattern, "");
+  if (clone.isLocal) {
+    clone.text = clone.text.replace(isLocalStatPattern, "");
   }
+
+  return clone;
 }
 
 function findAffix(block, stat) {
@@ -68,8 +71,8 @@ function normalizeValues(stat, values) {
 export default function getAffixes() {
   let affixes = [];
 
-  stats[this.i18n.getLocale()].forEach(stat => {
-    normalizeStat(stat, this.__("Local"));
+  stats[this.item.locale].forEach(stat => {
+    stat = normalizeStat(stat, this.__("Local"));
 
     const matches = findAffix(this.blocks, stat);
 
