@@ -2,8 +2,8 @@ import stats from "../../locales/stats.js";
 import escapeRegExp from "../helpers/escapeRegExp.js";
 import removeParentheses from "../helpers/removeParentheses.js";
 
-const plusPattern = "(?:\\+?)";
-const numberPattern = `${plusPattern}?[0-9]+(?:\\.[0-9]+)?`;
+const signPattern = "(?:[\\+\\-]?)";
+const numberPattern = `${signPattern}?[0-9]+(?:\\.[0-9]+)?`;
 const typePattern = "(?: )\\([^\\)]+\\)";
 
 const localStats = {
